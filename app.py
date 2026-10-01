@@ -10,6 +10,7 @@ from nochmal import content
 from nochmal.content import (
     a1_a2_lessons,
     a1_course_lessons,
+    candidates,
     grammar_reference,
     models,
 )
@@ -24,6 +25,7 @@ grammar_reference = reload(grammar_reference)
 a1_a2_lessons = reload(a1_a2_lessons)
 a1_course_lessons = reload(a1_course_lessons)
 content = reload(content)
+candidates = reload(candidates)
 release = reload(release)
 speech_feedback = reload(speech_feedback)
 ui_app = reload(ui_app)

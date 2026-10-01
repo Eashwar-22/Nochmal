@@ -2100,6 +2100,30 @@ def _apply_sentence_annotations(
         if labels := word_tags.get(surface.casefold()):
             _extend_tags(item, tuple(labels))
 
+    # Exclusions remove only compiler-generated candidates.  An author can
+    # deliberately replace one of them below with a corrected phrase card.
+    excluded = {
+        " ".join(token.casefold() for token in WORD_RE.findall(german))
+        for german in annotations.excluded_phrases
+    }
+    available_phrases = {
+        " ".join(token.casefold() for token in WORD_RE.findall(phrase.german))
+        for phrase in phrases
+    }
+    missing_exclusions = excluded - available_phrases
+    if missing_exclusions:
+        raise ValueError(
+            "Excluded phrases were not generated: "
+            + ", ".join(sorted(missing_exclusions))
+        )
+    phrases[:] = [
+        phrase
+        for phrase in phrases
+        if " ".join(
+            token.casefold() for token in WORD_RE.findall(phrase.german)
+        ) not in excluded
+    ]
+
     by_normalized_phrase: dict[str, BreakdownItem] = {}
     for phrase in phrases:
         normalized = " ".join(
@@ -2131,43 +2155,28 @@ def _apply_sentence_annotations(
             phrase.literal_meaning = authored.literal_meaning
         _extend_tags(phrase, tuple(authored.tags))
 
-    excluded = {
-        " ".join(token.casefold() for token in WORD_RE.findall(german))
-        for german in annotations.excluded_phrases
-    }
-    available_phrases = {
-        " ".join(token.casefold() for token in WORD_RE.findall(phrase.german))
-        for phrase in phrases
-    }
-    missing_exclusions = excluded - available_phrases
-    if missing_exclusions:
-        raise ValueError(
-            "Excluded phrases were not generated: "
-            + ", ".join(sorted(missing_exclusions))
-        )
-    phrases[:] = [
-        phrase
-        for phrase in phrases
-        if " ".join(
-            token.casefold() for token in WORD_RE.findall(phrase.german)
-        ) not in excluded
-    ]
     excluded_tags = {
         " ".join(token.casefold() for token in WORD_RE.findall(german)): set(labels)
         for german, labels in annotations.excluded_phrase_tags.items()
     }
-    phrase_by_normalized = {
-        " ".join(token.casefold() for token in WORD_RE.findall(phrase.german)): phrase
-        for phrase in phrases
-    }
-    missing_tag_exclusions = excluded_tags.keys() - phrase_by_normalized.keys()
+    phrase_groups: dict[str, list[BreakdownItem]] = {}
+    for phrase in phrases:
+        normalized = " ".join(
+            token.casefold() for token in WORD_RE.findall(phrase.german)
+        )
+        phrase_groups.setdefault(normalized, []).append(phrase)
+    missing_tag_exclusions = excluded_tags.keys() - phrase_groups.keys()
     if missing_tag_exclusions:
         raise ValueError(
             "Phrase-tag exclusions reference missing phrases: "
             + ", ".join(sorted(missing_tag_exclusions))
         )
     for normalized, labels in excluded_tags.items():
-        current_labels = {tag_.label for tag_ in phrase_by_normalized[normalized].tags}
+        current_labels = {
+            tag_.label
+            for phrase in phrase_groups[normalized]
+            for tag_ in phrase.tags
+        }
         missing_labels = labels - current_labels
         if missing_labels:
             raise ValueError(

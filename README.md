@@ -61,6 +61,22 @@ test, and visual-review gate. The previous 80-lesson A1-A2 curriculum remains
 preserved under `curriculum/a1_a2/`; it has not been deleted. Fourteen older
 A2–B2 listening paragraphs also remain preserved but hidden from the picker.
 
+Lesson 2 is available as a prebuilt, unpublished experiment under
+`curriculum/a1_candidates/a1-course-002/`. Its `preview.md` shows the exact
+compiled cards before app activation. Push that existing artifact into your
+local app with:
+
+```bash
+.venv/bin/python scripts/push_lesson.py a1-course-002
+```
+
+Refresh Streamlit and select the item prefixed `PREVIEW`. No AI runs during
+this command, and the production publication list is unchanged. Remove it with:
+
+```bash
+.venv/bin/python scripts/push_lesson.py a1-course-002 --remove
+```
+
 The reference lesson audio was generated sentence by sentence with Eleven v4,
 then assembled locally so the full playback uses the exact accepted sentence
 clips. Reviewed files live under `assets/audio/a1_course/a1-course-001/`.
@@ -124,6 +140,8 @@ python -m unittest tests.content.test_lesson_contract -v
 - `app.py` — stable, minimal Streamlit entry point.
 - `nochmal/content/` — lesson models, authored paragraphs, and the reusable
   content validator.
+- `curriculum/a1_candidates/` — prebuilt unpublished lesson packages and
+  human-readable card previews.
 - `nochmal/validation/` — strict review evidence and publication release gate.
 - `nochmal/services/` — SQLite persistence and vocabulary derivation.
 - `nochmal/services/speech_feedback.py` — optional local transcript and pacing

@@ -10,6 +10,7 @@ from nochmal.paths import PROJECT_ROOT
 from nochmal.ui.app import (
     COURSE_LESSONS,
     PRACTICE_RECORDINGS_DIR,
+    PUBLISHED_COURSE_LESSONS,
     PUBLISHED_LESSON_IDS,
     SPEAKING_PRACTICE_LESSON_IDS,
     adjective_changes_for_phrase,
@@ -56,7 +57,10 @@ class BreakdownLayoutTests(unittest.TestCase):
         )
         self.assertEqual(
             list(PUBLISHED_LESSON_IDS),
-            [lesson.id for lesson in COURSE_LESSONS],
+            [lesson.id for lesson in PUBLISHED_COURSE_LESSONS],
+        )
+        self.assertTrue(
+            set(PUBLISHED_LESSON_IDS) <= {lesson.id for lesson in COURSE_LESSONS}
         )
         self.assertEqual(
             PRACTICE_RECORDINGS_DIR / "a1-course-001" / "paragraph.wav",

@@ -1,0 +1,105 @@
+{
+  "id": "a1-course-002",
+  "source_draft_id": "a1-draft-002",
+  "sequence": 2,
+  "band": "A1.1",
+  "format": "dialogue",
+  "title_de": "Woher kommst du?",
+  "title_en": "Where Are You From?",
+  "topic": "origin and place of residence",
+  "communicative_goal": "Ask where someone comes from and where they live.",
+  "grammar_focus": "W-questions with wo and woher; first- and second-person present tense",
+  "supporting_structures": ["Woher kommst du?", "Wo wohnst du?", "Ich komme aus …", "Ich wohne in …"],
+  "grammar_notes": [
+    "Woher asks about origin; wo asks about location.",
+    "W-questions place the conjugated verb after the question word and before the subject.",
+    "Aus takes the dative; in takes the dative here because it describes a fixed location."
+  ],
+  "new_targets": ["woher", "kommen", "wohnen", "die Stadt"],
+  "recycled_targets": ["ich", "du", "und"],
+  "recycles_from": [1],
+  "sentences": [
+    {
+      "de": "Woher kommst du, Mina, und wo wohnst du jetzt?",
+      "en": "Where are you from, Mina, and where do you live now?",
+      "annotations": {
+        "word_meanings": {"woher": "where from", "kommst": "come", "wohnst": "live"},
+        "excluded_phrases": ["Woher kommst du, Mina", "und wo wohnst du jetzt"],
+        "excluded_phrase_tags": {"wo wohnst du jetzt": ["inversion"]},
+        "word_tags": {
+          "woher": ["adverb", "place"],
+          "du": ["personal pronoun", "nominative", "subject"],
+          "und": ["conjunction", "coordinating"],
+          "wo": ["adverb", "place"],
+          "jetzt": ["adverb", "time"]
+        },
+        "phrases": [
+          {"german": "Woher kommst du", "english": "Where are you from?", "literal_meaning": "Where from do you come?", "tags": ["main clause", "verb-second"]},
+          {"german": "wo wohnst du jetzt", "english": "where do you live now?", "tags": ["main clause", "verb-second"]}
+        ]
+      }
+    },
+    {
+      "de": "Ich komme aus Spanien und wohne jetzt in Bonn.",
+      "en": "I come from Spain and now live in Bonn.",
+      "annotations": {
+        "word_meanings": {"komme": "come", "aus": "from", "spanien": "Spain", "wohne": "live", "in": "in"},
+        "excluded_phrases": ["und wohne jetzt in Bonn"],
+        "word_tags": {
+          "ich": ["personal pronoun", "nominative", "subject"],
+          "aus": ["preposition", "dative", "place"],
+          "und": ["conjunction", "coordinating"],
+          "jetzt": ["adverb", "time"],
+          "in": ["preposition", "dative", "place"]
+        },
+        "phrases": [
+          {"german": "aus Spanien", "english": "from Spain", "tags": ["dative", "place"]},
+          {"german": "in Bonn", "english": "in Bonn", "tags": ["dative", "place"]},
+          {"german": "Ich komme aus Spanien", "english": "I come from Spain", "tags": ["main clause", "verb-second"]},
+          {"german": "Ich komme aus Spanien und wohne jetzt in Bonn", "english": "I come from Spain and now live in Bonn", "tags": ["main clause", "verb-second"]}
+        ]
+      }
+    },
+    {
+      "de": "Und du, Leo, woher kommst du?",
+      "en": "And you, Leo, where are you from?",
+      "annotations": {
+        "word_meanings": {"woher": "where from", "kommst": "come"},
+        "excluded_phrases": ["Und du"],
+        "excluded_phrase_tags": {"woher kommst du": ["inversion"]},
+        "word_tags": {
+          "und": ["conjunction", "coordinating"],
+          "du": ["personal pronoun", "nominative", "subject"],
+          "woher": ["adverb", "place"]
+        },
+        "phrases": [
+          {"german": "Und du", "english": "And you?", "tags": ["fixed phrase", "ellipsis"]},
+          {"german": "woher kommst du", "english": "where are you from?", "literal_meaning": "where from do you come?", "tags": ["main clause", "verb-second"]}
+        ]
+      }
+    },
+    {
+      "de": "Ja, ich wohne hier in der Stadt.",
+      "en": "Yes, I live here in the city.",
+      "annotations": {
+        "word_meanings": {"wohne": "live", "in": "in", "stadt": "city"},
+        "word_tags": {
+          "ja": ["interjection"],
+          "ich": ["personal pronoun", "nominative", "subject"],
+          "hier": ["adverb", "place"],
+          "in": ["preposition", "dative", "place"],
+          "stadt": ["dative"]
+        },
+        "phrases": [
+          {"german": "in der Stadt", "english": "in the city", "tags": ["dative", "place"]},
+          {"german": "ich wohne hier in der Stadt", "english": "I live here in the city", "tags": ["main clause", "verb-second"]}
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Where does Mina live now?",
+    "answer_en": "In Bonn."
+  },
+  "source_basis": ["a1-blueprint", "a1-draft-002", "grammar-breakdown-rulebook"]
+}

@@ -13,7 +13,7 @@ from nochmal.content.models import SentenceAnnotations
 from nochmal.content.source_models import CourseLessonSource
 from nochmal.content.validation import validate_lesson_library
 from nochmal.paths import PROJECT_ROOT
-from nochmal.ui.app import COURSE_LESSONS, PUBLISHED_LESSON_IDS
+from nochmal.ui.app import PUBLISHED_COURSE_LESSONS, PUBLISHED_LESSON_IDS
 from nochmal.validation.release import release_errors
 
 
@@ -37,7 +37,10 @@ class A1CourseReferenceLessonTests(unittest.TestCase):
 
     def test_reference_lesson_is_the_only_published_course_lesson(self) -> None:
         self.assertEqual(("a1-course-001",), PUBLISHED_LESSON_IDS)
-        self.assertEqual(["a1-course-001"], [lesson.id for lesson in COURSE_LESSONS])
+        self.assertEqual(
+            ["a1-course-001"],
+            [lesson.id for lesson in PUBLISHED_COURSE_LESSONS],
+        )
 
     def test_production_text_matches_the_corrected_staged_draft(self) -> None:
         staged = json.loads(STAGED_PATH.read_text(encoding="utf-8"))[0]

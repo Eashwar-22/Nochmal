@@ -231,3 +231,12 @@ python -m unittest discover -s tests -q
 
 Then run `python scripts/validate_release.py LESSON_ID` and inspect the running
 app before adding the lesson ID to `curriculum/a1_course/publication.json`.
+
+## Deterministic candidate preview
+
+AI-assisted authoring finishes before app activation. A candidate package
+stores its strict source, compiled `Lesson` object, and readable card preview.
+The local push command validates and copies that prebuilt artifact; it cannot
+invent or rewrite lesson content. Candidates without reviewed audio may be
+shown only as local previews and must remain outside the production publication
+manifest.
