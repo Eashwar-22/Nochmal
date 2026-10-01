@@ -1,0 +1,100 @@
+[
+  {
+    "draft_id": "a1-draft-043",
+    "blueprint_lesson": 43,
+    "title": "Yesterday",
+    "module": 8,
+    "format": "account",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Gestern ist Mina früh aufgestanden und mit dem Bus in die Stadt gefahren.", "en": "Yesterday Mina got up early and took the bus into the city."},
+      {"de": "Dort hat sie im Supermarkt für das Wochenende eingekauft und ihre Schwester besucht.", "en": "There she shopped at the supermarket for the weekend and visited her sister."},
+      {"de": "Am Nachmittag hat sie zu Hause Deutsch gelernt und das Abendessen gemacht.", "en": "In the afternoon, she studied German at home and made dinner."},
+      {"de": "Danach hat sie lange mit Leo über den Kurs telefoniert.", "en": "Afterwards she spoke with Leo about the course on the phone for a long time."},
+      {"de": "Am Abend ist Mina müde zu Hause geblieben und hat einen Film gesehen.", "en": "In the evening, Mina stayed at home tired and watched a film."}
+    ],
+    "first_listen_check": {"prompt": "What did Mina do in the afternoon?", "answer": "She studied German at home and made dinner."}
+  },
+  {
+    "draft_id": "a1-draft-044",
+    "blueprint_lesson": 44,
+    "title": "A Message About Yesterday",
+    "module": 8,
+    "format": "message_and_reply",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Hallo Sara, gestern habe ich lange gearbeitet und bin erst spät nach Hause gekommen.", "en": "Hello Sara, yesterday I worked for a long time and did not get home until late."},
+      {"de": "Später am Tag habe ich noch im Supermarkt eingekauft, aber ich habe nicht gekocht.", "en": "Later in the day, I also went shopping at the supermarket, but I did not cook."},
+      {"de": "Dann habe ich Leo angerufen und eine kurze Nachricht auf den Anrufbeantworter gesprochen.", "en": "Then I called Leo and left a short message on the answering machine."},
+      {"de": "Was hast du gestern nach der Arbeit gemacht?", "en": "What did you do yesterday after work?"},
+      {"de": "Bitte antworte mir heute per E-Mail oder Telefon; viele Grüße, Mina.", "en": "Please reply to me today by email or phone; best wishes, Mina."}
+    ],
+    "first_listen_check": {"prompt": "What did Mina do after shopping?", "answer": "She called Leo and left a message on the answering machine."}
+  },
+  {
+    "draft_id": "a1-draft-045",
+    "blueprint_lesson": 45,
+    "title": "When Is It Open?",
+    "module": 8,
+    "format": "notice_and_message",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Das Geschäft am Markt ist von Montag bis Freitag von neun bis achtzehn Uhr geöffnet.", "en": "The shop at the market is open from Monday to Friday from nine until six."},
+      {"de": "Am Samstag schließt es schon um vierzehn Uhr, und am Sonntag bleibt es geschlossen.", "en": "On Saturday it closes at two o’clock, and on Sunday it remains closed."},
+      {"de": "Der Eingang liegt neben der Bank, aber der Ausgang ist auf der anderen Seite.", "en": "The entrance is next to the bank, but the exit is on the other side."},
+      {"de": "Am Feiertag gilt: Bitte den Eingang an der Bank nicht benutzen.", "en": "On the public holiday, the rule is: please do not use the entrance by the bank."},
+      {"de": "Mina liest die Information und schreibt Leo die richtige Zeit.", "en": "Mina reads the information and writes the correct time to Leo."}
+    ],
+    "first_listen_check": {"prompt": "What time does the shop close on Saturday?", "answer": "At two o’clock."}
+  },
+  {
+    "draft_id": "a1-draft-046",
+    "blueprint_lesson": 46,
+    "title": "Birthday Invitation",
+    "module": 8,
+    "format": "invitation_and_reply",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Hallo Leo, am Samstag feiere ich meinen Geburtstag und möchte dich herzlich einladen.", "en": "Hello Leo, I am celebrating my birthday on Saturday and would like to invite you."},
+      {"de": "Die Feier beginnt um sieben Uhr in meiner Wohnung, und meine Familie kommt auch.", "en": "The celebration starts at seven o’clock in my apartment, and my family is coming too."},
+      {"de": "Bitte bring kein Geschenk mit, aber kannst du etwas Musik mitbringen?", "en": "Please do not bring a present, but can you bring some music?"},
+      {"de": "Leo antwortet: „Danke für die Einladung; ich komme gern.“", "en": "Leo replies, “Thank you for the invitation; I’d be happy to come.”"},
+      {"de": "Er gratuliert Mina schon jetzt herzlich und fragt noch kurz nach ihrer Adresse.", "en": "He warmly congratulates Mina already and briefly asks for her address as well."}
+    ],
+    "first_listen_check": {"prompt": "What should Leo bring?", "answer": "Some music, but no present."}
+  },
+  {
+    "draft_id": "a1-draft-047",
+    "blueprint_lesson": 47,
+    "title": "Rehearsal: Saturday in Town",
+    "module": 8,
+    "format": "account_with_dialogue",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Am Samstag ist Mina zuerst mit dem Bus in die Stadt gefahren.", "en": "On Saturday, Mina first took the bus into the city."},
+      {"de": "Auf dem Weg hat sie Leo angerufen, denn ihr Zug ist später angekommen.", "en": "On the way, she called Leo because her train arrived later."},
+      {"de": "Danach hat Mina am Markt Gemüse gekauft und in der Apotheke ein Medikament geholt.", "en": "Afterwards Mina bought vegetables at the market and picked up medicine at the pharmacy."},
+      {"de": "Am Bahnhof hat sie eine Durchsage nicht verstanden und gesagt: „Bitte noch einmal.“", "en": "At the station, she did not understand an announcement and said, “Once again, please.”"},
+      {"de": "Einen Moment später hat sie das richtige Gleis gefunden und ist weitergefahren.", "en": "A moment later, she found the correct platform and continued her journey."},
+      {"de": "Am Ende hat sie Leo im Café getroffen, und alles war wieder gut.", "en": "In the end, she met Leo at the café, and everything was fine again."}
+    ],
+    "first_listen_check": {"prompt": "Which detail does Mina initially miss at the station?", "answer": "The correct platform information."}
+  },
+  {
+    "draft_id": "a1-draft-048",
+    "blueprint_lesson": 48,
+    "title": "Final A1 Checkpoint: A Practical Day",
+    "module": 8,
+    "format": "linked_dialogue_and_message",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Sara stellt sich im Deutschkurs vor: „Ich heiße Sara und wohne jetzt in Bonn.“", "en": "Sara introduces herself in the German course: “My name is Sara and I now live in Bonn.”"},
+      {"de": "Sie hört Minas Nachricht: „Treffen wir uns um fünf Uhr am Bahnhof?“", "en": "She hears Mina’s message: “Shall we meet at the station at five o’clock?”"},
+      {"de": "Sara fährt mit dem Bus in die Stadt und kauft unterwegs zwei Brötchen.", "en": "Sara takes the bus into the city and buys two bread rolls on the way."},
+      {"de": "In der Bäckerei fragt sie: „Was kosten die Brötchen, und kann ich mit Karte zahlen?“", "en": "At the bakery, she asks, “How much are the bread rolls, and can I pay by card?”"},
+      {"de": "Später versteht sie eine Durchsage nicht und sagt: „Wie bitte? Bitte langsamer.“", "en": "Later she does not understand an announcement and says, “Pardon? More slowly, please.”"},
+      {"de": "Am richtigen Gleis findet sie Mina und fragt: „Fährt unser Zug heute pünktlich?“", "en": "At the correct platform, she finds Mina and asks, “Is our train running on time today?”"}
+    ],
+    "first_listen_check": {"prompt": "Where and when do Sara and Mina plan to meet?", "answer": "At the station at five o’clock."}
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "draft_id": "a1-draft-001",
+    "blueprint_lesson": 1,
+    "title": "Hello, I’m …",
+    "module": 1,
+    "format": "dialogue",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Hallo, ich heiße Mina und bin neu im Kurs.", "en": "Hello, my name is Mina and I am new to the course."},
+      {"de": "Guten Tag, Mina, ich bin Leo.", "en": "Hello, Mina, I’m Leo."},
+      {"de": "Freut mich, Mina, und willkommen im Kurs.", "en": "Nice to meet you, Mina, and welcome to the course."},
+      {"de": "Auf Wiedersehen, Leo!", "en": "Goodbye, Leo!"}
+    ],
+    "first_listen_check": {"prompt": "What are the two speakers’ names?", "answer": "Mina and Leo."}
+  },
+  {
+    "draft_id": "a1-draft-002",
+    "blueprint_lesson": 2,
+    "title": "Where Are You From?",
+    "module": 1,
+    "format": "dialogue",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Woher kommst du, Mina, und wo wohnst du jetzt?", "en": "Where are you from, Mina, and where do you live now?"},
+      {"de": "Ich komme aus Spanien und wohne jetzt in Bonn.", "en": "I come from Spain and now live in Bonn."},
+      {"de": "Und du, Leo, woher kommst du?", "en": "And you, Leo, where are you from?"},
+      {"de": "Ja, ich wohne hier in der Stadt.", "en": "Yes, I live here in the city."}
+    ],
+    "first_listen_check": {"prompt": "Where does Mina live now?", "answer": "In Bonn."}
+  },
+  {
+    "draft_id": "a1-draft-003",
+    "blueprint_lesson": 3,
+    "title": "Please Say It Again",
+    "module": 1,
+    "format": "dialogue",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Leo fragt: „Woher kommst du, Mina?“", "en": "Leo asks, “Where are you from, Mina?”"},
+      {"de": "Mina sagt: „Wie bitte? Noch einmal, bitte.“", "en": "Mina says, “Pardon? Once again, please.”"},
+      {"de": "Leo spricht langsam und fragt noch einmal.", "en": "Leo speaks slowly and asks again."},
+      {"de": "Jetzt versteht Mina alles und sagt: „Danke.“", "en": "Now Mina understands everything and says, “Thank you.”"}
+    ],
+    "first_listen_check": {"prompt": "What does Mina ask Leo to do?", "answer": "Repeat the question slowly."}
+  },
+  {
+    "draft_id": "a1-draft-004",
+    "blueprint_lesson": 4,
+    "title": "Is That Correct?",
+    "module": 1,
+    "format": "dialogue",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Im Kurs nennt Mina ihre Telefonnummer und ihre E-Mail-Adresse.", "en": "In the course, Mina gives her telephone number and email address."},
+      {"de": "Der Mann fragt: „Ist die Nummer 0176 4208 richtig?“", "en": "The man asks, “Is the number 0176 4208 correct?”"},
+      {"de": "Mina antwortet: „Nein, die letzte Zahl ist falsch.“", "en": "Mina answers, “No, the last digit is wrong.”"},
+      {"de": "Dann buchstabiert sie langsam ihren Namen.", "en": "Then she slowly spells her name."}
+    ],
+    "first_listen_check": {"prompt": "Which part of the phone number is wrong?", "answer": "The last digit."}
+  },
+  {
+    "draft_id": "a1-draft-005",
+    "blueprint_lesson": 5,
+    "title": "This Is My Friend",
+    "module": 1,
+    "format": "dialogue",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Mina sagt: „Leo, das ist Sara, eine Freundin aus dem Kurs.“", "en": "Mina says, “Leo, this is Sara, a friend from the course.”"},
+      {"de": "Leo fragt: „Wer ist der Mann dort?“", "en": "Leo asks, “Who is the man over there?”"},
+      {"de": "Sara antwortet: „Er heißt Amir und wohnt auch in Bonn.“", "en": "Sara answers, “His name is Amir and he also lives in Bonn.”"},
+      {"de": "Dann sagen alle Hallo und sprechen kurz zusammen.", "en": "Then everyone says hello and they talk together briefly."}
+    ],
+    "first_listen_check": {"prompt": "Who is Amir?", "answer": "The man Sara identifies; he lives in Bonn."}
+  },
+  {
+    "draft_id": "a1-draft-006",
+    "blueprint_lesson": 6,
+    "title": "Checkpoint: First Conversation",
+    "module": 1,
+    "format": "dialogue",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Guten Tag, ich heiße Sara und komme aus Marokko.", "en": "Good afternoon, my name is Sara and I come from Morocco."},
+      {"de": "Hallo Sara, ich bin Leo; wie geht’s?", "en": "Hello Sara, I’m Leo; how are you?"},
+      {"de": "Gut, danke, aber wie heißt die Freundin dort?", "en": "Fine, thank you, but what is the friend over there called?"},
+      {"de": "Wie bitte? Bitte langsamer und noch einmal; ich verstehe die Frage nicht.", "en": "Pardon? More slowly and once again, please; I do not understand the question."}
+    ],
+    "first_listen_check": {"prompt": "Why does Sara ask Leo to repeat?", "answer": "She needs him to speak more slowly."}
+  }
+]

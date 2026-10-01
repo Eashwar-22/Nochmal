@@ -1,0 +1,343 @@
+[
+  {
+    "id": "a2-061", "sequence": 61, "band": "A2.2", "format": "narrative",
+    "title_de": "Früher in unserem Viertel", "title_en": "Long ago in our neighborhood",
+    "topic": "childhood memories", "communicative_goal": "Describe simple background facts and repeated childhood activities.",
+    "grammar_focus": "natural spoken Präteritum of sein and haben alongside present narration",
+    "supporting_structures": ["als sie jung war", "damals waren ..."],
+    "new_targets": ["damals", "jung", "die Heimat", "die Ferien", "die Geschichte", "sich erinnern", "das Dorf"],
+    "recycled_targets": ["die Familie", "spielen", "die Schule", "die Eltern", "das Wochenende"], "recycles_from": [3, 16, 18],
+    "sentences": [
+      {"de": "Mina erinnert sich gern an ihre Heimat in Spanien.", "en": "Mina likes remembering her home country, Spain."},
+      {"de": "Als sie jung war, hat sie mit ihrer Familie in einem kleinen Dorf gelebt.", "en": "When she was young, she lived with her family in a small village."},
+      {"de": "Damals waren die Ferien besonders schön, weil sie jeden Tag draußen spielen konnte.", "en": "Back then the holidays were especially nice because she could play outside every day."},
+      {"de": "Heute erzählt sie Leo manchmal eine lustige Geschichte aus dieser Zeit.", "en": "Today she sometimes tells Leo a funny story from that time."}
+    ],
+    "comprehension": {"question_en": "Where did Mina live when she was young?", "answer_en": "She lived in a small village in Spain."},
+    "source_basis": ["cefr-descriptors", "goethe-a2-wordlist"]
+  },
+  {
+    "id": "a2-062", "sequence": 62, "band": "A2.2", "format": "narrative",
+    "title_de": "Umsteigen in Köln", "title_en": "Changing trains in Cologne",
+    "topic": "following a train route", "communicative_goal": "Follow a chronological travel account with a train change.",
+    "grammar_focus": "Perfekt narration with temporal connectors",
+    "supporting_structures": ["sich beeilt haben", "in Köln umsteigen"],
+    "new_targets": ["sich beeilen", "erreichen", "der Bahnsteig", "aussteigen", "direkt", "der Fahrplan"],
+    "recycled_targets": ["der Zug", "der Bahnhof", "abfahren", "umsteigen", "der Anschluss", "die Information", "pünktlich"], "recycles_from": [11, 28, 40, 48, 60],
+    "sentences": [
+      {"de": "Mina hat sich am Morgen beeilt und den Bahnhof pünktlich erreicht.", "en": "Mina hurried in the morning and reached the station on time."},
+      {"de": "Auf dem Fahrplan sieht sie, dass es keinen direkten Zug nach Bonn gibt.", "en": "On the timetable she sees that there is no direct train to Bonn."},
+      {"de": "Sie fährt zuerst nach Köln und muss dort auf einem anderen Bahnsteig umsteigen.", "en": "She first travels to Cologne and has to change trains there on another platform."},
+      {"de": "In Bonn steigt sie aus und erreicht ihren Termin ohne Verspätung.", "en": "In Bonn she gets off and reaches her appointment without a delay."}
+    ],
+    "comprehension": {"question_en": "Where does Mina change trains?", "answer_en": "She changes trains in Cologne."},
+    "source_basis": ["cefr-descriptors", "goethe-a2-wordlist", "goethe-a2-practice"]
+  },
+  {
+    "id": "a2-063", "sequence": 63, "band": "A2.2", "format": "narrative",
+    "title_de": "Ein Fehler in der Rechnung", "title_en": "An error in the invoice",
+    "topic": "solving a workplace problem", "communicative_goal": "Explain how a mistake was noticed, reported, and corrected.",
+    "grammar_focus": "connected Perfekt problem-solution sequence",
+    "supporting_structures": ["einen Fehler finden", "eine Zahl verbessern"],
+    "new_targets": ["der Fehler", "falsch", "richtig", "kontrollieren", "verbessern", "beenden"],
+    "recycled_targets": ["die Rechnung", "die Aufgabe", "der Kollege", "die Abteilung", "prüfen", "die Lösung"], "recycles_from": [18, 24, 35, 42, 50, 60],
+    "sentences": [
+      {"de": "Bei der Arbeit hat Mina einen Fehler in einer wichtigen Rechnung gefunden.", "en": "At work Mina found an error in an important invoice."},
+      {"de": "Eine Zahl war falsch, deshalb hat sie die ganze Rechnung noch einmal kontrolliert.", "en": "One figure was wrong, so she checked the entire invoice again."},
+      {"de": "Gemeinsam mit einem Kollegen hat sie die Zahl verbessert und eine richtige Rechnung vorbereitet.", "en": "Together with a colleague she corrected the figure and prepared a correct invoice."},
+      {"de": "Erst danach konnten beide die Aufgabe beenden.", "en": "Only then could both of them finish the task."}
+    ],
+    "comprehension": {"question_en": "What was wrong with the invoice?", "answer_en": "One figure was wrong."},
+    "source_basis": ["cefr-descriptors", "goethe-a2-wordlist"]
+  },
+  {
+    "id": "a2-064", "sequence": 64, "band": "A2.2", "format": "dialogue",
+    "title_de": "Ein Missverständnis im Kurs", "title_en": "A misunderstanding in class",
+    "topic": "clarification", "communicative_goal": "Signal misunderstanding, ask for clarification, and confirm meaning.",
+    "grammar_focus": "indirect questions about meaning and a dass clause",
+    "supporting_structures": ["fragen, was ... bedeutet", "kurz begründen"],
+    "new_targets": ["deutlich", "bedeuten", "begründen", "diskutieren", "die Bedeutung", "der Artikel"],
+    "recycled_targets": ["verstehen", "die Lehrerin", "erklären", "wiederholen", "die Aufgabe", "die Antwort"], "recycles_from": [18, 34, 35, 59],
+    "sentences": [
+      {"de": "Im Kurs lesen die Lernenden einen kurzen Artikel und diskutieren danach den Inhalt.", "en": "In class the learners read a short article and then discuss its content."},
+      {"de": "Mina versteht eine Frage nicht und bittet die Lehrerin, sie noch einmal deutlich zu erklären.", "en": "Mina does not understand one question and asks the teacher to explain it clearly again."},
+      {"de": "Außerdem fragt sie, was ein neues Wort bedeutet.", "en": "She also asks what a new word means."},
+      {"de": "Am Ende soll jeder seine Antwort kurz begründen.", "en": "At the end everyone is supposed to briefly justify their answer."}
+    ],
+    "comprehension": {"question_en": "What must each learner do at the end?", "answer_en": "Each learner must briefly justify an answer."},
+    "source_basis": ["cefr-descriptors", "goethe-a2-wordlist"]
+  },
+  {
+    "id": "a2-065", "sequence": 65, "band": "A2.2", "format": "narrative",
+    "title_de": "Verlaufen im Wald", "title_en": "Lost in the forest",
+    "topic": "outdoor excursion", "communicative_goal": "Describe getting lost and finding the way back.",
+    "grammar_focus": "Perfekt introduction followed by present-tense route description",
+    "supporting_structures": ["einen Ausflug gemacht", "durch den Wald"],
+    "new_targets": ["der Ausflug", "der Wald", "der See", "der Weg", "die Brücke", "der Berg"],
+    "recycled_targets": ["das Wetter", "plötzlich", "die Karte", "helfen", "Rad fahren"], "recycles_from": [13, 17, 33, 36, 60],
+    "sentences": [
+      {"de": "Am Sonntag haben Mina und Leo einen Ausflug zu einem See in den Bergen gemacht.", "en": "On Sunday Mina and Leo took a trip to a lake in the mountains."},
+      {"de": "Der Weg führt zuerst durch einen Wald und dann über eine alte Brücke.", "en": "The path first leads through a forest and then over an old bridge."},
+      {"de": "Nach zwei Stunden erreichen sie den See und machen dort eine Pause.", "en": "After two hours they reach the lake and take a break there."},
+      {"de": "Auf dem Rückweg hilft ihnen die Karte auf dem Handy.", "en": "On the way back, the map on their phone helps them."}
+    ],
+    "comprehension": {"question_en": "What do Mina and Leo cross after the forest?", "answer_en": "They cross an old bridge."},
+    "source_basis": ["cefr-descriptors", "goethe-a2-wordlist"]
+  },
+  {
+    "id": "a2-066", "sequence": 66, "band": "A2.2", "format": "dialogue",
+    "title_de": "Welcher Film?", "title_en": "Which film?",
+    "topic": "opinions and agreement", "communicative_goal": "Express an opinion, agree or disagree, and reach a compromise.",
+    "grammar_focus": "opinion clauses with dass and contrast with aber",
+    "supporting_structures": ["dafür sein", "dagegen sein"],
+    "new_targets": ["die Meinung", "dafür sein", "dagegen sein", "einverstanden sein", "denken", "recht haben"],
+    "recycled_targets": ["der Film", "der Vorschlag", "gemeinsam", "besser", "diskutieren"], "recycles_from": [16, 26, 31, 52, 64],
+    "sentences": [
+      {"de": "Mina und Leo diskutieren, welchen Film sie gemeinsam sehen möchten.", "en": "Mina and Leo discuss which film they want to watch together."},
+      {"de": "Mina ist für eine Komödie, aber Leo ist dagegen und schlägt einen Krimi vor.", "en": "Mina is in favor of a comedy, but Leo is against it and suggests a crime film."},
+      {"de": "Mina denkt, dass der neue Krimi zu lang ist, und Leo sagt: „Da hast du recht.“", "en": "Mina thinks the new crime film is too long, and Leo says, “You are right.”"},
+      {"de": "Am Ende sind beide mit einer kurzen Komödie einverstanden.", "en": "In the end both agree to a short comedy."}
+    ],
+    "comprehension": {"question_en": "Which kind of film do they finally choose?", "answer_en": "They choose a short comedy."},
+    "source_basis": ["cefr-descriptors", "goethe-a2-wordlist"]
+  },
+  {
+    "id": "a2-067", "sequence": 67, "band": "A2.2", "format": "description",
+    "title_de": "Stadt oder Land?", "title_en": "City or countryside?",
+    "topic": "comparing places to live", "communicative_goal": "Compare advantages of urban and rural life and state a preference.",
+    "grammar_focus": "comparatives and contrast connectors",
+    "supporting_structures": ["Im Vergleich dazu", "etwas bevorzugen"],
+    "new_targets": ["auf dem Land", "praktisch", "die Autobahn", "die Baustelle", "das Einkaufszentrum", "der Verkehr"],
+    "recycled_targets": ["die Stadt", "ruhig", "laut", "günstiger", "nah", "weiter", "die Meinung"], "recycles_from": [1, 21, 38, 66],
+    "sentences": [
+      {"de": "Mina findet das Leben in der Stadt praktisch, weil Busse und ein Einkaufszentrum in der Nähe sind.", "en": "Mina finds life in the city practical because buses and a shopping center are nearby."},
+      {"de": "Der Verkehr ist stark, und zurzeit gibt es vor ihrer Wohnung auch eine laute Baustelle.", "en": "The traffic is heavy, and at the moment there is also a noisy construction site outside her apartment."},
+      {"de": "Ihr Bruder lebt lieber auf dem Land in der Nähe einer Autobahn.", "en": "Her brother prefers living in the countryside near a motorway."},
+      {"de": "Dort ist es ruhiger, aber der Weg zum nächsten Geschäft ist weiter, und Busse fahren seltener.", "en": "It is quieter there, but the way to the nearest shop is farther, and buses run less often."}
+    ],
+    "comprehension": {"question_en": "What is currently making Mina's street noisy?", "answer_en": "A construction site is making it noisy."},
+    "source_basis": ["cefr-descriptors", "goethe-a2-wordlist"]
+  },
+  {
+    "id": "a2-068", "sequence": 68, "band": "A2.2", "format": "instructions",
+    "title_de": "Müll richtig trennen", "title_en": "Sorting waste correctly",
+    "topic": "recycling", "communicative_goal": "Understand basic household recycling instructions and reasons.",
+    "grammar_focus": "formal imperative and location statements",
+    "supporting_structures": ["Werfen Sie ...", "gehört in ..."],
+    "new_targets": ["der Müll", "werfen", "sauber", "schmutzig", "das Papier", "das Glas"],
+    "recycled_targets": ["die Flasche", "die Wohnung", "beachten", "wichtig"], "recycles_from": [4, 9, 39, 55],
+    "sentences": [
+      {"de": "Werfen Sie Papier, Glas und anderen Müll nicht zusammen in eine Tonne.", "en": "Do not throw paper, glass, and other rubbish together into one bin."},
+      {"de": "Leere Flaschen und Gläser gehören in den Glascontainer.", "en": "Empty bottles and jars belong in the glass container."},
+      {"de": "Schmutziges Papier gehört dagegen nicht in den Papiercontainer.", "en": "Dirty paper, on the other hand, does not belong in the paper container."},
+      {"de": "Halten Sie den Platz um die Container bitte sauber.", "en": "Please keep the area around the containers clean."}
+    ],
+    "comprehension": {"question_en": "What should not go into the paper container?", "answer_en": "Food remains should not go into it."},
+    "source_basis": ["cefr-descriptors", "goethe-a2-wordlist"]
+  },
+  {
+    "id": "a2-069", "sequence": 69, "band": "A2.2", "format": "narrative",
+    "title_de": "Hilfe im Viertel", "title_en": "Helping in the neighborhood",
+    "topic": "neighborhood festival", "communicative_goal": "Describe activities and roles at a small neighborhood event.",
+    "grammar_focus": "present tense for describing roles at an event",
+    "supporting_structures": ["ein Fest findet statt", "Kuchen verkaufen"],
+    "new_targets": ["das Fest", "backen", "der Kuchen", "der Platz", "verkaufen", "das Angebot"],
+    "recycled_targets": ["die Veranstaltung", "teilnehmen", "gemeinsam", "helfen", "stattfinden", "der Markt"], "recycles_from": [17, 23, 26, 42, 55],
+    "sentences": [
+      {"de": "Am Samstag findet auf dem großen Platz im Viertel ein Fest mit einem kleinen Markt statt.", "en": "On Saturday a festival with a small market takes place in the large square in the neighborhood."},
+      {"de": "Mina backt einen Kuchen und verkauft einzelne Stücke.", "en": "Mina bakes a cake and sells individual slices."},
+      {"de": "Leo hilft an einem Stand mit Getränken, und viele andere Bewohner nehmen ebenfalls teil.", "en": "Leo helps at a drinks stand, and many other residents take part as well."},
+      {"de": "Das Angebot ist groß, und am Abend feiern alle gemeinsam.", "en": "There is a wide range on offer, and in the evening everyone celebrates together."}
+    ],
+    "comprehension": {"question_en": "What does Mina sell at the market?", "answer_en": "She sells slices of cake."},
+    "source_basis": ["cefr-descriptors", "goethe-a2-wordlist"]
+  },
+  {
+    "id": "a2-070", "sequence": 70, "band": "A2.2", "format": "description",
+    "title_de": "Weniger Zeit am Bildschirm", "title_en": "Less screen time",
+    "topic": "digital habits", "communicative_goal": "Describe an unwanted habit and a practical change.",
+    "grammar_focus": "um ... zu and statt ... zu infinitive constructions",
+    "supporting_structures": ["um zu chatten", "statt im Internet zu sein"],
+    "new_targets": ["das Handy", "chatten", "der Blog", "das E-Book", "beantworten", "benutzen"],
+    "recycled_targets": ["der Plan", "weniger", "der Computer", "die E-Mail", "lesen"], "recycles_from": [16, 19, 26, 46, 50],
+    "sentences": [
+      {"de": "Mina benutzt ihr Handy oft, um mit Freunden zu chatten und E-Mails zu beantworten.", "en": "Mina often uses her phone to chat with friends and answer emails."},
+      {"de": "Auf dem Computer liest sie außerdem einen Blog über Reisen.", "en": "On the computer she also reads a travel blog."},
+      {"de": "Am Abend liest sie lieber ein E-Book, statt noch länger im Internet zu sein.", "en": "In the evening she prefers reading an e-book instead of spending even longer online."},
+      {"de": "Ihr Plan ist, das Handy beim Lesen weniger zu benutzen.", "en": "Her plan is to use her phone less while reading."}
+    ],
+    "comprehension": {"question_en": "What does Mina prefer to read in the evening?", "answer_en": "She prefers to read an e-book."},
+    "source_basis": ["cefr-descriptors", "goethe-a2-wordlist"]
+  },
+  {
+    "id": "a2-071", "sequence": 71, "band": "A2.2", "format": "dialogue",
+    "title_de": "Nach einem kleinen Unfall", "title_en": "After a small accident",
+    "topic": "insurance", "communicative_goal": "Report minor damage and ask which documents are required.",
+    "grammar_focus": "indirect question with welche and was",
+    "supporting_structures": ["berichten, was passiert ist", "Kosten für die Reparatur"],
+    "new_targets": ["der Unfall", "berichten", "die Werkstatt", "die Reparatur", "die Kosten", "passieren"],
+    "recycled_targets": ["melden", "das Formular", "ausfüllen", "die Antwort", "der Vertrag", "schriftlich"], "recycles_from": [32, 47, 49, 50, 59],
+    "sentences": [
+      {"de": "Leo hatte einen kleinen Unfall mit dem Fahrrad und berichtet seiner Versicherung, was passiert ist.", "en": "Leo had a small bicycle accident and tells his insurance company what happened."},
+      {"de": "Er muss ein Formular ausfüllen und mehrere Fotos vom Fahrrad schicken.", "en": "He has to fill in a form and send several photos of the bicycle."},
+      {"de": "Eine Werkstatt nennt ihm schriftlich die Kosten für die Reparatur.", "en": "A repair shop gives him the repair costs in writing."},
+      {"de": "Danach wartet Leo auf die Antwort der Versicherung.", "en": "After that Leo waits for the insurance company's response."}
+    ],
+    "comprehension": {"question_en": "What must Leo send besides the form?", "answer_en": "He must send photos of the bicycle."},
+    "source_basis": ["cefr-descriptors", "goethe-a2-wordlist", "goethe-a2-practice"]
+  },
+  {
+    "id": "a2-072", "sequence": 72, "band": "A2.2", "format": "instructions",
+    "title_de": "Anmeldung zum Kurs", "title_en": "Registering for the course",
+    "topic": "course registration", "communicative_goal": "Understand the personal details and signature required on a registration form.",
+    "grammar_focus": "formal imperative and müssen in registration instructions",
+    "supporting_structures": ["Tragen Sie sich ein", "das Formular unterschreiben"],
+    "new_targets": ["die Anmeldung", "unterschreiben", "das Datum", "der Geburtsort", "der Familienname", "sich eintragen"],
+    "recycled_targets": ["der Ausweis", "der Termin", "sich anmelden", "das Formular", "ausfüllen", "die Unterschrift"], "recycles_from": [10, 32, 47, 49, 55],
+    "sentences": [
+      {"de": "Für die Anmeldung zu einem Kurs müssen Sie sich zuerst in eine Liste eintragen.", "en": "To register for a course, you first have to enter your name on a list."},
+      {"de": "Schreiben Sie Ihren Familiennamen, Ihren Geburtsort und das aktuelle Datum in das Formular.", "en": "Write your family name, place of birth, and the current date on the form."},
+      {"de": "Zeigen Sie danach Ihren Ausweis und kontrollieren Sie alle Angaben.", "en": "Then show your ID and check all the details."},
+      {"de": "Zum Schluss müssen Sie das Formular unterschreiben.", "en": "Finally you have to sign the form."}
+    ],
+    "comprehension": {"question_en": "Which three personal details go on the form?", "answer_en": "The family name, place of birth, and date go on the form."},
+    "source_basis": ["cefr-descriptors", "goethe-a2-wordlist", "goethe-a2-practice"]
+  },
+  {
+    "id": "a2-073", "sequence": 73, "band": "A2.2", "format": "narrative",
+    "title_de": "Der Umzug ist geschafft", "title_en": "The move is done",
+    "topic": "moving home", "communicative_goal": "Describe preparing, completing, and adjusting after a move.",
+    "grammar_focus": "Perfekt sequence with separable verbs",
+    "supporting_structures": ["ist eingezogen", "hat die Kisten ausgepackt"],
+    "new_targets": ["einziehen", "auspacken", "die Möbel", "stellen", "hängen", "legen"],
+    "recycled_targets": ["umziehen", "die Wohnung", "der Nachbar", "der Schrank", "das Sofa", "sich kümmern", "tragen"], "recycles_from": [4, 5, 14, 21, 44, 60],
+    "sentences": [
+      {"de": "Am Samstag ist Mina in ihre neue Wohnung eingezogen.", "en": "On Saturday Mina moved into her new apartment."},
+      {"de": "Freunde haben die schweren Möbel getragen und das Sofa ins Wohnzimmer gestellt.", "en": "Friends carried the heavy furniture and put the sofa in the living room."},
+      {"de": "Mina hat die Kisten ausgepackt und die Kleidung in den Schrank gelegt.", "en": "Mina unpacked the boxes and put the clothes in the wardrobe."},
+      {"de": "Zum Schluss hat Leo ein Bild über das Bett gehängt.", "en": "Finally Leo hung a picture above the bed."}
+    ],
+    "comprehension": {"question_en": "Where did the friends put the sofa?", "answer_en": "They put it in the living room."},
+    "source_basis": ["cefr-descriptors", "goethe-a2-wordlist"]
+  },
+  {
+    "id": "a2-074", "sequence": 74, "band": "A2.2", "format": "dialogue",
+    "title_de": "Urlaub gut planen", "title_en": "Planning a holiday well",
+    "topic": "travel planning", "communicative_goal": "Discuss destination, accommodation, booking time, and flexibility.",
+    "grammar_focus": "present-tense recommendations and travel planning",
+    "supporting_structures": ["eine Unterkunft buchen", "einen Stadtplan benutzen"],
+    "new_targets": ["buchen", "die Unterkunft", "die Sehenswürdigkeit", "der Stadtplan", "das Reisebüro", "der Reiseführer"],
+    "recycled_targets": ["der Urlaub", "die Reise", "das Hotel", "reservieren", "empfehlen", "der Vorschlag"], "recycles_from": [27, 29, 52, 58, 59],
+    "sentences": [
+      {"de": "Leo plant seinen Urlaub und lässt sich in einem Reisebüro beraten.", "en": "Leo is planning his holiday and gets advice at a travel agency."},
+      {"de": "Die Mitarbeiterin empfiehlt Hamburg, weil es dort viele Sehenswürdigkeiten gibt.", "en": "The employee recommends Hamburg because there are many sights there."},
+      {"de": "Leo bucht eine günstige Unterkunft und kauft einen Reiseführer.", "en": "Leo books inexpensive accommodation and buys a travel guide."},
+      {"de": "Mit einem Stadtplan möchte er später seine täglichen Wege planen.", "en": "He wants to plan his daily routes later using a city map."}
+    ],
+    "comprehension": {"question_en": "What does Leo buy after booking accommodation?", "answer_en": "He buys a travel guide."},
+    "source_basis": ["cefr-descriptors", "goethe-a2-wordlist"]
+  },
+  {
+    "id": "a2-075", "sequence": 75, "band": "A2.2", "format": "dialogue",
+    "title_de": "Kontrolle nach dem Unfall", "title_en": "A check-up after the accident",
+    "topic": "recovery and follow-up", "communicative_goal": "Understand recovery advice and limits on activity.",
+    "grammar_focus": "modal verbs for obligation, permission, and caution",
+    "supporting_structures": ["sich weiter ausruhen", "wieder fit sein"],
+    "new_targets": ["das Bein", "die Praxis", "fit sein", "das Krankenhaus", "die Krankenschwester", "die Krankenkasse"],
+    "recycled_targets": ["der Arzt", "das Medikament", "untersuchen", "sich ausruhen", "gesund", "der Sport"], "recycles_from": [15, 31, 36, 45, 46],
+    "sentences": [
+      {"de": "Nach seinem Unfall war Leo kurz im Krankenhaus, weil sein Bein stark wehgetan hat.", "en": "After his accident Leo was briefly in the hospital because his leg hurt badly."},
+      {"de": "Eine Krankenschwester hat ihm geholfen, und ein Arzt hat das Bein untersucht.", "en": "A nurse helped him, and a doctor examined the leg."},
+      {"de": "Jetzt geht Leo noch einmal in die Praxis und zeigt dort seine Karte von der Krankenkasse.", "en": "Now Leo goes to the doctor's office again and shows his health insurance card there."},
+      {"de": "Der Arzt sagt, dass Leo bald wieder fit sein wird, wenn er sich weiter ausruht.", "en": "The doctor says that Leo will soon be fit again if he continues to rest."}
+    ],
+    "comprehension": {"question_en": "Why was Leo briefly in the hospital?", "answer_en": "Because his leg hurt badly after the accident."},
+    "source_basis": ["cefr-descriptors", "goethe-a2-wordlist", "goethe-a2-practice"]
+  },
+  {
+    "id": "a2-076", "sequence": 76, "band": "A2.2", "format": "description",
+    "title_de": "Ein Feiertag mit Gästen", "title_en": "A holiday with guests",
+    "topic": "celebrations and traditions", "communicative_goal": "Describe common preparations and personal variations in a celebration.",
+    "grammar_focus": "present tense for plans and a dass clause",
+    "supporting_structures": ["eine Party planen", "sehen, dass ..."],
+    "new_targets": ["die Party", "der Gast", "das Lied", "der Feiertag", "der Kalender", "die Feier"],
+    "recycled_targets": ["feiern", "einladen", "mitbringen", "das Geschenk", "kochen", "gemeinsam"], "recycles_from": [22, 25, 26],
+    "sentences": [
+      {"de": "Im Kalender sieht Mina, dass der nächste Feiertag auf einen Montag fällt.", "en": "Mina sees in the calendar that the next public holiday falls on a Monday."},
+      {"de": "Sie plant für Sonntag eine kleine Party und lädt zehn Gäste ein.", "en": "She plans a small party for Sunday and invites ten guests."},
+      {"de": "Jeder Gast bringt etwas zu essen mit, und Mina kümmert sich um die Getränke.", "en": "Each guest brings something to eat, and Mina takes care of the drinks."},
+      {"de": "Bei der Feier hören alle Musik und singen später ein bekanntes Lied zusammen.", "en": "At the celebration everyone listens to music and later sings a well-known song together."}
+    ],
+    "comprehension": {"question_en": "What does each guest bring?", "answer_en": "Each guest brings something to eat."},
+    "source_basis": ["cefr-descriptors", "goethe-a2-wordlist"]
+  },
+  {
+    "id": "a2-077", "sequence": 77, "band": "A2.2", "format": "description",
+    "title_de": "Die Deutschprüfung", "title_en": "The German examination",
+    "topic": "language examination", "communicative_goal": "Understand an exam result and identify a pronunciation priority.",
+    "grammar_focus": "Perfekt exam result and comparative evaluation",
+    "supporting_structures": ["eine Prüfung bestanden", "besser als"],
+    "new_targets": ["bestehen", "die Note", "das Zeugnis", "das Fach", "der Buchstabe", "buchstabieren"],
+    "recycled_targets": ["das Ziel", "verbessern", "der Fehler", "die Sprache", "das Wort", "aussprechen"], "recycles_from": [57, 63],
+    "sentences": [
+      {"de": "Mina hat ihre Deutschprüfung bestanden und eine gute Note bekommen.", "en": "Mina passed her German examination and received a good grade."},
+      {"de": "Im Fach Deutsch ist ihre Note beim Sprechen besser als beim Schreiben.", "en": "In German, her speaking grade is better than her writing grade."},
+      {"de": "Bei einigen Wörtern spricht Mina einen Buchstaben noch nicht richtig aus.", "en": "With some words Mina still does not pronounce one letter correctly."},
+      {"de": "Darum übt sie schwierige Namen und buchstabiert sie langsam.", "en": "That is why she practises difficult names and spells them slowly."}
+    ],
+    "comprehension": {"question_en": "Which exam area was better than writing?", "answer_en": "Speaking was better than writing."},
+    "source_basis": ["cefr-descriptors", "goethe-a2-wordlist"]
+  },
+  {
+    "id": "a2-078", "sequence": 78, "band": "A2.2", "format": "narrative",
+    "title_de": "Eine Aufgabe im Team", "title_en": "A team assignment",
+    "topic": "workplace collaboration", "communicative_goal": "Describe dividing work, taking responsibility, and meeting a deadline.",
+    "grammar_focus": "present-tense workplace coordination",
+    "supporting_structures": ["Aufgaben teilen", "einen Bericht schreiben"],
+    "new_targets": ["die Sekretärin", "das Projekt", "planen", "teilen", "der Bericht", "beraten"],
+    "recycled_targets": ["der Chef", "die Aufgabe", "die Abteilung", "teilnehmen", "kontrollieren", "die Lösung", "pünktlich"], "recycles_from": [35, 40, 42, 60, 63],
+    "sentences": [
+      {"de": "Minas Chef und seine Sekretärin planen mit der Abteilung ein neues Projekt.", "en": "Mina's boss and his secretary are planning a new project with the department."},
+      {"de": "Die Kollegen teilen die Aufgaben und beraten gemeinsam über mögliche Probleme.", "en": "The colleagues divide the tasks and discuss possible problems together."},
+      {"de": "Mina schreibt einen kurzen Bericht, und Paul kontrolliert die Zahlen.", "en": "Mina writes a short report, and Paul checks the figures."},
+      {"de": "Am Freitag stellen beide ihre Ergebnisse vor und finden für die letzte Frage eine Lösung.", "en": "On Friday both present their results and find a solution to the final question."}
+    ],
+    "comprehension": {"question_en": "What does Mina write for the project?", "answer_en": "She writes a short report."},
+    "source_basis": ["cefr-descriptors", "goethe-a2-wordlist"]
+  },
+  {
+    "id": "a2-079", "sequence": 79, "band": "A2.2", "format": "narrative",
+    "title_de": "Ein unerwarteter Tag", "title_en": "An unexpected day",
+    "topic": "integrated everyday problem solving", "communicative_goal": "Follow several linked disruptions and cooperative solutions.",
+    "grammar_focus": "connected Perfekt narration with weil and dann",
+    "supporting_structures": ["es eilig haben", "sich über etwas ärgern"],
+    "new_targets": ["eilig", "aufpassen", "sich ärgern", "fehlen", "bitten"],
+    "recycled_targets": ["plötzlich", "dringend", "der Bescheid", "verschieben", "das Projekt", "der Bericht", "der Fehler"], "recycles_from": [51, 60, 63, 78],
+    "sentences": [
+      {"de": "Am Morgen hatte Mina es plötzlich sehr eilig, weil ein wichtiger Bericht gefehlt hat.", "en": "In the morning Mina was suddenly in a great hurry because an important report was missing."},
+      {"de": "Der Chef brauchte ihn dringend für das Projekt und bat alle, gut aufzupassen.", "en": "The boss urgently needed it for the project and asked everyone to pay close attention."},
+      {"de": "Mina hat sich zuerst über den Fehler geärgert, dann aber sofort Bescheid gesagt.", "en": "At first Mina was annoyed about the error, but then she immediately let everyone know."},
+      {"de": "Ein Kollege hat die fehlende Datei gefunden, und der Termin musste doch nicht verschoben werden.", "en": "A colleague found the missing file, and the appointment did not have to be postponed after all."}
+    ],
+    "comprehension": {"question_en": "Why did the meeting not need to be postponed?", "answer_en": "A colleague found the missing file."},
+    "source_basis": ["cefr-descriptors", "goethe-a2-wordlist", "goethe-a2-practice"]
+  },
+  {
+    "id": "a2-080", "sequence": 80, "band": "A2.2", "format": "narrative",
+    "title_de": "Der nächste Schritt", "title_en": "The next step",
+    "topic": "A1-A2 cumulative reflection", "communicative_goal": "Understand a connected reflection on everyday independence and future learning.",
+    "grammar_focus": "present ability, Perfekt reflection, and future intention",
+    "supporting_structures": ["Ziele geschafft haben", "weiter lernen"],
+    "new_targets": ["fast", "eigentlich", "besonders", "selbst", "das Ende", "genug"],
+    "recycled_targets": ["weiter", "schaffen", "das Ziel", "die Sprache", "das Wort", "die Antwort", "die Lösung", "die Erfahrung"], "recycles_from": [38, 41, 57, 59, 60],
+    "sentences": [
+      {"de": "Am Ende dieses Kurses hat Mina fast alle Ziele geschafft und kann viele Aufgaben selbst lösen.", "en": "At the end of this course Mina has achieved almost all her goals and can solve many tasks herself."},
+      {"de": "Besonders bei Terminen, Reisen und kurzen Gesprächen versteht sie jetzt genug, um passend zu antworten.", "en": "Especially with appointments, travel, and short conversations, she now understands enough to respond appropriately."},
+      {"de": "Eigentlich wollte sie nur einfache Antworten geben, jetzt kann sie auch ihre Meinung begründen.", "en": "Originally she only wanted to give simple answers; now she can also justify her opinion."},
+      {"de": "Sie möchte weiter regelmäßig hören, sprechen, lesen und schreiben.", "en": "She wants to continue listening, speaking, reading, and writing regularly."},
+      {"de": "Jede neue Erfahrung hilft ihr, die Sprache besser zu benutzen.", "en": "Every new experience helps her use the language better."}
+    ],
+    "comprehension": {"question_en": "What does Mina want to continue doing regularly?", "answer_en": "She wants to continue listening, speaking, reading, and writing regularly."},
+    "source_basis": ["cefr-descriptors", "goethe-a2-wordlist", "goethe-a2-practice"]
+  }
+]

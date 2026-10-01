@@ -1,0 +1,562 @@
+[
+  {
+    "id": "a1-001", "sequence": 1, "band": "A1.1", "format": "description",
+    "title_de": "Hallo, ich bin Mina", "title_en": "Hello, I am Mina",
+    "topic": "personal identity", "communicative_goal": "Introduce yourself with name, origin, residence, and language.",
+    "grammar_focus": "first-person present tense and basic verb-second statements",
+    "supporting_structures": ["ich bin", "ich komme aus", "ich wohne in"],
+    "grammar_notes": [
+      "A statement keeps its conjugated verb in second position: ich heiße, ich komme, ich wohne, and die Stadt ist.",
+      "Aus always takes the dative. In uses the dative for a fixed location here. With place names such as Spanien and Bonn, there is normally no article, so the case ending is not visible.",
+      "Und joins equal clauses. Each clause keeps its own subject and conjugated verb."
+    ],
+    "new_targets": ["heißen", "kommen", "wohnen", "die Stadt", "sprechen", "Deutsch"],
+    "recycled_targets": [], "recycles_from": [],
+    "audio_path": "assets/audio/a1-001.wav",
+    "sentences": [
+      {
+        "de": "Hallo, ich heiße Mina.", "en": "Hello, my name is Mina.", "audio_path": "assets/audio/sentences/a1-001-1.wav",
+        "annotations": {"word_tags": {"ich": ["nominative", "subject"]}}
+      },
+      {
+        "de": "Ich komme aus Spanien und wohne jetzt in Bonn.", "en": "I come from Spain and now live in Bonn.", "audio_path": "assets/audio/sentences/a1-001-2.wav",
+        "annotations": {
+          "word_tags": {
+            "ich": ["nominative", "subject"], "aus": ["preposition", "dative"],
+            "und": ["conjunction", "coordinating"], "jetzt": ["adverb", "time"],
+            "in": ["preposition", "dative", "place"]
+          },
+          "phrases": [
+            {"german": "aus Spanien", "tags": ["dative", "place"]},
+            {"german": "in Bonn", "tags": ["dative", "place"]}
+          ]
+        }
+      },
+      {
+        "de": "Die Stadt ist schön, und ich spreche ein bisschen Deutsch.", "en": "The city is beautiful, and I speak a little German.", "audio_path": "assets/audio/sentences/a1-001-3.wav",
+        "annotations": {
+          "word_tags": {
+            "stadt": ["nominative", "subject"], "schön": ["adjective", "predicate"],
+            "und": ["conjunction", "coordinating"], "ich": ["nominative", "subject"]
+          },
+          "phrases": [
+            {"german": "ein bisschen Deutsch", "english": "a little German", "tags": ["fixed phrase", "accusative"]}
+          ]
+        }
+      }
+    ],
+    "comprehension": {"question_en": "Where does Mina live now?", "answer_en": "She lives in Bonn."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist", "goethe-a1-practice"]
+  },
+  {
+    "id": "a1-002", "sequence": 2, "band": "A1.1", "format": "dialogue",
+    "title_de": "Im Deutschkurs", "title_en": "In the German course",
+    "topic": "personal information", "communicative_goal": "Ask for and give simple personal details.",
+    "grammar_focus": "W-questions with wie, wo, and woher",
+    "supporting_structures": ["Wie alt ...?", "Woher kommst du?"],
+    "grammar_notes": [
+      "A W-question begins with the question word and places the conjugated verb before the subject: Wie heißt du? Woher kommst du?",
+      "Im is in dem and am is an dem. The contracted article dem is dative; here the phrases express a location or a time.",
+      "German expresses age with sein: ich bin achtundzwanzig Jahre alt, literally I am twenty-eight years old.",
+      "Ihn is the masculine accusative form of er because Mina understands him: Mina versteht ihn."
+    ],
+    "new_targets": ["das Jahr", "alt", "arbeiten", "lernen", "der Kurs", "woher"],
+    "recycled_targets": ["heißen", "kommen", "wohnen", "sprechen", "Deutsch"], "recycles_from": [1],
+    "speech_alternatives": [
+      {
+        "lesson_phrase": "am Vormittag",
+        "accepted_phrase": "am Morgen",
+        "explanation": "Both fit the English cue; am Vormittag refers more specifically to the time before noon."
+      },
+      {
+        "lesson_phrase": "am Vormittag",
+        "accepted_phrase": "morgens",
+        "explanation": "Morgens is a natural way to describe something that happens in the morning."
+      }
+    ],
+    "audio_path": "assets/audio/a1-002.wav",
+    "sentences": [
+      {
+        "de": "Im Deutschkurs fragt Leo: „Wie heißt du und woher kommst du?“", "en": "In the German course Leo asks, “What is your name and where are you from?”", "audio_path": "assets/audio/sentences/a1-002-1.wav",
+        "annotations": {
+          "word_tags": {"im": ["preposition", "dative", "place"], "und": ["conjunction", "coordinating"]},
+          "phrases": [{"german": "Im Deutschkurs", "tags": ["contraction", "dative", "place"]}]
+        }
+      },
+      {
+        "de": "Mina antwortet: „Ich bin achtundzwanzig Jahre alt und wohne in Bonn.“", "en": "Mina answers, “I am twenty-eight years old and live in Bonn.”", "audio_path": "assets/audio/sentences/a1-002-2.wav",
+        "annotations": {
+          "word_tags": {
+            "ich": ["nominative", "subject"], "alt": ["adjective", "predicate"],
+            "und": ["conjunction", "coordinating"], "in": ["preposition", "dative", "place"]
+          },
+          "phrases": [
+            {"german": "achtundzwanzig Jahre alt", "english": "twenty-eight years old", "tags": ["fixed phrase", "predicate"]},
+            {"german": "in Bonn", "tags": ["dative", "place"]}
+          ]
+        }
+      },
+      {
+        "de": "Sie arbeitet am Vormittag und lernt am Abend Deutsch.", "en": "She works in the morning and learns German in the evening.", "audio_path": "assets/audio/sentences/a1-002-3.wav",
+        "annotations": {
+          "word_tags": {
+            "sie": ["nominative", "subject"], "am": ["preposition", "dative", "time"],
+            "und": ["conjunction", "coordinating"]
+          },
+          "phrases": [
+            {"german": "am Vormittag", "tags": ["contraction", "dative", "time"]},
+            {"german": "am Abend", "tags": ["contraction", "dative", "time"]}
+          ]
+        }
+      },
+      {
+        "de": "Leo spricht langsam, und Mina versteht ihn gut.", "en": "Leo speaks slowly, and Mina understands him well.", "audio_path": "assets/audio/sentences/a1-002-4.wav",
+        "annotations": {
+          "word_tags": {
+            "langsam": ["adverb", "manner"], "und": ["conjunction", "coordinating"],
+            "ihn": ["personal pronoun", "accusative"], "gut": ["adverb", "manner"]
+          },
+          "phrases": [{"german": "versteht ihn", "english": "understands him", "tags": ["accusative"]}]
+        }
+      }
+    ],
+    "comprehension": {"question_en": "When does Mina learn German?", "answer_en": "She learns German in the evening."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist", "goethe-a1-practice"]
+  },
+  {
+    "id": "a1-003", "sequence": 3, "band": "A1.1", "format": "description",
+    "title_de": "Meine Familie", "title_en": "My family",
+    "topic": "family", "communicative_goal": "Name close family members and say where they live.",
+    "grammar_focus": "possessive determiners mein and meine",
+    "supporting_structures": ["Das ist mein ...", "Meine ... heißt ..."],
+    "grammar_notes": [
+      "Mein is used with masculine or neuter nominative nouns; meine is used with feminine or plural nouns: mein Vater, meine Mutter, meine Eltern.",
+      "In takes the dative for a fixed location: eine kleine Stadt becomes in einer kleinen Stadt, and die Schule becomes in der Schule.",
+      "After a dative article such as einer, an adjective normally ends in -en here: einer kleinen Stadt.",
+      "Mit always takes the dative, so ich becomes mir. Am Telefon is the contraction an dem Telefon and is also dative."
+    ],
+    "new_targets": ["die Familie", "die Mutter", "der Vater", "der Bruder", "die Schwester", "die Eltern"],
+    "recycled_targets": ["heißen", "wohnen", "die Stadt", "arbeiten"], "recycles_from": [1, 2],
+    "audio_path": "assets/audio/a1-003.wav",
+    "sentences": [
+      {
+        "de": "Meine Familie wohnt in einer kleinen Stadt.", "en": "My family lives in a small town.", "audio_path": "assets/audio/sentences/a1-003-1.wav",
+        "annotations": {
+          "word_tags": {
+            "meine": ["possessive", "determiner", "nominative"], "familie": ["nominative", "subject"],
+            "in": ["preposition", "dative", "place"], "kleinen": ["adjective"]
+          },
+          "base_forms": {"kleinen": "klein"},
+          "phrases": [
+            {"german": "Meine Familie", "tags": ["nominative"]},
+            {"german": "in einer kleinen Stadt", "tags": ["dative", "place"]}
+          ]
+        }
+      },
+      {
+        "de": "Meine Mutter heißt Ana, und mein Vater heißt Luis.", "en": "My mother is called Ana, and my father is called Luis.", "audio_path": "assets/audio/sentences/a1-003-2.wav",
+        "annotations": {
+          "word_tags": {
+            "meine": ["possessive", "determiner", "nominative"], "mutter": ["nominative", "subject"],
+            "und": ["conjunction", "coordinating"], "mein": ["possessive", "determiner", "nominative"],
+            "vater": ["nominative", "subject"]
+          },
+          "phrases": [
+            {"german": "Meine Mutter", "tags": ["nominative"]},
+            {"german": "mein Vater", "tags": ["nominative"]}
+          ]
+        }
+      },
+      {
+        "de": "Mein Bruder arbeitet in Madrid, aber meine Schwester lernt noch in der Schule.", "en": "My brother works in Madrid, but my sister is still studying at school.", "audio_path": "assets/audio/sentences/a1-003-3.wav",
+        "annotations": {
+          "word_tags": {
+            "mein": ["possessive", "determiner", "nominative"], "bruder": ["nominative", "subject"],
+            "in": ["preposition", "dative", "place"], "aber": ["conjunction", "coordinating"],
+            "meine": ["possessive", "determiner", "nominative"], "schwester": ["nominative", "subject"]
+          },
+          "phrases": [
+            {"german": "Mein Bruder", "tags": ["nominative"]},
+            {"german": "in Madrid", "tags": ["dative", "place"]},
+            {"german": "meine Schwester", "tags": ["nominative"]},
+            {"german": "in der Schule", "tags": ["dative", "place"]}
+          ]
+        }
+      },
+      {
+        "de": "Meine Eltern sprechen oft mit mir am Telefon.", "en": "My parents often speak with me on the phone.", "audio_path": "assets/audio/sentences/a1-003-4.wav",
+        "annotations": {
+          "word_tags": {
+            "meine": ["possessive", "determiner", "nominative"], "eltern": ["nominative", "subject", "plural"],
+            "oft": ["adverb", "frequency"], "mit": ["preposition", "dative"],
+            "mir": ["personal pronoun", "dative"], "am": ["preposition", "dative"]
+          },
+          "phrases": [
+            {"german": "Meine Eltern", "tags": ["nominative"]},
+            {"german": "mit mir", "english": "with me", "tags": ["dative"]},
+            {"german": "am Telefon", "tags": ["contraction", "dative"]}
+          ]
+        }
+      }
+    ],
+    "comprehension": {"question_en": "Who works in Madrid?", "answer_en": "Mina's brother works in Madrid."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist"]
+  },
+  {
+    "id": "a1-004", "sequence": 4, "band": "A1.1", "format": "description",
+    "title_de": "Unsere Wohnung", "title_en": "Our apartment",
+    "topic": "housing and rooms", "communicative_goal": "Describe the main rooms in a home.",
+    "grammar_focus": "es gibt with accusative noun phrases",
+    "supporting_structures": ["In der Wohnung gibt es ...", "Neben ... ist ..."],
+    "grammar_notes": [
+      "Es gibt means there is or there are and is followed by the accusative. The forms in this sentence look unchanged; a masculine example would be einen Balkon.",
+      "In and neben use the dative for a fixed location: in einer hellen Wohnung, in einem kleinen Haus, neben dem Bad, and in der Küche.",
+      "After einer or einem, the adjective takes -en here: einer hellen Wohnung and einem kleinen Haus.",
+      "Meiner Schwester is genitive and expresses possession: das Zimmer meiner Schwester means my sister's room.",
+      "When In der Küche comes first, the verb remains in second position and the subject follows it: In der Küche trinkt die Familie."
+    ],
+    "new_targets": ["die Wohnung", "das Zimmer", "die Küche", "das Bad", "das Haus", "das Schlafzimmer"],
+    "recycled_targets": ["wohnen", "die Familie", "die Mutter", "der Vater"], "recycles_from": [1, 3],
+    "audio_path": "assets/audio/a1-004.wav",
+    "sentences": [
+      {
+        "de": "Meine Eltern wohnen in einer hellen Wohnung in einem kleinen Haus.", "en": "My parents live in a bright apartment in a small building.", "audio_path": "assets/audio/sentences/a1-004-1.wav",
+        "annotations": {
+          "word_tags": {
+            "meine": ["possessive", "determiner", "nominative"], "eltern": ["nominative", "subject", "plural"],
+            "in": ["preposition", "dative", "place"], "hellen": ["adjective"], "kleinen": ["adjective"]
+          },
+          "base_forms": {"hellen": "hell", "kleinen": "klein"},
+          "phrases": [
+            {"german": "Meine Eltern", "tags": ["nominative"]},
+            {"german": "in einer hellen Wohnung", "tags": ["dative", "place"]},
+            {"german": "in einem kleinen Haus", "tags": ["dative", "place"]}
+          ]
+        }
+      },
+      {
+        "de": "Es gibt ein Wohnzimmer, eine Küche, ein Bad und zwei Schlafzimmer.", "en": "There is a living room, a kitchen, a bathroom, and two bedrooms.", "audio_path": "assets/audio/sentences/a1-004-2.wav",
+        "annotations": {
+          "word_tags": {"es": ["personal pronoun", "nominative", "subject"], "und": ["conjunction", "coordinating"]},
+          "phrases": [
+            {"german": "Es gibt", "english": "there is / there are", "tags": ["fixed phrase"]},
+            {"german": "ein Wohnzimmer, eine Küche, ein Bad und zwei Schlafzimmer", "english": "a living room, a kitchen, a bathroom, and two bedrooms", "tags": ["accusative"]}
+          ]
+        }
+      },
+      {
+        "de": "Das Zimmer meiner Schwester ist neben dem Bad.", "en": "My sister's room is next to the bathroom.", "audio_path": "assets/audio/sentences/a1-004-3.wav",
+        "annotations": {
+          "word_tags": {
+            "zimmer": ["nominative", "subject"], "meiner": ["possessive", "determiner", "genitive"],
+            "neben": ["preposition", "dative", "place"]
+          },
+          "phrases": [
+            {"german": "meiner Schwester", "tags": ["genitive"]},
+            {"german": "neben dem Bad", "tags": ["dative", "place"]}
+          ]
+        }
+      },
+      {
+        "de": "In der Küche trinkt die Familie morgens Kaffee.", "en": "In the morning the family drinks coffee in the kitchen.", "audio_path": "assets/audio/sentences/a1-004-4.wav",
+        "annotations": {
+          "word_tags": {
+            "in": ["preposition", "dative", "place"], "familie": ["nominative", "subject"],
+            "morgens": ["adverb", "frequency", "time"], "kaffee": ["accusative"]
+          },
+          "phrases": [{"german": "In der Küche", "tags": ["dative", "place"]}]
+        }
+      }
+    ],
+    "comprehension": {"question_en": "How many bedrooms are in the apartment?", "answer_en": "There are two bedrooms."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist"]
+  },
+  {
+    "id": "a1-005", "sequence": 5, "band": "A1.1", "format": "description",
+    "title_de": "Mein neues Zimmer", "title_en": "My new room",
+    "topic": "furniture and position", "communicative_goal": "Describe furniture and simple locations in a room.",
+    "grammar_focus": "location phrases with in, an, and neben",
+    "supporting_structures": ["am Fenster", "neben dem Bett", "im Schrank"],
+    "new_targets": ["der Tisch", "die Tür", "das Bett", "das Sofa", "der Schrank", "das Fenster"],
+    "recycled_targets": ["die Wohnung", "das Zimmer", "das Schlafzimmer", "wohnen"], "recycles_from": [1, 4],
+    "audio_path": "assets/audio/a1-005.wav",
+    "sentences": [
+      {"de": "Mein Zimmer in Bonn ist klein, aber gemütlich.", "en": "My room in Bonn is small but cozy.", "audio_path": "assets/audio/sentences/a1-005-1.wav"},
+      {"de": "Der Tisch steht am Fenster, und die Tür ist neben dem Schrank.", "en": "The table is by the window, and the door is next to the wardrobe.", "audio_path": "assets/audio/sentences/a1-005-2.wav"},
+      {"de": "Neben dem Bett steht ein kleines Sofa.", "en": "A small sofa stands next to the bed.", "audio_path": "assets/audio/sentences/a1-005-3.wav"},
+      {"de": "Meine Kleidung liegt im Schrank.", "en": "My clothes are in the wardrobe.", "audio_path": "assets/audio/sentences/a1-005-4.wav"}
+    ],
+    "comprehension": {"question_en": "What is next to the bed?", "answer_en": "A small sofa is next to the bed."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist"]
+  },
+  {
+    "id": "a1-006", "sequence": 6, "band": "A1.1", "format": "narrative",
+    "title_de": "Mein Morgen", "title_en": "My morning",
+    "topic": "daily routine", "communicative_goal": "Describe a simple morning routine and times.",
+    "grammar_focus": "separable verbs in present-tense statements",
+    "supporting_structures": ["um sieben Uhr", "ich stehe ... auf"],
+    "new_targets": ["aufstehen", "frühstücken", "gehen", "beginnen", "der Morgen", "die Uhr"],
+    "recycled_targets": ["arbeiten", "lernen", "die Küche", "das Zimmer"], "recycles_from": [2, 4, 5],
+    "audio_path": "assets/audio/a1-006.wav",
+    "sentences": [
+      {"de": "Am Morgen stehe ich um sieben Uhr auf.", "en": "In the morning I get up at seven o'clock.", "audio_path": "assets/audio/sentences/a1-006-1.wav"},
+      {"de": "Ich frühstücke in der Küche und gehe dann zur Arbeit.", "en": "I have breakfast in the kitchen and then go to work.", "audio_path": "assets/audio/sentences/a1-006-2.wav"},
+      {"de": "Die Arbeit beginnt um neun Uhr.", "en": "Work begins at nine o'clock.", "audio_path": "assets/audio/sentences/a1-006-3.wav"},
+      {"de": "Am Abend lerne ich eine Stunde Deutsch.", "en": "In the evening I study German for an hour.", "audio_path": "assets/audio/sentences/a1-006-4.wav"}
+    ],
+    "comprehension": {"question_en": "What time does work begin?", "answer_en": "Work begins at nine o'clock."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist"]
+  },
+  {
+    "id": "a1-007", "sequence": 7, "band": "A1.1", "format": "description",
+    "title_de": "Frühstück zu Hause", "title_en": "Breakfast at home",
+    "topic": "food and drink", "communicative_goal": "Say what people eat and drink for breakfast.",
+    "grammar_focus": "accusative objects after essen and trinken",
+    "supporting_structures": ["Ich esse ...", "Er trinkt ..."],
+    "new_targets": ["das Brot", "der Käse", "der Kaffee", "der Tee", "essen", "trinken"],
+    "recycled_targets": ["frühstücken", "der Morgen", "die Küche", "die Familie"], "recycles_from": [3, 4, 6],
+    "audio_path": "assets/audio/a1-007.wav",
+    "sentences": [
+      {"de": "Am Sonntag frühstückt meine Familie zusammen in der Küche.", "en": "On Sunday my family has breakfast together in the kitchen.", "audio_path": "assets/audio/sentences/a1-007-1.wav"},
+      {"de": "Mein Vater isst Brot mit Käse und trinkt Kaffee.", "en": "My father eats bread with cheese and drinks coffee.", "audio_path": "assets/audio/sentences/a1-007-2.wav"},
+      {"de": "Meine Mutter trinkt lieber Tee.", "en": "My mother prefers tea.", "audio_path": "assets/audio/sentences/a1-007-3.wav"},
+      {"de": "Ich esse nur ein kleines Brot, denn ich habe wenig Hunger.", "en": "I eat only a small piece of bread because I am not very hungry.", "audio_path": "assets/audio/sentences/a1-007-4.wav"}
+    ],
+    "comprehension": {"question_en": "What does Mina's mother drink?", "answer_en": "She drinks tea."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist"]
+  },
+  {
+    "id": "a1-008", "sequence": 8, "band": "A1.1", "format": "dialogue",
+    "title_de": "In der Bäckerei", "title_en": "At the bakery",
+    "topic": "shopping for food", "communicative_goal": "Buy simple items and ask the price politely.",
+    "grammar_focus": "möchten for polite wants and accusative quantities",
+    "supporting_structures": ["Ich möchte ...", "Was kostet ...?"],
+    "new_targets": ["das Brötchen", "kosten", "kaufen", "möchten", "bitte", "der Euro"],
+    "recycled_targets": ["das Brot", "der Kaffee", "essen", "trinken"], "recycles_from": [7],
+    "audio_path": "assets/audio/a1-008.wav",
+    "sentences": [
+      {"de": "In der Bäckerei möchte Mina vier Brötchen und ein Brot kaufen.", "en": "At the bakery Mina would like to buy four bread rolls and a loaf of bread.", "audio_path": "assets/audio/sentences/a1-008-1.wav"},
+      {"de": "Sie fragt: „Was kostet das Brot, bitte?“", "en": "She asks, “How much does the bread cost, please?”", "audio_path": "assets/audio/sentences/a1-008-2.wav"},
+      {"de": "Die Verkäuferin sagt: „Drei Euro zwanzig.“", "en": "The saleswoman says, “Three euros twenty.”", "audio_path": "assets/audio/sentences/a1-008-3.wav"},
+      {"de": "Mina kauft das Brot und trinkt danach einen Kaffee.", "en": "Mina buys the bread and has a coffee afterward.", "audio_path": "assets/audio/sentences/a1-008-4.wav"}
+    ],
+    "comprehension": {"question_en": "How many bread rolls does Mina want?", "answer_en": "She wants four bread rolls."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist", "goethe-a1-practice"]
+  },
+  {
+    "id": "a1-009", "sequence": 9, "band": "A1.1", "format": "narrative",
+    "title_de": "Im Supermarkt", "title_en": "At the supermarket",
+    "topic": "groceries", "communicative_goal": "Name basic groceries and say what is needed.",
+    "grammar_focus": "kein and keine for negation of nouns",
+    "supporting_structures": ["Ich brauche ...", "Wir haben kein ..."],
+    "new_targets": ["die Tomate", "der Apfel", "die Milch", "das Wasser", "brauchen", "die Flasche"],
+    "recycled_targets": ["kaufen", "kosten", "der Euro", "die Familie", "trinken"], "recycles_from": [3, 7, 8],
+    "audio_path": "assets/audio/a1-009.wav",
+    "sentences": [
+      {"de": "Für das Abendessen braucht Mina Tomaten, Brot und Milch.", "en": "For dinner Mina needs tomatoes, bread, and milk.", "audio_path": "assets/audio/sentences/a1-009-1.wav"},
+      {"de": "Im Supermarkt kauft sie auch vier Äpfel.", "en": "At the supermarket she also buys four apples.", "audio_path": "assets/audio/sentences/a1-009-2.wav"},
+      {"de": "Zu Hause hat sie kein Wasser mehr, deshalb nimmt sie zwei Flaschen.", "en": "She has no water left at home, so she takes two bottles.", "audio_path": "assets/audio/sentences/a1-009-3.wav"},
+      {"de": "Alles kostet zwölf Euro.", "en": "Everything costs twelve euros.", "audio_path": "assets/audio/sentences/a1-009-4.wav"}
+    ],
+    "comprehension": {"question_en": "Why does Mina buy two bottles of water?", "answer_en": "Because she has no water left at home."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist"]
+  },
+  {
+    "id": "a1-010", "sequence": 10, "band": "A1.1", "format": "dialogue",
+    "title_de": "Treffen am Dienstag", "title_en": "Meeting on Tuesday",
+    "topic": "time and appointments", "communicative_goal": "Ask about availability and arrange a simple meeting.",
+    "grammar_focus": "time-first word order and yes-no questions",
+    "supporting_structures": ["Hast du ... Zeit?", "Um wie viel Uhr?"],
+    "new_targets": ["der Termin", "der Dienstag", "heute", "morgen", "Zeit haben", "sich treffen"],
+    "recycled_targets": ["die Uhr", "gehen", "arbeiten", "lernen", "der Kaffee"], "recycles_from": [2, 6, 7],
+    "audio_path": "assets/audio/a1-010.wav",
+    "sentences": [
+      {"de": "Leo fragt Mina: „Hast du morgen Zeit?“", "en": "Leo asks Mina, “Do you have time tomorrow?”", "audio_path": "assets/audio/sentences/a1-010-1.wav"},
+      {"de": "Mina arbeitet am Dienstag bis vier Uhr, aber danach ist sie frei.", "en": "Mina works until four o'clock on Tuesday, but she is free afterward.", "audio_path": "assets/audio/sentences/a1-010-2.wav"},
+      {"de": "Sie treffen sich um fünf Uhr in einem Café.", "en": "They meet at five o'clock in a café.", "audio_path": "assets/audio/sentences/a1-010-3.wav"},
+      {"de": "Heute hat Mina noch einen Termin im Deutschkurs.", "en": "Today Mina still has an appointment in the German course.", "audio_path": "assets/audio/sentences/a1-010-4.wav"}
+    ],
+    "comprehension": {"question_en": "What time will Mina and Leo meet?", "answer_en": "They will meet at five o'clock."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist", "goethe-a1-practice"]
+  },
+  {
+    "id": "a1-011", "sequence": 11, "band": "A1.1", "format": "narrative",
+    "title_de": "Mit dem Bus zum Kurs", "title_en": "Taking the bus to the course",
+    "topic": "public transport", "communicative_goal": "Describe a simple trip by public transport.",
+    "grammar_focus": "mit plus dative in fixed transport phrases",
+    "supporting_structures": ["mit dem Bus", "an der Haltestelle"],
+    "new_targets": ["der Bus", "der Zug", "der Bahnhof", "die Haltestelle", "fahren", "warten"],
+    "recycled_targets": ["gehen", "beginnen", "die Uhr", "der Kurs", "heute"], "recycles_from": [2, 6, 10],
+    "audio_path": "assets/audio/a1-011.wav",
+    "sentences": [
+      {"de": "Heute fährt Mina mit dem Bus zum Deutschkurs.", "en": "Today Mina takes the bus to the German course.", "audio_path": "assets/audio/sentences/a1-011-1.wav"},
+      {"de": "An der Haltestelle wartet sie zehn Minuten.", "en": "She waits ten minutes at the bus stop.", "audio_path": "assets/audio/sentences/a1-011-2.wav"},
+      {"de": "Der Kurs beginnt um sechs Uhr, und Mina kommt pünktlich an.", "en": "The course begins at six o'clock, and Mina arrives on time.", "audio_path": "assets/audio/sentences/a1-011-3.wav"},
+      {"de": "Am Wochenende fährt sie mit dem Zug vom Bahnhof nach Köln.", "en": "At the weekend she takes the train from the station to Cologne.", "audio_path": "assets/audio/sentences/a1-011-4.wav"}
+    ],
+    "comprehension": {"question_en": "How does Mina travel to the German course?", "answer_en": "She takes the bus."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist"]
+  },
+  {
+    "id": "a1-012", "sequence": 12, "band": "A1.1", "format": "dialogue",
+    "title_de": "Wo ist der Bahnhof?", "title_en": "Where is the station?",
+    "topic": "directions", "communicative_goal": "Ask for and understand very simple directions.",
+    "grammar_focus": "imperative forms in common direction instructions",
+    "supporting_structures": ["Gehen Sie ...", "Dann links"],
+    "new_targets": ["links", "rechts", "geradeaus", "die Straße", "finden", "zeigen"],
+    "recycled_targets": ["der Bahnhof", "die Haltestelle", "gehen", "die Stadt", "bitte"], "recycles_from": [1, 6, 8, 11],
+    "audio_path": "assets/audio/a1-012.wav",
+    "sentences": [
+      {"de": "Mina findet den Bahnhof nicht und fragt einen Mann: „Entschuldigung, können Sie mir den Weg zeigen?“", "en": "Mina cannot find the station and asks a man, “Excuse me, can you show me the way?”", "audio_path": "assets/audio/sentences/a1-012-1.wav"},
+      {"de": "Der Mann sagt: „Gehen Sie diese Straße geradeaus.“", "en": "The man says, “Go straight along this street.”", "audio_path": "assets/audio/sentences/a1-012-2.wav"},
+      {"de": "Dann gehen Sie nach links und an der nächsten Haltestelle nach rechts.", "en": "Then go left and go right at the next bus stop.", "audio_path": "assets/audio/sentences/a1-012-3.wav"},
+      {"de": "Dort sehen Sie den Bahnhof.", "en": "You will see the station there.", "audio_path": "assets/audio/sentences/a1-012-4.wav"}
+    ],
+    "comprehension": {"question_en": "What should Mina do first?", "answer_en": "She should go straight along the street."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist", "goethe-a1-practice"]
+  },
+  {
+    "id": "a1-013", "sequence": 13, "band": "A1.1", "format": "description",
+    "title_de": "Regen am Morgen", "title_en": "Rain in the morning",
+    "topic": "weather", "communicative_goal": "Describe basic weather and choose a suitable item.",
+    "grammar_focus": "impersonal es in weather expressions",
+    "supporting_structures": ["Es regnet", "Es ist kalt"],
+    "new_targets": ["das Wetter", "die Sonne", "der Regen", "schlecht", "kalt", "der Wind"],
+    "recycled_targets": ["der Morgen", "gehen", "fahren", "heute", "die Straße"], "recycles_from": [6, 10, 11, 12],
+    "audio_path": "assets/audio/a1-013.wav",
+    "sentences": [
+      {"de": "Heute Morgen ist das Wetter kalt und schlecht.", "en": "This morning the weather is cold and bad.", "audio_path": "assets/audio/sentences/a1-013-1.wav"},
+      {"de": "Die Sonne scheint nicht, draußen fällt viel Regen, und der Wind ist stark.", "en": "The sun is not shining, a lot of rain is falling outside, and the wind is strong.", "audio_path": "assets/audio/sentences/a1-013-2.wav"},
+      {"de": "Mina geht schnell zur Haltestelle.", "en": "Mina walks quickly to the bus stop.", "audio_path": "assets/audio/sentences/a1-013-3.wav"},
+      {"de": "Im Bus ist sie vor dem schlechten Wetter geschützt.", "en": "On the bus she is protected from the bad weather.", "audio_path": "assets/audio/sentences/a1-013-4.wav"}
+    ],
+    "comprehension": {"question_en": "What is the wind like?", "answer_en": "The wind is strong."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist"]
+  },
+  {
+    "id": "a1-014", "sequence": 14, "band": "A1.1", "format": "dialogue",
+    "title_de": "Eine Jacke für den Regen", "title_en": "A jacket for the rain",
+    "topic": "clothes", "communicative_goal": "Ask for clothing, color, size, and fit.",
+    "grammar_focus": "accusative articles after nehmen and suchen",
+    "supporting_structures": ["Ich suche ...", "Die Schuhe sind zu teuer"],
+    "new_targets": ["die Jacke", "das Kleid", "der Schuh", "tragen", "die Farbe", "teuer"],
+    "recycled_targets": ["der Regen", "kalt", "das Wetter", "kaufen", "kosten", "der Euro"], "recycles_from": [8, 13],
+    "audio_path": "assets/audio/a1-014.wav",
+    "sentences": [
+      {"de": "Mina sucht eine warme Jacke für den Regen.", "en": "Mina is looking for a warm jacket for the rain.", "audio_path": "assets/audio/sentences/a1-014-1.wav"},
+      {"de": "Die Verkäuferin zeigt ihr eine blaue Jacke und ein schwarzes Kleid.", "en": "The saleswoman shows her a blue jacket and a black dress.", "audio_path": "assets/audio/sentences/a1-014-2.wav"},
+      {"de": "Mina mag die blaue Farbe und probiert die Jacke an.", "en": "Mina likes the blue color and tries on the jacket.", "audio_path": "assets/audio/sentences/a1-014-3.wav"},
+      {"de": "Die Jacke ist gut, aber die Schuhe sind zu teuer.", "en": "The jacket is good, but the shoes are too expensive.", "audio_path": "assets/audio/sentences/a1-014-4.wav"}
+    ],
+    "comprehension": {"question_en": "Why does Mina not buy the shoes?", "answer_en": "Because they are too expensive."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist", "goethe-a1-practice"]
+  },
+  {
+    "id": "a1-015", "sequence": 15, "band": "A1.1", "format": "dialogue",
+    "title_de": "Beim Arzt", "title_en": "At the doctor's",
+    "topic": "health", "communicative_goal": "State a simple health problem and understand basic advice.",
+    "grammar_focus": "dative pronoun in mir tut ... weh",
+    "supporting_structures": ["Mir tut ... weh", "Ich bin krank"],
+    "new_targets": ["der Kopf", "der Bauch", "wehtun", "krank", "der Arzt", "schlafen"],
+    "recycled_targets": ["der Termin", "heute", "trinken", "das Wasser", "gehen"], "recycles_from": [6, 7, 9, 10],
+    "audio_path": "assets/audio/a1-015.wav",
+    "sentences": [
+      {"de": "Mina ist krank und hat heute einen Termin beim Arzt.", "en": "Mina is ill and has an appointment with the doctor today.", "audio_path": "assets/audio/sentences/a1-015-1.wav"},
+      {"de": "Sie sagt: „Mein Kopf und mein Bauch tun weh.“", "en": "She says, “My head and my stomach hurt.”", "audio_path": "assets/audio/sentences/a1-015-2.wav"},
+      {"de": "Der Arzt fragt: „Schlafen Sie genug?“", "en": "The doctor asks, “Do you sleep enough?”", "audio_path": "assets/audio/sentences/a1-015-3.wav"},
+      {"de": "Mina soll viel Wasser trinken und zu Hause schlafen.", "en": "Mina should drink plenty of water and sleep at home.", "audio_path": "assets/audio/sentences/a1-015-4.wav"}
+    ],
+    "comprehension": {"question_en": "What should Mina drink?", "answer_en": "She should drink plenty of water."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist", "goethe-a1-practice"]
+  },
+  {
+    "id": "a1-016", "sequence": 16, "band": "A1.1", "format": "description",
+    "title_de": "Freizeit am Wochenende", "title_en": "Free time at the weekend",
+    "topic": "leisure", "communicative_goal": "Talk about simple leisure preferences.",
+    "grammar_focus": "gern and lieber with activities",
+    "supporting_structures": ["Ich lese gern", "Sie hört lieber ..."],
+    "new_targets": ["spielen", "lesen", "das Radio", "der Film", "das Wochenende", "gern"],
+    "recycled_targets": ["die Familie", "der Bruder", "die Schwester", "sich treffen", "gehen"], "recycles_from": [3, 6, 10],
+    "audio_path": "assets/audio/a1-016.wav",
+    "sentences": [
+      {"de": "Am Wochenende trifft Mina oft ihren Bruder.", "en": "At the weekend Mina often meets her brother.", "audio_path": "assets/audio/sentences/a1-016-1.wav"},
+      {"de": "Er spielt gern Fußball, aber Mina liest lieber zu Hause.", "en": "He likes playing football, but Mina prefers reading at home.", "audio_path": "assets/audio/sentences/a1-016-2.wav"},
+      {"de": "Am Abend hören sie zusammen Radio oder sehen einen Film.", "en": "In the evening they listen to the radio together or watch a film.", "audio_path": "assets/audio/sentences/a1-016-3.wav"},
+      {"de": "Ihre Schwester geht am Wochenende gern ins Kino.", "en": "Her sister likes going to the cinema at the weekend.", "audio_path": "assets/audio/sentences/a1-016-4.wav"}
+    ],
+    "comprehension": {"question_en": "What does Mina prefer to do?", "answer_en": "She prefers to read at home."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist"]
+  },
+  {
+    "id": "a1-017", "sequence": 17, "band": "A1.1", "format": "dialogue",
+    "title_de": "Kannst du mir helfen?", "title_en": "Can you help me?",
+    "topic": "requests at home", "communicative_goal": "Make and respond to simple requests.",
+    "grammar_focus": "modal verb können with sentence-final infinitive",
+    "supporting_structures": ["Kannst du ...?", "Ja, gern"],
+    "new_targets": ["können", "dürfen", "helfen", "öffnen", "schließen", "sofort"],
+    "recycled_targets": ["das Fenster", "das Zimmer", "kalt", "das Wetter", "bitte", "gern"], "recycles_from": [4, 5, 8, 13, 16],
+    "audio_path": "assets/audio/a1-017.wav",
+    "sentences": [
+      {"de": "Im Kurs ist es sehr warm, und Mina fragt Leo: „Kannst du bitte das Fenster öffnen?“", "en": "It is very warm in the course, and Mina asks Leo, “Can you please open the window?”", "audio_path": "assets/audio/sentences/a1-017-1.wav"},
+      {"de": "Leo sagt: „Ja, gern. Aber dürfen wir das Fenster lange offen lassen?“", "en": "Leo says, “Yes, gladly. But are we allowed to leave the window open for a long time?”", "audio_path": "assets/audio/sentences/a1-017-2.wav"},
+      {"de": "Die Lehrerin antwortet: „Nur fünf Minuten, dann schließen wir es wieder.“", "en": "The teacher answers, “Only for five minutes, then we will close it again.”", "audio_path": "assets/audio/sentences/a1-017-3.wav"},
+      {"de": "Leo hilft sofort.", "en": "Leo helps right away.", "audio_path": "assets/audio/sentences/a1-017-4.wav"}
+    ],
+    "comprehension": {"question_en": "Why does Mina want the window open?", "answer_en": "Because the room is very warm."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist", "goethe-a1-practice"]
+  },
+  {
+    "id": "a1-018", "sequence": 18, "band": "A1.1", "format": "description",
+    "title_de": "Ein Tag im Büro", "title_en": "A day at the office",
+    "topic": "work and education", "communicative_goal": "Describe people and basic activities at work and school.",
+    "grammar_focus": "third-person present-tense descriptions",
+    "supporting_structures": ["Er arbeitet als ...", "Sie erklärt ..."],
+    "new_targets": ["das Büro", "der Kollege", "die Lehrerin", "die Schule", "erklären", "die Pause"],
+    "recycled_targets": ["arbeiten", "lernen", "beginnen", "der Kurs", "helfen"], "recycles_from": [2, 6, 17],
+    "audio_path": "assets/audio/a1-018.wav",
+    "sentences": [
+      {"de": "Mina arbeitet am Vormittag in einem kleinen Büro.", "en": "Mina works in a small office in the morning.", "audio_path": "assets/audio/sentences/a1-018-1.wav"},
+      {"de": "Ihr Kollege Paul hilft ihr oft und erklärt neue Aufgaben.", "en": "Her colleague Paul often helps her and explains new tasks.", "audio_path": "assets/audio/sentences/a1-018-2.wav"},
+      {"de": "Nach der Pause geht Mina in die Schule zum Deutschkurs.", "en": "After the break Mina goes to the school for her German course.", "audio_path": "assets/audio/sentences/a1-018-3.wav"},
+      {"de": "Die Lehrerin beginnt den Unterricht mit einer Frage.", "en": "The teacher begins the lesson with a question.", "audio_path": "assets/audio/sentences/a1-018-4.wav"}
+    ],
+    "comprehension": {"question_en": "Who explains new tasks to Mina?", "answer_en": "Her colleague Paul does."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist"]
+  },
+  {
+    "id": "a1-019", "sequence": 19, "band": "A1.1", "format": "message",
+    "title_de": "Eine kurze Nachricht", "title_en": "A short message",
+    "topic": "communication", "communicative_goal": "Understand a short message about a changed meeting time.",
+    "grammar_focus": "modal verb müssen and time expressions",
+    "supporting_structures": ["Ich muss ...", "Ruf mich bitte an"],
+    "new_targets": ["das Telefon", "anrufen", "später", "schicken", "die E-Mail", "müssen"],
+    "recycled_targets": ["der Termin", "sich treffen", "morgen", "die Uhr", "arbeiten", "bitte"], "recycles_from": [2, 6, 8, 10],
+    "audio_path": "assets/audio/a1-019.wav",
+    "sentences": [
+      {"de": "Hallo Leo, ich muss morgen länger arbeiten.", "en": "Hello Leo, I have to work longer tomorrow.", "audio_path": "assets/audio/sentences/a1-019-1.wav"},
+      {"de": "Können wir uns eine Stunde später treffen?", "en": "Can we meet one hour later?", "audio_path": "assets/audio/sentences/a1-019-2.wav"},
+      {"de": "Bitte ruf mich an oder schick mir eine E-Mail.", "en": "Please call me or send me an email.", "audio_path": "assets/audio/sentences/a1-019-3.wav"},
+      {"de": "Viele Grüße, Mina.", "en": "Best wishes, Mina.", "audio_path": "assets/audio/sentences/a1-019-4.wav"}
+    ],
+    "comprehension": {"question_en": "Why does Mina want to meet later?", "answer_en": "Because she has to work longer."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist", "goethe-a1-practice"]
+  },
+  {
+    "id": "a1-020", "sequence": 20, "band": "A1.1", "format": "narrative",
+    "title_de": "Ein voller Samstag", "title_en": "A busy Saturday",
+    "topic": "A1.1 cumulative review", "communicative_goal": "Follow a short sequence involving shopping, transport, family, and leisure.",
+    "grammar_focus": "time-first clauses with present-tense verb-second order",
+    "supporting_structures": ["Am Morgen ...", "Danach ...", "Am Abend ..."],
+    "new_targets": ["der Samstag", "der Abend", "zusammen", "besuchen", "zurück", "müde"],
+    "recycled_targets": ["aufstehen", "der Bus", "kaufen", "das Brot", "die Eltern", "der Film", "anrufen", "später"], "recycles_from": [3, 6, 7, 8, 11, 16, 19],
+    "audio_path": "assets/audio/a1-020.wav",
+    "sentences": [
+      {"de": "Am Samstag steht Mina zuerst früh auf und fährt mit dem Bus in die Stadt.", "en": "On Saturday Mina first gets up early and takes the bus into town.", "audio_path": "assets/audio/sentences/a1-020-1.wav"},
+      {"de": "Dort kauft sie Brot und besucht danach ihre Eltern.", "en": "There she buys bread and then visits her parents.", "audio_path": "assets/audio/sentences/a1-020-2.wav"},
+      {"de": "Am Abend sieht die Familie zusammen einen Film.", "en": "In the evening the family watches a film together.", "audio_path": "assets/audio/sentences/a1-020-3.wav"},
+      {"de": "Mina fährt später zurück, ruft Leo an und geht müde ins Bett.", "en": "Mina goes back later, calls Leo, and goes to bed tired.", "audio_path": "assets/audio/sentences/a1-020-4.wav"}
+    ],
+    "comprehension": {"question_en": "What does Mina do after buying bread?", "answer_en": "She visits her parents."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist", "goethe-a1-practice"]
+  }
+]

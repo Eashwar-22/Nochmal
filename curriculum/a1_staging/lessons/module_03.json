@@ -1,0 +1,94 @@
+[
+  {
+    "draft_id": "a1-draft-013",
+    "blueprint_lesson": 13,
+    "title": "At the Bakery",
+    "module": 3,
+    "format": "dialogue",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Mina geht am Morgen in die Bäckerei und begrüßt die Verkäuferin.", "en": "Mina goes to the bakery in the morning and greets the saleswoman."},
+      {"de": "Sie sagt: „Ich möchte zwei Brötchen und ein Brot, bitte.“", "en": "She says, “I would like two rolls and a loaf of bread, please.”"},
+      {"de": "Die Verkäuferin fragt: „Möchten Sie auch Käse oder Butter?“", "en": "The saleswoman asks, “Would you also like cheese or butter?”"},
+      {"de": "Mina nimmt nur den Käse, bezahlt und sagt freundlich Danke.", "en": "Mina takes only the cheese, pays, and says thank you politely."}
+    ],
+    "first_listen_check": {"prompt": "What does Mina buy with the bread and rolls?", "answer": "Cheese."}
+  },
+  {
+    "draft_id": "a1-draft-014",
+    "blueprint_lesson": 14,
+    "title": "How Much Is It?",
+    "module": 3,
+    "format": "dialogue",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Auf dem Markt möchte Leo Äpfel und Wasser kaufen.", "en": "At the market, Leo would like to buy apples and water."},
+      {"de": "Er fragt: „Wie viel kostet ein Kilo Äpfel?“", "en": "He asks, “How much does a kilo of apples cost?”"},
+      {"de": "Die Verkäuferin antwortet: „Drei Euro, und eine Flasche Wasser kostet einen Euro.“", "en": "The saleswoman answers, “Three euros, and a bottle of water costs one euro.”"},
+      {"de": "Leo findet den Preis billig und nimmt ein Kilo und zwei Flaschen.", "en": "Leo finds the price cheap and takes one kilo and two bottles."}
+    ],
+    "first_listen_check": {"prompt": "How much does one bottle of water cost?", "answer": "One euro."}
+  },
+  {
+    "draft_id": "a1-draft-015",
+    "blueprint_lesson": 15,
+    "title": "Breakfast Choices",
+    "module": 3,
+    "format": "dialogue",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Am Sonntag frühstücken Mina und ihre Schwester zusammen in der Küche.", "en": "On Sunday, Mina and her sister have breakfast together in the kitchen."},
+      {"de": "Mina isst gern Brot mit Käse und trinkt Kaffee.", "en": "Mina likes eating bread with cheese and drinks coffee."},
+      {"de": "Ihre Schwester trinkt lieber Tee mit Milch und isst ein Brötchen.", "en": "Her sister prefers tea with milk and eats a bread roll."},
+      {"de": "Beide mögen Butter, aber heute essen sie lieber Käse.", "en": "They both like butter, but today they prefer to eat cheese."}
+    ],
+    "first_listen_check": {"prompt": "What does Mina’s sister prefer to drink?", "answer": "Tea with milk."}
+  },
+  {
+    "draft_id": "a1-draft-016",
+    "blueprint_lesson": 16,
+    "title": "The Shopping List",
+    "module": 3,
+    "format": "dialogue_and_list",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Vor dem Einkauf sehen Mina und Leo in den Kühlschrank.", "en": "Before shopping, Mina and Leo look in the fridge."},
+      {"de": "Mina sagt: „Wir haben keine Milch und kein Gemüse mehr.“", "en": "Mina says, “We don’t have any milk or vegetables left.”"},
+      {"de": "Leo braucht auch Wasser, Tomaten und vier Äpfel für morgen früh.", "en": "Leo also needs water, tomatoes, and four apples for tomorrow morning."},
+      {"de": "Dann schreiben sie alles zusammen auf eine kurze Einkaufsliste.", "en": "Then they write everything together on a short shopping list."}
+    ],
+    "first_listen_check": {"prompt": "Which two things are no longer in the fridge?", "answer": "Milk and vegetables."}
+  },
+  {
+    "draft_id": "a1-draft-017",
+    "blueprint_lesson": 17,
+    "title": "At the Café",
+    "module": 3,
+    "format": "dialogue",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Im Café lesen Mina und Leo zuerst die Speisekarte.", "en": "At the café, Mina and Leo first read the menu."},
+      {"de": "Mina bestellt ein kleines Essen und einen Tee.", "en": "Mina orders a small meal and a tea."},
+      {"de": "Leo fragt: „Kann ich bitte einen Kaffee mit Milch haben?“", "en": "Leo asks, “Can I please have a coffee with milk?”"},
+      {"de": "Nach dem Essen sagt Mina: „Die Rechnung, bitte.“", "en": "After the meal, Mina says, “The bill, please.”"},
+      {"de": "Sie zahlt mit Karte, und Leo bezahlt seinen Kaffee bar.", "en": "She pays by card, and Leo pays cash for his coffee."}
+    ],
+    "first_listen_check": {"prompt": "How does Mina pay?", "answer": "By card."}
+  },
+  {
+    "draft_id": "a1-draft-018",
+    "blueprint_lesson": 18,
+    "title": "Checkpoint: Food Mission",
+    "module": 3,
+    "format": "two_scene_dialogue",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Auf dem Markt fragt Mina: „Was kostet ein Kilo Tomaten, bitte?“", "en": "At the market, Mina asks, “How much does a kilo of tomatoes cost, please?”"},
+      {"de": "Sie kauft die Tomaten und auch zwei Äpfel für zu Hause.", "en": "She buys the tomatoes and also two apples for home."},
+      {"de": "Danach bestellt sie im Café einen Tee zum Mitnehmen.", "en": "Afterwards she orders a tea to take away at the café."},
+      {"de": "Die Verkäuferin fragt: „Sonst noch etwas?“", "en": "The saleswoman asks, “Anything else?”"},
+      {"de": "Mina antwortet: „Nein, danke, das ist alles.“", "en": "Mina answers, “No, thank you, that’s all.”"}
+    ],
+    "first_listen_check": {"prompt": "What does Mina buy in addition to the tomatoes?", "answer": "Two apples."}
+  }
+]

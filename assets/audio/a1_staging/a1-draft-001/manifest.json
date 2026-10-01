@@ -1,0 +1,31 @@
+{
+  "draft_id": "a1-draft-001",
+  "status": "draft_unpublished",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav"
+  ],
+  "sentence_texts": [
+    "Hallo, ich hei\u00dfe Mina und bin neu im Kurs.",
+    "Guten Tag, Mina, ich bin Leo.",
+    "Freut mich, Mina, und willkommen im Kurs.",
+    "Auf Wiedersehen, Leo!"
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "68fb5efefb9a71fd1cac8bc191adb51e6363a8708ccda6444bf4bc6437edfbf1",
+    "sentence-02.wav": "caf5d034f66d0fa59b48bd200b5240ba75cdd1be64e03f41acdac7a2144a3055",
+    "sentence-03.wav": "6dea8528a46f41e0f410b7364c2cd596270c496528d9bc379f2ec54bdb24e733",
+    "sentence-04.wav": "ed1b3712f03edf036d9195324ea3dd109b7555b9d950916ddd2ec6a34b02f6cd"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "0233d0d26b9e2ff6240b1321032f247d5abb93861da0038516011fc1d5146804",
+  "paragraph_assembled_from_sentence_files": true
+}

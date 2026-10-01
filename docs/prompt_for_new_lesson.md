@@ -1,0 +1,1 @@
+Integrate lesson [number] into the app for my review. Read and follow `docs/grammar-breakdown-rulebook.md` and `docs/lesson-format.md` first. Use the typed Pydantic structure, avoid lesson-specific prose and shared-code sentence exceptions, run all checks, and let me review the rendered lesson in the app before calling it final.

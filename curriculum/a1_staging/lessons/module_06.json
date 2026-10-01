@@ -1,0 +1,98 @@
+[
+  {
+    "draft_id": "a1-draft-031",
+    "blueprint_lesson": 31,
+    "title": "At the Doctor",
+    "module": 6,
+    "format": "dialogue",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Mina ist krank und hat am Morgen einen Termin beim Arzt.", "en": "Mina is ill and has a doctor’s appointment in the morning."},
+      {"de": "Sie sagt: „Mir tut der Kopf weh, und mein Bauch tut auch weh.“", "en": "She says, “My head hurts, and my stomach hurts too.”"},
+      {"de": "Der Arzt fragt: „Tut Ihr Arm auch weh?“", "en": "The doctor asks, “Does your arm hurt too?”"},
+      {"de": "Mina antwortet: „Nein, mein Arm tut nicht weh.“", "en": "Mina answers, “No, my arm does not hurt.”"},
+      {"de": "Dann untersucht der Arzt kurz ihren Kopf und ihren Bauch.", "en": "Then the doctor briefly examines her head and stomach."}
+    ],
+    "first_listen_check": {"prompt": "Which body parts hurt?", "answer": "Mina’s head and stomach."}
+  },
+  {
+    "draft_id": "a1-draft-032",
+    "blueprint_lesson": 32,
+    "title": "At the Pharmacy",
+    "module": 6,
+    "format": "dialogue",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Nach dem Arzttermin geht Mina mit ihrem Rezept in die Apotheke.", "en": "After the doctor’s appointment, Mina goes to the pharmacy with her prescription."},
+      {"de": "Die Apothekerin gibt ihr ein Medikament gegen das Fieber.", "en": "The pharmacist gives her medicine for the fever."},
+      {"de": "Sie sagt: „Nehmen Sie morgens und abends eine Tablette mit Wasser.“", "en": "She says, “Take one tablet with water in the morning and evening.”"},
+      {"de": "Die Apothekerin sagt außerdem: „Trinken Sie viel und schlafen Sie heute lange.“", "en": "The pharmacist also says, “Drink plenty and sleep for a long time today.”"},
+      {"de": "Sie wiederholt die Zeiten und bedankt sich freundlich bei ihr.", "en": "She repeats the times and thanks her politely."}
+    ],
+    "first_listen_check": {"prompt": "When should Mina take the tablet?", "answer": "In the morning and evening."}
+  },
+  {
+    "draft_id": "a1-draft-033",
+    "blueprint_lesson": 33,
+    "title": "Which Jacket?",
+    "module": 6,
+    "format": "dialogue",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Mina sucht im Geschäft eine Jacke für das kalte Wetter.", "en": "Mina is looking for a jacket in the shop for the cold weather."},
+      {"de": "Die Verkäuferin zeigt ihr eine blaue Jacke in Größe 38.", "en": "The saleswoman shows her a blue jacket in size 38."},
+      {"de": "Mina probiert die Jacke an, aber sie ist zu groß.", "en": "Mina tries the jacket on, but it is too large."},
+      {"de": "Dann nimmt sie die rote Jacke, denn die passt gut.", "en": "Then she takes the red jacket because it fits well."},
+      {"de": "Die Schuhe trägt sie nicht; sie sind schön, aber zu teuer.", "en": "She does not take the shoes; they are nice but too expensive."}
+    ],
+    "first_listen_check": {"prompt": "Which jacket does Mina choose?", "answer": "The red jacket."}
+  },
+  {
+    "draft_id": "a1-draft-034",
+    "blueprint_lesson": 34,
+    "title": "At the Post Office",
+    "module": 6,
+    "format": "instructions_and_dialogue",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Bei der Post möchte Leo einen Brief nach Spanien schicken.", "en": "At the post office, Leo wants to send a letter to Spain."},
+      {"de": "Die Mitarbeiterin sagt: „Schreiben Sie zuerst den Empfänger auf den Brief.“", "en": "The employee says, “First write the recipient on the letter.”"},
+      {"de": "Dann schreiben Sie den Absender auf die Rückseite und kleben die Briefmarke oben rechts auf den Umschlag.", "en": "Then write the sender on the back and stick the stamp at the top right of the envelope."},
+      {"de": "Leo muss auch ein kurzes Formular ausfüllen und zwei Stellen ankreuzen.", "en": "Leo also has to fill in a short form and tick two places."},
+      {"de": "Zum Schluss bezahlt er und gibt den Brief ab.", "en": "Finally he pays and hands over the letter."}
+    ],
+    "first_listen_check": {"prompt": "Where does Leo write the sender?", "answer": "On the back of the letter."}
+  },
+  {
+    "draft_id": "a1-draft-035",
+    "blueprint_lesson": 35,
+    "title": "My Card Is Gone",
+    "module": 6,
+    "format": "dialogue",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Nach dem Einkauf sucht Mina ihre Karte, aber die Karte und ihr Geld sind weg.", "en": "After shopping, Mina looks for her card, but the card and her money are gone."},
+      {"de": "Sie geht zur Bank und sagt: „Ich brauche bitte Hilfe.“", "en": "She goes to the bank and says, “I need help, please.”"},
+      {"de": "Der Mitarbeiter fragt nach ihrem Konto und hilft ihr sofort.", "en": "The employee asks about her account and helps her immediately."},
+      {"de": "Mina weiß es nicht und geht danach zur Polizei.", "en": "Mina does not know and afterwards goes to the police."},
+      {"de": "Dort gibt sie ihren Namen, ihre Adresse und ihre Telefonnummer an.", "en": "There she gives her name, address, and telephone number."}
+    ],
+    "first_listen_check": {"prompt": "Where does Mina go after the bank?", "answer": "To the police."}
+  },
+  {
+    "draft_id": "a1-draft-036",
+    "blueprint_lesson": 36,
+    "title": "Checkpoint: Three Errands",
+    "module": 6,
+    "format": "linked_mini_dialogues",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Zuerst fragt Leo in der Apotheke: „Wo muss ich dieses Rezept abgeben?“", "en": "First Leo asks at the pharmacy, “Where do I have to hand in this prescription?”"},
+      {"de": "Danach füllt er bei der Post ein Formular aus und fragt: „Ist das richtig?“", "en": "Afterwards he fills in a form at the post office and asks, “Is that correct?”"},
+      {"de": "Die Mitarbeiterin hilft ihm und nimmt den Brief an.", "en": "The employee helps him and accepts the letter."},
+      {"de": "Später funktioniert seine Karte am Automaten nicht, und Leo geht in die Bank.", "en": "Later his card does not work at the cash machine, and Leo goes into the bank."},
+      {"de": "Dort sagt er: „Ich brauche Hilfe; die Karte geht nicht.“", "en": "There he says, “I need help; the card does not work.”"}
+    ],
+    "first_listen_check": {"prompt": "At which errand does Leo’s card fail?", "answer": "At the cash machine before he goes into the bank."}
+  }
+]

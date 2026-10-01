@@ -1,0 +1,97 @@
+[
+  {
+    "draft_id": "a1-draft-025",
+    "blueprint_lesson": 25,
+    "title": "A Ticket, Please",
+    "module": 5,
+    "format": "dialogue",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Am Bahnhof möchte Mina eine Fahrkarte nach Köln kaufen.", "en": "At the station, Mina would like to buy a ticket to Cologne."},
+      {"de": "Sie fragt: „Kann ich heute mit dem Zug um zehn Uhr fahren?“", "en": "She asks, “Can I travel on the ten o’clock train today?”"},
+      {"de": "Der Mitarbeiter antwortet: „Ja, der Zug fährt pünktlich.“", "en": "The employee answers, “Yes, the train leaves on time.”"},
+      {"de": "Dann nennt er den Preis und zeigt Mina die Fahrkarte.", "en": "Then he states the price and shows Mina the ticket."},
+      {"de": "Mina nimmt die Fahrkarte nach Köln und bezahlt mit Karte.", "en": "Mina takes the ticket to Cologne and pays by card."}
+    ],
+    "first_listen_check": {"prompt": "Where is Mina travelling?", "answer": "To Cologne."}
+  },
+  {
+    "draft_id": "a1-draft-026",
+    "blueprint_lesson": 26,
+    "title": "The Platform Announcement",
+    "module": 5,
+    "format": "announcement",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Achtung, hier ist eine wichtige Durchsage für den Zug nach Köln.", "en": "Attention, here is an important announcement for the train to Cologne."},
+      {"de": "Der Zug fährt heute um zehn Uhr zwölf von Gleis vier ab.", "en": "The train leaves today at 10:12 from platform four."},
+      {"de": "Die Ankunft in Köln ist um elf Uhr, und dort haben Sie Anschluss nach Bonn.", "en": "Arrival in Cologne is at eleven o’clock, and there you have a connection to Bonn."},
+      {"de": "Bitte halten Sie Ihre Fahrkarte bereit und gehen Sie jetzt zu Gleis vier.", "en": "Please have your ticket ready and go to platform four now."}
+    ],
+    "first_listen_check": {"prompt": "Which platform does the train leave from?", "answer": "Platform four."}
+  },
+  {
+    "draft_id": "a1-draft-027",
+    "blueprint_lesson": 27,
+    "title": "At Hotel Reception",
+    "module": 5,
+    "format": "dialogue",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Mina kommt am Abend mit ihrem Koffer im Hotel an.", "en": "Mina arrives at the hotel in the evening with her suitcase."},
+      {"de": "An der Rezeption sagt sie: „Guten Abend, ich habe ein Einzelzimmer bestellt.“", "en": "At reception she says, “Good evening, I booked a single room.”"},
+      {"de": "Der Mitarbeiter fragt: „Wie ist Ihr Name, und haben Sie Ihren Pass dabei?“", "en": "The employee asks, “What is your name, and do you have your passport with you?”"},
+      {"de": "Mina zeigt den Pass und bekommt den Schlüssel für Zimmer zwölf.", "en": "Mina shows her passport and receives the key to room twelve."},
+      {"de": "Ein Doppelzimmer braucht sie heute nicht.", "en": "She does not need a double room today."}
+    ],
+    "first_listen_check": {"prompt": "What is Mina’s room number?", "answer": "Room twelve."}
+  },
+  {
+    "draft_id": "a1-draft-028",
+    "blueprint_lesson": 28,
+    "title": "I Have to Change the Time",
+    "module": 5,
+    "format": "voicemail_and_reply",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Hallo Leo, hier ist Mina mit einer kurzen Nachricht.", "en": "Hello Leo, this is Mina with a short message."},
+      {"de": "Ich muss morgen länger arbeiten und kann nicht um fünf Uhr kommen.", "en": "I have to work longer tomorrow and cannot come at five o’clock."},
+      {"de": "Können wir uns bitte später um halb sieben treffen?", "en": "Can we please meet later at half past six?"},
+      {"de": "Bitte ruf an und sag kurz: Geht das?", "en": "Please call and say briefly whether that works."},
+      {"de": "Leo hört die Nachricht und antwortet kurz: „Ja, das geht.“", "en": "Leo hears the message and replies briefly, “Yes, that works.”"}
+    ],
+    "first_listen_check": {"prompt": "What new meeting time does Mina suggest?", "answer": "Half past six."}
+  },
+  {
+    "draft_id": "a1-draft-029",
+    "blueprint_lesson": 29,
+    "title": "A Day Trip",
+    "module": 5,
+    "format": "message_and_reply",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Leo schreibt Mina einen Plan für eine kurze Reise nach Köln.", "en": "Leo writes Mina a plan for a short trip to Cologne."},
+      {"de": "Sie fahren am Samstag zusammen mit dem Zug in die Stadt.", "en": "They travel into the city together by train on Saturday."},
+      {"de": "Dort möchten sie zuerst ein Museum besuchen und später Kaffee trinken.", "en": "There they would first like to visit a museum and later drink coffee."},
+      {"de": "Am Abend fahren sie zurück nach Bonn und schlafen zu Hause.", "en": "In the evening, they travel back to Bonn and sleep at home."},
+      {"de": "Mina antwortet: „Gern, im Urlaub reise ich auch sehr gern.“", "en": "Mina replies, “Gladly, I also really enjoy travelling on holiday.”"}
+    ],
+    "first_listen_check": {"prompt": "What do Mina and Leo want to visit first?", "answer": "A museum."}
+  },
+  {
+    "draft_id": "a1-draft-030",
+    "blueprint_lesson": 30,
+    "title": "Checkpoint: One Day Out",
+    "module": 5,
+    "format": "announcement_and_dialogue",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Zuerst hört Mina am Bahnhof eine Durchsage: Der Zug fährt heute von Gleis sechs ab.", "en": "First Mina hears an announcement at the station: the train leaves from platform six today."},
+      {"de": "Danach kauft sie eine Fahrkarte hin und zurück und wartet am Gleis.", "en": "Afterwards she buys a return ticket and waits at the platform."},
+      {"de": "Leo muss noch arbeiten, ruft Mina an und kommt später.", "en": "Leo still has to work, calls Mina, and arrives later."},
+      {"de": "Sie treffen sich deshalb erst um elf Uhr am Museum.", "en": "They therefore do not meet at the museum until eleven o’clock."},
+      {"de": "Zum Schluss fahren beide am Abend müde nach Hause.", "en": "At the end, they both travel home tired in the evening."}
+    ],
+    "first_listen_check": {"prompt": "Why do Mina and Leo meet later?", "answer": "Leo still has to work."}
+  }
+]

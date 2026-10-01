@@ -1,0 +1,6 @@
+-r requirements.txt
+
+# Optional local speech feedback for the speaking-practice experiment.
+faster-whisper>=1.2,<2
+librosa>=0.11,<2
+numpy>=1.26,<3

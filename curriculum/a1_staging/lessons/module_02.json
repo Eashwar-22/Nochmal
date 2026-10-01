@@ -1,0 +1,92 @@
+[
+  {
+    "draft_id": "a1-draft-007",
+    "blueprint_lesson": 7,
+    "title": "My Family",
+    "module": 2,
+    "format": "dialogue",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Mina zeigt Leo ein Foto; darauf ist ihre Familie.", "en": "Mina shows Leo a photo; her family is in it."},
+      {"de": "Sie sagt: „Das ist meine Mutter, und das ist mein Vater.“", "en": "She says, “This is my mother, and this is my father.”"},
+      {"de": "Leo fragt: „Ist das dein Bruder mit dem Kind?“", "en": "Leo asks, “Is that your brother with the child?”"},
+      {"de": "Mina antwortet: „Nein, der Mann ist mein Vater, und das Kind ist meine Schwester.“", "en": "Mina answers, “No, the man is my father, and the child is my sister.”"}
+    ],
+    "first_listen_check": {"prompt": "Whose husband is in the photo?", "answer": "Mina’s sister’s husband."}
+  },
+  {
+    "draft_id": "a1-draft-008",
+    "blueprint_lesson": 8,
+    "title": "Personal Details",
+    "module": 2,
+    "format": "interview",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Im Kurs füllt Mina ein Formular aus.", "en": "In the course, Mina fills in a form."},
+      {"de": "Ihre Adresse ist Gartenstraße 14, und ihre Postleitzahl ist 53111.", "en": "Her address is 14 Gartenstraße, and her postcode is 53111."},
+      {"de": "Die Lehrerin fragt: „Wie alt sind Sie, und wann haben Sie Geburtstag?“", "en": "The teacher asks, “How old are you, and when is your birthday?”"},
+      {"de": "Mina antwortet: „Ich bin 28 Jahre alt und am 6. Mai geboren.“", "en": "Mina answers, “I am 28 years old and was born on 6 May.”"}
+    ],
+    "first_listen_check": {"prompt": "When is Mina’s birthday?", "answer": "On 6 May."}
+  },
+  {
+    "draft_id": "a1-draft-009",
+    "blueprint_lesson": 9,
+    "title": "My Morning",
+    "module": 2,
+    "format": "account",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Mina steht jeden Morgen um sieben Uhr auf.", "en": "Mina gets up at seven every morning."},
+      {"de": "Dann frühstückt sie kurz mit ihrer Schwester in der Küche.", "en": "Then she has a quick breakfast with her sister in the kitchen."},
+      {"de": "Um acht Uhr geht Mina zur Arbeit.", "en": "At eight o’clock, Mina goes to work."},
+      {"de": "Ihre Schwester geht zur Schule, und der Unterricht fängt um neun Uhr an.", "en": "Her sister goes to school, and lessons start at nine o’clock."}
+    ],
+    "first_listen_check": {"prompt": "Who goes to school?", "answer": "Mina’s sister."}
+  },
+  {
+    "draft_id": "a1-draft-010",
+    "blueprint_lesson": 10,
+    "title": "What Time?",
+    "module": 2,
+    "format": "dialogue",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Mina fragt: „Um wie viel Uhr beginnt heute der Deutschkurs?“", "en": "Mina asks, “What time does the German course begin today?”"},
+      {"de": "Leo antwortet: „Um Viertel nach sechs, nicht um halb sieben.“", "en": "Leo answers, “At quarter past six, not at half past six.”"},
+      {"de": "Vor dem Kurs hat Mina noch einen Termin.", "en": "Before the course, Mina still has an appointment."},
+      {"de": "Nach dem Termin fährt sie um sechs Uhr pünktlich los.", "en": "After the appointment, she leaves punctually at six o’clock."}
+    ],
+    "first_listen_check": {"prompt": "What time does the German course begin?", "answer": "At quarter past six."}
+  },
+  {
+    "draft_id": "a1-draft-011",
+    "blueprint_lesson": 11,
+    "title": "Are You Free?",
+    "module": 2,
+    "format": "dialogue",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Leo fragt Mina: „Hast du morgen Zeit für einen Kaffee?“", "en": "Leo asks Mina, “Do you have time for a coffee tomorrow?”"},
+      {"de": "Mina sagt: „Am Montag arbeite ich lange, aber am Dienstag bin ich frei.“", "en": "Mina says, “On Monday I work late, but on Tuesday I am free.”"},
+      {"de": "Leo fragt: „Können wir uns am Dienstag um fünf Uhr treffen?“", "en": "Leo asks, “Can we meet on Tuesday at five o’clock?”"},
+      {"de": "Mina antwortet kurz: „Ja, das kann ich.“", "en": "Mina answers briefly, “Yes, I can.”"}
+    ],
+    "first_listen_check": {"prompt": "When can Mina meet Leo?", "answer": "On Tuesday at five o’clock."}
+  },
+  {
+    "draft_id": "a1-draft-012",
+    "blueprint_lesson": 12,
+    "title": "Checkpoint: A Week at a Glance",
+    "module": 2,
+    "format": "account_and_dialogue",
+    "status": "draft_unpublished",
+    "sentences": [
+      {"de": "Am Morgen steht Mina jeden Tag früh auf und geht zur Arbeit.", "en": "In the morning, Mina gets up early every day and goes to work."},
+      {"de": "Am Montag und Dienstag lernt sie am Abend oft Deutsch.", "en": "On Monday and Tuesday, she often studies German in the evening."},
+      {"de": "Am Wochenende ist sie frei, aber Leo arbeitet am Samstag.", "en": "At the weekend, she is free, but Leo works on Saturday."},
+      {"de": "Am Sonntag treffen sie sich um drei Uhr in der Stadt.", "en": "On Sunday, they meet in the city at three o’clock."}
+    ],
+    "first_listen_check": {"prompt": "Why do Mina and Leo meet on Sunday?", "answer": "Because Leo works on Saturday."}
+  }
+]

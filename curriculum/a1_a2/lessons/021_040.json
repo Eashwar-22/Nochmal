@@ -1,0 +1,343 @@
+[
+  {
+    "id": "a1-021", "sequence": 21, "band": "A1.2", "format": "description",
+    "title_de": "Die neue Wohnung", "title_en": "The new apartment",
+    "topic": "housing and moving", "communicative_goal": "Describe an apartment using floor, rent, noise, and balcony details.",
+    "grammar_focus": "two-way prepositions used for fixed locations",
+    "supporting_structures": ["im dritten Stock", "auf dem Balkon"],
+    "new_targets": ["der Balkon", "die Miete", "umziehen", "der Stock", "ruhig", "laut"],
+    "recycled_targets": ["die Wohnung", "das Haus", "das Schlafzimmer", "die Küche", "das Fenster", "die Stadt"], "recycles_from": [1, 4, 5],
+    "sentences": [
+      {"de": "Mina zieht in eine neue Wohnung im dritten Stock um.", "en": "Mina is moving into a new apartment on the third floor."},
+      {"de": "Das Wohnzimmer ist hell, und neben der Küche gibt es einen kleinen Balkon.", "en": "The living room is bright, and there is a small balcony next to the kitchen."},
+      {"de": "Die Straße ist am Tag laut, aber das Schlafzimmer ist ruhig.", "en": "The street is loud during the day, but the bedroom is quiet."},
+      {"de": "Die Miete ist für die Stadt nicht sehr hoch.", "en": "The rent is not very high for the city."}
+    ],
+    "comprehension": {"question_en": "Which room is quiet?", "answer_en": "The bedroom is quiet."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist"]
+  },
+  {
+    "id": "a1-022", "sequence": 22, "band": "A1.2", "format": "narrative",
+    "title_de": "Arbeit in der Wohnung", "title_en": "Work in the apartment",
+    "topic": "household tasks", "communicative_goal": "Describe household chores and a simple repair problem.",
+    "grammar_focus": "modal verbs with household infinitives",
+    "supporting_structures": ["Ich muss ...", "Kannst du ...?"],
+    "new_targets": ["die Arbeit", "waschen", "kochen", "kaputt", "reparieren", "das Problem"],
+    "recycled_targets": ["die Wohnung", "die Küche", "das Bad", "helfen", "müssen", "sofort"], "recycles_from": [4, 17, 19, 21],
+    "sentences": [
+      {"de": "Vor dem Umzug gibt es in Minas neuer Wohnung viel Arbeit.", "en": "Before the move there is a lot of work in Mina's new apartment."},
+      {"de": "Leo hilft ihr: Er wäscht die Fenster, und Mina putzt das Bad.", "en": "Leo helps her: he washes the windows, and Mina cleans the bathroom."},
+      {"de": "In der Küche wollen sie später zusammen kochen.", "en": "They want to cook together in the kitchen later."},
+      {"de": "Aber der Herd ist kaputt, und ein Techniker muss das Problem reparieren.", "en": "But the stove is broken, and a technician has to repair the problem."}
+    ],
+    "comprehension": {"question_en": "What is broken?", "answer_en": "The stove is broken."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist"]
+  },
+  {
+    "id": "a1-023", "sequence": 23, "band": "A1.2", "format": "dialogue",
+    "title_de": "Auf dem Markt", "title_en": "At the market",
+    "topic": "buying produce", "communicative_goal": "Ask for quantities and prices at a market.",
+    "grammar_focus": "quantity phrases with a measure plus noun",
+    "supporting_structures": ["ein Kilo Äpfel", "Wie viel kostet ...?"],
+    "new_targets": ["der Markt", "der Salat", "das Gemüse", "das Obst", "das Kilo", "billig"],
+    "recycled_targets": ["die Tomate", "der Apfel", "kaufen", "kosten", "brauchen", "bitte"], "recycles_from": [8, 9],
+    "sentences": [
+      {"de": "Auf dem Markt kauft Mina Gemüse, Obst und einen Salat.", "en": "At the market Mina buys vegetables, fruit, and a salad."},
+      {"de": "Sie fragt: „Wie viel kostet ein Kilo Tomaten, bitte?“", "en": "She asks, “How much does a kilo of tomatoes cost, please?”"},
+      {"de": "Der Verkäufer antwortet: „Heute nur zwei Euro; die Tomaten sind billig.“", "en": "The seller answers, “Only two euros today; the tomatoes are inexpensive.”"},
+      {"de": "Mina nimmt ein Kilo Tomaten und drei Äpfel.", "en": "Mina takes a kilo of tomatoes and three apples."}
+    ],
+    "comprehension": {"question_en": "How much does a kilo of tomatoes cost?", "answer_en": "It costs two euros."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist", "goethe-a1-practice"]
+  },
+  {
+    "id": "a1-024", "sequence": 24, "band": "A1.2", "format": "dialogue",
+    "title_de": "Mittagessen im Restaurant", "title_en": "Lunch at the restaurant",
+    "topic": "restaurant", "communicative_goal": "Order a meal, comment on it, and ask for the bill.",
+    "grammar_focus": "polite requests with ich möchte and bitte",
+    "supporting_structures": ["Ich möchte ... bestellen", "Die Rechnung, bitte"],
+    "new_targets": ["die Speisekarte", "bestellen", "das Gericht", "schmecken", "die Rechnung", "zahlen"],
+    "recycled_targets": ["möchten", "bitte", "essen", "trinken", "das Wasser", "der Kaffee"], "recycles_from": [7, 8, 9],
+    "sentences": [
+      {"de": "Mina und Leo lesen im Restaurant die Speisekarte.", "en": "Mina and Leo read the menu in the restaurant."},
+      {"de": "Mina möchte ein vegetarisches Gericht bestellen, und Leo nimmt eine Suppe.", "en": "Mina would like to order a vegetarian dish, and Leo chooses a soup."},
+      {"de": "Das Essen schmeckt beiden gut, und sie trinken Wasser dazu.", "en": "Both of them enjoy the food, and they drink water with it."},
+      {"de": "Am Ende fragt Leo: „Die Rechnung, bitte. Kann ich mit Karte zahlen?“", "en": "At the end Leo asks, “The bill, please. Can I pay by card?”"}
+    ],
+    "comprehension": {"question_en": "What does Mina order?", "answer_en": "She orders a vegetarian dish."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist", "goethe-a1-practice"]
+  },
+  {
+    "id": "a1-025", "sequence": 25, "band": "A1.2", "format": "message",
+    "title_de": "Einladung zum Geburtstag", "title_en": "Birthday invitation",
+    "topic": "celebrations", "communicative_goal": "Understand an invitation and what a guest should bring.",
+    "grammar_focus": "separable verbs in a short informal message",
+    "supporting_structures": ["Ich lade dich ein", "Bring bitte ... mit"],
+    "new_targets": ["der Geburtstag", "einladen", "feiern", "das Geschenk", "mitbringen", "gratulieren"],
+    "recycled_targets": ["schicken", "sich treffen", "morgen", "zusammen", "bitte"], "recycles_from": [8, 10, 19, 20],
+    "sentences": [
+      {"de": "Hallo Leo, am Samstag feiere ich meinen Geburtstag und lade dich herzlich ein.", "en": "Hello Leo, I am celebrating my birthday on Saturday and warmly invite you."},
+      {"de": "Wir treffen uns um sieben Uhr in meiner Wohnung.", "en": "We are meeting at seven o'clock in my apartment."},
+      {"de": "Bitte bring keine Getränke mit; ich brauche nur noch Musik für die Feier.", "en": "Please do not bring drinks; I only still need music for the party."},
+      {"de": "Ein Geschenk musst du nicht kaufen. Liebe Grüße, Mina.", "en": "You do not need to buy a gift. Best wishes, Mina."}
+    ],
+    "comprehension": {"question_en": "What should Leo bring?", "answer_en": "He should bring music, not drinks or a gift."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist", "goethe-a1-practice"]
+  },
+  {
+    "id": "a1-026", "sequence": 26, "band": "A1.2", "format": "dialogue",
+    "title_de": "Pläne für Sonntag", "title_en": "Plans for Sunday",
+    "topic": "making plans", "communicative_goal": "Suggest, accept, and cancel a simple leisure plan.",
+    "grammar_focus": "modal verbs wollen and sollen",
+    "supporting_structures": ["Wollen wir ...?", "Vielleicht können wir ..."],
+    "new_targets": ["wollen", "sollen", "gemeinsam", "vielleicht", "der Plan", "leider"],
+    "recycled_targets": ["können", "sich treffen", "das Wochenende", "der Film", "später", "anrufen"], "recycles_from": [10, 16, 17, 19],
+    "sentences": [
+      {"de": "Leo fragt: „Wollen wir am Sonntag gemeinsam einen Film sehen?“", "en": "Leo asks, “Shall we watch a film together on Sunday?”"},
+      {"de": "Mina findet den Plan gut, aber sie soll am Nachmittag ihre Eltern besuchen.", "en": "Mina likes the plan, but she is supposed to visit her parents in the afternoon."},
+      {"de": "Vielleicht können sie sich am Abend treffen.", "en": "Perhaps they can meet in the evening."},
+      {"de": "Leider weiß Mina noch nicht, ob sie am Abend frei ist.", "en": "Unfortunately Mina does not yet know whether she is free in the evening."},
+      {"de": "Sie ruft Leo später an.", "en": "She will call Leo later."}
+    ],
+    "comprehension": {"question_en": "Why can Mina not meet in the afternoon?", "answer_en": "Because she is supposed to visit her parents."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist", "goethe-a1-practice"]
+  },
+  {
+    "id": "a1-027", "sequence": 27, "band": "A1.2", "format": "dialogue",
+    "title_de": "Ein Zimmer im Hotel", "title_en": "A room at the hotel",
+    "topic": "travel accommodation", "communicative_goal": "Check into a hotel with a reservation and basic documents.",
+    "grammar_focus": "formal Sie questions and accusative objects",
+    "supporting_structures": ["Ich habe ein Zimmer bestellt", "Hier ist mein Pass"],
+    "new_targets": ["das Hotel", "die Rezeption", "das Einzelzimmer", "der Pass", "der Koffer", "ankommen"],
+    "recycled_targets": ["das Zimmer", "der Termin", "die Uhr", "die Rechnung", "zahlen", "bitte"], "recycles_from": [4, 6, 8, 10, 24],
+    "sentences": [
+      {"de": "Mina kommt um acht Uhr im Hotel an und stellt ihren Koffer ab.", "en": "Mina arrives at the hotel at eight o'clock and puts down her suitcase."},
+      {"de": "An der Rezeption sagt sie: „Guten Abend, ich habe ein Einzelzimmer bestellt.“", "en": "At reception she says, “Good evening, I booked a single room.”"},
+      {"de": "Der Mitarbeiter fragt nach ihrem Pass und gibt ihr den Schlüssel.", "en": "The employee asks for her passport and gives her the key."},
+      {"de": "Mina möchte die Rechnung am nächsten Morgen zahlen.", "en": "Mina would like to pay the bill the next morning."}
+    ],
+    "comprehension": {"question_en": "What kind of room did Mina reserve?", "answer_en": "She reserved a single room."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist", "goethe-a1-practice"]
+  },
+  {
+    "id": "a1-028", "sequence": 28, "band": "A1.2", "format": "announcement",
+    "title_de": "Information am Bahnhof", "title_en": "Information at the station",
+    "topic": "train travel", "communicative_goal": "Understand a basic departure and arrival announcement.",
+    "grammar_focus": "present tense for scheduled future events",
+    "supporting_structures": ["Der Zug fährt ... ab", "die Ankunft ist ..."],
+    "new_targets": ["abfahren", "die Abfahrt", "die Ankunft", "das Gleis", "die Fahrkarte", "der Schalter"],
+    "recycled_targets": ["der Zug", "der Bahnhof", "fahren", "warten", "ankommen", "müssen"], "recycles_from": [11, 19, 27],
+    "sentences": [
+      {"de": "Achtung: Der Zug nach Köln fährt heute von Gleis fünf ab.", "en": "Attention: today's train to Cologne departs from platform five."},
+      {"de": "Die Abfahrt ist um vierzehn Uhr zehn, die Ankunft in Köln um fünfzehn Uhr fünf.", "en": "Departure is at 2:10 p.m., and arrival in Cologne is at 3:05 p.m."},
+      {"de": "Bitte halten Sie Ihre Fahrkarte bereit.", "en": "Please have your ticket ready."},
+      {"de": "Weitere Informationen bekommen Sie am Schalter.", "en": "You can get further information at the counter."}
+    ],
+    "comprehension": {"question_en": "What time does the train arrive in Cologne?", "answer_en": "It arrives at 3:05 p.m."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist", "goethe-a1-practice"]
+  },
+  {
+    "id": "a1-029", "sequence": 29, "band": "A1.2", "format": "narrative",
+    "title_de": "Ein Wochenende in Köln", "title_en": "A weekend in Cologne",
+    "topic": "past travel", "communicative_goal": "Give a short spoken account of a completed trip.",
+    "grammar_focus": "Perfekt with haben and sein",
+    "supporting_structures": ["ich bin gefahren", "ich habe Fotos gemacht"],
+    "new_targets": ["die Reise", "der Urlaub", "übernachten", "reisen", "das Foto", "das Museum"],
+    "recycled_targets": ["fahren", "der Zug", "das Hotel", "ankommen", "besuchen", "das Wochenende"], "recycles_from": [11, 16, 20, 27, 28],
+    "sentences": [
+      {"de": "Am Wochenende ist Mina mit dem Zug nach Köln gefahren.", "en": "At the weekend Mina traveled to Cologne by train."},
+      {"de": "Sie hat in einem kleinen Hotel übernachtet und ein Museum besucht.", "en": "She stayed overnight in a small hotel and visited a museum."},
+      {"de": "Im Museum und in der Stadt hat sie viele Fotos gemacht.", "en": "She took many photos in the museum and around the city."},
+      {"de": "Am Sonntagabend war die Reise zu Ende, und sie war müde, aber zufrieden zu Hause.", "en": "On Sunday evening the trip was over, and she was home tired but satisfied."}
+    ],
+    "comprehension": {"question_en": "Where did Mina stay overnight?", "answer_en": "She stayed in a small hotel."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist"]
+  },
+  {
+    "id": "a1-030", "sequence": 30, "band": "A1.2", "format": "narrative",
+    "title_de": "Was hast du gestern gemacht?", "title_en": "What did you do yesterday?",
+    "topic": "completed daily activities", "communicative_goal": "Describe several completed everyday activities.",
+    "grammar_focus": "Perfekt with regular and separable verbs",
+    "supporting_structures": ["ich habe eingekauft", "ich habe ferngesehen"],
+    "new_targets": ["gestern", "einkaufen", "telefonieren", "fernsehen", "machen", "das Essen"],
+    "recycled_targets": ["die Arbeit", "kochen", "die Wohnung", "das Gemüse", "später", "müde"], "recycles_from": [4, 19, 20, 22, 23],
+    "sentences": [
+      {"de": "Gestern hat Mina nach der Arbeit eingekauft.", "en": "Yesterday Mina went shopping after work."},
+      {"de": "Zu Hause hat sie Gemüse gekocht und das Abendessen gemacht.", "en": "At home she cooked vegetables and made dinner."},
+      {"de": "Danach hat sie mit ihrer Mutter telefoniert.", "en": "Afterward she spoke with her mother on the phone."},
+      {"de": "Später hat sie noch eine Stunde ferngesehen und ist müde ins Bett gegangen.", "en": "Later she watched television for another hour and went to bed tired."}
+    ],
+    "comprehension": {"question_en": "What did Mina cook?", "answer_en": "She cooked vegetables."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist"]
+  },
+  {
+    "id": "a1-031", "sequence": 31, "band": "A1.2", "format": "dialogue",
+    "title_de": "In der Apotheke", "title_en": "At the pharmacy",
+    "topic": "health and medicine", "communicative_goal": "Ask for medicine and understand simple dosage advice.",
+    "grammar_focus": "imperative and sollen for basic health instructions",
+    "supporting_structures": ["Nehmen Sie ...", "Sie sollen ..."],
+    "new_targets": ["die Apotheke", "das Medikament", "das Fieber", "das Rezept", "nehmen", "besser"],
+    "recycled_targets": ["krank", "der Arzt", "der Kopf", "wehtun", "schlafen", "trinken"], "recycles_from": [7, 15],
+    "sentences": [
+      {"de": "Mina hat Fieber und geht nach dem Arzttermin in die Apotheke.", "en": "Mina has a fever and goes to the pharmacy after the doctor's appointment."},
+      {"de": "Sie gibt der Apothekerin ihr Rezept und bekommt ein Medikament.", "en": "She gives the pharmacist her prescription and receives some medicine."},
+      {"de": "Die Apothekerin sagt: „Nehmen Sie morgens und abends eine Tablette.“", "en": "The pharmacist says, “Take one tablet in the morning and evening.”"},
+      {"de": "Mina soll außerdem viel trinken und schlafen; dann geht es ihr hoffentlich bald besser.", "en": "Mina should also drink plenty and sleep; then she will hopefully feel better soon."}
+    ],
+    "comprehension": {"question_en": "How often should Mina take a tablet?", "answer_en": "She should take one in the morning and one in the evening."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist", "goethe-a1-practice"]
+  },
+  {
+    "id": "a1-032", "sequence": 32, "band": "A1.2", "format": "instructions",
+    "title_de": "Einen Brief schicken", "title_en": "Sending a letter",
+    "topic": "postal services", "communicative_goal": "Follow simple steps for sending a parcel.",
+    "grammar_focus": "formal imperative sequence",
+    "supporting_structures": ["Füllen Sie ... aus", "Kleben Sie ... auf"],
+    "new_targets": ["die Post", "der Absender", "der Brief", "die Briefmarke", "das Formular", "ausfüllen"],
+    "recycled_targets": ["schicken", "die Stadt", "bitte", "zahlen", "das Problem"], "recycles_from": [1, 8, 19, 22, 24],
+    "sentences": [
+      {"de": "Schreiben Sie bei einem Brief zuerst den Empfänger und seine Adresse auf den Umschlag.", "en": "For a letter, first write the recipient and their address on the envelope."},
+      {"de": "Vergessen Sie auch den Absender auf der Rückseite nicht.", "en": "Do not forget the sender on the back either."},
+      {"de": "Kaufen Sie bei der Post eine Briefmarke und kleben Sie sie oben rechts auf.", "en": "Buy a stamp at the post office and stick it at the top right."},
+      {"de": "Für andere Dienste nehmen Sie ein Formular und füllen es aus.", "en": "For other services, take a form and fill it in."}
+    ],
+    "comprehension": {"question_en": "Where should the sender be written?", "answer_en": "The sender should be written on the back of the envelope."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist", "goethe-a1-practice"]
+  },
+  {
+    "id": "a1-033", "sequence": 33, "band": "A1.2", "format": "dialogue",
+    "title_de": "Bei der Bank", "title_en": "At the bank",
+    "topic": "money and banking", "communicative_goal": "Ask about paying and withdrawing money.",
+    "grammar_focus": "können questions for services",
+    "supporting_structures": ["Kann ich ...?", "Wo kann ich ...?"],
+    "new_targets": ["die Bank", "die Karte", "bar", "das Konto", "der Automat", "bezahlen"],
+    "recycled_targets": ["der Euro", "zahlen", "das Formular", "ausfüllen", "helfen", "bitte"], "recycles_from": [8, 17, 24, 32],
+    "sentences": [
+      {"de": "Mina möchte bei der Bank Geld von ihrem Konto abheben.", "en": "Mina would like to withdraw money from her account at the bank."},
+      {"de": "Sie fragt: „Kann ich hier meine neue Karte benutzen?“", "en": "She asks, “Can I use my new card here?”"},
+      {"de": "Der Mitarbeiter hilft ihr und zeigt ihr den Automaten.", "en": "The employee helps her and shows her the machine."},
+      {"de": "Danach kann Mina im Geschäft bar oder mit Karte bezahlen.", "en": "Afterward Mina can pay in cash or by card in the shop."}
+    ],
+    "comprehension": {"question_en": "What does the bank employee show Mina?", "answer_en": "He shows her the cash machine."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist", "goethe-a1-practice"]
+  },
+  {
+    "id": "a1-034", "sequence": 34, "band": "A1.2", "format": "dialogue",
+    "title_de": "Vor der Prüfung", "title_en": "Before the test",
+    "topic": "language learning", "communicative_goal": "Talk about study tasks and ask for clarification.",
+    "grammar_focus": "negation with nicht and requests for repetition",
+    "supporting_structures": ["Ich verstehe ... nicht", "Bitte noch einmal"],
+    "new_targets": ["die Hausaufgabe", "die Prüfung", "die Frage", "verstehen", "wiederholen", "leicht"],
+    "recycled_targets": ["lernen", "der Kurs", "die Lehrerin", "erklären", "helfen", "die Pause"], "recycles_from": [2, 17, 18],
+    "sentences": [
+      {"de": "Im Deutschkurs lernen Mina und Leo für eine kleine Prüfung.", "en": "In the German course Mina and Leo study for a small test."},
+      {"de": "Eine Hausaufgabe ist nicht leicht, und Mina versteht die letzte Frage nicht.", "en": "One homework task is not easy, and Mina does not understand the last question."},
+      {"de": "Die Lehrerin erklärt die Aufgabe noch einmal, und morgen wiederholen alle die Grammatik.", "en": "The teacher explains the task again, and tomorrow everyone will review the grammar."},
+      {"de": "Nach der Pause hilft Leo Mina beim Üben.", "en": "After the break Leo helps Mina practise."}
+    ],
+    "comprehension": {"question_en": "What does Mina not understand?", "answer_en": "She does not understand the last question in a homework task."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist"]
+  },
+  {
+    "id": "a1-035", "sequence": 35, "band": "A1.2", "format": "narrative",
+    "title_de": "Ein Vormittag im Büro", "title_en": "A morning at the office",
+    "topic": "work routine", "communicative_goal": "Follow a simple sequence of workplace activities.",
+    "grammar_focus": "separable verbs and temporal sequencing",
+    "supporting_structures": ["Der Arbeitstag fängt an", "Ich bin fertig"],
+    "new_targets": ["die Aufgabe", "der Chef", "fertig", "anfangen", "die Mittagspause", "der Arbeitsplatz"],
+    "recycled_targets": ["das Büro", "der Kollege", "arbeiten", "erklären", "die Pause"], "recycles_from": [2, 18],
+    "sentences": [
+      {"de": "Am Arbeitsplatz fängt Minas Tag um acht Uhr an.", "en": "Mina's day at work starts at eight o'clock."},
+      {"de": "Der Chef gibt allen eine Aufgabe, und Paul erklärt Mina ein neues Projekt.", "en": "The boss gives everyone a task, and Paul explains a new project to Mina."},
+      {"de": "Mina erledigt zuerst zwei kleine Aufgaben und ist vor zwölf Uhr fertig.", "en": "Mina completes two small tasks first and is finished before twelve o'clock."},
+      {"de": "In der Mittagspause essen alle gemeinsam in der Küche.", "en": "During the lunch break everyone eats together in the kitchen."}
+    ],
+    "comprehension": {"question_en": "How does Mina's workday begin?", "answer_en": "It begins with a short meeting."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist"]
+  },
+  {
+    "id": "a1-036", "sequence": 36, "band": "A1.2", "format": "description",
+    "title_de": "Aktiv in der Freizeit", "title_en": "Active in one's free time",
+    "topic": "sports and hobbies", "communicative_goal": "Describe regular leisure activities and frequency.",
+    "grammar_focus": "frequency expressions with present tense",
+    "supporting_structures": ["zweimal pro Woche", "am Wochenende"],
+    "new_targets": ["schwimmen", "Rad fahren", "der Sport", "tanzen", "der Verein", "die Freizeit"],
+    "recycled_targets": ["spielen", "das Wochenende", "gern", "gemeinsam", "sich treffen", "der Plan"], "recycles_from": [10, 16, 26],
+    "sentences": [
+      {"de": "Mina möchte in ihrer Freizeit mehr Sport machen und hat einen neuen Plan.", "en": "Mina wants to do more sport in her free time and has a new plan."},
+      {"de": "Am Dienstag schwimmt sie, und am Donnerstag fährt sie mit Leo Rad.", "en": "On Tuesday she swims, and on Thursday she rides a bicycle with Leo."},
+      {"de": "Am Wochenende fahren beide gern im Park Rad.", "en": "At the weekend both of them like cycling in the park."},
+      {"de": "Leo tanzt außerdem in einem Verein, aber Mina spielt lieber Musik.", "en": "Leo also dances in a club, but Mina prefers playing music."}
+    ],
+    "comprehension": {"question_en": "What does Mina do on Tuesday?", "answer_en": "She goes swimming."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist"]
+  },
+  {
+    "id": "a1-037", "sequence": 37, "band": "A1.2", "format": "announcement",
+    "title_de": "Information am Geschäft", "title_en": "Information at the shop",
+    "topic": "shopping information", "communicative_goal": "Understand opening hours and entrance information.",
+    "grammar_focus": "time ranges and passive-like state adjectives",
+    "supporting_structures": ["von ... bis ...", "ist geschlossen"],
+    "new_targets": ["das Geschäft", "geöffnet", "geschlossen", "der Eingang", "der Ausgang", "automatisch"],
+    "recycled_targets": ["heute", "morgen", "der Dienstag", "die Uhr", "lesen", "die Stadt"], "recycles_from": [1, 6, 10, 16],
+    "sentences": [
+      {"de": "Das Geschäft ist von Dienstag bis Freitag von zehn bis achtzehn Uhr geöffnet.", "en": "The shop is open from ten until six from Tuesday to Friday."},
+      {"de": "Am Montag bleibt es geschlossen.", "en": "It remains closed on Monday."},
+      {"de": "Der Eingang ist an der Hauptstraße, der Ausgang liegt neben dem Parkplatz.", "en": "The entrance is on the main road, and the exit is next to the car park."},
+      {"de": "Beide Türen öffnen automatisch.", "en": "Both doors open automatically."}
+    ],
+    "comprehension": {"question_en": "On which day is the shop closed?", "answer_en": "It is closed on Monday."},
+    "source_basis": ["cefr-descriptors", "goethe-a1-wordlist", "goethe-a1-practice"]
+  },
+  {
+    "id": "a2-038", "sequence": 38, "band": "A2.1", "format": "dialogue",
+    "title_de": "Welche Wohnung ist besser?", "title_en": "Which apartment is better?",
+    "topic": "simple comparisons", "communicative_goal": "Compare two apartments by size, price, and location.",
+    "grammar_focus": "comparative adjectives with als",
+    "supporting_structures": ["größer als", "näher am"],
+    "new_targets": ["größer", "kleiner", "günstiger", "hell", "nah", "weiter"],
+    "recycled_targets": ["die Wohnung", "die Miete", "laut", "der Balkon", "die Haltestelle", "besser"], "recycles_from": [4, 11, 21, 31],
+    "sentences": [
+      {"de": "Mina sieht zwei Wohnungen: Die erste ist größer und heller.", "en": "Mina views two apartments: the first is larger and brighter."},
+      {"de": "Die zweite ist kleiner, aber die Miete ist günstiger.", "en": "The second is smaller, but the rent is cheaper."},
+      {"de": "Sie liegt näher an der Haltestelle und hat einen Balkon.", "en": "It is closer to the bus stop and has a balcony."},
+      {"de": "Der Weg zur Arbeit ist von dort nicht weiter, deshalb findet Mina die zweite Wohnung besser.", "en": "The way to work is no farther from there, so Mina thinks the second apartment is better."}
+    ],
+    "comprehension": {"question_en": "Which apartment does Mina prefer?", "answer_en": "She prefers the second apartment."},
+    "source_basis": ["cefr-descriptors", "goethe-a2-wordlist"]
+  },
+  {
+    "id": "a2-039", "sequence": 39, "band": "A2.1", "format": "narrative",
+    "title_de": "Warum lernt Mina Deutsch?", "title_en": "Why is Mina learning German?",
+    "topic": "reasons and decisions", "communicative_goal": "Give simple reasons and consequences.",
+    "grammar_focus": "weil clauses and deshalb inversion",
+    "supporting_structures": ["weil das wichtig ist", "deshalb lernt sie"],
+    "new_targets": ["weil", "deshalb", "denn", "der Grund", "wichtig", "der Wunsch"],
+    "recycled_targets": ["Deutsch", "lernen", "arbeiten", "verstehen", "sprechen", "die Stadt"], "recycles_from": [1, 2, 34],
+    "sentences": [
+      {"de": "Mina lernt Deutsch, weil sie in Deutschland lebt und arbeitet.", "en": "Mina learns German because she lives and works in Germany."},
+      {"de": "Im Büro möchte sie ihre Kollegen besser verstehen; deshalb übt sie jeden Tag.", "en": "At the office she wants to understand her colleagues better, so she practises every day."},
+      {"de": "Ein weiterer Grund ist ihre neue Stadt, denn sie möchte dort viele Menschen kennenlernen.", "en": "Another reason is her new city, because she wants to meet many people there."},
+      {"de": "Ihr Wunsch ist, regelmäßig weiterzulernen, denn das ist ihr wichtig.", "en": "Her wish is to continue learning regularly because that is important to her."}
+    ],
+    "comprehension": {"question_en": "Why does Mina practise every day?", "answer_en": "She wants to understand her colleagues better."},
+    "source_basis": ["cefr-descriptors", "goethe-a2-wordlist"]
+  },
+  {
+    "id": "a2-040", "sequence": 40, "band": "A2.1", "format": "narrative",
+    "title_de": "Fast zu spät", "title_en": "Almost late",
+    "topic": "A1 cumulative review", "communicative_goal": "Follow a connected account of a routine travel problem and solution.",
+    "grammar_focus": "Perfekt narration with causal connectors",
+    "supporting_structures": ["ich habe vergessen", "deshalb bin ich ..."],
+    "new_targets": ["endlich", "pünktlich", "unterwegs", "vergessen", "holen", "zufrieden"],
+    "recycled_targets": ["aufstehen", "der Bus", "die Haltestelle", "warten", "die Fahrkarte", "weil", "deshalb"], "recycles_from": [6, 11, 28, 39],
+    "sentences": [
+      {"de": "Heute ist Mina spät aufgestanden und hat unterwegs ihre Fahrkarte nicht gefunden.", "en": "Today Mina got up late and did not find her ticket on the way."},
+      {"de": "Sie hat sie zu Hause vergessen; deshalb ist sie von der Haltestelle zurückgegangen, um sie zu holen.", "en": "She forgot it at home, so she went back from the bus stop to fetch it."},
+      {"de": "Danach hat sie lange auf den nächsten Bus gewartet.", "en": "After that she waited a long time for the next bus."},
+      {"de": "Am Ende ist Mina doch pünktlich im Kurs angekommen und war sehr zufrieden.", "en": "In the end Mina still arrived at the course on time and was very pleased."}
+    ],
+    "comprehension": {"question_en": "Why did Mina return home?", "answer_en": "She had forgotten her ticket and went back to get it."},
+    "source_basis": ["cefr-descriptors", "goethe-a2-wordlist", "goethe-a2-practice"]
+  }
+]
