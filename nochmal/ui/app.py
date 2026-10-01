@@ -4,6 +4,7 @@ import re
 import streamlit as st
 
 from nochmal.content import LESSONS, models
+from nochmal.content.catalog import load_publication_catalog, published_lessons
 from nochmal.content.grammar_reference import (
     columns_for_help,
     inflections_for_phrase,
@@ -22,12 +23,11 @@ from nochmal.services import speech_feedback, storage, vocabulary
 from nochmal.ui.audio_player import render_audio_player
 
 
-PUBLISHED_LESSON_IDS: tuple[str, ...] = ("a1-course-001",)
-COURSE_LESSONS = tuple(
-    lesson for lesson in LESSONS if lesson.id in PUBLISHED_LESSON_IDS
-)
+PUBLICATION_CATALOG = load_publication_catalog()
+PUBLISHED_LESSON_IDS = PUBLICATION_CATALOG.published_lesson_ids
+COURSE_LESSONS = published_lessons(LESSONS)
 LESSON_BY_ID = {lesson.id: lesson for lesson in COURSE_LESSONS}
-SPEAKING_PRACTICE_LESSON_IDS = frozenset(PUBLISHED_LESSON_IDS)
+SPEAKING_PRACTICE_LESSON_IDS = PUBLICATION_CATALOG.speaking_practice_lesson_ids
 PRACTICE_RECORDINGS_DIR = PROJECT_ROOT / "data" / "practice-recordings"
 SPEECH_MODEL_CACHE_DIR = PROJECT_ROOT / "data" / "faster-whisper-cache"
 SPEECH_MODEL_NAME = "small"
@@ -1124,6 +1124,11 @@ body:has(
 .meaning-english {
     color: #415d72;
 }
+.literal-meaning {
+    margin-top: 0.18rem;
+    color: var(--muted);
+    font-size: 0.78rem;
+}
 .meaning-row.phrase .meaning-german,
 .meaning-row.phrase .meaning-english {
     color: var(--blue);
@@ -2003,6 +2008,12 @@ def render_breakdown_item(
         if role == "phrase"
         else ""
     )
+    literal_meaning = (
+        "<div class='literal-meaning'>"
+        f"Literally: {escape(item.literal_meaning)}</div>"
+        if item.literal_meaning
+        else ""
+    )
     return (
         f"<div class='meaning-row {escape(role)}'>"
         "<div class='meaning-german'>"
@@ -2015,6 +2026,7 @@ def render_breakdown_item(
         "</div>"
         "<div class='meaning-english'>"
         f"<div class='breakdown-expression'>{escape(item.english)}</div>"
+        f"{literal_meaning}"
         "</div>"
         "</div>"
     )

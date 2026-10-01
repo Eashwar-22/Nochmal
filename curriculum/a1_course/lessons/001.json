@@ -13,12 +13,12 @@
   "new_targets": ["Hallo", "Guten Tag", "ich heiße …", "ich bin …", "Auf Wiedersehen"],
   "recycled_targets": [],
   "recycles_from": [],
-  "audio_path": "assets/audio/a1_staging/a1-draft-001/paragraph.wav",
+  "audio_path": "assets/audio/a1_course/a1-course-001/paragraph.wav",
   "sentences": [
     {
       "de": "Hallo, ich heiße Mina und bin neu im Kurs.",
       "en": "Hello, my name is Mina and I am new to the course.",
-      "audio_path": "assets/audio/a1_staging/a1-draft-001/sentence-01.wav",
+      "audio_path": "assets/audio/a1_course/a1-course-001/sentence-01.wav",
       "annotations": {
         "word_meanings": {"heiße": "am called", "bin": "am", "im": "in"},
         "excluded_phrases": ["Hallo, ich heiße Mina", "und bin neu im Kurs"],
@@ -30,7 +30,7 @@
           "im": ["preposition", "dative", "place"]
         },
         "phrases": [
-          {"german": "ich heiße Mina", "english": "my name is Mina", "tags": ["main clause", "verb-second"]},
+          {"german": "ich heiße Mina", "english": "my name is Mina", "literal_meaning": "I am called Mina", "tags": ["main clause", "verb-second"]},
           {"german": "ich heiße Mina und bin neu im Kurs", "english": "my name is Mina and I am new to the course", "tags": ["main clause", "verb-second"]},
           {"german": "im Kurs", "english": "in the class", "tags": ["contraction", "dative", "place"]}
         ]
@@ -39,7 +39,7 @@
     {
       "de": "Guten Tag, Mina, ich bin Leo.",
       "en": "Hello, Mina, I’m Leo.",
-      "audio_path": "assets/audio/a1_staging/a1-draft-001/sentence-02.wav",
+      "audio_path": "assets/audio/a1_course/a1-course-001/sentence-02.wav",
       "annotations": {
         "word_meanings": {"bin": "am"},
         "excluded_phrase_tags": {"Guten Tag": ["main clause"]},
@@ -50,7 +50,7 @@
         },
         "base_forms": {"guten": "gut"},
         "phrases": [
-          {"german": "Guten Tag", "english": "Hello", "tags": ["fixed phrase", "accusative"]},
+          {"german": "Guten Tag", "english": "Hello", "literal_meaning": "Good day", "tags": ["fixed phrase", "accusative"]},
           {"german": "ich bin Leo", "english": "I’m Leo", "tags": ["main clause", "verb-second"]}
         ]
       }
@@ -58,7 +58,7 @@
     {
       "de": "Freut mich, Mina, und willkommen im Kurs.",
       "en": "Nice to meet you, Mina, and welcome to the course.",
-      "audio_path": "assets/audio/a1_staging/a1-draft-001/sentence-03.wav",
+      "audio_path": "assets/audio/a1_course/a1-course-001/sentence-03.wav",
       "annotations": {
         "word_meanings": {"freut": "pleases", "im": "in"},
         "excluded_phrases": ["und willkommen im Kurs"],
@@ -70,7 +70,7 @@
           "im": ["preposition", "dative", "place"]
         },
         "phrases": [
-          {"german": "Freut mich", "english": "Nice to meet you", "tags": ["fixed phrase", "ellipsis", "accusative"]},
+          {"german": "Freut mich", "english": "Nice to meet you", "literal_meaning": "Pleases me", "tags": ["fixed phrase", "ellipsis", "accusative"]},
           {"german": "willkommen im Kurs", "english": "welcome to the course", "tags": ["fixed phrase", "ellipsis"]},
           {"german": "im Kurs", "english": "in the class", "tags": ["contraction", "dative", "place"]}
         ]
@@ -79,13 +79,13 @@
     {
       "de": "Auf Wiedersehen, Leo!",
       "en": "Goodbye, Leo!",
-      "audio_path": "assets/audio/a1_staging/a1-draft-001/sentence-04.wav",
+      "audio_path": "assets/audio/a1_course/a1-course-001/sentence-04.wav",
       "annotations": {
         "word_meanings": {"auf": "until"},
         "excluded_phrase_tags": {"Auf Wiedersehen": ["main clause"]},
         "word_tags": {"auf": ["preposition", "accusative"]},
         "phrases": [
-          {"german": "Auf Wiedersehen", "english": "Goodbye", "tags": ["fixed phrase", "accusative"]}
+          {"german": "Auf Wiedersehen", "english": "Goodbye", "literal_meaning": "Until we see each other again", "tags": ["fixed phrase", "accusative"]}
         ]
       }
     }

@@ -63,11 +63,20 @@ A2–B2 listening paragraphs also remain preserved but hidden from the picker.
 
 The reference lesson audio was generated sentence by sentence with Eleven v4,
 then assembled locally so the full playback uses the exact accepted sentence
-clips. With `ELEVENLABS_API_KEY` stored in a git-ignored `.env`, regenerate it
-with:
+clips. Reviewed files live under `assets/audio/a1_course/a1-course-001/`.
+With `ELEVENLABS_API_KEY` stored in a git-ignored `.env`, generate or compare a
+staged draft with:
 
 ```bash
 python3 scripts/generate_staged_elevenlabs_audio.py a1-draft-001 --force
+```
+
+Staged generation never overwrites reviewed production audio. After a lesson's
+source, structured semantic review, and audio manifest are promoted, run its
+fail-closed release gate before adding it to `curriculum/a1_course/publication.json`:
+
+```bash
+python scripts/validate_release.py a1-course-001
 ```
 
 The preserved legacy audio is generated locally with the quantized Qwen3-TTS VoiceDesign
@@ -115,12 +124,15 @@ python -m unittest tests.content.test_lesson_contract -v
 - `app.py` — stable, minimal Streamlit entry point.
 - `nochmal/content/` — lesson models, authored paragraphs, and the reusable
   content validator.
+- `nochmal/validation/` — strict review evidence and publication release gate.
 - `nochmal/services/` — SQLite persistence and vocabulary derivation.
 - `nochmal/services/speech_feedback.py` — optional local transcript and pacing
   comparison for selected speaking-practice lessons.
 - `nochmal/ui/` — Streamlit workflow and reusable audio controls.
 - `nochmal/paths.py` — shared project paths for UI, scripts, and tests.
 - `assets/audio/` — prepared full-paragraph and sentence recordings.
+- `curriculum/a1_course/publication.json` — explicit ordered list of lessons
+  allowed into the app after release validation.
 - `data/` — ignored local progress and speech-model caches.
 - `docs/` — product vision, lesson-authoring rules, and project status.
 - `scripts/generate_prepared_audio.py` — reproducible local German audio.

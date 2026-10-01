@@ -7,12 +7,18 @@ from pydantic import BaseModel, ConfigDict, Field, model_validator
 # Content-authoring rules for these models live in docs/lesson-format.md.
 
 
-class ConjugationForm(BaseModel):
+class StrictModel(BaseModel):
+    """Reject misspelled or obsolete authored fields instead of ignoring them."""
+
+    model_config = ConfigDict(extra="forbid")
+
+
+class ConjugationForm(StrictModel):
     pronoun: str
     verb: str
 
 
-class VerbHelp(BaseModel):
+class VerbHelp(StrictModel):
     infinitive: str
     tense: str
     forms: list[ConjugationForm]
@@ -80,7 +86,7 @@ PronounSlot = Literal[
 ]
 
 
-class InflectionHelp(BaseModel):
+class InflectionHelp(StrictModel):
     """Typed input for one fixed-layout case or adjective reference card.
 
     The UI derives its labels and complete reference table from these fields.
@@ -316,7 +322,7 @@ if TAG_KEYWORDS.keys() != TAG_DESCRIPTIONS.keys():
     )
 
 
-class GrammarTag(BaseModel):
+class GrammarTag(StrictModel):
     label: str
     category: TagCategory
 
@@ -333,11 +339,12 @@ class GrammarTag(BaseModel):
         return self
 
 
-class BreakdownItem(BaseModel):
-    model_config = ConfigDict(validate_assignment=True)
+class BreakdownItem(StrictModel):
+    model_config = ConfigDict(validate_assignment=True, extra="forbid")
 
     german: str
     english: str
+    literal_meaning: str | None = None
     tags: list[GrammarTag] = Field(default_factory=list)
     kind: Literal["word", "phrase"] = "word"
     verb_help: VerbHelp | None = None
@@ -397,13 +404,14 @@ class BreakdownItem(BaseModel):
         return self
 
 
-class BreakdownGroup(BaseModel):
+class BreakdownGroup(StrictModel):
     items: list[BreakdownItem]
 
 
-class AuthoredPhrase(BaseModel):
+class AuthoredPhrase(StrictModel):
     german: str
     english: str | None = None
+    literal_meaning: str | None = None
     tags: list[str] = Field(default_factory=list)
 
     @model_validator(mode="after")
@@ -414,7 +422,7 @@ class AuthoredPhrase(BaseModel):
         return self
 
 
-class SentenceAnnotations(BaseModel):
+class SentenceAnnotations(StrictModel):
     """Structured, sentence-owned inputs consumed by the generic compiler."""
 
     word_tags: dict[str, list[str]] = Field(default_factory=dict)
@@ -447,7 +455,7 @@ class SentenceAnnotations(BaseModel):
         return self
 
 
-class Sentence(BaseModel):
+class Sentence(StrictModel):
     text: str
     natural_meaning: str
     breakdown_groups: list[BreakdownGroup]
@@ -485,7 +493,7 @@ class Sentence(BaseModel):
         return self
 
 
-class SpeechAlternative(BaseModel):
+class SpeechAlternative(StrictModel):
     """A meaning-preserving phrase accepted by a speaking-practice lesson."""
 
     lesson_phrase: str
@@ -493,7 +501,7 @@ class SpeechAlternative(BaseModel):
     explanation: str
 
 
-class Lesson(BaseModel):
+class Lesson(StrictModel):
     id: str
     title: str
     english_title: str

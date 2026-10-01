@@ -38,7 +38,7 @@ even when that produces a small nested flow.
 | `Sentence` | `text`, `natural_meaning`, `breakdown_groups`, `audio_path` |
 | `SentenceAnnotations` | controlled `word_tags`, `base_forms`, contextual `word_meanings`, audited phrase/tag exclusions, and authored `phrases` |
 | `BreakdownGroup` | ordered `items` |
-| `BreakdownItem` | `german`, `english`, `kind`, `tags`, `source_forms`, optional typed help |
+| `BreakdownItem` | `german`, natural/contextual `english`, optional `literal_meaning`, `kind`, `tags`, `source_forms`, optional typed help |
 | `GrammarTag` | controlled `label` and matching `category` |
 | `VerbHelp` | infinitive, meaning, tense and complete conjugation data |
 | `InflectionHelp` | surface, base, kind, paradigm, case and grammatical slot |
@@ -85,6 +85,7 @@ A phrase item:
 
 - uses exact German source tokens;
 - supplies one natural contextual English meaning;
+- supplies `literal_meaning` when a natural translation hides structure that is useful to the learner;
 - adds structural value beyond its word cards;
 - has controlled tags; and
 - contains `inflection_help` when it exposes case morphology.
@@ -228,5 +229,5 @@ Run:
 python -m unittest discover -s tests -q
 ```
 
-Then inspect the running app before adding the lesson ID to the published
-allow-list.
+Then run `python scripts/validate_release.py LESSON_ID` and inspect the running
+app before adding the lesson ID to `curriculum/a1_course/publication.json`.

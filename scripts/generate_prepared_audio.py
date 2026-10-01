@@ -20,7 +20,12 @@ os.environ.setdefault("HF_HOME", str(QWEN_CACHE_DIR))
 
 sys.path.insert(0, str(PROJECT_ROOT))
 
-from nochmal.content import LESSONS  # noqa: E402
+from nochmal.content import A1_A2_LESSONS, PREPARED_LESSONS  # noqa: E402
+
+
+# ElevenLabs owns the reviewed a1-course-* assets.  Keeping that collection
+# out of this script prevents a local Qwen run from silently overwriting them.
+QWEN_LESSONS = [*A1_A2_LESSONS, *PREPARED_LESSONS]
 
 MODEL_ID = "mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-4bit"
 PAUSE_BETWEEN_SENTENCES_SECONDS = 0.35
@@ -81,7 +86,7 @@ def combine_sentences(
 
 def selected_lessons(lesson_ids: list[str] | None) -> list[object]:
     return [
-        lesson for lesson in LESSONS if not lesson_ids or lesson.id in lesson_ids
+        lesson for lesson in QWEN_LESSONS if not lesson_ids or lesson.id in lesson_ids
     ]
 
 
@@ -141,7 +146,7 @@ def main() -> None:
     parser.add_argument(
         "--lesson",
         nargs="+",
-        choices=[lesson.id for lesson in LESSONS],
+        choices=[lesson.id for lesson in QWEN_LESSONS],
         help="Generate only the selected lesson IDs.",
     )
     arguments = parser.parse_args()

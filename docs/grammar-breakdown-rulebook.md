@@ -393,7 +393,8 @@ For every new lesson:
 5. Validate the Pydantic objects.
 6. Run curriculum and unit tests.
 7. Inspect the running app at desktop and mobile widths.
-8. Add the lesson ID to the published list only after all checks pass.
+8. Run the release validator, then add the lesson ID to
+   `curriculum/a1_course/publication.json` only after all checks pass.
 
 This sequence is the reusable learning-content system. Do not replace it with
 lesson-specific UI, sentence-string branches in shared code, or generated

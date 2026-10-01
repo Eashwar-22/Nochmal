@@ -6,18 +6,35 @@ import wave
 from collections import Counter
 from pathlib import Path
 
+from pydantic import ValidationError
+
 from nochmal.content import A1_COURSE_LESSONS
+from nochmal.content.models import SentenceAnnotations
+from nochmal.content.source_models import CourseLessonSource
 from nochmal.content.validation import validate_lesson_library
 from nochmal.paths import PROJECT_ROOT
 from nochmal.ui.app import COURSE_LESSONS, PUBLISHED_LESSON_IDS
+from nochmal.validation.release import release_errors
 
 
 STAGED_PATH = PROJECT_ROOT / "curriculum" / "a1_staging" / "lessons" / "module_01.json"
 PRODUCTION_PATH = PROJECT_ROOT / "curriculum" / "a1_course" / "lessons" / "001.json"
-AUDIO_ROOT = PROJECT_ROOT / "assets" / "audio" / "a1_staging" / "a1-draft-001"
+AUDIO_ROOT = PROJECT_ROOT / "assets" / "audio" / "a1_course" / "a1-course-001"
 
 
 class A1CourseReferenceLessonTests(unittest.TestCase):
+    def test_complete_release_gate_passes(self) -> None:
+        self.assertEqual([], release_errors("a1-course-001"))
+
+    def test_authored_schemas_reject_unknown_fields(self) -> None:
+        with self.assertRaises(ValidationError):
+            SentenceAnnotations.model_validate({"word_meaningz": {"bin": "am"}})
+
+        source = json.loads(PRODUCTION_PATH.read_text(encoding="utf-8"))
+        source["sentences"][0]["annotations"]["word_tagz"] = {}
+        with self.assertRaises(ValidationError):
+            CourseLessonSource.model_validate(source)
+
     def test_reference_lesson_is_the_only_published_course_lesson(self) -> None:
         self.assertEqual(("a1-course-001",), PUBLISHED_LESSON_IDS)
         self.assertEqual(["a1-course-001"], [lesson.id for lesson in COURSE_LESSONS])
@@ -219,6 +236,22 @@ class A1CourseReferenceLessonTests(unittest.TestCase):
                 if item.kind == "phrase"
             ])
         self.assertEqual(expected, actual)
+
+    def test_idiomatic_phrases_preserve_natural_and_literal_meanings(self) -> None:
+        phrases = {
+            item.german: (item.english, item.literal_meaning)
+            for sentence in A1_COURSE_LESSONS[0].sentences
+            for group in sentence.breakdown_groups
+            for item in group.items
+            if item.kind == "phrase"
+        }
+        self.assertEqual(("my name is Mina", "I am called Mina"), phrases["ich heiße Mina"])
+        self.assertEqual(("Hello", "Good day"), phrases["Guten Tag"])
+        self.assertEqual(("Nice to meet you", "Pleases me"), phrases["Freut mich"])
+        self.assertEqual(
+            ("Goodbye", "Until we see each other again"),
+            phrases["Auf Wiedersehen"],
+        )
 
 
 if __name__ == "__main__":

@@ -2120,18 +2120,31 @@ def _apply_sentence_annotations(
             phrase = BreakdownItem(
                 german=authored.german,
                 english=authored.english,
+                literal_meaning=authored.literal_meaning,
                 kind="phrase",
             )
             phrases.append(phrase)
             by_normalized_phrase[normalized] = phrase
         elif authored.english is not None:
             phrase.english = authored.english
+        if authored.literal_meaning is not None:
+            phrase.literal_meaning = authored.literal_meaning
         _extend_tags(phrase, tuple(authored.tags))
 
     excluded = {
         " ".join(token.casefold() for token in WORD_RE.findall(german))
         for german in annotations.excluded_phrases
     }
+    available_phrases = {
+        " ".join(token.casefold() for token in WORD_RE.findall(phrase.german))
+        for phrase in phrases
+    }
+    missing_exclusions = excluded - available_phrases
+    if missing_exclusions:
+        raise ValueError(
+            "Excluded phrases were not generated: "
+            + ", ".join(sorted(missing_exclusions))
+        )
     phrases[:] = [
         phrase
         for phrase in phrases
@@ -2143,6 +2156,24 @@ def _apply_sentence_annotations(
         " ".join(token.casefold() for token in WORD_RE.findall(german)): set(labels)
         for german, labels in annotations.excluded_phrase_tags.items()
     }
+    phrase_by_normalized = {
+        " ".join(token.casefold() for token in WORD_RE.findall(phrase.german)): phrase
+        for phrase in phrases
+    }
+    missing_tag_exclusions = excluded_tags.keys() - phrase_by_normalized.keys()
+    if missing_tag_exclusions:
+        raise ValueError(
+            "Phrase-tag exclusions reference missing phrases: "
+            + ", ".join(sorted(missing_tag_exclusions))
+        )
+    for normalized, labels in excluded_tags.items():
+        current_labels = {tag_.label for tag_ in phrase_by_normalized[normalized].tags}
+        missing_labels = labels - current_labels
+        if missing_labels:
+            raise ValueError(
+                f"Phrase-tag exclusions for {normalized!r} reference tags that "
+                f"were not generated: {sorted(missing_labels)}"
+            )
     for phrase in phrases:
         normalized = " ".join(
             token.casefold() for token in WORD_RE.findall(phrase.german)
@@ -2210,7 +2241,7 @@ def _load_records() -> list[dict]:
     return records
 
 
-def _compile_lesson(record: dict, introduced_targets: list[str]) -> Lesson:
+def compile_lesson(record: dict, introduced_targets: list[str]) -> Lesson:
     lesson_targets = [*introduced_targets, *record["new_targets"]]
     record_audio_path = record.get("audio_path")
     sentence_audio_paths = [
@@ -2276,7 +2307,7 @@ def load_a1_a2_lessons() -> list[Lesson]:
     introduced_targets: list[str] = []
     for record in records:
         try:
-            lesson = _compile_lesson(record, introduced_targets)
+            lesson = compile_lesson(record, introduced_targets)
         except ValueError as error:
             raise ValueError(f"Could not compile curriculum lesson {record['id']}: {error}") from error
         lessons.append(lesson)
