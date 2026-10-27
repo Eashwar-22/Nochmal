@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-017",
+  "source_sha256": "815faf2a800c186de6c81ccff7a23ae788c45246a089303b90ccc8abfafa5243",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "im contraction card",
+        "accusative article and adjective cards",
+        "possessive determiner card"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "Kann ich ... haben question",
+        "bill request ellipsis",
+        "payment-method expressions"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "polite service question",
+        "bill request",
+        "card and cash payment meanings"
+      ],
+      "findings": []
+    }
+  ]
+}

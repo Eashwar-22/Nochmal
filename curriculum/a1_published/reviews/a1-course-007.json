@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-007",
+  "source_sha256": "098821685c60c23da0e9b85dde1521c490114bacb99f7067c9b0049e6a55a001",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "every source token has one ordered word card",
+        "Leo is correctly analysed as a dative recipient and visible possessive or article forms have typed references",
+        "das remains a demonstrative pronoun before dein Bruder rather than being absorbed as an article",
+        "all phrases use exact source wording"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "the family-photo dialogue is grammatical",
+        "all contextual word meanings match their sentence forms",
+        "mit dem Kind is neuter dative",
+        "possessive forms agree with their nouns"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "translations preserve the family relationships",
+        "glosses are concise and A1-appropriate"
+      ],
+      "findings": []
+    }
+  ]
+}

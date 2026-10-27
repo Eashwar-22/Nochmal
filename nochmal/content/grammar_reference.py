@@ -52,11 +52,28 @@ INDEFINITE_ARTICLES = {
     "dative": ("einem", "einer", "einem", "—"),
     "genitive": ("eines", "einer", "eines", "—"),
 }
+NEGATIVE_DETERMINERS = {
+    "nominative": ("kein", "keine", "kein", "keine"),
+    "accusative": ("keinen", "keine", "kein", "keine"),
+    "dative": ("keinem", "keiner", "keinem", "keinen"),
+    "genitive": ("keines", "keiner", "keines", "keiner"),
+}
 POSSESSIVE_ENDINGS = {
     "nominative": ("", "e", "", "e"),
     "accusative": ("en", "e", "", "e"),
     "dative": ("em", "er", "em", "en"),
     "genitive": ("es", "er", "es", "er"),
+}
+DER_WORD_ENDINGS = {
+    "nominative": ("er", "e", "es", "e"),
+    "accusative": ("en", "e", "es", "e"),
+    "dative": ("em", "er", "em", "en"),
+    "genitive": ("es", "er", "es", "er"),
+}
+DER_WORD_BASES = {
+    "dieser": "dies",
+    "jeder": "jed",
+    "welcher": "welch",
 }
 ADJECTIVE_ENDINGS = {
     "weak-adjective": {
@@ -109,6 +126,8 @@ def table_for_help(help_card: InflectionHelp) -> dict[str, tuple[str, ...]]:
         return DEFINITE_ARTICLES
     if help_card.paradigm == "indefinite":
         return INDEFINITE_ARTICLES
+    if help_card.paradigm == "negative":
+        return NEGATIVE_DETERMINERS
     if help_card.paradigm == "possessive":
         stem = help_card.base.rstrip("-")
         return {
@@ -117,6 +136,12 @@ def table_for_help(help_card: InflectionHelp) -> dict[str, tuple[str, ...]]:
                 for ending in endings
             )
             for case, endings in POSSESSIVE_ENDINGS.items()
+        }
+    if help_card.paradigm == "der-word":
+        stem = DER_WORD_BASES[help_card.base.casefold()]
+        return {
+            case: tuple(f"{stem}{ending}" for ending in endings)
+            for case, endings in DER_WORD_ENDINGS.items()
         }
     if help_card.paradigm == "personal-pronoun":
         return PERSONAL_PRONOUNS
@@ -177,12 +202,25 @@ def _possessive_stem(surface: str) -> str | None:
     return None
 
 
+def _der_word_base(surface: str) -> str | None:
+    key = surface.casefold()
+    for base, stem in DER_WORD_BASES.items():
+        if any(
+            key == f"{stem}{ending}"
+            for endings in DER_WORD_ENDINGS.values()
+            for ending in endings
+        ):
+            return base
+    return None
+
+
 def _determiner_help(
     surface: str,
     *,
     dictionary_article: str,
     case: GrammarCase,
     gender: str,
+    possessive_base: str | None = None,
 ) -> InflectionHelp | None:
     key = surface.casefold()
     number = "plural" if gender == "plural" else "singular"
@@ -221,13 +259,37 @@ def _determiner_help(
             gender=gender,
             number=number,
         )
+    if case in _table_cases(NEGATIVE_DETERMINERS, gender, key):
+        return InflectionHelp(
+            surface=surface,
+            base="kein",
+            kind="negative-determiner",
+            paradigm="negative",
+            case=case,
+            gender=gender,
+            number=number,
+        )
     stem = _possessive_stem(key)
     if stem:
+        base = possessive_base or stem
         help_card = InflectionHelp(
             surface=surface,
-            base=stem,
+            base=base,
             kind="possessive-determiner",
             paradigm="possessive",
+            case=case,
+            gender=gender,
+            number=number,
+        )
+        if table_for_help(help_card)[case][GENDERS.index(gender)].casefold() == key:
+            return help_card
+    der_word_base = _der_word_base(key)
+    if der_word_base:
+        help_card = InflectionHelp(
+            surface=surface,
+            base=der_word_base,
+            kind="der-word-determiner",
+            paradigm="der-word",
             case=case,
             gender=gender,
             number=number,
@@ -237,18 +299,44 @@ def _determiner_help(
     return None
 
 
-def _pronoun_help(surface: str, case: GrammarCase) -> InflectionHelp | None:
+def _pronoun_help(
+    surface: str,
+    case: GrammarCase,
+    *,
+    nominative_base: str | None = None,
+    formal: bool = False,
+    singular: bool = False,
+) -> InflectionHelp | None:
     key = surface.casefold()
     candidates = []
     for column, form in enumerate(PERSONAL_PRONOUNS[case]):
         variants = {part.strip().casefold() for part in form.split("/")}
         if key in variants:
             candidates.append(column)
+    if formal:
+        candidates = [column for column in candidates if column == 7]
+    elif singular:
+        candidates = [column for column in candidates if column < 5]
+    if len(candidates) > 1 and nominative_base:
+        base_key = nominative_base.casefold()
+        candidates = [
+            column
+            for column in candidates
+            if base_key
+            in {
+                part.strip().casefold()
+                for part in PERSONAL_PRONOUNS["nominative"][column].split("/")
+            }
+        ]
     if len(candidates) != 1:
         return None
     column = candidates[0]
     slot = PRONOUN_SLOTS[column]
-    base = PERSONAL_PRONOUNS["nominative"][column].split("/")[0].strip()
+    base = (
+        "Sie"
+        if formal and column == 7
+        else PERSONAL_PRONOUNS["nominative"][column].split("/")[0].strip()
+    )
     number = "plural" if column >= 5 else "singular"
     gender = {
         2: "masculine",
@@ -298,13 +386,49 @@ def inflections_for_phrase(
             continue
         noun_tokens = TOKEN_RE.findall(noun_match.group(2))
         if noun_tokens:
-            noun_details[noun_tokens[-1].casefold()] = (
+            details = (
                 noun_match.group(1).casefold(),
                 _noun_gender(item, noun_match.group(1).casefold()),
             )
+            noun_details[noun_tokens[-1].casefold()] = details
+            # The reusable noun card uses a dictionary form while source_forms
+            # can hold a declined or plural form.  Record that source form too
+            # so a case-tagged phrase such as "ihren Namen" can find its noun
+            # and attach the determiner reference without a lesson-specific
+            # exception.
+            for source_form in item.source_forms:
+                source_tokens = TOKEN_RE.findall(source_form)
+                if source_tokens and source_tokens[-1].casefold() not in {
+                    "der",
+                    "die",
+                    "das",
+                }:
+                    noun_details.setdefault(source_tokens[-1].casefold(), details)
 
     result: list[InflectionHelp] = []
     used_surfaces: set[str] = set()
+
+    def authored_possessive_base(surface: str) -> str | None:
+        if surface.startswith("Ihr") and any(
+            item.kind == "word"
+            and surface in item.source_forms
+            and {"possessive", "formal"} <= {tag.label for tag in item.tags}
+            for item in group.items
+        ):
+            return "Ihr"
+        return next(
+            (
+                item.german
+                for item in group.items
+                if item.kind == "word"
+                and "possessive" in {tag.label for tag in item.tags}
+                and surface in item.source_forms
+                and item.german.casefold().rstrip("-") in POSSESSIVE_STEMS
+                and item.german.casefold() != surface.casefold()
+            ),
+            None,
+        )
+
     for noun_index, noun_match in enumerate(matches):
         noun = noun_details.get(noun_match.group(0).casefold())
         if noun is None:
@@ -317,6 +441,7 @@ def inflections_for_phrase(
                 dictionary_article=dictionary_article,
                 case=phrase_case,
                 gender=gender,
+                possessive_base=authored_possessive_base(candidate.group(0)),
             )
             if help_card is not None:
                 key = help_card.surface.casefold()
@@ -349,12 +474,16 @@ def inflections_for_phrase(
                         dictionary_article=dictionary_article,
                         case=phrase_case,
                         gender=gender,
+                        possessive_base=authored_possessive_base(match.group(0)),
                     )
                     for match in reversed(preceding)
                 ),
                 None,
             )
-            if determiner and determiner.kind == "definite-article":
+            if determiner and determiner.kind in {
+                "definite-article",
+                "der-word-determiner",
+            }:
                 paradigm = "weak-adjective"
             elif determiner:
                 paradigm = "mixed-adjective"
@@ -373,18 +502,49 @@ def inflections_for_phrase(
             )
             used_surfaces.add(adjective_match.group(0).casefold())
 
-    for item in group.items:
+    pronoun_items = [
+        item
+        for item in group.items
+        if item.kind == "word"
+        and "personal pronoun" in {tag.label for tag in item.tags}
+    ]
+    pronoun_spellings: dict[str, set[str]] = {}
+    explicitly_disambiguated: set[str] = set()
+    for item in pronoun_items:
         labels = {tag.label for tag in item.tags}
-        if item.kind != "word" or "personal pronoun" not in labels:
-            continue
+        for form in {item.german, *item.source_forms}:
+            pronoun_spellings.setdefault(form.casefold(), set()).add(form)
+            if "singular" in labels or "plural" in labels:
+                explicitly_disambiguated.add(form.casefold())
+    capitalization_distinguishes = {
+        key
+        for key, forms in pronoun_spellings.items()
+        if len(forms) > 1 and key in explicitly_disambiguated
+    }
+
+    for item in pronoun_items:
+        labels = {tag.label for tag in item.tags}
         visible_forms = {
-            item.german.casefold(),
-            *(form.casefold() for form in item.source_forms),
+            item.german,
+            *item.source_forms,
         }
         for match in matches:
-            if match.group(0).casefold() not in visible_forms:
+            matched = match.group(0)
+            if matched.casefold() in capitalization_distinguishes:
+                belongs_to_item = matched in visible_forms
+            else:
+                belongs_to_item = matched.casefold() in {
+                    form.casefold() for form in visible_forms
+                }
+            if not belongs_to_item:
                 continue
-            help_card = _pronoun_help(match.group(0), phrase_case)
+            help_card = _pronoun_help(
+                match.group(0),
+                phrase_case,
+                nominative_base=item.german,
+                formal="formal" in labels,
+                singular="singular" in labels,
+            )
             if help_card and help_card.surface.casefold() not in used_surfaces:
                 result.append(help_card)
                 used_surfaces.add(help_card.surface.casefold())

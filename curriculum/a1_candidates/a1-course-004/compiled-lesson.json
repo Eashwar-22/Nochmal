@@ -1,0 +1,1589 @@
+{
+  "schema_version": 1,
+  "source_sha256": "35641a446cf1719bded7d1f05b618faa5b4be88b8e2230daec7bc85b60d85ccd",
+  "lesson": {
+    "id": "a1-course-004",
+    "title": "Stimmt das?",
+    "english_title": "Is That Correct?",
+    "level": "A1.1",
+    "sentences": [
+      {
+        "text": "Im Kurs nennt Mina ihre Telefonnummer und ihre E-Mail-Adresse.",
+        "natural_meaning": "In the course, Mina gives her telephone number and email address.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "in",
+                "english": "in the",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Im"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Kurs",
+                "english": "course",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Kurs"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "nennt",
+                "english": "gives",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "nennen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "nenne"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "nennst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "nennt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "nennen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "nennt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "nennen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to name / call",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "nenne"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "nennst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "nennt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "nennen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "nennt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "nennen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I name",
+                    "you name",
+                    "he/she/it names",
+                    "we name",
+                    "you name",
+                    "they/you name"
+                  ],
+                  "current_english_forms": [
+                    "I name",
+                    "you name",
+                    "he/she/it names",
+                    "we name",
+                    "you name",
+                    "they/you name"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "nennt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Mina",
+                "english": "Mina",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Mina"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ihre",
+                "english": "her",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "possessive",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "determiner",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ihre"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Telefonnummer",
+                "english": "telephone number",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Telefonnummer"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ihre",
+                "english": "her",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "possessive",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "determiner",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ihre"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die E-Mail-Adresse",
+                "english": "email address",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "E-Mail-Adresse"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Im Kurs nennt Mina ihre Telefonnummer und ihre E-Mail-Adresse",
+                "english": "In the course, Mina gives her telephone number and email address",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Im Kurs",
+                "english": "In class",
+                "literal_meaning": "in the course",
+                "tags": [
+                  {
+                    "label": "contraction",
+                    "category": "form"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Im",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": "dem",
+                    "contraction": "in + dem"
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "ihre Telefonnummer",
+                "english": "her telephone number",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "ihre",
+                    "base": "ihr",
+                    "kind": "possessive-determiner",
+                    "paradigm": "possessive",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "ihre E-Mail-Adresse",
+                "english": "her email address",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "ihre",
+                    "base": "ihr",
+                    "kind": "possessive-determiner",
+                    "paradigm": "possessive",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Im Kurs nennt Mina",
+                "english": "In class, Mina gives",
+                "literal_meaning": "In the course gives Mina",
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_candidates/a1-course-004/sentence-01.wav"
+      },
+      {
+        "text": "Der Mann fragt: „Ist die Nummer 0176 4208 richtig?“",
+        "natural_meaning": "The man asks, “Is the number 0176 4208 correct?”",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "der Mann",
+                "english": "man",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Der",
+                  "Mann"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "fragt",
+                "english": "asks",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "fragen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "frage"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "fragst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "fragt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "fragen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "fragt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "fragen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to ask",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "frage"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "fragst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "fragt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "fragen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "fragt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "fragen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I ask",
+                    "you ask",
+                    "he/she/it asks",
+                    "we ask",
+                    "you ask",
+                    "they/you ask"
+                  ],
+                  "current_english_forms": [
+                    "I ask",
+                    "you ask",
+                    "he/she/it asks",
+                    "we ask",
+                    "you ask",
+                    "they/you ask"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "fragt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Ist",
+                "english": "is",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "Ist"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Nummer",
+                "english": "number",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "die",
+                  "Nummer"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "0176",
+                "english": "zero one seven six",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "numeral",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "0176"
+                ],
+                "spoken_form": "null eins sieben sechs"
+              },
+              {
+                "german": "4208",
+                "english": "four two zero eight",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "numeral",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "4208"
+                ],
+                "spoken_form": "vier zwei null acht"
+              },
+              {
+                "german": "richtig",
+                "english": "correct",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "predicate",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "richtig"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Der Mann fragt",
+                "english": "The man asks",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Ist die Nummer 0176 4208 richtig",
+                "english": "Is the number 0176 4208 correct?",
+                "literal_meaning": "Is the number 0176 4208 correct?",
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "die Nummer 0176 4208",
+                "english": "the number 0176 4208",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "die",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "nominative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_candidates/a1-course-004/sentence-02.wav"
+      },
+      {
+        "text": "Mina antwortet: „Nein, die letzte Zahl ist falsch.“",
+        "natural_meaning": "Mina answers, “No, the last digit is wrong.”",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Mina",
+                "english": "Mina",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Mina"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "antwortet",
+                "english": "answers",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "antworten",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "antworte"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "antwortest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "antwortet"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "antworten"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "antwortet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "antworten"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to answer",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "antworte"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "antwortest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "antwortet"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "antworten"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "antwortet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "antworten"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I answer",
+                    "you answer",
+                    "he/she/it answers",
+                    "we answer",
+                    "you answer",
+                    "they/you answer"
+                  ],
+                  "current_english_forms": [
+                    "I answer",
+                    "you answer",
+                    "he/she/it answers",
+                    "we answer",
+                    "you answer",
+                    "they/you answer"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "antwortet"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "nein",
+                "english": "no",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "interjection",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Nein"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "letzt",
+                "english": "last",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "letzte"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Zahl",
+                "english": "digit",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "die",
+                  "Zahl"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ist",
+                "english": "is",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "ist"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "falsch",
+                "english": "wrong",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "predicate",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "falsch"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die letzte Zahl",
+                "english": "the last digit",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "die",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "nominative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  },
+                  {
+                    "surface": "letzte",
+                    "base": "letzt",
+                    "kind": "adjective",
+                    "paradigm": "weak-adjective",
+                    "case": "nominative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Mina antwortet",
+                "english": "Mina answers",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "die letzte Zahl ist falsch",
+                "english": "the last digit is wrong",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_candidates/a1-course-004/sentence-03.wav"
+      },
+      {
+        "text": "Dann buchstabiert sie langsam ihren Namen.",
+        "natural_meaning": "Then she slowly spells her name.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Dann",
+                "english": "then",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Dann"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "buchstabiert",
+                "english": "spells",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "buchstabieren",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "buchstabiere"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "buchstabierst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "buchstabiert"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "buchstabieren"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "buchstabiert"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "buchstabieren"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to spell",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "buchstabiere"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "buchstabierst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "buchstabiert"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "buchstabieren"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "buchstabiert"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "buchstabieren"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I spell",
+                    "you spell",
+                    "he/she/it spells",
+                    "we spell",
+                    "you spell",
+                    "they/you spell"
+                  ],
+                  "current_english_forms": [
+                    "I spell",
+                    "you spell",
+                    "he/she/it spells",
+                    "we spell",
+                    "you spell",
+                    "they/you spell"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "buchstabiert"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sie",
+                "english": "she",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "langsam",
+                "english": "slowly",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "manner",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "langsam"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ihren",
+                "english": "her",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "possessive",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "determiner",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ihren"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Name",
+                "english": "name",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Namen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Dann buchstabiert sie langsam ihren Namen",
+                "english": "Then she slowly spells her name",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "ihren Namen",
+                "english": "her name",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "ihren",
+                    "base": "ihr",
+                    "kind": "possessive-determiner",
+                    "paradigm": "possessive",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Dann buchstabiert sie",
+                "english": "Then she spells",
+                "literal_meaning": "Then spells she",
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_candidates/a1-course-004/sentence-04.wav"
+      }
+    ],
+    "audio_path": "assets/audio/a1_candidates/a1-course-004/paragraph.wav",
+    "initial_question": "Which part of the phone number is wrong?",
+    "initial_answer": "The last digit.",
+    "audio_status": "ready",
+    "sequence": 4,
+    "lesson_format": "dialogue",
+    "topic": "checking a contact detail at reception",
+    "new_targets": [
+      "die Telefonnummer",
+      "die E-Mail-Adresse",
+      "die Zahl",
+      "buchstabieren",
+      "richtig",
+      "falsch",
+      "nein"
+    ],
+    "recycled_targets": [
+      "der Kurs",
+      "sein",
+      "Mina",
+      "der Name",
+      "langsam"
+    ],
+    "speech_alternatives": []
+  }
+}

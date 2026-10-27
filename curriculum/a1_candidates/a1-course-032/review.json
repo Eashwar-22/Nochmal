@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-032",
+  "source_sha256": "39f9fd13446536c67e909c88d5aa7919bdc73c68f0d2c4c415053e42fe7e4ec8",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token coverage",
+        "formal imperative references",
+        "dative recipient forms",
+        "medicine noun phrases"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "dosage wording",
+        "formal Sie consistency",
+        "pharmacy sequence",
+        "unambiguous final reference"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "dosage translation",
+        "morning-evening contrast",
+        "instruction accessibility",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

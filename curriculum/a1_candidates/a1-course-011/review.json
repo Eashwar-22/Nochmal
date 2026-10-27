@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-011",
+  "source_sha256": "52c19f6e2705d198e6b0a1771f8aae4ac1c71bc8b596193c984714c3e24ca757",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "case phrases remain syntactically bounded",
+        "reflexive pronoun classification",
+        "modal bracket"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "yes/no questions use finite-first order",
+        "uns is accusative reflexive",
+        "lange means for a long time"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "long-hours translation",
+        "meeting arrangement",
+        "elliptical reply"
+      ],
+      "findings": []
+    }
+  ]
+}

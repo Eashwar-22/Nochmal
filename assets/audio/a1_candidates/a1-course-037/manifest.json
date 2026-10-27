@@ -1,0 +1,34 @@
+{
+  "draft_id": "a1-draft-037",
+  "status": "draft_unpublished",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav",
+    "sentence-05.wav"
+  ],
+  "sentence_texts": [
+    "Am Morgen arbeitet Mina als Mitarbeiterin in einem kleinen B\u00fcro in Bonn.",
+    "Ihr Kollege Paul sitzt am anderen Arbeitsplatz und hilft ihr oft bei einer neuen Aufgabe.",
+    "Am Abend besucht Mina einen Deutschkurs bei Frau Keller.",
+    "Die Lehrerin arbeitet am Vormittag in einem Kindergarten.",
+    "Sie fragt Mina: \u201eWo arbeitest du, und wann beginnt dein Arbeitstag?\u201c"
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "00ee4eabc99a4584aa0b780046f5b1ab7a67cd4f1bccf36bce2a0593940d479a",
+    "sentence-02.wav": "f943dab4e4df163092f749d594fc5cafa54cae8eb23a85a8bf7ffda7fec1bfaa",
+    "sentence-03.wav": "601703d4473863dae23ea6bbc56d75edb4bdd3816594995341c702aba63404b6",
+    "sentence-04.wav": "93c8d56082742873c0a6ba4942a438e70a0633f783f2ff4da502331016939df7",
+    "sentence-05.wav": "cad96c77121c8455aa9a62bdaaf0108aa2023c98a422292e89fe9291cfadcc39"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "672cadd072f2a2cedee4a579997c8eec9950a9eecc57c86472a11b8b15fe8e56",
+  "paragraph_assembled_from_sentence_files": true
+}

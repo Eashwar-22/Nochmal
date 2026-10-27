@@ -1,0 +1,4009 @@
+{
+  "schema_version": 1,
+  "source_sha256": "b6d5dd28fc7bdb351e74e928958b35875c237e5d9fde7e6ce96e4250b362a53f",
+  "tag_descriptions": {
+    "noun": "A word for a person, place, thing, or idea.",
+    "compound noun": "A noun formed by joining two or more words.",
+    "proper noun": "The specific name of a person, place, or organization.",
+    "masc.": "A noun with masculine grammatical gender.",
+    "fem.": "A noun with feminine grammatical gender.",
+    "neuter": "A noun with neuter grammatical gender.",
+    "singular": "A form referring to one person or thing.",
+    "plural": "A form referring to more than one person or thing.",
+    "verb": "A word expressing an action, process, or state.",
+    "modal verb": "A verb expressing ability, permission, need, or intention.",
+    "auxiliary": "A helping verb used to build a tense or voice.",
+    "reflexive": "A verb used with a pronoun that refers back to the subject.",
+    "separable": "A verb whose prefix separates in some sentence patterns.",
+    "inseparable": "A prefixed verb whose prefix stays attached.",
+    "regular": "A verb that follows the standard conjugation pattern.",
+    "irregular": "A verb with a stem or form that changes irregularly.",
+    "infinitive": "The unconjugated dictionary form of a verb.",
+    "past participle": "A verb form used in perfect tenses and the passive.",
+    "imperative": "A verb form used for commands or requests.",
+    "present": "A tense for current actions, habits, or general facts.",
+    "simple past": "A tense for completed past events, especially in writing.",
+    "perfect": "A past tense formed with haben or sein and a past participle.",
+    "pluperfect": "A tense for an event completed before another past event.",
+    "future": "A tense commonly formed with werden and an infinitive.",
+    "adjective": "A word describing a noun or a state.",
+    "adverb": "A word modifying a verb, adjective, or whole sentence.",
+    "interjection": "A standalone word used for a greeting, reaction, or brief response.",
+    "article": "A noun companion that can show gender, number, and case.",
+    "determiner": "A word that specifies quantity or reference before a noun.",
+    "personal pronoun": "A word such as ich or mir that refers to a participant.",
+    "interrogative pronoun": "A pronoun used to ask about a person, thing, or idea.",
+    "demonstrative pronoun": "A pronoun that points to a specific person, thing, or idea.",
+    "reflexive pronoun": "A pronoun that refers back to the subject of its clause.",
+    "relative pronoun": "A pronoun that introduces a relative clause and refers back to a noun.",
+    "indefinite pronoun": "A pronoun referring to a non-specific person, thing, amount, or totality.",
+    "possessive": "A form expressing ownership or another close relationship.",
+    "preposition": "A word showing a relationship and governing a case.",
+    "conjunction": "A word joining words, phrases, or clauses.",
+    "particle": "A small word that changes meaning, emphasis, or tone.",
+    "numeral": "A word expressing number, quantity, or order.",
+    "nominative": "The case normally used for the subject.",
+    "accusative": "The case often used for a direct object.",
+    "dative": "The case often used for a recipient or indirect object.",
+    "genitive": "The case commonly expressing possession or belonging.",
+    "subject": "The person or thing performing an action or being described.",
+    "direct object": "The person or thing directly affected by the action.",
+    "indirect object": "The recipient or beneficiary of the action.",
+    "predicate": "A word or phrase describing what the subject is or does.",
+    "main clause": "A complete clause that can stand on its own.",
+    "subordinate clause": "A dependent clause that supports a main clause.",
+    "verb-second": "The finite verb occupies the second sentence position.",
+    "verb-final": "The finite verb appears at the end of the clause.",
+    "inversion": "The verb comes before the subject after another first element.",
+    "negation": "A form that makes a word, phrase, or sentence negative.",
+    "fixed phrase": "A common expression usually learned as one stable unit.",
+    "idiom": "A phrase whose meaning is not fully predictable from its words.",
+    "ellipsis": "An understood word or phrase is omitted because the meaning is clear in context.",
+    "contraction": "A shortened form made by combining two words.",
+    "comparative": "An adjective or adverb form used to compare two things.",
+    "superlative": "A form expressing the highest degree of a quality.",
+    "time": "Shows when something happens.",
+    "place": "Shows where something happens.",
+    "direction": "Shows movement toward or away from a place.",
+    "frequency": "Shows how often something happens.",
+    "manner": "Shows how an action happens.",
+    "reason": "Shows why something happens.",
+    "connector": "Links one idea or sentence to another.",
+    "coordinating": "Joins elements that have equal grammatical status.",
+    "subordinating": "Introduces a clause that depends on another clause.",
+    "formal": "Used mainly in polite, official, or professional contexts.",
+    "informal": "Used mainly in relaxed or familiar contexts.",
+    "colloquial": "Typical of everyday spoken language.",
+    "subjunctive": "A verb form used for hypothetical, reported, or politely distanced statements."
+  },
+  "lesson": {
+    "id": "a1-course-048",
+    "title": "A1-Abschluss: Ein praktischer Tag",
+    "english_title": "Final A1 Checkpoint: A Practical Day",
+    "level": "A1.2",
+    "sentences": [
+      {
+        "text": "Sara stellt sich im Deutschkurs vor: „Ich heiße Sara und wohne jetzt in Bonn.“",
+        "natural_meaning": "Sara introduces herself in the German course: “My name is Sara and I now live in Bonn.”",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Sara",
+                "english": "Sara",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Sara"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "stellt",
+                "english": "introduce oneself",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  },
+                  {
+                    "label": "reflexive",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "separable",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sich vorstellen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "stelle mich vor"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "stellst dich vor"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "stellt sich vor"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "stellen uns vor"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "stellt euch vor"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "stellen sich vor"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to introduce oneself",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "stelle mich vor"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "stellst dich vor"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "stellt sich vor"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "stellen uns vor"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "stellt euch vor"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "stellen sich vor"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I introduce oneself",
+                    "you introduce oneself",
+                    "he/she/it introduce oneselfs",
+                    "we introduce oneself",
+                    "you introduce oneself",
+                    "they/you introduce oneself"
+                  ],
+                  "current_english_forms": [
+                    "I introduce oneself",
+                    "you introduce oneself",
+                    "he/she/it introduce oneselfs",
+                    "we introduce oneself",
+                    "you introduce oneself",
+                    "they/you introduce oneself"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "stellt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sich",
+                "english": "oneself",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "reflexive pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "in",
+                "english": "in / into",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "im"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Deutschkurs",
+                "english": "German course",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Deutschkurs"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "vor",
+                "english": "separable prefix of sich vorstellen",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "particle",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "vor"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Ich",
+                "english": "I",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Ich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "heiße",
+                "english": "be called",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "heißen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "heiße"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "heißt"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "heißt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "heißen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "heißt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "heißen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be called",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "heiße"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "heißt"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "heißt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "heißen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "heißt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "heißen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am called",
+                    "you are called",
+                    "he/she/it is called",
+                    "we are called",
+                    "you are called",
+                    "they/you are called"
+                  ],
+                  "current_english_forms": [
+                    "I am called",
+                    "you are called",
+                    "he/she/it is called",
+                    "we are called",
+                    "you are called",
+                    "they/you are called"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "heiße"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Sara",
+                "english": "Sara",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Sara"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "wohne",
+                "english": "live",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "wohnen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "wohne"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "wohnst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "wohnt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "wohnen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "wohnt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "wohnen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to live / reside",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "wohne"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "wohnst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "wohnt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "wohnen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "wohnt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "wohnen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I live",
+                    "you live",
+                    "he/she/it lives",
+                    "we live",
+                    "you live",
+                    "they/you live"
+                  ],
+                  "current_english_forms": [
+                    "I live",
+                    "you live",
+                    "he/she/it lives",
+                    "we live",
+                    "you live",
+                    "they/you live"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "wohne"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "jetzt",
+                "english": "now",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "jetzt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "in",
+                "english": "in / into",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "in"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Bonn",
+                "english": "Bonn",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Bonn"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "im Deutschkurs",
+                "english": "in the German course",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "contraction",
+                    "category": "form"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "im",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": "dem",
+                    "contraction": "in + dem",
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "der",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "accusative": [
+                        "den",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "dative": [
+                        "dem",
+                        "der",
+                        "dem",
+                        "den"
+                      ],
+                      "genitive": [
+                        "des",
+                        "der",
+                        "des",
+                        "der"
+                      ]
+                    },
+                    "selected_column": 0
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "in Bonn",
+                "english": "in Bonn",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Sara stellt sich im Deutschkurs vor",
+                "english": "Sara introduces herself in the German course",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "stellt sich im Deutschkurs vor",
+                "english": "introduces herself in the German course",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "reflexive",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "separable",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Ich heiße Sara",
+                "english": "My name is Sara",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "wohne jetzt in Bonn",
+                "english": "now live in Bonn",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_published/a1-course-048/sentence-01.wav"
+      },
+      {
+        "text": "Sie hört Minas Nachricht: „Treffen wir uns um fünf Uhr am Bahnhof?“",
+        "natural_meaning": "She hears Mina’s message: “Shall we meet at the station at five o’clock?”",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Sie",
+                "english": "she / they / you",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "hört",
+                "english": "hear",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "hören",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "höre"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hörst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hört"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "hören"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "hört"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "hören"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to hear / listen",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "höre"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hörst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hört"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "hören"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "hört"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "hören"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I hear",
+                    "you hear",
+                    "he/she/it hears",
+                    "we hear",
+                    "you hear",
+                    "they/you hear"
+                  ],
+                  "current_english_forms": [
+                    "I hear",
+                    "you hear",
+                    "he/she/it hears",
+                    "we hear",
+                    "you hear",
+                    "they/you hear"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "hört"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Minas",
+                "english": "Minas",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "genitive",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Minas"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Nachricht",
+                "english": "message",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Nachricht"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Treffen",
+                "english": "shall meet",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  },
+                  {
+                    "label": "reflexive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sich treffen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "treffe mich"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "triffst dich"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "trifft sich"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "treffen uns"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "trefft euch"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "treffen sich"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to meet",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "treffe mich"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "triffst dich"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "trifft sich"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "treffen uns"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "trefft euch"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "treffen sich"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I meet",
+                    "you meet",
+                    "he/she/it meets",
+                    "we meet",
+                    "you meet",
+                    "they/you meet"
+                  ],
+                  "current_english_forms": [
+                    "I meet",
+                    "you meet",
+                    "he/she/it meets",
+                    "we meet",
+                    "you meet",
+                    "they/you meet"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "Treffen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "wir",
+                "english": "we",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "wir"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "uns",
+                "english": "us",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "reflexive pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "uns"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "um",
+                "english": "at / around / in order to",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "um"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "fünf",
+                "english": "five",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "numeral",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "fünf"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Uhr",
+                "english": "clock; o'clock",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Uhr"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "an",
+                "english": "at / on",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "am"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Bahnhof",
+                "english": "train station",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Bahnhof"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "am Bahnhof",
+                "english": "at the station",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "contraction",
+                    "category": "form"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "am",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": "dem",
+                    "contraction": "an + dem",
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "der",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "accusative": [
+                        "den",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "dative": [
+                        "dem",
+                        "der",
+                        "dem",
+                        "den"
+                      ],
+                      "genitive": [
+                        "des",
+                        "der",
+                        "des",
+                        "der"
+                      ]
+                    },
+                    "selected_column": 0
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Minas Nachricht",
+                "english": "Mina’s message",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "genitive",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "um fünf Uhr",
+                "english": "at five o’clock",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "time",
+                    "category": "time"
+                  },
+                  {
+                    "label": "fixed phrase",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Sie hört Minas Nachricht",
+                "english": "She hears Mina’s message",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Treffen wir uns um fünf Uhr am Bahnhof",
+                "english": "Shall we meet at the station at five o’clock?",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "reflexive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_published/a1-course-048/sentence-02.wav"
+      },
+      {
+        "text": "Sara fährt mit dem Bus in die Stadt und kauft unterwegs zwei Brötchen.",
+        "natural_meaning": "Sara takes the bus into the city and buys two bread rolls on the way.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Sara",
+                "english": "Sara",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Sara"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "fährt",
+                "english": "takes / travels by",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "fahren",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "fahre"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "fährst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "fährt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "fahren"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "fahrt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "fahren"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to travel / go by vehicle",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "fahre"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "fährst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "fährt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "fahren"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "fahrt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "fahren"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I travel",
+                    "you travel",
+                    "he/she/it travels",
+                    "we travel",
+                    "you travel",
+                    "they/you travel"
+                  ],
+                  "current_english_forms": [
+                    "I travel",
+                    "you travel",
+                    "he/she/it travels",
+                    "we travel",
+                    "you travel",
+                    "they/you travel"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "fährt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "mit",
+                "english": "with / by",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "mit"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Bus",
+                "english": "bus",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "dem",
+                  "Bus"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "in",
+                "english": "in / into",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "in"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Stadt",
+                "english": "city / town",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "die",
+                  "Stadt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "kauft",
+                "english": "buy",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "kaufen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "kaufe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kaufst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kauft"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "kaufen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "kauft"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "kaufen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to buy",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "kaufe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kaufst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kauft"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "kaufen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "kauft"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "kaufen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I buy",
+                    "you buy",
+                    "he/she/it buys",
+                    "we buy",
+                    "you buy",
+                    "they/you buy"
+                  ],
+                  "current_english_forms": [
+                    "I buy",
+                    "you buy",
+                    "he/she/it buys",
+                    "we buy",
+                    "you buy",
+                    "they/you buy"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "kauft"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "unterwegs",
+                "english": "on the way / out and about",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "unterwegs"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "zwei",
+                "english": "two",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "numeral",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "zwei"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Brötchen",
+                "english": "bread roll",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "plural",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Brötchen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "mit dem Bus",
+                "english": "by bus",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "dem",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "der",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "accusative": [
+                        "den",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "dative": [
+                        "dem",
+                        "der",
+                        "dem",
+                        "den"
+                      ],
+                      "genitive": [
+                        "des",
+                        "der",
+                        "des",
+                        "der"
+                      ]
+                    },
+                    "selected_column": 0
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "in die Stadt",
+                "english": "into the city",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "die",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "der",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "accusative": [
+                        "den",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "dative": [
+                        "dem",
+                        "der",
+                        "dem",
+                        "den"
+                      ],
+                      "genitive": [
+                        "des",
+                        "der",
+                        "des",
+                        "der"
+                      ]
+                    },
+                    "selected_column": 1
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "zwei Brötchen",
+                "english": "two bread rolls",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Sara fährt mit dem Bus in die Stadt",
+                "english": "Sara takes the bus into the city",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "und kauft unterwegs zwei Brötchen",
+                "english": "and buys two bread rolls on the way",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "kauft unterwegs zwei Brötchen",
+                "english": "buys two bread rolls on the way",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_published/a1-course-048/sentence-03.wav"
+      },
+      {
+        "text": "In der Bäckerei fragt sie: „Was kosten die Brötchen, und kann ich mit Karte zahlen?“",
+        "natural_meaning": "At the bakery, she asks, “How much are the bread rolls, and can I pay by card?”",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "In",
+                "english": "in / into",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "In"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Bäckerei",
+                "english": "bakery",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "der",
+                  "Bäckerei"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "fragt",
+                "english": "ask",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "fragen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "frage"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "fragst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "fragt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "fragen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "fragt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "fragen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to ask",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "frage"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "fragst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "fragt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "fragen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "fragt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "fragen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I ask",
+                    "you ask",
+                    "he/she/it asks",
+                    "we ask",
+                    "you ask",
+                    "they/you ask"
+                  ],
+                  "current_english_forms": [
+                    "I ask",
+                    "you ask",
+                    "he/she/it asks",
+                    "we ask",
+                    "you ask",
+                    "they/you ask"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "fragt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sie",
+                "english": "she / they / you",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Was",
+                "english": "how much",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "interrogative pronoun",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Was"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "kosten",
+                "english": "cost",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "kosten",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "koste"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kostest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kostet"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "kosten"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "kostet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "kosten"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to cost",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "koste"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kostest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kostet"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "kosten"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "kostet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "kosten"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I cost",
+                    "you cost",
+                    "he/she/it costs",
+                    "we cost",
+                    "you cost",
+                    "they/you cost"
+                  ],
+                  "current_english_forms": [
+                    "I cost",
+                    "you cost",
+                    "he/she/it costs",
+                    "we cost",
+                    "you cost",
+                    "they/you cost"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "kosten"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Brötchen",
+                "english": "bread roll",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "plural",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "die",
+                  "Brötchen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "kann",
+                "english": "can",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  },
+                  {
+                    "label": "modal verb",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "können",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kannst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "können"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "könnt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "können"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "can / to be able to",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kannst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "können"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "könnt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "können"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I can",
+                    "you can",
+                    "he/she/it can",
+                    "we can",
+                    "you can",
+                    "they/you can"
+                  ],
+                  "current_english_forms": [
+                    "I can",
+                    "you can",
+                    "he/she/it can",
+                    "we can",
+                    "you can",
+                    "they/you can"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "kann"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ich",
+                "english": "I",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "mit",
+                "english": "with / by",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "mit"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Karte",
+                "english": "card / map",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Karte"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "zahlen",
+                "english": "pay",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "infinitive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "zahlen",
+                  "tense": "Infinitiv (infinitive in this construction)",
+                  "forms": [
+                    {
+                      "pronoun": "—",
+                      "verb": "zahlen"
+                    }
+                  ],
+                  "usage": "This non-finite form follows a modal verb or zu, so it does not change for person in this sentence.",
+                  "english": "to pay",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "zahle"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "zahlst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "zahlt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "zahlen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "zahlt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "zahlen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I pay",
+                    "you pay",
+                    "he/she/it pays",
+                    "we pay",
+                    "you pay",
+                    "they/you pay"
+                  ],
+                  "current_english_forms": [
+                    "to pay"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "zahlen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Was kosten die Brötchen",
+                "english": "How much are the bread rolls?",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "In der Bäckerei",
+                "english": "at the bakery",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "der",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "der",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "accusative": [
+                        "den",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "dative": [
+                        "dem",
+                        "der",
+                        "dem",
+                        "den"
+                      ],
+                      "genitive": [
+                        "des",
+                        "der",
+                        "des",
+                        "der"
+                      ]
+                    },
+                    "selected_column": 1
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "mit Karte",
+                "english": "by card",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "fixed phrase",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "kann ich mit Karte zahlen",
+                "english": "can I pay by card?",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "modal verb",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_published/a1-course-048/sentence-04.wav"
+      },
+      {
+        "text": "Später versteht sie eine Durchsage nicht und sagt: „Wie bitte? Bitte langsamer.“",
+        "natural_meaning": "Later she does not understand an announcement and says, “Pardon? More slowly, please.”",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "später",
+                "english": "later",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Später"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "versteht",
+                "english": "understand",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "verstehen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "verstehe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "verstehst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "versteht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "verstehen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "versteht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "verstehen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to understand",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "verstehe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "verstehst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "versteht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "verstehen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "versteht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "verstehen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I understand",
+                    "you understand",
+                    "he/she/it understands",
+                    "we understand",
+                    "you understand",
+                    "they/you understand"
+                  ],
+                  "current_english_forms": [
+                    "I understand",
+                    "you understand",
+                    "he/she/it understands",
+                    "we understand",
+                    "you understand",
+                    "they/you understand"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "versteht"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sie",
+                "english": "she / they / you",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Durchsage",
+                "english": "announcement",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "eine",
+                  "Durchsage"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "nicht",
+                "english": "not",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "negation",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "nicht"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sagt",
+                "english": "say",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sagen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "sage"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "sagst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "sagt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sagen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "sagt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sagen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to say",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "sage"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "sagst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "sagt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sagen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "sagt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sagen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I say",
+                    "you say",
+                    "he/she/it says",
+                    "we say",
+                    "you say",
+                    "they/you say"
+                  ],
+                  "current_english_forms": [
+                    "I say",
+                    "you say",
+                    "he/she/it says",
+                    "we say",
+                    "you say",
+                    "they/you say"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "sagt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Wie",
+                "english": "pardon",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "interrogative pronoun",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Wie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "bitte",
+                "english": "please; you're welcome",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "interjection",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "bitte"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "bitte",
+                "english": "please; you're welcome",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "interjection",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Bitte"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "langsamer",
+                "english": "more slowly",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "comparative",
+                    "category": "form"
+                  },
+                  {
+                    "label": "manner",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "langsamer"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Später versteht sie eine Durchsage nicht",
+                "english": "Later she does not understand an announcement",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "versteht sie eine Durchsage nicht",
+                "english": "she does not understand an announcement",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "negation",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "eine",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "ein",
+                        "eine",
+                        "ein",
+                        "—"
+                      ],
+                      "accusative": [
+                        "einen",
+                        "eine",
+                        "ein",
+                        "—"
+                      ],
+                      "dative": [
+                        "einem",
+                        "einer",
+                        "einem",
+                        "—"
+                      ],
+                      "genitive": [
+                        "eines",
+                        "einer",
+                        "eines",
+                        "—"
+                      ]
+                    },
+                    "selected_column": 1
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Wie bitte",
+                "english": "Pardon?",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "fixed phrase",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Bitte langsamer",
+                "english": "More slowly, please",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "imperative",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "fixed phrase",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_published/a1-course-048/sentence-05.wav"
+      },
+      {
+        "text": "Am richtigen Gleis findet sie Mina und fragt: „Fährt unser Zug heute pünktlich?“",
+        "natural_meaning": "At the correct platform, she finds Mina and asks, “Is our train running on time today?”",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "an",
+                "english": "at / on",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Am"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "richtig",
+                "english": "right / correct",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "richtigen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Gleis",
+                "english": "platform / track",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Gleis"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "findet",
+                "english": "find",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "finden",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "finde"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "findest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "findet"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "finden"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "findet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "finden"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to find",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "finde"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "findest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "findet"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "finden"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "findet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "finden"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I find",
+                    "you find",
+                    "he/she/it finds",
+                    "we find",
+                    "you find",
+                    "they/you find"
+                  ],
+                  "current_english_forms": [
+                    "I find",
+                    "you find",
+                    "he/she/it finds",
+                    "we find",
+                    "you find",
+                    "they/you find"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "findet"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sie",
+                "english": "she / they / you",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Mina",
+                "english": "Mina",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Mina"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "fragt",
+                "english": "ask",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "fragen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "frage"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "fragst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "fragt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "fragen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "fragt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "fragen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to ask",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "frage"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "fragst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "fragt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "fragen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "fragt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "fragen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I ask",
+                    "you ask",
+                    "he/she/it asks",
+                    "we ask",
+                    "you ask",
+                    "they/you ask"
+                  ],
+                  "current_english_forms": [
+                    "I ask",
+                    "you ask",
+                    "he/she/it asks",
+                    "we ask",
+                    "you ask",
+                    "they/you ask"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "fragt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Fährt",
+                "english": "is running / travelling",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "fahren",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "fahre"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "fährst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "fährt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "fahren"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "fahrt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "fahren"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to travel / go by vehicle",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "fahre"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "fährst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "fährt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "fahren"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "fahrt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "fahren"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I travel",
+                    "you travel",
+                    "he/she/it travels",
+                    "we travel",
+                    "you travel",
+                    "they/you travel"
+                  ],
+                  "current_english_forms": [
+                    "I travel",
+                    "you travel",
+                    "he/she/it travels",
+                    "we travel",
+                    "you travel",
+                    "they/you travel"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "Fährt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "unser",
+                "english": "our",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "possessive",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "determiner",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "unser"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Zug",
+                "english": "train",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Zug"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "heute",
+                "english": "today",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "heute"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "pünktlich",
+                "english": "punctual / on time",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "manner",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "pünktlich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Am richtigen Gleis findet sie Mina",
+                "english": "At the correct platform, she finds Mina",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Am richtigen Gleis",
+                "english": "at the correct platform",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "contraction",
+                    "category": "form"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Am",
+                    "base": "das",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": "dem",
+                    "contraction": "an + dem",
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "der",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "accusative": [
+                        "den",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "dative": [
+                        "dem",
+                        "der",
+                        "dem",
+                        "den"
+                      ],
+                      "genitive": [
+                        "des",
+                        "der",
+                        "des",
+                        "der"
+                      ]
+                    },
+                    "selected_column": 2
+                  },
+                  {
+                    "surface": "richtigen",
+                    "base": "richtig",
+                    "kind": "adjective",
+                    "paradigm": "weak-adjective",
+                    "case": "dative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "-e",
+                        "-e",
+                        "-e",
+                        "-en"
+                      ],
+                      "accusative": [
+                        "-en",
+                        "-e",
+                        "-e",
+                        "-en"
+                      ],
+                      "dative": [
+                        "-en",
+                        "-en",
+                        "-en",
+                        "-en"
+                      ],
+                      "genitive": [
+                        "-en",
+                        "-en",
+                        "-en",
+                        "-en"
+                      ]
+                    },
+                    "selected_column": 2
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "unser Zug",
+                "english": "our train",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "unser",
+                    "base": "unser",
+                    "kind": "possessive-determiner",
+                    "paradigm": "possessive",
+                    "case": "nominative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "unser",
+                        "unsere",
+                        "unser",
+                        "unsere"
+                      ],
+                      "accusative": [
+                        "unseren",
+                        "unsere",
+                        "unser",
+                        "unsere"
+                      ],
+                      "dative": [
+                        "unserem",
+                        "unserer",
+                        "unserem",
+                        "unseren"
+                      ],
+                      "genitive": [
+                        "unseres",
+                        "unserer",
+                        "unseres",
+                        "unserer"
+                      ]
+                    },
+                    "selected_column": 0
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Fährt unser Zug heute pünktlich",
+                "english": "Is our train running on time today?",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_published/a1-course-048/sentence-06.wav"
+      }
+    ],
+    "audio_path": "assets/audio/a1_published/a1-course-048/paragraph.wav",
+    "initial_question": "Where and when do Sara and Mina plan to meet?",
+    "initial_answer": "At the station at five o’clock.",
+    "audio_status": "ready",
+    "sequence": 48,
+    "lesson_format": "dialogue",
+    "topic": "a supported sequence of introductions, a message, a purchase, and travel",
+    "new_targets": [
+      "Noch eine Frage",
+      "Das weiß ich nicht",
+      "Bitte langsamer",
+      "Ich bin fertig",
+      "Kein Problem"
+    ],
+    "recycled_targets": [
+      "sich vorstellen",
+      "der Deutschkurs",
+      "der Bahnhof",
+      "das Brötchen",
+      "mit Karte zahlen",
+      "das Gleis",
+      "pünktlich"
+    ],
+    "speech_alternatives": []
+  }
+}

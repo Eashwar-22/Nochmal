@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-048",
+  "source_sha256": "b6d5dd28fc7bdb351e74e928958b35875c237e5d9fde7e6ce96e4250b362a53f",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token coverage",
+        "cumulative A1 retrieval",
+        "questions and repair language",
+        "case-bearing phrases"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "practical-day coherence",
+        "natural dialogue wording",
+        "appropriate A1 scope"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "question translations",
+        "repair formula translation",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

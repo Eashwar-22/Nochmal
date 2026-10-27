@@ -1,0 +1,3569 @@
+{
+  "schema_version": 1,
+  "source_sha256": "497394256a423f1db4c7f9066e55b29508050ec347c11430fe6f766beaf72c81",
+  "tag_descriptions": {
+    "noun": "A word for a person, place, thing, or idea.",
+    "compound noun": "A noun formed by joining two or more words.",
+    "proper noun": "The specific name of a person, place, or organization.",
+    "masc.": "A noun with masculine grammatical gender.",
+    "fem.": "A noun with feminine grammatical gender.",
+    "neuter": "A noun with neuter grammatical gender.",
+    "singular": "A form referring to one person or thing.",
+    "plural": "A form referring to more than one person or thing.",
+    "verb": "A word expressing an action, process, or state.",
+    "modal verb": "A verb expressing ability, permission, need, or intention.",
+    "auxiliary": "A helping verb used to build a tense or voice.",
+    "reflexive": "A verb used with a pronoun that refers back to the subject.",
+    "separable": "A verb whose prefix separates in some sentence patterns.",
+    "inseparable": "A prefixed verb whose prefix stays attached.",
+    "regular": "A verb that follows the standard conjugation pattern.",
+    "irregular": "A verb with a stem or form that changes irregularly.",
+    "infinitive": "The unconjugated dictionary form of a verb.",
+    "past participle": "A verb form used in perfect tenses and the passive.",
+    "imperative": "A verb form used for commands or requests.",
+    "present": "A tense for current actions, habits, or general facts.",
+    "simple past": "A tense for completed past events, especially in writing.",
+    "perfect": "A past tense formed with haben or sein and a past participle.",
+    "pluperfect": "A tense for an event completed before another past event.",
+    "future": "A tense commonly formed with werden and an infinitive.",
+    "adjective": "A word describing a noun or a state.",
+    "adverb": "A word modifying a verb, adjective, or whole sentence.",
+    "interjection": "A standalone word used for a greeting, reaction, or brief response.",
+    "article": "A noun companion that can show gender, number, and case.",
+    "determiner": "A word that specifies quantity or reference before a noun.",
+    "personal pronoun": "A word such as ich or mir that refers to a participant.",
+    "interrogative pronoun": "A pronoun used to ask about a person, thing, or idea.",
+    "demonstrative pronoun": "A pronoun that points to a specific person, thing, or idea.",
+    "reflexive pronoun": "A pronoun that refers back to the subject of its clause.",
+    "relative pronoun": "A pronoun that introduces a relative clause and refers back to a noun.",
+    "indefinite pronoun": "A pronoun referring to a non-specific person, thing, amount, or totality.",
+    "possessive": "A form expressing ownership or another close relationship.",
+    "preposition": "A word showing a relationship and governing a case.",
+    "conjunction": "A word joining words, phrases, or clauses.",
+    "particle": "A small word that changes meaning, emphasis, or tone.",
+    "numeral": "A word expressing number, quantity, or order.",
+    "nominative": "The case normally used for the subject.",
+    "accusative": "The case often used for a direct object.",
+    "dative": "The case often used for a recipient or indirect object.",
+    "genitive": "The case commonly expressing possession or belonging.",
+    "subject": "The person or thing performing an action or being described.",
+    "direct object": "The person or thing directly affected by the action.",
+    "indirect object": "The recipient or beneficiary of the action.",
+    "predicate": "A word or phrase describing what the subject is or does.",
+    "main clause": "A complete clause that can stand on its own.",
+    "subordinate clause": "A dependent clause that supports a main clause.",
+    "verb-second": "The finite verb occupies the second sentence position.",
+    "verb-final": "The finite verb appears at the end of the clause.",
+    "inversion": "The verb comes before the subject after another first element.",
+    "negation": "A form that makes a word, phrase, or sentence negative.",
+    "fixed phrase": "A common expression usually learned as one stable unit.",
+    "idiom": "A phrase whose meaning is not fully predictable from its words.",
+    "ellipsis": "An understood word or phrase is omitted because the meaning is clear in context.",
+    "contraction": "A shortened form made by combining two words.",
+    "comparative": "An adjective or adverb form used to compare two things.",
+    "superlative": "A form expressing the highest degree of a quality.",
+    "time": "Shows when something happens.",
+    "place": "Shows where something happens.",
+    "direction": "Shows movement toward or away from a place.",
+    "frequency": "Shows how often something happens.",
+    "manner": "Shows how an action happens.",
+    "reason": "Shows why something happens.",
+    "connector": "Links one idea or sentence to another.",
+    "coordinating": "Joins elements that have equal grammatical status.",
+    "subordinating": "Introduces a clause that depends on another clause.",
+    "formal": "Used mainly in polite, official, or professional contexts.",
+    "informal": "Used mainly in relaxed or familiar contexts.",
+    "colloquial": "Typical of everyday spoken language.",
+    "subjunctive": "A verb form used for hypothetical, reported, or politely distanced statements."
+  },
+  "lesson": {
+    "id": "a1-course-043",
+    "title": "Gestern",
+    "english_title": "Yesterday",
+    "level": "A1.2",
+    "sentences": [
+      {
+        "text": "Gestern ist Mina früh aufgestanden und mit dem Bus in die Stadt gefahren.",
+        "natural_meaning": "Yesterday Mina got up early and took the bus into the city.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "gestern",
+                "english": "yesterday",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Gestern"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ist",
+                "english": "perfect auxiliary",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  },
+                  {
+                    "label": "auxiliary",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "ist"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Mina",
+                "english": "Mina",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Mina"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "früh",
+                "english": "early",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "früh"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "aufgestanden",
+                "english": "got up",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "past participle",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "aufstehen",
+                  "tense": "Perfekt (conversational past)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin aufgestanden"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist aufgestanden"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist aufgestanden"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind aufgestanden"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid aufgestanden"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind aufgestanden"
+                    }
+                  ],
+                  "usage": "aufgestanden is the past participle of aufstehen; it combines with sein to form the conversational past.",
+                  "english": "to get up",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "stehe auf"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "stehst auf"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "steht auf"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "stehen auf"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "steht auf"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "stehen auf"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I get up",
+                    "you get up",
+                    "he/she/it gets up",
+                    "we get up",
+                    "you get up",
+                    "they/you get up"
+                  ],
+                  "current_english_forms": [
+                    "I have got up",
+                    "you have got up",
+                    "he/she/it has got up",
+                    "we have got up",
+                    "you have got up",
+                    "they/you have got up"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "aufgestanden"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "mit",
+                "english": "with / by",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "mit"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Bus",
+                "english": "bus",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "dem",
+                  "Bus"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "in",
+                "english": "in / into",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "in"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Stadt",
+                "english": "city / town",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "die",
+                  "Stadt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "gefahren",
+                "english": "travelled / went by bus",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "past participle",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "fahren",
+                  "tense": "Perfekt (conversational past)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin gefahren"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist gefahren"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist gefahren"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind gefahren"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid gefahren"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind gefahren"
+                    }
+                  ],
+                  "usage": "gefahren is the past participle of fahren; it combines with sein to form the conversational past.",
+                  "english": "to travel / go by vehicle",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "fahre"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "fährst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "fährt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "fahren"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "fahrt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "fahren"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I travel",
+                    "you travel",
+                    "he/she/it travels",
+                    "we travel",
+                    "you travel",
+                    "they/you travel"
+                  ],
+                  "current_english_forms": [
+                    "I have traveled",
+                    "you have traveled",
+                    "he/she/it has traveled",
+                    "we have traveled",
+                    "you have traveled",
+                    "they/you have traveled"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "gefahren"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Gestern ist Mina … aufgestanden und … gefahren",
+                "english": "Yesterday Mina got up early and took the bus into the city",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "mit dem Bus",
+                "english": "by bus",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "dem",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "der",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "accusative": [
+                        "den",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "dative": [
+                        "dem",
+                        "der",
+                        "dem",
+                        "den"
+                      ],
+                      "genitive": [
+                        "des",
+                        "der",
+                        "des",
+                        "der"
+                      ]
+                    },
+                    "selected_column": 0
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "in die Stadt",
+                "english": "into the city",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "die",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "der",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "accusative": [
+                        "den",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "dative": [
+                        "dem",
+                        "der",
+                        "dem",
+                        "den"
+                      ],
+                      "genitive": [
+                        "des",
+                        "der",
+                        "des",
+                        "der"
+                      ]
+                    },
+                    "selected_column": 1
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Gestern ist Mina früh aufgestanden",
+                "english": "Yesterday Mina got up early",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "mit dem Bus in die Stadt gefahren",
+                "english": "took the bus into the city",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  },
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_published/a1-course-043/sentence-01.wav"
+      },
+      {
+        "text": "Dort hat sie im Supermarkt für das Wochenende eingekauft und ihre Schwester besucht.",
+        "natural_meaning": "There she shopped at the supermarket for the weekend and visited her sister.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Dort",
+                "english": "there",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Dort"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "hat",
+                "english": "perfect auxiliary",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  },
+                  {
+                    "label": "auxiliary",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "haben",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to have",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I have",
+                    "you have",
+                    "he/she/it has",
+                    "we have",
+                    "you have",
+                    "they/you have"
+                  ],
+                  "current_english_forms": [
+                    "I have",
+                    "you have",
+                    "he/she/it has",
+                    "we have",
+                    "you have",
+                    "they/you have"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "hat"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sie",
+                "english": "she / they / you",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "in",
+                "english": "in / into",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "im"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Supermarkt",
+                "english": "supermarket",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Supermarkt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "für",
+                "english": "for",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "für"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Wochenende",
+                "english": "weekend",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "das",
+                  "Wochenende"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "eingekauft",
+                "english": "shopped",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "past participle",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  },
+                  {
+                    "label": "separable",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "einkaufen",
+                  "tense": "Perfekt (conversational past)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe eingekauft"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast eingekauft"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat eingekauft"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben eingekauft"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt eingekauft"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben eingekauft"
+                    }
+                  ],
+                  "usage": "eingekauft is the past participle of einkaufen; it combines with haben to form the conversational past.",
+                  "english": "to shop",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "kaufe ein"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kaufst ein"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kauft ein"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "kaufen ein"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "kauft ein"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "kaufen ein"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I shop",
+                    "you shop",
+                    "he/she/it shops",
+                    "we shop",
+                    "you shop",
+                    "they/you shop"
+                  ],
+                  "current_english_forms": [
+                    "I have shopped",
+                    "you have shopped",
+                    "he/she/it has shopped",
+                    "we have shopped",
+                    "you have shopped",
+                    "they/you have shopped"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "eingekauft"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ihre",
+                "english": "her",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "possessive",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "determiner",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ihre"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Schwester",
+                "english": "sister",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Schwester"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "besucht",
+                "english": "visited",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "past participle",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "besuchen",
+                  "tense": "Perfekt (conversational past)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe besucht"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast besucht"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat besucht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben besucht"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt besucht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben besucht"
+                    }
+                  ],
+                  "usage": "besucht is the past participle of besuchen; it combines with haben to form the conversational past.",
+                  "english": "to visit",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "besuche"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "besuchst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "besucht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "besuchen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "besucht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "besuchen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I visit",
+                    "you visit",
+                    "he/she/it visits",
+                    "we visit",
+                    "you visit",
+                    "they/you visit"
+                  ],
+                  "current_english_forms": [
+                    "I have visited",
+                    "you have visited",
+                    "he/she/it has visited",
+                    "we have visited",
+                    "you have visited",
+                    "they/you have visited"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "besucht"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Dort hat sie … eingekauft und … besucht",
+                "english": "There she shopped at the supermarket for the weekend and visited her sister",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "im Supermarkt",
+                "english": "at the supermarket",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "contraction",
+                    "category": "form"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "im",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": "dem",
+                    "contraction": "in + dem",
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "der",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "accusative": [
+                        "den",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "dative": [
+                        "dem",
+                        "der",
+                        "dem",
+                        "den"
+                      ],
+                      "genitive": [
+                        "des",
+                        "der",
+                        "des",
+                        "der"
+                      ]
+                    },
+                    "selected_column": 0
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "für das Wochenende",
+                "english": "for the weekend",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "das",
+                    "base": "das",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "der",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "accusative": [
+                        "den",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "dative": [
+                        "dem",
+                        "der",
+                        "dem",
+                        "den"
+                      ],
+                      "genitive": [
+                        "des",
+                        "der",
+                        "des",
+                        "der"
+                      ]
+                    },
+                    "selected_column": 2
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "ihre Schwester",
+                "english": "her sister",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "ihre",
+                    "base": "ihr",
+                    "kind": "possessive-determiner",
+                    "paradigm": "possessive",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "ihr",
+                        "ihre",
+                        "ihr",
+                        "ihre"
+                      ],
+                      "accusative": [
+                        "ihren",
+                        "ihre",
+                        "ihr",
+                        "ihre"
+                      ],
+                      "dative": [
+                        "ihrem",
+                        "ihrer",
+                        "ihrem",
+                        "ihren"
+                      ],
+                      "genitive": [
+                        "ihres",
+                        "ihrer",
+                        "ihres",
+                        "ihrer"
+                      ]
+                    },
+                    "selected_column": 1
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "hat sie im Supermarkt für das Wochenende eingekauft",
+                "english": "she shopped at the supermarket for the weekend",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  },
+                  {
+                    "label": "separable",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_published/a1-course-043/sentence-02.wav"
+      },
+      {
+        "text": "Am Nachmittag hat sie zu Hause Deutsch gelernt und das Abendessen gemacht.",
+        "natural_meaning": "In the afternoon, she studied German at home and made dinner.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "an",
+                "english": "at / on",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Am"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Nachmittag",
+                "english": "afternoon",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Nachmittag"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "hat",
+                "english": "perfect auxiliary",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  },
+                  {
+                    "label": "auxiliary",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "haben",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to have",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I have",
+                    "you have",
+                    "he/she/it has",
+                    "we have",
+                    "you have",
+                    "they/you have"
+                  ],
+                  "current_english_forms": [
+                    "I have",
+                    "you have",
+                    "he/she/it has",
+                    "we have",
+                    "you have",
+                    "they/you have"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "hat"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sie",
+                "english": "she / they / you",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "zu",
+                "english": "to / too",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "zu"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Haus",
+                "english": "house / building",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Hause"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Deutsch",
+                "english": "German",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Deutsch"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "gelernt",
+                "english": "learned",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "past participle",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "lernen",
+                  "tense": "Perfekt (conversational past)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe gelernt"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast gelernt"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat gelernt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben gelernt"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt gelernt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben gelernt"
+                    }
+                  ],
+                  "usage": "gelernt is the past participle of lernen; it combines with haben to form the conversational past.",
+                  "english": "to learn / study",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "lerne"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "lernst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "lernt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "lernen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "lernt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "lernen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I learn",
+                    "you learn",
+                    "he/she/it learns",
+                    "we learn",
+                    "you learn",
+                    "they/you learn"
+                  ],
+                  "current_english_forms": [
+                    "I have learned",
+                    "you have learned",
+                    "he/she/it has learned",
+                    "we have learned",
+                    "you have learned",
+                    "they/you have learned"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "gelernt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Abendessen",
+                "english": "dinner / evening meal",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "das",
+                  "Abendessen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "gemacht",
+                "english": "made",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "past participle",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "machen",
+                  "tense": "Perfekt (conversational past)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe gemacht"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast gemacht"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat gemacht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben gemacht"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt gemacht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben gemacht"
+                    }
+                  ],
+                  "usage": "gemacht is the past participle of machen; it combines with haben to form the conversational past.",
+                  "english": "to do / make",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "mache"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "machst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "macht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "machen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "macht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "machen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I do",
+                    "you do",
+                    "he/she/it does",
+                    "we do",
+                    "you do",
+                    "they/you do"
+                  ],
+                  "current_english_forms": [
+                    "I have done",
+                    "you have done",
+                    "he/she/it has done",
+                    "we have done",
+                    "you have done",
+                    "they/you have done"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "gemacht"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Am Nachmittag hat sie … gelernt und … gemacht",
+                "english": "In the afternoon, she studied German at home and made dinner",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Am Nachmittag",
+                "english": "in the afternoon",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "contraction",
+                    "category": "form"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Am",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": "dem",
+                    "contraction": "an + dem",
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "der",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "accusative": [
+                        "den",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "dative": [
+                        "dem",
+                        "der",
+                        "dem",
+                        "den"
+                      ],
+                      "genitive": [
+                        "des",
+                        "der",
+                        "des",
+                        "der"
+                      ]
+                    },
+                    "selected_column": 0
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "zu Hause",
+                "english": "at home",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "fixed phrase",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "hat sie zu Hause Deutsch gelernt",
+                "english": "she studied German at home",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "das Abendessen gemacht",
+                "english": "made dinner",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "das",
+                    "base": "das",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "der",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "accusative": [
+                        "den",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "dative": [
+                        "dem",
+                        "der",
+                        "dem",
+                        "den"
+                      ],
+                      "genitive": [
+                        "des",
+                        "der",
+                        "des",
+                        "der"
+                      ]
+                    },
+                    "selected_column": 2
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_published/a1-course-043/sentence-03.wav"
+      },
+      {
+        "text": "Danach hat sie lange mit Leo über den Kurs telefoniert.",
+        "natural_meaning": "Afterwards she spoke with Leo about the course on the phone for a long time.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Danach",
+                "english": "afterwards",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  },
+                  {
+                    "label": "connector",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Danach"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "hat",
+                "english": "perfect auxiliary",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  },
+                  {
+                    "label": "auxiliary",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "haben",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to have",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I have",
+                    "you have",
+                    "he/she/it has",
+                    "we have",
+                    "you have",
+                    "they/you have"
+                  ],
+                  "current_english_forms": [
+                    "I have",
+                    "you have",
+                    "he/she/it has",
+                    "we have",
+                    "you have",
+                    "they/you have"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "hat"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sie",
+                "english": "she / they / you",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "lange",
+                "english": "long / for a long time",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "lange"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "mit",
+                "english": "with / by",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "mit"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Leo",
+                "english": "Leo",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Leo"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "über",
+                "english": "over / about",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "über"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Kurs",
+                "english": "course",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "den",
+                  "Kurs"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "telefoniert",
+                "english": "spoke on the phone",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "past participle",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "telefonieren",
+                  "tense": "Perfekt (conversational past)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe telefoniert"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast telefoniert"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat telefoniert"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben telefoniert"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt telefoniert"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben telefoniert"
+                    }
+                  ],
+                  "usage": "telefoniert is the past participle of telefonieren; it combines with haben to form the conversational past.",
+                  "english": "to make a phone call",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "telefoniere"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "telefonierst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "telefoniert"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "telefonieren"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "telefoniert"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "telefonieren"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I make a phone call",
+                    "you make a phone call",
+                    "he/she/it makes a phone call",
+                    "we make a phone call",
+                    "you make a phone call",
+                    "they/you make a phone call"
+                  ],
+                  "current_english_forms": [
+                    "I have made a phone call",
+                    "you have made a phone call",
+                    "he/she/it has made a phone call",
+                    "we have made a phone call",
+                    "you have made a phone call",
+                    "they/you have made a phone call"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "telefoniert"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Danach hat sie … telefoniert",
+                "english": "Afterwards she spoke with Leo about the course on the phone for a long time",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "mit Leo",
+                "english": "with Leo",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "über den Kurs",
+                "english": "about the course",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "den",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "der",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "accusative": [
+                        "den",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "dative": [
+                        "dem",
+                        "der",
+                        "dem",
+                        "den"
+                      ],
+                      "genitive": [
+                        "des",
+                        "der",
+                        "des",
+                        "der"
+                      ]
+                    },
+                    "selected_column": 0
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Danach hat sie lange mit Leo über den Kurs telefoniert",
+                "english": "Afterwards she spoke with Leo about the course on the phone for a long time",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_published/a1-course-043/sentence-04.wav"
+      },
+      {
+        "text": "Am Abend ist Mina müde zu Hause geblieben und hat einen Film gesehen.",
+        "natural_meaning": "In the evening, Mina was tired, so she stayed at home and watched a film.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "an",
+                "english": "at / on",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Am"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Abend",
+                "english": "evening",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Abend"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ist",
+                "english": "perfect auxiliary",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  },
+                  {
+                    "label": "auxiliary",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "ist"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Mina",
+                "english": "Mina",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Mina"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "müde",
+                "english": "tired",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "müde"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "zu",
+                "english": "to / too",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "zu"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Haus",
+                "english": "house / building",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Hause"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "geblieben",
+                "english": "stayed",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "past participle",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "bleiben",
+                  "tense": "Perfekt (conversational past)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin geblieben"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist geblieben"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist geblieben"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind geblieben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid geblieben"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind geblieben"
+                    }
+                  ],
+                  "usage": "geblieben is the past participle of bleiben; it combines with sein to form the conversational past.",
+                  "english": "to stay / remain",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bleibe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bleibst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "bleibt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "bleiben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "bleibt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "bleiben"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I stay",
+                    "you stay",
+                    "he/she/it stays",
+                    "we stay",
+                    "you stay",
+                    "they/you stay"
+                  ],
+                  "current_english_forms": [
+                    "I have stayed",
+                    "you have stayed",
+                    "he/she/it has stayed",
+                    "we have stayed",
+                    "you have stayed",
+                    "they/you have stayed"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "geblieben"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "hat",
+                "english": "perfect auxiliary",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  },
+                  {
+                    "label": "auxiliary",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "haben",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to have",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I have",
+                    "you have",
+                    "he/she/it has",
+                    "we have",
+                    "you have",
+                    "they/you have"
+                  ],
+                  "current_english_forms": [
+                    "I have",
+                    "you have",
+                    "he/she/it has",
+                    "we have",
+                    "you have",
+                    "they/you have"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "hat"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Film",
+                "english": "film / movie",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "einen",
+                  "Film"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "gesehen",
+                "english": "watched",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "past participle",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sehen",
+                  "tense": "Perfekt (conversational past)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe gesehen"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast gesehen"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat gesehen"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben gesehen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt gesehen"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben gesehen"
+                    }
+                  ],
+                  "usage": "gesehen is the past participle of sehen; it combines with haben to form the conversational past.",
+                  "english": "to see",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "sehe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "siehst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "sieht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sehen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sehen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I see",
+                    "you see",
+                    "he/she/it sees",
+                    "we see",
+                    "you see",
+                    "they/you see"
+                  ],
+                  "current_english_forms": [
+                    "I have seen",
+                    "you have seen",
+                    "he/she/it has seen",
+                    "we have seen",
+                    "you have seen",
+                    "they/you have seen"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "gesehen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Am Abend ist Mina … geblieben",
+                "english": "In the evening, Mina was tired, so she stayed at home",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Am Abend",
+                "english": "in the evening",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "contraction",
+                    "category": "form"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Am",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": "dem",
+                    "contraction": "an + dem",
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "der",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "accusative": [
+                        "den",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "dative": [
+                        "dem",
+                        "der",
+                        "dem",
+                        "den"
+                      ],
+                      "genitive": [
+                        "des",
+                        "der",
+                        "des",
+                        "der"
+                      ]
+                    },
+                    "selected_column": 0
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "zu Hause",
+                "english": "at home",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "fixed phrase",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Am Abend ist Mina müde zu Hause geblieben",
+                "english": "In the evening Mina stayed at home because she was tired",
+                "literal_meaning": "In the evening Mina stayed at home tired",
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "und hat einen Film gesehen",
+                "english": "and watched a film",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "hat einen Film gesehen",
+                "english": "watched a film",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "einen",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "ein",
+                        "eine",
+                        "ein",
+                        "—"
+                      ],
+                      "accusative": [
+                        "einen",
+                        "eine",
+                        "ein",
+                        "—"
+                      ],
+                      "dative": [
+                        "einem",
+                        "einer",
+                        "einem",
+                        "—"
+                      ],
+                      "genitive": [
+                        "eines",
+                        "einer",
+                        "eines",
+                        "—"
+                      ]
+                    },
+                    "selected_column": 0
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_published/a1-course-043/sentence-05.wav"
+      }
+    ],
+    "audio_path": "assets/audio/a1_published/a1-course-043/paragraph.wav",
+    "initial_question": "What did Mina do in the afternoon?",
+    "initial_answer": "She studied German at home and made dinner.",
+    "audio_status": "ready",
+    "sequence": 43,
+    "lesson_format": "narrative",
+    "topic": "a short account of familiar completed activities",
+    "new_targets": [
+      "gestern",
+      "einkaufen",
+      "machen",
+      "telefonieren",
+      "lernen",
+      "bleiben",
+      "nach Hause"
+    ],
+    "recycled_targets": [
+      "der Bus",
+      "die Stadt",
+      "der Supermarkt",
+      "die Schwester",
+      "das Abendessen"
+    ],
+    "speech_alternatives": []
+  }
+}

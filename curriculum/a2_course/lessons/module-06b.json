@@ -1,0 +1,723 @@
+[
+  {
+    "id": "a2-course-034",
+    "source_draft_id": "a2-draft-034",
+    "sequence": 82,
+    "band": "A2.1",
+    "format": "dialogue",
+    "title_de": "Ist das Frühstück inklusive?",
+    "title_en": "Is Breakfast Included?",
+    "topic": "comparing accommodation details",
+    "communicative_goal": "Check what a room price includes.",
+    "grammar_focus": "comparison of accommodation details and enthalten",
+    "supporting_structures": [
+      "im Preis inklusive",
+      "im Preis enthalten",
+      "pro Nacht"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "inklusive",
+      "enthalten",
+      "die Reservierung",
+      "verfügbar",
+      "das Frühstücksbuffet",
+      "pro Nacht"
+    ],
+    "recycled_targets": [
+      "die Unterkunft",
+      "das Hotel",
+      "das Doppelzimmer",
+      "der Preis",
+      "buchen"
+    ],
+    "recycles_from": [
+      7,
+      8,
+      29
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Ist im Preis das Frühstück inklusive?",
+        "en": "Is breakfast included in the price?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "im Preis",
+              "english": "in the price",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "contraction"
+              ]
+            },
+            {
+              "german": "das Frühstück inklusive",
+              "english": "breakfast included",
+              "literal_meaning": null,
+              "tags": [
+                "nominative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ja, das Frühstücksbuffet ist im Preis enthalten.",
+        "en": "Yes, the breakfast buffet is included in the price.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "enthalten": [
+              "verb",
+              "past participle"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "enthalten": "enthalten"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "ist im Preis enthalten",
+              "english": "is included in the price",
+              "literal_meaning": null,
+              "tags": [
+                "perfect",
+                "dative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ein Doppelzimmer kostet neunzig Euro pro Nacht.",
+        "en": "A double room costs ninety euros per night.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "neunzig": [
+              "numeral"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "neunzig": "ninety"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "pro Nacht",
+              "english": "per night",
+              "literal_meaning": null,
+              "tags": [
+                "time"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ist auch ein ruhiges Zimmer mit Balkon verfügbar?",
+        "en": "Is a quiet room with a balcony also available?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "ruhiges": [
+              "adjective",
+              "nominative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "ruhiges": "ruhig"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "ein ruhiges Zimmer",
+              "english": "a quiet room",
+              "literal_meaning": null,
+              "tags": [
+                "nominative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ja, aber dafür brauchen wir heute noch Ihre Reservierung.",
+        "en": "Yes, but for that we still need your reservation today.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Ihre": [
+              "possessive",
+              "determiner",
+              "accusative",
+              "formal"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Ihre Reservierung",
+              "english": "your reservation",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "formal"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What is included in the room price?",
+      "answer_en": "The breakfast buffet."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 34"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-035",
+    "source_draft_id": "a2-draft-035",
+    "sequence": 83,
+    "band": "A2.1",
+    "format": "dialogue",
+    "title_de": "Ich hätte gern ein Zimmer",
+    "title_en": "I’d Like to Book a Room",
+    "topic": "booking a hotel room politely",
+    "communicative_goal": "Make a polite room request and ask about changes.",
+    "grammar_focus": "hätte and wäre for polite requests",
+    "supporting_structures": [
+      "ich hätte gern",
+      "Hätten Sie ...?",
+      "das wäre möglich"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "ich hätte gern",
+      "wäre das möglich",
+      "die Buchung",
+      "stornieren",
+      "die Aussicht"
+    ],
+    "recycled_targets": [
+      "buchen",
+      "bestätigen",
+      "das Einzelzimmer",
+      "die Reservierung",
+      "der Balkon"
+    ],
+    "recycles_from": [
+      34,
+      23
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Guten Tag, ich hätte gern ein Einzelzimmer für zwei Nächte.",
+        "en": "Hello, I would like a single room for two nights.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "hätte": [
+              "verb",
+              "subjunctive"
+            ],
+            "zwei": [
+              "numeral"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "hätte": "haben"
+          },
+          "word_meanings": {
+            "Nächte": "nights"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "ich hätte gern ein Einzelzimmer",
+              "english": "I would like a single room",
+              "literal_meaning": null,
+              "tags": [
+                "subjunctive",
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Hätten Sie ein ruhiges Zimmer mit Aussicht auf den See?",
+        "en": "Would you happen to have a quiet room with a view of the lake?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Hätten": [
+              "verb",
+              "subjunctive"
+            ],
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "ruhiges": [
+              "adjective",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "Hätten": "haben",
+            "ruhiges": "ruhig"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Hätten Sie ein ruhiges Zimmer",
+              "english": "would you happen to have a quiet room",
+              "literal_meaning": null,
+              "tags": [
+                "subjunctive",
+                "formal",
+                "accusative"
+              ]
+            },
+            {
+              "german": "mit Aussicht auf den See",
+              "english": "with a view of the lake",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ja, dieses Zimmer hat auch einen kleinen Balkon.",
+        "en": "Yes, this room also has a small balcony.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "dieses": [
+              "determiner",
+              "nominative"
+            ],
+            "kleinen": [
+              "adjective",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "kleinen": "klein"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "einen kleinen Balkon",
+              "english": "a small balcony",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Könnte ich die Buchung bis morgen kostenlos stornieren?",
+        "en": "Could I cancel the booking free of charge until tomorrow?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Könnte": [
+              "modal verb",
+              "subjunctive"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "Könnte": "können"
+          },
+          "word_meanings": {
+            "kostenlos": "free of charge"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Könnte ich die Buchung ... stornieren",
+              "english": "could I cancel the booking",
+              "literal_meaning": null,
+              "tags": [
+                "subjunctive",
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ja, das wäre möglich; ich bestätige Ihnen alles per E-Mail.",
+        "en": "Yes, that would be possible; I will confirm everything to you by email.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "wäre": [
+              "verb",
+              "subjunctive"
+            ],
+            "Ihnen": [
+              "personal pronoun",
+              "dative",
+              "formal"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "wäre": "sein"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "das wäre möglich",
+              "english": "that would be possible",
+              "literal_meaning": null,
+              "tags": [
+                "subjunctive"
+              ]
+            },
+            {
+              "german": "bestätige Ihnen alles per E-Mail",
+              "english": "confirm everything to you by email",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "formal"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "Until when can the booking be cancelled?",
+      "answer_en": "Until tomorrow."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 35"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-036",
+    "source_draft_id": "a2-draft-036",
+    "sequence": 84,
+    "band": "A2.1",
+    "format": "dialogue",
+    "title_de": "Eine geänderte Reise",
+    "title_en": "Handle a Changed Journey",
+    "topic": "replanning a disrupted journey and hotel arrival",
+    "communicative_goal": "Handle a changed journey and preserve a booking.",
+    "grammar_focus": "consolidation of travel Perfekt, conditionals, indirect questions, and polite requests",
+    "supporting_structures": [
+      "Welche Möglichkeit gibt es?",
+      "Ich komme später an.",
+      "Die Buchung bleibt bestehen."
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "Welche Möglichkeit gibt es",
+      "Können Sie mir sagen",
+      "Das ist noch gültig",
+      "Ich komme später an",
+      "Die Buchung bleibt bestehen"
+    ],
+    "recycled_targets": [
+      "ausfallen",
+      "die Alternative",
+      "der Anschluss",
+      "die Buchung",
+      "bestätigen"
+    ],
+    "recycles_from": [
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Mein Zug ist ausgefallen; welche Möglichkeit gibt es jetzt?",
+        "en": "My train was cancelled; what option is there now?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {
+            "ausgefallen": "ausfallen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "ist ausgefallen",
+              "english": "was cancelled",
+              "literal_meaning": null,
+              "tags": [
+                "perfect"
+              ]
+            },
+            {
+              "german": "welche Möglichkeit gibt es",
+              "english": "what option is there",
+              "literal_meaning": null,
+              "tags": [
+                "fixed phrase"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Können Sie mir sagen, wann der Ersatzbus abfährt?",
+        "en": "Can you tell me when the replacement bus leaves?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "mir": [
+              "personal pronoun",
+              "dative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "abfährt": "abfahren"
+          },
+          "word_meanings": {
+            "Ersatzbus": "replacement bus"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Können Sie mir sagen",
+              "english": "can you tell me",
+              "literal_meaning": null,
+              "tags": [
+                "formal",
+                "dative",
+                "modal verb"
+              ]
+            },
+            {
+              "german": "wann der Ersatzbus abfährt",
+              "english": "when the replacement bus leaves",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ihre Fahrkarte ist noch gültig, aber Sie kommen später an.",
+        "en": "Your ticket is still valid, but you will arrive later.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Ihre": [
+              "possessive",
+              "determiner",
+              "nominative",
+              "formal"
+            ],
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "kommen": "ankommen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Ihre Fahrkarte ist noch gültig",
+              "english": "your ticket is still valid",
+              "literal_meaning": null,
+              "tags": [
+                "formal"
+              ]
+            },
+            {
+              "german": "kommen später an",
+              "english": "arrive later",
+              "literal_meaning": null,
+              "tags": [
+                "separable"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ich rufe das Hotel an und sage: Ich komme später an.",
+        "en": "I will call the hotel and say: I will arrive later.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "an": [
+              "particle"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "rufe": "anrufen",
+            "komme": "ankommen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "rufe das Hotel an",
+              "english": "call the hotel",
+              "literal_meaning": null,
+              "tags": [
+                "separable",
+                "accusative"
+              ]
+            },
+            {
+              "german": "Ich komme später an",
+              "english": "I will arrive later",
+              "literal_meaning": null,
+              "tags": [
+                "separable"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Kein Problem; die Buchung bleibt bestehen, und wir bestätigen das per E-Mail.",
+        "en": "No problem; the booking remains valid, and we will confirm that by email.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {
+            "bestehen": "bestehen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "die Buchung bleibt bestehen",
+              "english": "the booking remains valid",
+              "literal_meaning": null,
+              "tags": [
+                "fixed phrase"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What happens to the hotel booking?",
+      "answer_en": "It remains valid."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 36"
+    ],
+    "speech_alternatives": []
+  }
+]

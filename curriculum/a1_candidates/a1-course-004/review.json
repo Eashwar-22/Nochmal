@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-004",
+  "source_sha256": "35641a446cf1719bded7d1f05b618faa5b4be88b8e2230daec7bc85b60d85ccd",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "every source token has one ordered word card",
+        "every useful phrase uses exact source words in source order",
+        "every finite verb has complete bilingual present-tense help",
+        "the im contraction, possessive determiners, and declined adjective have typed reference cards with the required cases",
+        "predicate adjectives and unchanged nominative personal pronouns are not given false declension cards",
+        "controlled grammar tags and authored exclusions are coherent"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "the staged German passage is grammatical and natural for a reception exchange",
+        "Ist die Nummer ... richtig has correct yes/no-question order",
+        "Im Kurs is dative for a fixed location and expands to in + dem",
+        "ihre Telefonnummer and ihre E-Mail-Adresse are feminine accusative possessive phrases",
+        "die letzte Zahl is feminine nominative with a weak adjective ending, while richtig and falsch are predicate adjectives",
+        "ihren Namen is masculine accusative and correctly links Name to the declined source form Namen"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "sentence translations preserve the contact-detail confirmation sequence",
+        "each phone-number digit block shows its German digit-by-digit pronunciation and spoken English-digit meaning",
+        "digit and contact-detail meanings are concise and usable for an A1 learner",
+        "the natural translations distinguish correct from wrong and retain the final-digit repair",
+        "literal translations expose inversion without adding learner-facing explanatory prose",
+        "the passage recycles known course, name, and slow-speaking language in a new confirmation task"
+      ],
+      "findings": []
+    }
+  ]
+}

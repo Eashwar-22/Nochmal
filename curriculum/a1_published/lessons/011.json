@@ -1,0 +1,293 @@
+{
+  "id": "a1-course-011",
+  "source_draft_id": "a1-draft-011",
+  "sequence": 11,
+  "band": "A1.1",
+  "format": "dialogue",
+  "title_de": "Hast du Zeit?",
+  "title_en": "Are You Free?",
+  "topic": "arranging coffee with a classmate",
+  "communicative_goal": "Ask about availability and agree on a day and time.",
+  "grammar_focus": "können with a sentence-final infinitive",
+  "supporting_structures": [
+    "Zeit für einen Kaffee haben",
+    "am Dienstag frei sein",
+    "uns treffen",
+    "das kann ich"
+  ],
+  "grammar_notes": [
+    "Für governs accusative, so einen Kaffee is masculine accusative.",
+    "In the yes/no question, Können is finite in first position and treffen remains an infinitive at the end; uns is the accusative reflexive pronoun."
+  ],
+  "new_targets": [
+    "morgen",
+    "der Montag",
+    "der Dienstag",
+    "frei",
+    "Zeit haben",
+    "sich treffen",
+    "können"
+  ],
+  "recycled_targets": [
+    "der Kaffee",
+    "die Arbeit",
+    "die Uhr",
+    "fünf"
+  ],
+  "recycles_from": [
+    9,
+    10
+  ],
+  "audio_path": "assets/audio/a1_published/a1-course-011/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Leo fragt Mina: „Hast du morgen Zeit für einen Kaffee?“",
+      "en": "Leo asks Mina, “Do you have time for a coffee tomorrow?”",
+      "audio_path": "assets/audio/a1_published/a1-course-011/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "du": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "morgen": [
+            "time"
+          ],
+          "zeit": [
+            "accusative"
+          ],
+          "für": [
+            "preposition",
+            "accusative"
+          ],
+          "einen": [
+            "accusative"
+          ],
+          "kaffee": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "für einen Kaffee",
+            "english": "for a coffee",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "Hast du morgen Zeit für einen Kaffee",
+            "english": "Do you have time for a coffee tomorrow?",
+            "literal_meaning": "Have you tomorrow time for a coffee?",
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina sagt: „Am Montag arbeite ich lange, aber am Dienstag bin ich frei.“",
+      "en": "Mina says, “On Monday I work long hours, but on Tuesday I am free.”",
+      "audio_path": "assets/audio/a1_published/a1-course-011/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "am": [
+            "preposition",
+            "dative"
+          ],
+          "montag": [
+            "dative"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "dienstag": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "am": "on",
+          "lange": "for a long time"
+        },
+        "spoken_forms": {},
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am Montag",
+            "english": "on Monday",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "am Dienstag",
+            "english": "on Tuesday",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "Am Montag arbeite ich lange",
+            "english": "On Monday I work long hours",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "inversion"
+            ]
+          },
+          {
+            "german": "aber am Dienstag bin ich frei",
+            "english": "but on Tuesday I am free",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Leo fragt: „Können wir uns am Dienstag um fünf Uhr treffen?“",
+      "en": "Leo asks, “Can we meet on Tuesday at five o’clock?”",
+      "audio_path": "assets/audio/a1_published/a1-course-011/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "wir": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "uns": [
+            "reflexive pronoun",
+            "accusative"
+          ],
+          "am": [
+            "preposition",
+            "dative"
+          ],
+          "dienstag": [
+            "dative"
+          ],
+          "um": [
+            "preposition",
+            "accusative"
+          ],
+          "uhr": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {
+          "uns": [
+            "personal pronoun"
+          ]
+        },
+        "base_forms": {},
+        "word_meanings": {
+          "uns": "ourselves / each other",
+          "am": "on",
+          "um": "at"
+        },
+        "spoken_forms": {},
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "am Dienstag",
+            "english": "on Tuesday",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "um fünf Uhr",
+            "english": "at five o’clock",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "time"
+            ]
+          },
+          {
+            "german": "Können wir uns am Dienstag um fünf Uhr treffen",
+            "english": "Can we meet on Tuesday at five o’clock?",
+            "literal_meaning": "Can we meet each other on Tuesday at five o’clock?",
+            "tags": [
+              "main clause",
+              "inversion",
+              "modal verb",
+              "reflexive"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina antwortet kurz: „Ja, das kann ich.“",
+      "en": "Mina answers briefly, “Yes, I can.”",
+      "audio_path": "assets/audio/a1_published/a1-course-011/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "ja": [
+            "interjection"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "das": "that"
+        },
+        "spoken_forms": {},
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "das kann ich",
+            "english": "I can",
+            "literal_meaning": "that I can do",
+            "tags": [
+              "main clause",
+              "verb-second",
+              "inversion",
+              "ellipsis"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "When can Mina meet Leo?",
+    "answer_en": "On Tuesday at five o’clock."
+  },
+  "source_basis": [
+    "a1-blueprint",
+    "a1-draft-011",
+    "grammar-breakdown-rulebook"
+  ],
+  "speech_alternatives": []
+}

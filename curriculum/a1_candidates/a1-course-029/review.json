@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-029",
+  "source_sha256": "0e75c83e602da55d7334d681d3a32af0ab9bb6f86933039c49aca8b62cfffda0",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "token-by-token word coverage",
+        "destination-chunk case analysis",
+        "modal with coordinated final infinitives",
+        "contraction and adjective reference cards"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "day-trip plan coherence",
+        "nach, in, and zu destination/location chunks",
+        "modal visit-and-drink plan",
+        "reply about travel on holiday"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "natural travel-plan translation",
+        "literal modal support",
+        "fixed destination chunks",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "id": "a1-course-004",
+  "source_draft_id": "a1-draft-004",
+  "sequence": 4,
+  "band": "A1.1",
+  "format": "dialogue",
+  "title_de": "Stimmt das?",
+  "title_en": "Is That Correct?",
+  "topic": "checking a contact detail at reception",
+  "communicative_goal": "Check a contact detail and confirm or correct it with yes or no.",
+  "grammar_focus": "yes/no question order with sein and short confirmation responses",
+  "supporting_structures": [
+    "Ist die Nummer … richtig?",
+    "Nein, die letzte Zahl ist falsch.",
+    "ihre Telefonnummer",
+    "ihren Namen buchstabieren"
+  ],
+  "grammar_notes": [
+    "A yes/no question puts the finite verb Ist before the subject phrase die Nummer.",
+    "Im contracts in + dem; the course is a fixed location, so the phrase is dative.",
+    "Ihre and ihren are possessive determiners. Their forms agree with the following feminine accusative Telefonnummer and masculine accusative Namen.",
+    "Letzte is an attributive adjective with the weak feminine nominative ending after die; richtig and falsch are predicate adjectives and do not decline."
+  ],
+  "new_targets": [
+    "die Telefonnummer",
+    "die E-Mail-Adresse",
+    "die Zahl",
+    "buchstabieren",
+    "richtig",
+    "falsch",
+    "nein"
+  ],
+  "recycled_targets": [
+    "der Kurs",
+    "sein",
+    "Mina",
+    "der Name",
+    "langsam"
+  ],
+  "recycles_from": [
+    1,
+    2,
+    3
+  ],
+  "audio_path": "assets/audio/a1_published/a1-course-004/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Im Kurs nennt Mina ihre Telefonnummer und ihre E-Mail-Adresse.",
+      "en": "In the course, Mina gives her telephone number and email address.",
+      "audio_path": "assets/audio/a1_published/a1-course-004/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "im": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "kurs": [
+            "dative"
+          ],
+          "mina": [
+            "nominative",
+            "subject"
+          ],
+          "ihre": [
+            "possessive",
+            "determiner",
+            "accusative"
+          ],
+          "telefonnummer": [
+            "accusative"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "e-mail-adresse": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "im": "in the",
+          "nennt": "gives",
+          "ihre": "her",
+          "telefonnummer": "telephone number",
+          "e-mail-adresse": "email address"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Im Kurs",
+            "english": "In class",
+            "literal_meaning": "in the course",
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "ihre Telefonnummer",
+            "english": "her telephone number",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "ihre E-Mail-Adresse",
+            "english": "her email address",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "Im Kurs nennt Mina",
+            "english": "In class, Mina gives",
+            "literal_meaning": "In the course gives Mina",
+            "tags": [
+              "main clause",
+              "inversion",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "Im Kurs nennt Mina ihre Telefonnummer und ihre E-Mail-Adresse",
+            "english": "In the course, Mina gives her telephone number and email address",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Der Mann fragt: „Ist die Nummer 0176 4208 richtig?“",
+      "en": "The man asks, “Is the number 0176 4208 correct?”",
+      "audio_path": "assets/audio/a1_published/a1-course-004/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "mann": [
+            "nominative",
+            "subject"
+          ],
+          "die": [
+            "nominative"
+          ],
+          "nummer": [
+            "nominative",
+            "subject"
+          ],
+          "richtig": [
+            "adjective",
+            "predicate"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "fragt": "asks",
+          "ist": "is",
+          "nummer": "number",
+          "0176": "zero one seven six",
+          "4208": "four two zero eight",
+          "richtig": "correct"
+        },
+        "spoken_forms": {
+          "0176": "null eins sieben sechs",
+          "4208": "vier zwei null acht"
+        },
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Der Mann fragt",
+            "english": "The man asks",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "die Nummer 0176 4208",
+            "english": "the number 0176 4208",
+            "literal_meaning": null,
+            "tags": [
+              "nominative",
+              "subject"
+            ]
+          },
+          {
+            "german": "Ist die Nummer 0176 4208 richtig",
+            "english": "Is the number 0176 4208 correct?",
+            "literal_meaning": "Is the number 0176 4208 correct?",
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina antwortet: „Nein, die letzte Zahl ist falsch.“",
+      "en": "Mina answers, “No, the last digit is wrong.”",
+      "audio_path": "assets/audio/a1_published/a1-course-004/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "mina": [
+            "nominative",
+            "subject"
+          ],
+          "nein": [
+            "interjection"
+          ],
+          "die": [
+            "nominative"
+          ],
+          "letzte": [
+            "adjective"
+          ],
+          "zahl": [
+            "nominative",
+            "subject"
+          ],
+          "falsch": [
+            "adjective",
+            "predicate"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "letzte": "letzt"
+        },
+        "word_meanings": {
+          "antwortet": "answers",
+          "nein": "no",
+          "letzte": "last",
+          "zahl": "digit",
+          "ist": "is",
+          "falsch": "wrong"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Mina antwortet",
+            "english": "Mina answers",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "die letzte Zahl",
+            "english": "the last digit",
+            "literal_meaning": null,
+            "tags": [
+              "nominative",
+              "subject"
+            ]
+          },
+          {
+            "german": "die letzte Zahl ist falsch",
+            "english": "the last digit is wrong",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Dann buchstabiert sie langsam ihren Namen.",
+      "en": "Then she slowly spells her name.",
+      "audio_path": "assets/audio/a1_published/a1-course-004/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "dann": [
+            "adverb",
+            "time"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "langsam": [
+            "adverb",
+            "manner"
+          ],
+          "ihren": [
+            "possessive",
+            "determiner",
+            "accusative"
+          ],
+          "namen": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "buchstabiert": "spells",
+          "sie": "she",
+          "langsam": "slowly",
+          "ihren": "her",
+          "namen": "name"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Dann buchstabiert sie",
+            "english": "Then she spells",
+            "literal_meaning": "Then spells she",
+            "tags": [
+              "main clause",
+              "inversion",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "ihren Namen",
+            "english": "her name",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "Dann buchstabiert sie langsam ihren Namen",
+            "english": "Then she slowly spells her name",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Which part of the phone number is wrong?",
+    "answer_en": "The last digit."
+  },
+  "source_basis": [
+    "a1-blueprint",
+    "a1-draft-004",
+    "grammar-breakdown-rulebook"
+  ],
+  "speech_alternatives": []
+}

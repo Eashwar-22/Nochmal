@@ -7,17 +7,13 @@ import json
 from pathlib import Path
 from typing import Literal
 
-from .a1_a2_lessons import compile_lesson
-from .a1_course_lessons import A1_COURSE_LESSONS
+from .course_library import course_lessons, preceding_published_targets
+from .course_paths import candidate_root, course_level
+from .lesson_compiler import compile_lesson
 from .models import Lesson, StrictModel
 from .ordering import ordered_breakdown_items
 from .source_models import CourseLessonSource
 from .validation import validate_lesson_library
-from nochmal.paths import PROJECT_ROOT
-
-
-CANDIDATES_ROOT = PROJECT_ROOT / "curriculum" / "a1_candidates"
-ACTIVE_PREVIEWS_ROOT = PROJECT_ROOT / "data" / "lesson-previews"
 
 
 class LessonCandidateArtifact(StrictModel):
@@ -27,7 +23,7 @@ class LessonCandidateArtifact(StrictModel):
 
 
 def candidate_directory(lesson_id: str) -> Path:
-    return CANDIDATES_ROOT / lesson_id
+    return candidate_root(lesson_id) / lesson_id
 
 
 def source_path(lesson_id: str) -> Path:
@@ -53,15 +49,14 @@ def load_candidate_source(lesson_id: str) -> CourseLessonSource:
 
 
 def compile_candidate(source: CourseLessonSource) -> Lesson:
-    introduced_targets = [
+    level = course_level(source.id)
+    introduced_targets = preceding_published_targets(level)
+    introduced_targets.extend(
         target
-        for lesson in sorted(
-            A1_COURSE_LESSONS,
-            key=lambda item: item.sequence if item.sequence is not None else 10_000,
-        )
+        for lesson in course_lessons(level)
         if lesson.sequence is not None and lesson.sequence < source.sequence
         for target in lesson.new_targets
-    ]
+    )
     return compile_lesson(source.model_dump(mode="json"), introduced_targets)
 
 
@@ -96,28 +91,6 @@ def load_candidate_artifact(lesson_id: str) -> LessonCandidateArtifact:
     return artifact
 
 
-def active_preview_path(lesson_id: str) -> Path:
-    return ACTIVE_PREVIEWS_ROOT / f"{lesson_id}.json"
-
-
-def load_active_preview_lessons() -> tuple[Lesson, ...]:
-    if not ACTIVE_PREVIEWS_ROOT.is_dir():
-        return ()
-    lessons: list[Lesson] = []
-    for path in sorted(ACTIVE_PREVIEWS_ROOT.glob("*.json")):
-        artifact = LessonCandidateArtifact.model_validate_json(
-            path.read_text(encoding="utf-8")
-        )
-        errors = candidate_errors(artifact.lesson.id, artifact)
-        if errors:
-            raise ValueError(
-                f"Invalid active preview {artifact.lesson.id!r}:\n"
-                + "\n".join(f"- {error}" for error in errors)
-            )
-        lessons.append(artifact.lesson)
-    return tuple(sorted(lessons, key=lambda item: item.sequence or 10_000))
-
-
 def artifact_json(source: CourseLessonSource, lesson: Lesson) -> str:
     artifact = LessonCandidateArtifact(
         schema_version=1,
@@ -148,8 +121,8 @@ def preview_markdown(source: CourseLessonSource, lesson: Lesson) -> str:
                 "",
                 f"**English:** {sentence.natural_meaning}",
                 "",
-                "| Type | German | English | Literal | Tags | Help |",
-                "|---|---|---|---|---|---|",
+                "| Type | German | Spoken German | English | Literal | Tags | Help |",
+                "|---|---|---|---|---|---|---|",
             ]
         )
         for group in sentence.breakdown_groups:
@@ -167,6 +140,7 @@ def preview_markdown(source: CourseLessonSource, lesson: Lesson) -> str:
                 cells = [
                     item.kind,
                     item.german,
+                    item.spoken_form or "—",
                     item.english,
                     literal,
                     tags,
@@ -174,5 +148,20 @@ def preview_markdown(source: CourseLessonSource, lesson: Lesson) -> str:
                 ]
                 escaped = [cell.replace("|", "\\|") for cell in cells]
                 lines.append("| " + " | ".join(escaped) + " |")
+        lines.append("")
+    if lesson.performance_activity is not None:
+        lines.extend(
+            [
+                "## Performance activity",
+                "",
+                f"**Type:** {lesson.performance_activity.kind}",
+                "",
+                lesson.performance_activity.instruction,
+                "",
+            ]
+        )
+        lines.extend(
+            f"- {prompt}" for prompt in lesson.performance_activity.prompts
+        )
         lines.append("")
     return "\n".join(lines)

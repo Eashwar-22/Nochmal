@@ -1,21 +1,20 @@
-"""Fail-closed release gate for the reviewed first-course lesson."""
+"""Fail-closed release gate for reviewed lessons at any discovered level."""
 
 from __future__ import annotations
 
 import hashlib
 import json
 import wave
+from collections import Counter
 from pathlib import Path
 
-from nochmal.content.a1_course_lessons import A1_COURSE_LESSONS
+from nochmal.content.course_library import compiled_published_lesson
+from nochmal.content.course_paths import published_audio_root, published_root
 from nochmal.content.source_models import CourseLessonSource, normalized_tokens, phrase_occurs_in_order
 from nochmal.content.validation import validate_lesson_library
 from nochmal.paths import PROJECT_ROOT
 
 from .models import AudioManifest, LessonReviewReport
-
-
-COURSE_ROOT = PROJECT_ROOT / "curriculum" / "a1_course"
 
 
 class ReleaseGateError(ValueError):
@@ -32,6 +31,9 @@ def _audio_errors(source: CourseLessonSource) -> list[str]:
         return ["audio: the lesson has no paragraph audio path"]
 
     audio_root = (PROJECT_ROOT / source.audio_path).parent
+    expected_audio_root = published_audio_root(source.id) / source.id
+    if audio_root != expected_audio_root:
+        return ["audio: paragraph path is outside this lesson's published audio directory"]
     manifest_path = audio_root / "manifest.json"
     if not manifest_path.is_file():
         return [f"audio: missing manifest {manifest_path.relative_to(PROJECT_ROOT)}"]
@@ -53,6 +55,12 @@ def _audio_errors(source: CourseLessonSource) -> list[str]:
         errors.append("audio: manifest sentence text does not exactly match the lesson")
     if len(manifest.sentence_files) != len(expected_texts):
         errors.append("audio: sentence file count does not match the lesson")
+    if source.audio_path != (audio_root / manifest.paragraph_file).relative_to(PROJECT_ROOT).as_posix():
+        errors.append("audio: paragraph path does not match the manifest")
+    for sentence, file_name in zip(source.sentences, manifest.sentence_files):
+        expected_path = (audio_root / file_name).relative_to(PROJECT_ROOT).as_posix()
+        if sentence.audio_path != expected_path:
+            errors.append(f"audio: sentence path does not match the manifest: {file_name}")
     if not manifest.paragraph_assembled_from_sentence_files:
         errors.append("audio: paragraph must be assembled from the sentence files")
 
@@ -114,15 +122,16 @@ def _audio_errors(source: CourseLessonSource) -> list[str]:
 
 
 def release_errors(lesson_id: str) -> list[str]:
+    course_root = published_root(lesson_id)
     source_path = next(
         (
             path
-            for path in sorted((COURSE_ROOT / "lessons").glob("*.json"))
+            for path in sorted((course_root / "lessons").glob("*.json"))
             if json.loads(path.read_text(encoding="utf-8")).get("id") == lesson_id
         ),
         None,
     )
-    review_path = COURSE_ROOT / "reviews" / f"{lesson_id}.json"
+    review_path = course_root / "reviews" / f"{lesson_id}.json"
     errors: list[str] = []
 
     if source_path is None:
@@ -136,9 +145,9 @@ def release_errors(lesson_id: str) -> list[str]:
     if source.id != lesson_id:
         errors.append("source: lesson ID does not match its release target")
 
-    compiled = next((item for item in A1_COURSE_LESSONS if item.id == lesson_id), None)
+    compiled = compiled_published_lesson(lesson_id)
     if compiled is None:
-        errors.append("compiler: lesson was not compiled into the A1 course")
+        errors.append("compiler: lesson was not compiled into its published course")
     else:
         errors.extend(
             f"contract: {error}"
@@ -153,9 +162,13 @@ def release_errors(lesson_id: str) -> list[str]:
                 if item.kind == "word"
                 for token in item.source_forms
             ]
-            if actual != expected:
+            # A dictionary noun card may own an article and a declined noun
+            # separated by an adjective (for example, ``die letzte Zahl``).
+            # Token ownership must be exact, while visual order is checked by
+            # the shared source-order renderer rather than this flat list.
+            if Counter(actual) != Counter(expected):
                 errors.append(
-                    f"coverage: word cards do not map once in source order: {sentence.text!r}"
+                    f"coverage: word cards do not map every source token once: {sentence.text!r}"
                 )
             for group in sentence.breakdown_groups:
                 for item in group.items:

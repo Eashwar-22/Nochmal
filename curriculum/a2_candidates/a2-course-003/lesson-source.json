@@ -1,0 +1,528 @@
+{
+  "id": "a2-course-003",
+  "source_draft_id": "a2-draft-003",
+  "sequence": 51,
+  "band": "A2.1",
+  "format": "dialogue",
+  "title_de": "Weil der Bus zu spät war",
+  "title_en": "Because the Bus Was Late",
+  "topic": "an explanation for arriving late",
+  "communicative_goal": "Give a clear reason for a familiar event and respond appropriately.",
+  "grammar_focus": "subordinate reason clauses with weil",
+  "supporting_structures": [],
+  "grammar_notes": [],
+  "new_targets": [
+    "der Grund",
+    "die Verspätung",
+    "zu spät",
+    "warten",
+    "der Bescheid"
+  ],
+  "recycled_targets": [
+    "der Bus",
+    "der Termin",
+    "sich entschuldigen",
+    "gestern"
+  ],
+  "recycles_from": [
+    3,
+    10,
+    25,
+    28,
+    41
+  ],
+  "audio_path": "assets/audio/a2_candidates/a2-course-003/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Mina kommt zu spät zu einem Termin im Büro.",
+      "en": "Mina arrives late for an appointment at the office.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-003/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Mina": [
+            "proper noun",
+            "nominative",
+            "subject"
+          ],
+          "kommt": [
+            "verb",
+            "present"
+          ],
+          "spät": [
+            "adverb",
+            "time"
+          ],
+          "einem": [
+            "article",
+            "dative"
+          ],
+          "Termin": [
+            "dative"
+          ],
+          "im": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Büro": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "kommt": "kommen"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [
+          {
+            "surface": "zu",
+            "occurrence": 1,
+            "tags": [
+              "particle"
+            ],
+            "excluded_tags": [
+              "preposition"
+            ],
+            "base_form": null,
+            "meaning": null,
+            "spoken_form": null
+          },
+          {
+            "surface": "zu",
+            "occurrence": 2,
+            "tags": [
+              "preposition",
+              "dative",
+              "direction"
+            ],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": null,
+            "spoken_form": null
+          }
+        ],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "zu einem Termin",
+            "english": "for an appointment",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "direction"
+            ]
+          },
+          {
+            "german": "im Büro",
+            "english": "at the office",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          },
+          {
+            "german": "kommt zu spät",
+            "english": "arrives late",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "fixed phrase"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Ihr Chef fragt freundlich: „Warum bist du heute zu spät?“",
+      "en": "Her manager asks politely, “Why are you late today?”",
+      "audio_path": "assets/audio/a2_candidates/a2-course-003/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Ihr": [
+            "possessive",
+            "determiner",
+            "nominative"
+          ],
+          "Chef": [
+            "nominative",
+            "subject"
+          ],
+          "fragt": [
+            "verb",
+            "present"
+          ],
+          "freundlich": [
+            "adverb",
+            "manner"
+          ],
+          "Warum": [
+            "interrogative pronoun",
+            "reason"
+          ],
+          "bist": [
+            "verb",
+            "present"
+          ],
+          "du": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "heute": [
+            "adverb",
+            "time"
+          ],
+          "zu": [
+            "particle"
+          ],
+          "spät": [
+            "adjective",
+            "predicate"
+          ]
+        },
+        "excluded_word_tags": {
+          "Ihr": [
+            "personal pronoun"
+          ]
+        },
+        "base_forms": {
+          "fragt": "fragen",
+          "bist": "sein"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Ihr Chef",
+            "english": "her manager",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "Warum bist du heute zu spät",
+            "english": "Why are you late today",
+            "literal_meaning": null,
+            "tags": [
+              "main clause"
+            ]
+          },
+          {
+            "german": "zu spät",
+            "english": "late",
+            "literal_meaning": null,
+            "tags": [
+              "fixed phrase"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina antwortet: „Ich bin zu spät, weil der Bus eine Verspätung hatte.“",
+      "en": "Mina replies, “I am late because the bus was delayed.”",
+      "audio_path": "assets/audio/a2_candidates/a2-course-003/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Mina": [
+            "proper noun",
+            "nominative",
+            "subject"
+          ],
+          "antwortet": [
+            "verb",
+            "present"
+          ],
+          "Ich": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "bin": [
+            "verb",
+            "present"
+          ],
+          "zu": [
+            "particle"
+          ],
+          "weil": [
+            "conjunction",
+            "subordinating",
+            "reason"
+          ],
+          "der": [
+            "article",
+            "nominative"
+          ],
+          "Bus": [
+            "nominative",
+            "subject"
+          ],
+          "eine": [
+            "article",
+            "accusative"
+          ],
+          "Verspätung": [
+            "accusative"
+          ],
+          "hatte": [
+            "verb",
+            "simple past"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "antwortet": "antworten",
+          "bin": "sein",
+          "hatte": "haben"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Ich bin zu spät",
+            "english": "I am late",
+            "literal_meaning": null,
+            "tags": [
+              "main clause"
+            ]
+          },
+          {
+            "german": "weil der Bus eine Verspätung hatte",
+            "english": "because the bus was delayed",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final",
+              "reason"
+            ]
+          },
+          {
+            "german": "eine Verspätung",
+            "english": "a delay",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Sie hat zwanzig Minuten gewartet und im Bus sofort angerufen.",
+      "en": "She waited for twenty minutes and called immediately from the bus.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-003/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Sie": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "hat": [
+            "auxiliary",
+            "present"
+          ],
+          "zwanzig": [
+            "numeral",
+            "time"
+          ],
+          "Minuten": [
+            "accusative",
+            "plural",
+            "time"
+          ],
+          "gewartet": [
+            "verb",
+            "past participle",
+            "perfect"
+          ],
+          "im": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Bus": [
+            "dative"
+          ],
+          "sofort": [
+            "adverb",
+            "time"
+          ],
+          "angerufen": [
+            "verb",
+            "past participle",
+            "perfect",
+            "separable"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "hat": "haben",
+          "gewartet": "warten",
+          "angerufen": "anrufen"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "zwanzig Minuten",
+            "english": "for twenty minutes",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "time"
+            ]
+          },
+          {
+            "german": "hat ... gewartet",
+            "english": "waited",
+            "literal_meaning": null,
+            "tags": [
+              "perfect"
+            ]
+          },
+          {
+            "german": "im Bus",
+            "english": "on the bus",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          },
+          {
+            "german": "hat ... angerufen",
+            "english": "called",
+            "literal_meaning": null,
+            "tags": [
+              "perfect"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Der Chef sagt: „Danke für den Bescheid; jetzt ist der Grund klar.“",
+      "en": "The manager says, “Thanks for letting me know; now the reason is clear.”",
+      "audio_path": "assets/audio/a2_candidates/a2-course-003/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Der": [
+            "article",
+            "nominative"
+          ],
+          "Chef": [
+            "nominative",
+            "subject"
+          ],
+          "sagt": [
+            "verb",
+            "present"
+          ],
+          "für": [
+            "preposition",
+            "accusative"
+          ],
+          "den": [
+            "article",
+            "accusative"
+          ],
+          "Bescheid": [
+            "accusative"
+          ],
+          "jetzt": [
+            "adverb",
+            "time"
+          ],
+          "ist": [
+            "verb",
+            "present"
+          ],
+          "der": [
+            "article",
+            "nominative"
+          ],
+          "Grund": [
+            "nominative",
+            "subject"
+          ],
+          "klar": [
+            "adjective",
+            "predicate"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "sagt": "sagen",
+          "ist": "sein"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Der Chef",
+            "english": "the manager",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "für den Bescheid",
+            "english": "for letting me know",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "jetzt ist der Grund klar",
+            "english": "now the reason is clear",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "der Grund",
+            "english": "the reason",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Why was Mina late?",
+    "answer_en": "The bus was delayed."
+  },
+  "source_basis": [
+    "curriculum/a2_blueprint.md",
+    "A2 blueprint lesson 3"
+  ],
+  "speech_alternatives": []
+}

@@ -1,0 +1,586 @@
+{
+  "id": "a2-course-019",
+  "source_draft_id": "a2-draft-019",
+  "sequence": 67,
+  "band": "A2.1",
+  "format": "dialogue",
+  "title_de": "Eine interessante Stelle",
+  "title_en": "An Interesting Position",
+  "topic": "reading a hotel job advertisement and deciding whether to apply",
+  "communicative_goal": "Identify requirements, working hours, and application method, then state interest.",
+  "grammar_focus": "reflexive verbs with fixed prepositions: sich für einen Beruf interessieren and sich um eine Stelle bewerben",
+  "supporting_structures": [
+    "sich für den Beruf interessieren",
+    "sich um die Stelle bewerben",
+    "mit der Bewerbung"
+  ],
+  "grammar_notes": [],
+  "new_targets": [
+    "die Stelle",
+    "sich bewerben",
+    "die Bewerbung",
+    "der Beruf",
+    "die Voraussetzung",
+    "der Lebenslauf",
+    "die Anzeige"
+  ],
+  "recycled_targets": [
+    "die Arbeit",
+    "interessant",
+    "suchen",
+    "die Erfahrung",
+    "sich interessieren"
+  ],
+  "recycles_from": [
+    3,
+    14,
+    37,
+    38,
+    39
+  ],
+  "audio_path": "assets/audio/a2_candidates/a2-course-019/paragraph.wav",
+  "sentences": [
+    {
+      "de": "In einer Anzeige liest Mina: Ein Hotel sucht Hilfe für die Rezeption am Samstag von neun bis fünf.",
+      "en": "Mina reads in an advertisement: A hotel is looking for help at reception on Saturday from nine to five.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-019/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "In": [
+            "preposition",
+            "dative"
+          ],
+          "einer": [
+            "article",
+            "dative"
+          ],
+          "Ein": [
+            "article",
+            "nominative"
+          ],
+          "für": [
+            "preposition",
+            "accusative"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "Mina": [
+            "proper noun"
+          ],
+          "von": [
+            "preposition",
+            "dative"
+          ],
+          "bis": [
+            "preposition"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "liest": "lesen",
+          "sucht": "suchen"
+        },
+        "word_meanings": {
+          "In": "in",
+          "Anzeige": "advertisement",
+          "Hilfe": "help",
+          "Rezeption": "reception desk",
+          "von": "from"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "In einer Anzeige",
+            "english": "in an advertisement",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "Ein Hotel",
+            "english": "a hotel",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "für die Rezeption",
+            "english": "for reception",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "am Samstag",
+            "english": "on Saturday",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "von neun bis fünf",
+            "english": "from nine to five",
+            "literal_meaning": null,
+            "tags": [
+              "time"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Für die Stelle ist Berufserfahrung eine wichtige Voraussetzung; Bewerbungen mit Lebenslauf bitte per E-Mail.",
+      "en": "Professional experience is an important requirement for the position; applications with a CV by email, please.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-019/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Für": [
+            "preposition",
+            "accusative"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "eine": [
+            "article",
+            "nominative"
+          ],
+          "wichtige": [
+            "adjective",
+            "nominative"
+          ],
+          "Bewerbungen": [
+            "plural"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "per": [
+            "preposition",
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "wichtige": "wichtig",
+          "Bewerbungen": "die Bewerbung"
+        },
+        "word_meanings": {
+          "Stelle": "position",
+          "Berufserfahrung": "professional experience",
+          "Voraussetzung": "requirement",
+          "Bewerbungen": "applications",
+          "Lebenslauf": "CV",
+          "bitte": "please",
+          "mit": "with"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Für die Stelle",
+            "english": "for the position",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "eine wichtige Voraussetzung",
+            "english": "an important requirement",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "Bewerbungen mit Lebenslauf",
+            "english": "applications with a CV",
+            "literal_meaning": null,
+            "tags": [
+              "plural"
+            ]
+          },
+          {
+            "german": "mit Lebenslauf",
+            "english": "with a CV",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "per E-Mail",
+            "english": "by email",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "bitte per E-Mail",
+            "english": "by email, please",
+            "literal_meaning": null,
+            "tags": []
+          },
+          {
+            "german": "Für die Stelle ist Berufserfahrung eine wichtige Voraussetzung",
+            "english": "Professional experience is an important requirement for the position",
+            "literal_meaning": null,
+            "tags": [
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina sagt zu Leo: Das ist interessant, aber ich arbeite am Samstag.",
+      "en": "Mina says to Leo: That is interesting, but I work on Saturday.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-019/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Mina": [
+            "proper noun"
+          ],
+          "zu": [
+            "preposition",
+            "dative"
+          ],
+          "Leo": [
+            "proper noun"
+          ],
+          "Das": [
+            "demonstrative pronoun",
+            "nominative",
+            "subject"
+          ],
+          "interessant": [
+            "adjective"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "zu": "to",
+          "Das": "that"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Mina sagt zu Leo: Das ist interessant"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Das ist interessant",
+            "english": "that is interesting",
+            "literal_meaning": null,
+            "tags": [
+              "main clause"
+            ]
+          },
+          {
+            "german": "am Samstag",
+            "english": "on Saturday",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "zu Leo",
+            "english": "to Leo",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Leo fragt: Interessierst du dich für den Beruf, oder willst du dich um die Stelle bewerben?",
+      "en": "Leo asks: Are you interested in the profession, or do you want to apply for the position?",
+      "audio_path": "assets/audio/a2_candidates/a2-course-019/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Leo": [
+            "proper noun"
+          ],
+          "du": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "dich": [
+            "reflexive pronoun",
+            "accusative"
+          ],
+          "für": [
+            "preposition",
+            "accusative"
+          ],
+          "um": [
+            "preposition",
+            "accusative"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "Interessierst": "sich interessieren",
+          "willst": "wollen",
+          "bewerben": "sich bewerben",
+          "dich": "du"
+        },
+        "word_meanings": {
+          "dich": "yourself",
+          "um": "for",
+          "Stelle": "position"
+        },
+        "verb_forms": {
+          "bewerben": "infinitive"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Leo fragt: Interessierst du dich für den Beruf"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Interessierst du dich für den Beruf",
+            "english": "are you interested in the profession",
+            "literal_meaning": null,
+            "tags": [
+              "reflexive",
+              "main clause"
+            ]
+          },
+          {
+            "german": "Interessierst du dich",
+            "english": "are you interested",
+            "literal_meaning": null,
+            "tags": [
+              "reflexive"
+            ]
+          },
+          {
+            "german": "Interessierst … dich",
+            "english": "be interested",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "reflexive"
+            ]
+          },
+          {
+            "german": "für den Beruf",
+            "english": "in the profession",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "willst du dich um die Stelle bewerben",
+            "english": "do you want to apply for the position",
+            "literal_meaning": null,
+            "tags": [
+              "modal verb",
+              "infinitive",
+              "reflexive"
+            ]
+          },
+          {
+            "german": "dich um die Stelle bewerben",
+            "english": "apply for the position",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "reflexive",
+              "infinitive"
+            ]
+          },
+          {
+            "german": "um die Stelle",
+            "english": "for the position",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina antwortet: Ich interessiere mich für den Beruf und schicke heute meine Bewerbung.",
+      "en": "Mina replies: I am interested in the profession and will send my application today.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-019/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Mina": [
+            "proper noun"
+          ],
+          "mich": [
+            "reflexive pronoun",
+            "accusative"
+          ],
+          "für": [
+            "preposition",
+            "accusative"
+          ],
+          "heute": [
+            "adverb",
+            "time"
+          ],
+          "meine": [
+            "possessive",
+            "determiner",
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "interessiere": "sich interessieren",
+          "mich": "ich"
+        },
+        "word_meanings": {
+          "mich": "myself"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Mina antwortet: Ich interessiere mich für den Beruf"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "interessiere mich für den Beruf",
+            "english": "am interested in the profession",
+            "literal_meaning": null,
+            "tags": [
+              "reflexive",
+              "accusative"
+            ]
+          },
+          {
+            "german": "für den Beruf",
+            "english": "in the profession",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "meine Bewerbung",
+            "english": "my application",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Leo antwortet: Dann musst du am Samstag frei haben.",
+      "en": "Leo replies: In that case, you need Saturday off.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-019/sentence-06.wav",
+      "annotations": {
+        "word_tags": {
+          "Leo": [
+            "proper noun"
+          ],
+          "Dann": [
+            "adverb"
+          ],
+          "du": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "frei": [
+            "adjective"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "musst": "müssen",
+          "haben": "haben"
+        },
+        "word_meanings": {
+          "Dann": "in that case",
+          "frei": "off work"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Dann musst du … haben"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "am Samstag",
+            "english": "on Saturday",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "Dann musst du am Samstag frei haben",
+            "english": "in that case, you need Saturday off",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "modal verb",
+              "infinitive"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "What experience and hours does the advertisement require, and how should Mina apply?",
+    "answer_en": "Professional experience, Saturday from nine to five, and an application with a CV by email."
+  },
+  "source_basis": [
+    "curriculum/a2_blueprint.md",
+    "A2 Lesson 19"
+  ],
+  "speech_alternatives": [],
+  "performance_activity": {
+    "kind": "reading",
+    "instruction": "Mark the required experience, shift hours, and contact method. Compare this short profile with the advertisement: Alex has one year of hotel reception experience, is free Saturday from nine to five, and can send a CV by email.",
+    "prompts": [
+      "Required experience: ___",
+      "Shift hours: ___",
+      "Application method and document: ___",
+      "Does Alex fit the advertisement? Give two reasons.",
+      "Could Mina work the advertised Saturday shift?"
+    ]
+  }
+}

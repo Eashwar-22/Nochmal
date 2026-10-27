@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a2-course-021",
+  "source_sha256": "3c51a47679274b362dbbf18ad0a81f5f833d35a0b4d9ad035f53443b9cc03c2f",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "Read both required documents in full and the exact Lesson 21 blueprint entry; ignored review.json.",
+        "Validated source and compiled Pydantic objects, source hash, deterministic compilation, and exact preview agreement.",
+        "Inspected all six sentences left to right: 84 source tokens have exactly one owner across 73 word cards.",
+        "Checked all 33 phrase cards for source wording, syntax boundaries, controlled tags, source order, and placement after their components.",
+        "Checked all 18 verb references for correct infinitives and complete six-row bilingual present and relevant-tense tables.",
+        "Checked all 21 inflection references for case triggers, grammatical slots, complete four-case tables, contraction expansions, and matching selected cells.",
+        "Verified repeated forms retain correct meanings and roles, including accusative die in sentence 2 and nominative Die/die in sentence 6.",
+        "Confirmed a2-course-021 is absent from the publication catalog.",
+        "All 25 focused repository tests passed: lesson contract, A2 course, contextual verb references, and grammar rulebook."
+      ],
+      "findings": [
+        {
+          "severity": "warning",
+          "location": "compiled-lesson.json: lesson.audio_status, lesson.audio_path, and sentences 1\u20136 audio_path",
+          "rule": "Rulebook \u00a7\u00a711\u201312; pre-audio audit scope",
+          "message": "Audio is pending and all audio paths are null, as expected. Verify exact text/audio agreement and audio integrity before publication; this does not block the candidate-content audit."
+        },
+        {
+          "severity": "warning",
+          "location": "Lesson-wide rendered desktop/mobile reference cards",
+          "rule": "Rulebook \u00a711; lesson-format accessibility requirements",
+          "message": "Live desktop/mobile focus, hover, clipping, scrolling, and viewport checks remain later release gates. They do not block this pre-audio audit."
+        }
+      ]
+    },
+    {
+      "kind": "language",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "Sentence 1: temporal Am and first-day adjective use masculine dative weak inflection; Firma and Chefin are accusative objects; an der Rezeption is locative dative; both coordinated participles correctly share hat.",
+        "Sentence 2: Sie refers to the manager; ihm is the masculine dative recipient of erkl\u00e4ren; bei governs dative; both coordinated feminine objects are accusative.",
+        "Sentence 3: sich vorstellen correctly uses accusative sich, separable vorgestellt, and dative plural bei seinen Kollegen; ihre Namen is an accusative plural object of vergessen.",
+        "Sentence 4: In der Besprechung correctly uses dative; eine kleine Aufgabe uses feminine accusative mixed inflection; einen Gast is masculine accusative; bekommen and beraten are correct inseparable participles.",
+        "Sentence 5: Am Nachmittag is temporal dative; f\u00fcr governs neuter accusative ein Projekt; \u00fcbernehmen correctly forms \u00fcbernommen without ge-; das is a nominative demonstrative subject and interessant is an undeclined predicate adjective.",
+        "Sentence 6: Firma and Einf\u00fchrung are nominative subjects; drei Abteilungen is an accusative plural object; hat is lexical present rather than an auxiliary; war is simple past; wo arbeite ich morgen has correct question order and present tense with future reference.",
+        "Verified every noun's dictionary gender and singular base, all plural source forms, conjunctions, adverbs, adjective functions, verb identities, and conjugation rows. No unresolved candidate-content analysis or unsupported grammatical guess was found."
+      ],
+      "findings": [
+        {
+          "severity": "warning",
+          "location": "lesson-source.json: sentence 6.de, direct speech after 'Am Abend sagt Leo:'",
+          "rule": "German direct-speech punctuation",
+          "message": "For standard narrative typography, enclose Leo's direct speech in German quotation marks, from Die Firma through morgen?. Mirror the quotation boundary in English."
+        }
+      ]
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "Compared all six sentence translations and all 106 word/phrase-card glosses with their exact German contexts.",
+        "Verified pronoun reference, possession, working-hours terminology, orientation terminology, coordinated past actions, evaluation, and the future interpretation of morgen.",
+        "Confirmed natural sentence translations preserve the German meaning while the reference tables retain reusable dictionary meanings.",
+        "Blueprint fit: six sentence records and 84 words; one connected first-day account includes introductions, explanation, initial work, closing evaluation, and a follow-up question.",
+        "All seven target vocabulary items occur. Common be-, er-, and ver- participles without ge- are represented, with separable participles providing useful contrast.",
+        "The typed listening activity supplies four orientation events and a workplace fact, satisfying the required event-versus-fact distinction."
+      ],
+      "findings": [
+        {
+          "severity": "warning",
+          "location": "compiled-lesson.json: sentence 5, group 1, item 8 '\u00fcbernommen', including verb_help.current_english_forms",
+          "rule": "Rulebook \u00a74; lesson-format contextual word and verb meanings",
+          "message": "The gloss 'taken over' is possible, but 'taken on' or 'assumed' makes Verantwortung \u00fcbernehmen clearer without suggesting a transfer from another employee. Consider contextual word_meanings and verb_meanings annotations while preserving the reusable dictionary reference."
+        }
+      ]
+    }
+  ]
+}

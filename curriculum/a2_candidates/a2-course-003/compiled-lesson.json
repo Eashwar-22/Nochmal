@@ -1,0 +1,2493 @@
+{
+  "schema_version": 1,
+  "source_sha256": "390903f76ad0e1effde5fe182361a7dec3b874bc4f7c279f9a74379d9929154c",
+  "lesson": {
+    "id": "a2-course-003",
+    "title": "Weil der Bus zu spät war",
+    "english_title": "Because the Bus Was Late",
+    "level": "A2.1",
+    "sentences": [
+      {
+        "text": "Mina kommt zu spät zu einem Termin im Büro.",
+        "natural_meaning": "Mina arrives late for an appointment at the office.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Mina",
+                "english": "Mina",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Mina"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "kommt",
+                "english": "come",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "kommen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "komme"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kommst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kommt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "kommen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "kommt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "kommen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to come",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "komme"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kommst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kommt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "kommen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "kommt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "kommen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I come",
+                    "you come",
+                    "he/she/it comes",
+                    "we come",
+                    "you come",
+                    "they/you come"
+                  ],
+                  "current_english_forms": [
+                    "I come",
+                    "you come",
+                    "he/she/it comes",
+                    "we come",
+                    "you come",
+                    "they/you come"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "kommt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "zu",
+                "english": "to / too",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "particle",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "zu"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "spät",
+                "english": "late",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "spät"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "zu",
+                "english": "to / too",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "zu"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Termin",
+                "english": "appointment",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "einem",
+                  "Termin"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "in",
+                "english": "in / into",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "im"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Büro",
+                "english": "office",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Büro"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "im Büro",
+                "english": "at the office",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "contraction",
+                    "category": "form"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "im",
+                    "base": "das",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": "dem",
+                    "contraction": "in + dem"
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "zu einem Termin",
+                "english": "for an appointment",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "einem",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "dative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "kommt zu spät",
+                "english": "arrives late",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "fixed phrase",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-003/sentence-01.wav"
+      },
+      {
+        "text": "Ihr Chef fragt freundlich: „Warum bist du heute zu spät?“",
+        "natural_meaning": "Her manager asks politely, “Why are you late today?”",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Ihr",
+                "english": "her / you",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "possessive",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "determiner",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Ihr"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Chef",
+                "english": "boss / manager",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Chef"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "fragt",
+                "english": "ask",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "fragen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "frage"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "fragst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "fragt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "fragen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "fragt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "fragen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to ask",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "frage"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "fragst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "fragt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "fragen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "fragt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "fragen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I ask",
+                    "you ask",
+                    "he/she/it asks",
+                    "we ask",
+                    "you ask",
+                    "they/you ask"
+                  ],
+                  "current_english_forms": [
+                    "I ask",
+                    "you ask",
+                    "he/she/it asks",
+                    "we ask",
+                    "you ask",
+                    "they/you ask"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "fragt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "freundlich",
+                "english": "friendly",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "manner",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "freundlich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Warum",
+                "english": "why",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "interrogative pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "reason",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Warum"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "bist",
+                "english": "be",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "bist"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "du",
+                "english": "you",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "du"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "heute",
+                "english": "today",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "heute"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "zu",
+                "english": "to / too",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "particle",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "zu"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "spät",
+                "english": "late",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "predicate",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "spät"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Warum bist du heute zu spät",
+                "english": "Why are you late today",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Ihr Chef",
+                "english": "her manager",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Ihr",
+                    "base": "ihr",
+                    "kind": "possessive-determiner",
+                    "paradigm": "possessive",
+                    "case": "nominative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Ihr Chef fragt freundlich",
+                "english": "Her manager asks politely",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "zu spät",
+                "english": "late",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "fixed phrase",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-003/sentence-02.wav"
+      },
+      {
+        "text": "Mina antwortet: „Ich bin zu spät, weil der Bus eine Verspätung hatte.“",
+        "natural_meaning": "Mina replies, “I am late because the bus was delayed.”",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Mina",
+                "english": "Mina",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Mina"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "antwortet",
+                "english": "answer",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "antworten",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "antworte"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "antwortest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "antwortet"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "antworten"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "antwortet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "antworten"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to answer",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "antworte"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "antwortest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "antwortet"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "antworten"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "antwortet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "antworten"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I answer",
+                    "you answer",
+                    "he/she/it answers",
+                    "we answer",
+                    "you answer",
+                    "they/you answer"
+                  ],
+                  "current_english_forms": [
+                    "I answer",
+                    "you answer",
+                    "he/she/it answers",
+                    "we answer",
+                    "you answer",
+                    "they/you answer"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "antwortet"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Ich",
+                "english": "I",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Ich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "bin",
+                "english": "be",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "bin"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "zu",
+                "english": "to / too",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "particle",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "zu"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "spät",
+                "english": "late",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "spät"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "weil",
+                "english": "because",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "subordinating",
+                    "category": "connector"
+                  },
+                  {
+                    "label": "reason",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "weil"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Bus",
+                "english": "bus",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "der",
+                  "Bus"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Verspätung",
+                "english": "delay",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "eine",
+                  "Verspätung"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "hatte",
+                "english": "had",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "simple past",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "haben",
+                  "tense": "Präteritum (simple past)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "hatte"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hattest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hatte"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "hatten"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "hattet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "hatten"
+                    }
+                  ],
+                  "usage": "This is a simple-past form. In speech it is especially common with sein, haben, and modal verbs.",
+                  "english": "to have",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I have",
+                    "you have",
+                    "he/she/it has",
+                    "we have",
+                    "you have",
+                    "they/you have"
+                  ],
+                  "current_english_forms": [
+                    "I had",
+                    "you had",
+                    "he/she/it had",
+                    "we had",
+                    "you had",
+                    "they/you had"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "hatte"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "weil der Bus eine Verspätung hatte",
+                "english": "because the bus was delayed",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "subordinate clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-final",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "reason",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Ich bin zu spät",
+                "english": "I am late",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "eine Verspätung",
+                "english": "a delay",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "eine",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-003/sentence-03.wav"
+      },
+      {
+        "text": "Sie hat zwanzig Minuten gewartet und im Bus sofort angerufen.",
+        "natural_meaning": "She waited for twenty minutes and called immediately from the bus.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Sie",
+                "english": "she / they / you",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "hat",
+                "english": "have",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  },
+                  {
+                    "label": "auxiliary",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "haben",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to have",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I have",
+                    "you have",
+                    "he/she/it has",
+                    "we have",
+                    "you have",
+                    "they/you have"
+                  ],
+                  "current_english_forms": [
+                    "I have",
+                    "you have",
+                    "he/she/it has",
+                    "we have",
+                    "you have",
+                    "they/you have"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "hat"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "zwanzig",
+                "english": "twenty",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "numeral",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "zwanzig"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Minute",
+                "english": "minutes",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "plural",
+                    "category": "form"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Minuten"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "gewartet",
+                "english": "waited",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "past participle",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "warten",
+                  "tense": "Perfekt (conversational past)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe gewartet"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast gewartet"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat gewartet"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben gewartet"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt gewartet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben gewartet"
+                    }
+                  ],
+                  "usage": "gewartet is the past participle of warten; it combines with haben to form the conversational past.",
+                  "english": "to wait",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "warte"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "wartest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "wartet"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "warten"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "wartet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "warten"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I wait",
+                    "you wait",
+                    "he/she/it waits",
+                    "we wait",
+                    "you wait",
+                    "they/you wait"
+                  ],
+                  "current_english_forms": [
+                    "I have waited",
+                    "you have waited",
+                    "he/she/it has waited",
+                    "we have waited",
+                    "you have waited",
+                    "they/you have waited"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "gewartet"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "in",
+                "english": "in / into",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "im"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Bus",
+                "english": "bus",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Bus"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sofort",
+                "english": "immediately",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sofort"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "angerufen",
+                "english": "called",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "past participle",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  },
+                  {
+                    "label": "separable",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "anrufen",
+                  "tense": "Perfekt (conversational past)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe angerufen"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast angerufen"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat angerufen"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben angerufen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt angerufen"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben angerufen"
+                    }
+                  ],
+                  "usage": "angerufen is the past participle of anrufen; it combines with haben to form the conversational past.",
+                  "english": "to call / phone",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "rufe an"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "rufst an"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ruft an"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "rufen an"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "ruft an"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "rufen an"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I call",
+                    "you call",
+                    "he/she/it calls",
+                    "we call",
+                    "you call",
+                    "they/you call"
+                  ],
+                  "current_english_forms": [
+                    "I have called",
+                    "you have called",
+                    "he/she/it has called",
+                    "we have called",
+                    "you have called",
+                    "they/you have called"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "angerufen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "im Bus",
+                "english": "on the bus",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "contraction",
+                    "category": "form"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "im",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": "dem",
+                    "contraction": "in + dem"
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "zwanzig Minuten",
+                "english": "for twenty minutes",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "hat ... gewartet",
+                "english": "waited",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "hat ... angerufen",
+                "english": "called",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-003/sentence-04.wav"
+      },
+      {
+        "text": "Der Chef sagt: „Danke für den Bescheid; jetzt ist der Grund klar.“",
+        "natural_meaning": "The manager says, “Thanks for letting me know; now the reason is clear.”",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "der Chef",
+                "english": "boss / manager",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Der",
+                  "Chef"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sagt",
+                "english": "say",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sagen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "sage"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "sagst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "sagt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sagen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "sagt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sagen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to say",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "sage"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "sagst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "sagt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sagen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "sagt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sagen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I say",
+                    "you say",
+                    "he/she/it says",
+                    "we say",
+                    "you say",
+                    "they/you say"
+                  ],
+                  "current_english_forms": [
+                    "I say",
+                    "you say",
+                    "he/she/it says",
+                    "we say",
+                    "you say",
+                    "they/you say"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "sagt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Danke",
+                "english": "thank you",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Danke"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "für",
+                "english": "for",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "für"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Bescheid",
+                "english": "notification / decision",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "den",
+                  "Bescheid"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "jetzt",
+                "english": "now",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "jetzt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ist",
+                "english": "be",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "ist"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Grund",
+                "english": "reason",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "der",
+                  "Grund"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "klar",
+                "english": "clear",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "predicate",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "klar"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "jetzt ist der Grund klar",
+                "english": "now the reason is clear",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "für den Bescheid",
+                "english": "for letting me know",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "fixed phrase",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "den",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Der Chef sagt",
+                "english": "The manager says",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Danke für den Bescheid",
+                "english": "Thanks for letting me know",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Der Chef",
+                "english": "the manager",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Der",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "nominative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "der Grund",
+                "english": "the reason",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "der",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "nominative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-003/sentence-05.wav"
+      }
+    ],
+    "audio_path": "assets/audio/a2_candidates/a2-course-003/paragraph.wav",
+    "initial_question": "Why was Mina late?",
+    "initial_answer": "The bus was delayed.",
+    "audio_status": "ready",
+    "sequence": 51,
+    "lesson_format": "dialogue",
+    "topic": "an explanation for arriving late",
+    "new_targets": [
+      "der Grund",
+      "die Verspätung",
+      "zu spät",
+      "warten",
+      "der Bescheid"
+    ],
+    "recycled_targets": [
+      "der Bus",
+      "der Termin",
+      "sich entschuldigen",
+      "gestern"
+    ],
+    "speech_alternatives": []
+  }
+}

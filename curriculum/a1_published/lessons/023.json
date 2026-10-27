@@ -1,0 +1,420 @@
+{
+  "id": "a1-course-023",
+  "source_draft_id": "a1-draft-023",
+  "sequence": 23,
+  "band": "A1.1",
+  "format": "dialogue",
+  "title_de": "Immer geradeaus",
+  "title_en": "Straight Ahead",
+  "topic": "asking for and following directions to a nearby place",
+  "communicative_goal": "Follow short, slow directions with two turns.",
+  "grammar_focus": "formal Sie imperatives in high-frequency direction instructions",
+  "supporting_structures": [
+    "Entschuldigung, wo ist der Eingang?",
+    "Gehen Sie zuerst geradeaus",
+    "nach links",
+    "neben der Bank"
+  ],
+  "grammar_notes": [
+    "In the formal imperative, the verb comes before Sie: Gehen Sie.",
+    "Dort sehen Sie is a verb-second statement with the place adverb first; it is not an imperative. Bis zu der contracts to bis zur, whose feminine dative article marks the endpoint."
+  ],
+  "new_targets": [
+    "die Ecke",
+    "der Eingang",
+    "die Post",
+    "die Bank",
+    "suchen",
+    "der Mann",
+    "zuerst",
+    "geradeaus",
+    "links",
+    "rechts",
+    "zeigen"
+  ],
+  "recycled_targets": [
+    "wo",
+    "Entschuldigung",
+    "bitte",
+    "dann",
+    "danach",
+    "die Stadt",
+    "gehen",
+    "sehen",
+    "neben"
+  ],
+  "recycles_from": [
+    2,
+    4,
+    9,
+    13
+  ],
+  "audio_path": "assets/audio/a1_published/a1-course-023/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Mina sucht die Post und fragt einen Mann: „Entschuldigung, wo ist der Eingang?“",
+      "en": "Mina is looking for the post office and asks a man, “Excuse me, where is the entrance?”",
+      "audio_path": "assets/audio/a1_published/a1-course-023/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "die": [
+            "determiner",
+            "accusative"
+          ],
+          "post": [
+            "accusative"
+          ],
+          "einen": [
+            "determiner",
+            "accusative"
+          ],
+          "mann": [
+            "accusative"
+          ],
+          "entschuldigung": [
+            "interjection"
+          ],
+          "wo": [
+            "interrogative pronoun"
+          ],
+          "der": [
+            "nominative"
+          ],
+          "eingang": [
+            "nominative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "wo ist der Eingang",
+          "und fragt einen Mann: „Entschuldigung, wo ist der Eingang"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Mina sucht die Post und fragt einen Mann",
+            "english": "Mina is looking for the post office and asks a man",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "die Post",
+            "english": "the post office",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "einen Mann",
+            "english": "a man",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "Entschuldigung, wo ist der Eingang",
+            "english": "Excuse me, where is the entrance?",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "fixed phrase"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Der Mann sagt: „Gehen Sie zuerst geradeaus bis zur nächsten Ecke.“",
+      "en": "The man says, “First go straight ahead as far as the next corner.”",
+      "audio_path": "assets/audio/a1_published/a1-course-023/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "der": [
+            "nominative"
+          ],
+          "mann": [
+            "nominative"
+          ],
+          "gehen": [
+            "verb",
+            "imperative",
+            "formal"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative",
+            "formal"
+          ],
+          "zuerst": [
+            "adverb"
+          ],
+          "geradeaus": [
+            "adverb",
+            "direction"
+          ],
+          "bis": [
+            "preposition"
+          ],
+          "zur": [
+            "preposition",
+            "dative"
+          ],
+          "nächsten": [
+            "adjective",
+            "dative"
+          ],
+          "ecke": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "nächsten": "nächst"
+        },
+        "word_meanings": {
+          "sie": "you (formal)"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "zur nächsten Ecke",
+          "nächsten Ecke"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Gehen Sie zuerst geradeaus bis zur nächsten Ecke",
+            "english": "First go straight ahead as far as the next corner.",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "imperative",
+              "formal"
+            ]
+          },
+          {
+            "german": "bis zur nächsten Ecke",
+            "english": "as far as the next corner",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "direction"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Gehen Sie dann nach links und danach nach rechts.",
+      "en": "Then go left and then go right.",
+      "audio_path": "assets/audio/a1_published/a1-course-023/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "gehen": [
+            "verb",
+            "imperative",
+            "formal"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative",
+            "formal"
+          ],
+          "dann": [
+            "adverb"
+          ],
+          "nach": [
+            "preposition",
+            "direction"
+          ],
+          "links": [
+            "adverb",
+            "direction"
+          ],
+          "danach": [
+            "adverb"
+          ],
+          "rechts": [
+            "adverb",
+            "direction"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "sie": "you (formal)"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Gehen Sie dann nach links und danach nach rechts",
+            "english": "Then go left and then go right.",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "imperative",
+              "formal"
+            ]
+          },
+          {
+            "german": "nach links",
+            "english": "to the left",
+            "literal_meaning": null,
+            "tags": [
+              "direction"
+            ]
+          },
+          {
+            "german": "und danach nach rechts",
+            "english": "and then to the right",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "direction",
+              "ellipsis"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Dort sehen Sie die Post; der Eingang ist neben der Bank.",
+      "en": "You will see the post office there; the entrance is next to the bank.",
+      "audio_path": "assets/audio/a1_published/a1-course-023/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "dort": [
+            "adverb",
+            "place"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative",
+            "formal"
+          ],
+          "die": [
+            "determiner",
+            "accusative"
+          ],
+          "post": [
+            "accusative"
+          ],
+          "der": [
+            "nominative"
+          ],
+          "eingang": [
+            "nominative"
+          ],
+          "neben": [
+            "preposition",
+            "dative"
+          ],
+          "bank": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "sie": "you (formal)"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [
+          {
+            "surface": "die",
+            "occurrence": 1,
+            "tags": [
+              "determiner",
+              "accusative"
+            ],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": null,
+            "spoken_form": null
+          },
+          {
+            "surface": "der",
+            "occurrence": 1,
+            "tags": [
+              "nominative"
+            ],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": null,
+            "spoken_form": null
+          },
+          {
+            "surface": "der",
+            "occurrence": 2,
+            "tags": [
+              "dative"
+            ],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": null,
+            "spoken_form": null
+          }
+        ],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Dort sehen Sie die Post",
+            "english": "You will see the post office there",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "inversion",
+              "formal"
+            ]
+          },
+          {
+            "german": "neben der Bank",
+            "english": "next to the bank",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "der Eingang ist neben der Bank",
+            "english": "the entrance is next to the bank",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "What is next to the bank?",
+    "answer_en": "The entrance to the post office."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_04.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

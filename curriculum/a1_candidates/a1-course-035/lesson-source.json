@@ -1,0 +1,477 @@
+{
+  "id": "a1-course-035",
+  "source_draft_id": "a1-draft-035",
+  "sequence": 35,
+  "band": "A1.2",
+  "format": "dialogue",
+  "title_de": "Meine Karte ist weg",
+  "title_en": "My Card Is Gone",
+  "topic": "reporting a missing bank card and asking where to get help",
+  "communicative_goal": "State that an important item is missing and ask for the right service.",
+  "grammar_focus": "sein plus weg in simple problem statements",
+  "supporting_structures": [
+    "Meine Karte ist weg",
+    "Ich brauche bitte Hilfe",
+    "zur Polizei gehen"
+  ],
+  "grammar_notes": [
+    "Weg functions as a predicate state word after sein; danach links the bank and police actions."
+  ],
+  "new_targets": [
+    "die Karte",
+    "das Geld",
+    "das Konto",
+    "der Automat",
+    "die Polizei",
+    "weg",
+    "suchen",
+    "angeben"
+  ],
+  "recycled_targets": [
+    "die Bank",
+    "zahlen",
+    "helfen",
+    "das Problem",
+    "wo"
+  ],
+  "recycles_from": [
+    2,
+    17,
+    21,
+    24
+  ],
+  "audio_path": "assets/audio/a1_candidates/a1-course-035/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Nach dem Einkauf sucht Mina ihre Karte, aber die Karte und ihr Geld sind weg.",
+      "en": "After shopping, Mina looks for her card, but the card and her money are gone.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-035/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Nach": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "dem": [
+            "article",
+            "dative"
+          ],
+          "Einkauf": [
+            "dative"
+          ],
+          "Mina": [
+            "nominative"
+          ],
+          "ihre": [
+            "possessive",
+            "determiner",
+            "accusative"
+          ],
+          "aber": [
+            "conjunction",
+            "coordinating"
+          ],
+          "die": [
+            "article",
+            "nominative"
+          ],
+          "ihr": [
+            "possessive",
+            "determiner",
+            "nominative"
+          ],
+          "Geld": [
+            "nominative"
+          ],
+          "weg": [
+            "predicate"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [
+          {
+            "surface": "Karte",
+            "occurrence": 1,
+            "tags": [
+              "accusative"
+            ],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": null,
+            "spoken_form": null
+          },
+          {
+            "surface": "Karte",
+            "occurrence": 2,
+            "tags": [
+              "nominative"
+            ],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": null,
+            "spoken_form": null
+          }
+        ],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Nach dem Einkauf",
+            "english": "After shopping",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "ihre Karte",
+            "english": "her card",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "aber die Karte und ihr Geld sind weg",
+            "english": "but the card and her money are gone",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "die Karte",
+            "english": "the card",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "ihr Geld",
+            "english": "her money",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Sie geht zur Bank und sagt: „Ich brauche bitte Hilfe.“",
+      "en": "She goes to the bank and says, “I need help, please.”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-035/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "zur": [
+            "preposition",
+            "dative",
+            "direction"
+          ],
+          "Bank": [
+            "dative"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "Ich": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "Hilfe": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "Sie": "she"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "zur Bank",
+            "english": "to the bank",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "direction",
+              "contraction"
+            ]
+          },
+          {
+            "german": "Ich brauche bitte Hilfe",
+            "english": "I need help, please",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "fixed phrase"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Der Mitarbeiter fragt nach ihrem Konto und hilft ihr sofort.",
+      "en": "The employee asks about her account and helps her immediately.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-035/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Der": [
+            "nominative"
+          ],
+          "Mitarbeiter": [
+            "nominative"
+          ],
+          "nach": [
+            "preposition",
+            "dative"
+          ],
+          "ihrem": [
+            "possessive",
+            "determiner",
+            "dative"
+          ],
+          "Konto": [
+            "dative"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "ihr": [
+            "personal pronoun",
+            "dative"
+          ],
+          "sofort": [
+            "adverb",
+            "time"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "ihr": "her"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "nach ihrem Konto",
+            "english": "about her account",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "hilft ihr sofort",
+            "english": "helps her immediately",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Danach geht Mina zur Polizei: Auch ihr Geld ist weg.",
+      "en": "Afterwards Mina goes to the police: her money is gone too.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-035/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Danach": [
+            "adverb",
+            "time"
+          ],
+          "Mina": [
+            "nominative"
+          ],
+          "zur": [
+            "preposition",
+            "dative",
+            "direction"
+          ],
+          "Polizei": [
+            "dative"
+          ],
+          "Auch": [
+            "adverb"
+          ],
+          "ihr": [
+            "possessive",
+            "determiner",
+            "nominative"
+          ],
+          "Geld": [
+            "nominative"
+          ],
+          "weg": [
+            "predicate"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Danach geht Mina zur Polizei",
+            "english": "Afterwards Mina goes to the police",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "zur Polizei",
+            "english": "to the police",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "direction",
+              "contraction"
+            ]
+          },
+          {
+            "german": "Auch ihr Geld ist weg",
+            "english": "Her money is gone too",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "ihr Geld",
+            "english": "her money",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Dort gibt sie ihren Namen, ihre Adresse und ihre Telefonnummer an.",
+      "en": "There she gives her name, address, and telephone number.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-035/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Dort": [
+            "adverb",
+            "place"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "ihren": [
+            "possessive",
+            "determiner",
+            "accusative"
+          ],
+          "Namen": [
+            "accusative"
+          ],
+          "ihre": [
+            "possessive",
+            "determiner",
+            "accusative"
+          ],
+          "Adresse": [
+            "accusative"
+          ],
+          "Telefonnummer": [
+            "accusative"
+          ],
+          "an": [
+            "particle"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "gibt": "angeben"
+        },
+        "word_meanings": {
+          "gibt": "provides",
+          "an": "separable prefix of angeben"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Dort gibt sie ihren Namen, ihre Adresse und ihre Telefonnummer an",
+            "english": "There she provides her name, address, and telephone number",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "separable"
+            ]
+          },
+          {
+            "german": "ihren Namen",
+            "english": "her name",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "ihre Adresse",
+            "english": "her address",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "ihre Telefonnummer",
+            "english": "her telephone number",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Where does Mina go after the bank?",
+    "answer_en": "To the police."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_06.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

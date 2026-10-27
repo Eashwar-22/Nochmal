@@ -1,0 +1,2357 @@
+{
+  "schema_version": 1,
+  "source_sha256": "9d3c79c494a76551d36a86ad5555851e2bee2da728cb952d313915ae5f4bc62c",
+  "tag_descriptions": {
+    "noun": "A word for a person, place, thing, or idea.",
+    "compound noun": "A noun formed by joining two or more words.",
+    "proper noun": "The specific name of a person, place, or organization.",
+    "masc.": "A noun with masculine grammatical gender.",
+    "fem.": "A noun with feminine grammatical gender.",
+    "neuter": "A noun with neuter grammatical gender.",
+    "singular": "A form referring to one person or thing.",
+    "plural": "A form referring to more than one person or thing.",
+    "verb": "A word expressing an action, process, or state.",
+    "modal verb": "A verb expressing ability, permission, need, or intention.",
+    "auxiliary": "A helping verb used to build a tense or voice.",
+    "reflexive": "A verb used with a pronoun that refers back to the subject.",
+    "separable": "A verb whose prefix separates in some sentence patterns.",
+    "inseparable": "A prefixed verb whose prefix stays attached.",
+    "regular": "A verb that follows the standard conjugation pattern.",
+    "irregular": "A verb with a stem or form that changes irregularly.",
+    "infinitive": "The unconjugated dictionary form of a verb.",
+    "past participle": "A verb form used in perfect tenses and the passive.",
+    "imperative": "A verb form used for commands or requests.",
+    "present": "A tense for current actions, habits, or general facts.",
+    "simple past": "A tense for completed past events, especially in writing.",
+    "perfect": "A past tense formed with haben or sein and a past participle.",
+    "pluperfect": "A tense for an event completed before another past event.",
+    "future": "A tense commonly formed with werden and an infinitive.",
+    "adjective": "A word describing a noun or a state.",
+    "adverb": "A word modifying a verb, adjective, or whole sentence.",
+    "interjection": "A standalone word used for a greeting, reaction, or brief response.",
+    "article": "A noun companion that can show gender, number, and case.",
+    "determiner": "A word that specifies quantity or reference before a noun.",
+    "personal pronoun": "A word such as ich or mir that refers to a participant.",
+    "interrogative pronoun": "A pronoun used to ask about a person, thing, or idea.",
+    "demonstrative pronoun": "A pronoun that points to a specific person, thing, or idea.",
+    "reflexive pronoun": "A pronoun that refers back to the subject of its clause.",
+    "relative pronoun": "A pronoun that introduces a relative clause and refers back to a noun.",
+    "indefinite pronoun": "A pronoun referring to a non-specific person, thing, amount, or totality.",
+    "possessive": "A form expressing ownership or another close relationship.",
+    "preposition": "A word showing a relationship and governing a case.",
+    "conjunction": "A word joining words, phrases, or clauses.",
+    "particle": "A small word that changes meaning, emphasis, or tone.",
+    "numeral": "A word expressing number, quantity, or order.",
+    "nominative": "The case normally used for the subject.",
+    "accusative": "The case often used for a direct object.",
+    "dative": "The case often used for a recipient or indirect object.",
+    "genitive": "The case commonly expressing possession or belonging.",
+    "subject": "The person or thing performing an action or being described.",
+    "direct object": "The person or thing directly affected by the action.",
+    "indirect object": "The recipient or beneficiary of the action.",
+    "predicate": "A word or phrase describing what the subject is or does.",
+    "main clause": "A complete clause that can stand on its own.",
+    "subordinate clause": "A dependent clause that supports a main clause.",
+    "verb-second": "The finite verb occupies the second sentence position.",
+    "verb-final": "The finite verb appears at the end of the clause.",
+    "inversion": "The verb comes before the subject after another first element.",
+    "negation": "A form that makes a word, phrase, or sentence negative.",
+    "fixed phrase": "A common expression usually learned as one stable unit.",
+    "idiom": "A phrase whose meaning is not fully predictable from its words.",
+    "ellipsis": "An understood word or phrase is omitted because the meaning is clear in context.",
+    "contraction": "A shortened form made by combining two words.",
+    "comparative": "An adjective or adverb form used to compare two things.",
+    "superlative": "A form expressing the highest degree of a quality.",
+    "time": "Shows when something happens.",
+    "place": "Shows where something happens.",
+    "direction": "Shows movement toward or away from a place.",
+    "frequency": "Shows how often something happens.",
+    "manner": "Shows how an action happens.",
+    "reason": "Shows why something happens.",
+    "connector": "Links one idea or sentence to another.",
+    "coordinating": "Joins elements that have equal grammatical status.",
+    "subordinating": "Introduces a clause that depends on another clause.",
+    "formal": "Used mainly in polite, official, or professional contexts.",
+    "informal": "Used mainly in relaxed or familiar contexts.",
+    "colloquial": "Typical of everyday spoken language.",
+    "subjunctive": "A verb form used for hypothetical, reported, or politely distanced statements."
+  },
+  "lesson": {
+    "id": "a1-course-012",
+    "title": "Checkpunkt: Eine Woche im Überblick",
+    "english_title": "Checkpoint: A Week at a Glance",
+    "level": "A1.1",
+    "sentences": [
+      {
+        "text": "Am Morgen steht Mina jeden Tag früh auf und geht zur Arbeit.",
+        "natural_meaning": "In the morning, Mina gets up early every day and goes to work.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "an",
+                "english": "in",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Am"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Morgen",
+                "english": "morning",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Morgen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "steht",
+                "english": "get up",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "aufstehen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "stehe auf"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "stehst auf"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "steht auf"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "stehen auf"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "steht auf"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "stehen auf"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to get up",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "stehe auf"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "stehst auf"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "steht auf"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "stehen auf"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "steht auf"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "stehen auf"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I get up",
+                    "you get up",
+                    "he/she/it gets up",
+                    "we get up",
+                    "you get up",
+                    "they/you get up"
+                  ],
+                  "current_english_forms": [
+                    "I get up",
+                    "you get up",
+                    "he/she/it gets up",
+                    "we get up",
+                    "you get up",
+                    "they/you get up"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "steht"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Mina",
+                "english": "Mina",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Mina"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "jeden",
+                "english": "every",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "determiner",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "jeden"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Tag",
+                "english": "day",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Tag"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "früh",
+                "english": "early",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "früh"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "auf",
+                "english": "up",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "auf"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "geht",
+                "english": "go",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "gehen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "gehe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "gehst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "geht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "gehen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "geht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "gehen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to go / walk",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "gehe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "gehst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "geht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "gehen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "geht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "gehen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I go",
+                    "you go",
+                    "he/she/it goes",
+                    "we go",
+                    "you go",
+                    "they/you go"
+                  ],
+                  "current_english_forms": [
+                    "I go",
+                    "you go",
+                    "he/she/it goes",
+                    "we go",
+                    "you go",
+                    "they/you go"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "geht"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "zu",
+                "english": "to",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "zur"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Arbeit",
+                "english": "work / job",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Arbeit"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Am Morgen",
+                "english": "in the morning",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "contraction",
+                    "category": "form"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Am",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": "dem",
+                    "contraction": "an + dem",
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "der",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "accusative": [
+                        "den",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "dative": [
+                        "dem",
+                        "der",
+                        "dem",
+                        "den"
+                      ],
+                      "genitive": [
+                        "des",
+                        "der",
+                        "des",
+                        "der"
+                      ]
+                    },
+                    "selected_column": 0
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "zur Arbeit",
+                "english": "to work",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "contraction",
+                    "category": "form"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "zur",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": "der",
+                    "contraction": "zu + der",
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "der",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "accusative": [
+                        "den",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "dative": [
+                        "dem",
+                        "der",
+                        "dem",
+                        "den"
+                      ],
+                      "genitive": [
+                        "des",
+                        "der",
+                        "des",
+                        "der"
+                      ]
+                    },
+                    "selected_column": 1
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "jeden Tag",
+                "english": "every day",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  },
+                  {
+                    "label": "frequency",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "jeden",
+                    "base": "jeder",
+                    "kind": "der-word-determiner",
+                    "paradigm": "der-word",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "jeder",
+                        "jede",
+                        "jedes",
+                        "jede"
+                      ],
+                      "accusative": [
+                        "jeden",
+                        "jede",
+                        "jedes",
+                        "jede"
+                      ],
+                      "dative": [
+                        "jedem",
+                        "jeder",
+                        "jedem",
+                        "jeden"
+                      ],
+                      "genitive": [
+                        "jedes",
+                        "jeder",
+                        "jedes",
+                        "jeder"
+                      ]
+                    },
+                    "selected_column": 0
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Am Morgen steht Mina jeden Tag früh auf",
+                "english": "In the morning, Mina gets up early every day",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "separable",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "und geht zur Arbeit",
+                "english": "and goes to work",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "connector",
+                    "category": "connector"
+                  },
+                  {
+                    "label": "ellipsis",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_published/a1-course-012/sentence-01.wav"
+      },
+      {
+        "text": "Am Montag und Dienstag lernt sie am Abend oft Deutsch.",
+        "natural_meaning": "On Monday and Tuesday, she often studies German in the evening.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "an",
+                "english": "on / in",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Am"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Montag",
+                "english": "Monday",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Montag"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Dienstag",
+                "english": "Tuesday",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Dienstag"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "lernt",
+                "english": "learn",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "lernen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "lerne"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "lernst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "lernt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "lernen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "lernt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "lernen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to learn / study",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "lerne"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "lernst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "lernt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "lernen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "lernt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "lernen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I learn",
+                    "you learn",
+                    "he/she/it learns",
+                    "we learn",
+                    "you learn",
+                    "they/you learn"
+                  ],
+                  "current_english_forms": [
+                    "I learn",
+                    "you learn",
+                    "he/she/it learns",
+                    "we learn",
+                    "you learn",
+                    "they/you learn"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "lernt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sie",
+                "english": "she",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "an",
+                "english": "on / in",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "am"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Abend",
+                "english": "evening",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Abend"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "oft",
+                "english": "often",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "oft"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Deutsch",
+                "english": "German",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Deutsch"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Am Montag und Dienstag lernt sie am Abend oft Deutsch",
+                "english": "On Monday and Tuesday, she often studies German in the evening",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Am Montag",
+                "english": "on Monday",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "contraction",
+                    "category": "form"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Am",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": "dem",
+                    "contraction": "an + dem",
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "der",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "accusative": [
+                        "den",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "dative": [
+                        "dem",
+                        "der",
+                        "dem",
+                        "den"
+                      ],
+                      "genitive": [
+                        "des",
+                        "der",
+                        "des",
+                        "der"
+                      ]
+                    },
+                    "selected_column": 0
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "am Abend",
+                "english": "in the evening",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "contraction",
+                    "category": "form"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "am",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": "dem",
+                    "contraction": "an + dem",
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "der",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "accusative": [
+                        "den",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "dative": [
+                        "dem",
+                        "der",
+                        "dem",
+                        "den"
+                      ],
+                      "genitive": [
+                        "des",
+                        "der",
+                        "des",
+                        "der"
+                      ]
+                    },
+                    "selected_column": 0
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Am Montag und Dienstag",
+                "english": "on Monday and Tuesday",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Am",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": "dem",
+                    "contraction": "an + dem",
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "der",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "accusative": [
+                        "den",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "dative": [
+                        "dem",
+                        "der",
+                        "dem",
+                        "den"
+                      ],
+                      "genitive": [
+                        "des",
+                        "der",
+                        "des",
+                        "der"
+                      ]
+                    },
+                    "selected_column": 0
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_published/a1-course-012/sentence-02.wav"
+      },
+      {
+        "text": "Am Wochenende ist sie frei, aber Leo arbeitet am Samstag.",
+        "natural_meaning": "At the weekend, she is free, but Leo works on Saturday.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "an",
+                "english": "at / on",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Am"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Wochenende",
+                "english": "weekend",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Wochenende"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ist",
+                "english": "be",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "ist"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sie",
+                "english": "she",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "frei",
+                "english": "free / available",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "frei"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "aber",
+                "english": "but",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "aber"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Leo",
+                "english": "Leo",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Leo"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "arbeitet",
+                "english": "work",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "arbeiten",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "arbeite"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "arbeitest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "arbeitet"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "arbeiten"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "arbeitet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "arbeiten"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to work",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "arbeite"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "arbeitest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "arbeitet"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "arbeiten"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "arbeitet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "arbeiten"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I work",
+                    "you work",
+                    "he/she/it works",
+                    "we work",
+                    "you work",
+                    "they/you work"
+                  ],
+                  "current_english_forms": [
+                    "I work",
+                    "you work",
+                    "he/she/it works",
+                    "we work",
+                    "you work",
+                    "they/you work"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "arbeitet"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "an",
+                "english": "at / on",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "am"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Samstag",
+                "english": "Saturday",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Samstag"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Am Wochenende ist sie frei",
+                "english": "At the weekend, she is free",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Am Wochenende",
+                "english": "at the weekend",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "contraction",
+                    "category": "form"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Am",
+                    "base": "das",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": "dem",
+                    "contraction": "an + dem",
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "der",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "accusative": [
+                        "den",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "dative": [
+                        "dem",
+                        "der",
+                        "dem",
+                        "den"
+                      ],
+                      "genitive": [
+                        "des",
+                        "der",
+                        "des",
+                        "der"
+                      ]
+                    },
+                    "selected_column": 2
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "am Samstag",
+                "english": "on Saturday",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "contraction",
+                    "category": "form"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "am",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": "dem",
+                    "contraction": "an + dem",
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "der",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "accusative": [
+                        "den",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "dative": [
+                        "dem",
+                        "der",
+                        "dem",
+                        "den"
+                      ],
+                      "genitive": [
+                        "des",
+                        "der",
+                        "des",
+                        "der"
+                      ]
+                    },
+                    "selected_column": 0
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "aber Leo arbeitet am Samstag",
+                "english": "but Leo works on Saturday",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_published/a1-course-012/sentence-03.wav"
+      },
+      {
+        "text": "Am Sonntag treffen sie sich um drei Uhr in der Stadt.",
+        "natural_meaning": "On Sunday, they meet in the city at three o’clock.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "an",
+                "english": "on",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Am"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Sonntag",
+                "english": "Sunday",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Sonntag"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "treffen",
+                "english": "meet",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sich treffen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "treffe mich"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "triffst dich"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "trifft sich"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "treffen uns"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "trefft euch"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "treffen sich"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to meet",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "treffe mich"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "triffst dich"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "trifft sich"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "treffen uns"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "trefft euch"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "treffen sich"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I meet",
+                    "you meet",
+                    "he/she/it meets",
+                    "we meet",
+                    "you meet",
+                    "they/you meet"
+                  ],
+                  "current_english_forms": [
+                    "I meet",
+                    "you meet",
+                    "he/she/it meets",
+                    "we meet",
+                    "you meet",
+                    "they/you meet"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "treffen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sie",
+                "english": "they",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sich",
+                "english": "themselves / each other",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "reflexive pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "um",
+                "english": "at",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "um"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "drei",
+                "english": "three",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "numeral",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "drei"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Uhr",
+                "english": "clock; o'clock",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Uhr"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "in",
+                "english": "in / into",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "in"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Stadt",
+                "english": "city / town",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "der",
+                  "Stadt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Am Sonntag treffen sie sich um drei Uhr in der Stadt",
+                "english": "On Sunday, they meet in the city at three o’clock",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "reflexive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Am Sonntag",
+                "english": "on Sunday",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "contraction",
+                    "category": "form"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Am",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": "dem",
+                    "contraction": "an + dem",
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "der",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "accusative": [
+                        "den",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "dative": [
+                        "dem",
+                        "der",
+                        "dem",
+                        "den"
+                      ],
+                      "genitive": [
+                        "des",
+                        "der",
+                        "des",
+                        "der"
+                      ]
+                    },
+                    "selected_column": 0
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "um drei Uhr",
+                "english": "at three o’clock",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "in der Stadt",
+                "english": "in the city",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "der",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "der",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "accusative": [
+                        "den",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "dative": [
+                        "dem",
+                        "der",
+                        "dem",
+                        "den"
+                      ],
+                      "genitive": [
+                        "des",
+                        "der",
+                        "des",
+                        "der"
+                      ]
+                    },
+                    "selected_column": 1
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_published/a1-course-012/sentence-04.wav"
+      }
+    ],
+    "audio_path": "assets/audio/a1_published/a1-course-012/paragraph.wav",
+    "initial_question": "When do Mina and Leo meet?",
+    "initial_answer": "On Sunday at three o’clock.",
+    "audio_status": "ready",
+    "sequence": 12,
+    "lesson_format": "narrative",
+    "topic": "a weekly routine and a meeting plan",
+    "new_targets": [
+      "der Abend",
+      "jeden Tag",
+      "oft",
+      "das Wochenende"
+    ],
+    "recycled_targets": [
+      "der Morgen",
+      "aufstehen",
+      "gehen",
+      "lernen",
+      "frei",
+      "arbeiten",
+      "sich treffen",
+      "die Stadt"
+    ],
+    "speech_alternatives": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-024",
+  "source_sha256": "42c53fa4fdf415b117b16b4f4f10f5825a57e30ca3765d46f50b2ff4f8efb226",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "checkpoint token coverage",
+        "formal imperative and question order",
+        "all dative location cards",
+        "es gibt accusative phrase"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "visitor and pharmacy dialogue",
+        "an ... vorbei construction",
+        "gegenüber dative government",
+        "route and location consistency"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "natural pharmacy question",
+        "literal es gibt support",
+        "checkpoint recycling",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

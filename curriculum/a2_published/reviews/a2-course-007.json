@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a2-course-007",
+  "source_sha256": "f80fc1623abe5afb1160c0ed10cbf85c6834c2a1d5433afc55d81b69114aa549",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token and phrase coverage",
+        "comparison and case-form reference coverage",
+        "controlled tags and source linkage"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "apartment comparison grammar",
+        "natural housing vocabulary",
+        "coherent travel-to-work context"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "natural English renderings",
+        "A2 comparison practice",
+        "sentence-level meaning agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

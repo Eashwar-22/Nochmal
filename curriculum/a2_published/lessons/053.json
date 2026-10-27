@@ -1,0 +1,477 @@
+{
+  "id": "a2-course-005",
+  "source_draft_id": "a2-draft-005",
+  "sequence": 53,
+  "band": "A2.1",
+  "format": "narrative",
+  "title_de": "Es hat trotzdem geklappt",
+  "title_en": "It Worked Anyway",
+  "topic": "a positive result despite a practical problem",
+  "communicative_goal": "Signal a contrast between a difficulty and an unexpected result.",
+  "grammar_focus": "main-clause contrast connector trotzdem with inversion",
+  "supporting_structures": [],
+  "grammar_notes": [],
+  "new_targets": [
+    "trotzdem",
+    "klappen",
+    "schaffen",
+    "zufrieden",
+    "außerdem"
+  ],
+  "recycled_targets": [
+    "die Verspätung",
+    "der Termin",
+    "die Lösung",
+    "am Ende"
+  ],
+  "recycles_from": [
+    4,
+    28,
+    40,
+    47
+  ],
+  "audio_path": "assets/audio/a2_published/a2-course-005/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Mina hatte am Morgen einen wichtigen Termin in der Stadt.",
+      "en": "Mina had an important appointment in the city in the morning.",
+      "audio_path": "assets/audio/a2_published/a2-course-005/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Mina": [
+            "proper noun",
+            "nominative",
+            "subject"
+          ],
+          "hatte": [
+            "verb",
+            "simple past"
+          ],
+          "am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Morgen": [
+            "dative"
+          ],
+          "einen": [
+            "article",
+            "accusative"
+          ],
+          "wichtigen": [
+            "adjective",
+            "accusative"
+          ],
+          "Termin": [
+            "accusative"
+          ],
+          "in": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "der": [
+            "article",
+            "dative"
+          ],
+          "Stadt": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "hatte": "haben"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "am Morgen",
+            "english": "in the morning",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "einen wichtigen Termin",
+            "english": "an important appointment",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "in der Stadt",
+            "english": "in the city",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Der Bus war zu spät, und außerdem hat es stark geregnet.",
+      "en": "The bus was late, and it also rained heavily.",
+      "audio_path": "assets/audio/a2_published/a2-course-005/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Der": [
+            "article",
+            "nominative"
+          ],
+          "Bus": [
+            "nominative",
+            "subject"
+          ],
+          "war": [
+            "verb",
+            "simple past"
+          ],
+          "zu": [
+            "particle"
+          ],
+          "spät": [
+            "adjective",
+            "predicate"
+          ],
+          "außerdem": [
+            "adverb",
+            "connector"
+          ],
+          "hat": [
+            "auxiliary",
+            "present"
+          ],
+          "es": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "stark": [
+            "adverb",
+            "manner"
+          ],
+          "geregnet": [
+            "verb",
+            "past participle",
+            "perfect"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "war": "sein",
+          "hat": "haben",
+          "geregnet": "regnen"
+        },
+        "word_meanings": {
+          "stark": "heavily"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Der Bus war zu spät",
+            "english": "The bus was late",
+            "literal_meaning": null,
+            "tags": [
+              "main clause"
+            ]
+          },
+          {
+            "german": "hat es stark geregnet",
+            "english": "it rained heavily",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "perfect"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Trotzdem ist Mina rechtzeitig im Büro angekommen.",
+      "en": "Nevertheless, Mina arrived at the office on time.",
+      "audio_path": "assets/audio/a2_published/a2-course-005/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Trotzdem": [
+            "adverb",
+            "connector"
+          ],
+          "ist": [
+            "auxiliary",
+            "present"
+          ],
+          "Mina": [
+            "proper noun",
+            "nominative",
+            "subject"
+          ],
+          "rechtzeitig": [
+            "adverb",
+            "time"
+          ],
+          "im": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Büro": [
+            "dative"
+          ],
+          "angekommen": [
+            "verb",
+            "past participle",
+            "perfect",
+            "separable"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "ist": "sein",
+          "angekommen": "ankommen"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Trotzdem ist Mina rechtzeitig im Büro angekommen",
+            "english": "Nevertheless, Mina arrived at the office on time",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "perfect"
+            ]
+          },
+          {
+            "german": "im Büro",
+            "english": "at the office",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Das Gespräch war schwierig, aber sie hat alles geschafft.",
+      "en": "The meeting was difficult, but she managed everything.",
+      "audio_path": "assets/audio/a2_published/a2-course-005/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Das": [
+            "article",
+            "nominative"
+          ],
+          "Gespräch": [
+            "nominative",
+            "subject"
+          ],
+          "war": [
+            "verb",
+            "simple past"
+          ],
+          "schwierig": [
+            "adjective",
+            "predicate"
+          ],
+          "aber": [
+            "conjunction",
+            "coordinating"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "hat": [
+            "auxiliary",
+            "present"
+          ],
+          "alles": [
+            "indefinite pronoun",
+            "accusative"
+          ],
+          "geschafft": [
+            "verb",
+            "past participle",
+            "perfect"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "war": "sein",
+          "hat": "haben",
+          "geschafft": "schaffen"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Das Gespräch war schwierig",
+            "english": "The meeting was difficult",
+            "literal_meaning": null,
+            "tags": [
+              "main clause"
+            ]
+          },
+          {
+            "german": "hat alles geschafft",
+            "english": "managed everything",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "perfect"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Am Ende war ihr Chef zufrieden, und der ganze Plan hat doch geklappt.",
+      "en": "In the end her manager was satisfied, and the whole plan worked after all.",
+      "audio_path": "assets/audio/a2_published/a2-course-005/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Ende": [
+            "dative"
+          ],
+          "ihr": [
+            "possessive",
+            "determiner",
+            "nominative"
+          ],
+          "Chef": [
+            "nominative",
+            "subject"
+          ],
+          "war": [
+            "verb",
+            "simple past"
+          ],
+          "zufrieden": [
+            "adjective",
+            "predicate"
+          ],
+          "der": [
+            "article",
+            "nominative"
+          ],
+          "ganze": [
+            "adjective",
+            "nominative"
+          ],
+          "Plan": [
+            "nominative",
+            "subject"
+          ],
+          "hat": [
+            "auxiliary",
+            "present"
+          ],
+          "doch": [
+            "particle"
+          ],
+          "geklappt": [
+            "verb",
+            "past participle",
+            "perfect"
+          ]
+        },
+        "excluded_word_tags": {
+          "ihr": [
+            "personal pronoun"
+          ],
+          "doch": [
+            "conjunction",
+            "coordinating"
+          ]
+        },
+        "base_forms": {
+          "war": "sein",
+          "hat": "haben",
+          "geklappt": "klappen",
+          "ganze": "ganz"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am Ende",
+            "english": "in the end",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "ihr Chef",
+            "english": "her manager",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "der ganze Plan",
+            "english": "the whole plan",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "hat doch geklappt",
+            "english": "worked after all",
+            "literal_meaning": null,
+            "tags": [
+              "perfect"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "What was the unexpected positive result?",
+    "answer_en": "Mina arrived on time, managed the meeting, and her plan worked."
+  },
+  "source_basis": [
+    "curriculum/a2_blueprint.md",
+    "A2 blueprint lesson 5"
+  ],
+  "speech_alternatives": []
+}

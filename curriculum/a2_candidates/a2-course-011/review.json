@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a2-course-011",
+  "source_sha256": "4fa674f4983ac14e53f2613e893a16f3ea2e4b18ee07a18487c7f514df785ff4",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token and phrase coverage",
+        "imperative and two-way-preposition reference coverage",
+        "controlled tags and source linkage"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "natural moving-day instructions",
+        "correct placement and location contrasts",
+        "coherent action sequence"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "natural English renderings",
+        "A2 imperative and location practice",
+        "sentence-level meaning agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

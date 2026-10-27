@@ -1,0 +1,458 @@
+{
+  "id": "a1-course-026",
+  "source_draft_id": "a1-draft-026",
+  "sequence": 26,
+  "band": "A1.1",
+  "format": "announcement",
+  "title_de": "Die Bahnsteigdurchsage",
+  "title_en": "The Platform Announcement",
+  "topic": "understanding a station announcement",
+  "communicative_goal": "Pick out a departure time, platform, destination, and connection from a short announcement.",
+  "grammar_focus": "present tense for scheduled events, including separable abfahren",
+  "supporting_structures": [
+    "von Gleis vier abfahren",
+    "Anschluss nach Bonn",
+    "Halten Sie Ihre Fahrkarte bereit"
+  ],
+  "grammar_notes": [
+    "Abfahren separates in a main clause: fährt ... ab.",
+    "Von and zu take dative; nach is used with city destinations."
+  ],
+  "new_targets": [
+    "die Durchsage",
+    "das Gleis",
+    "abfahren",
+    "die Ankunft",
+    "der Anschluss"
+  ],
+  "recycled_targets": [
+    "Achtung",
+    "der Zug",
+    "die Fahrkarte",
+    "heute",
+    "die Uhr",
+    "halten",
+    "gehen",
+    "bereit",
+    "Köln",
+    "Bonn"
+  ],
+  "recycles_from": [
+    10,
+    11,
+    23,
+    25
+  ],
+  "audio_path": "assets/audio/a1_candidates/a1-course-026/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Achtung, hier ist eine wichtige Durchsage für den Zug nach Köln.",
+      "en": "Attention, here is an important announcement for the train to Cologne.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-026/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "achtung": [
+            "interjection"
+          ],
+          "hier": [
+            "adverb",
+            "place"
+          ],
+          "eine": [
+            "determiner",
+            "nominative"
+          ],
+          "wichtige": [
+            "adjective",
+            "nominative"
+          ],
+          "durchsage": [
+            "nominative"
+          ],
+          "für": [
+            "preposition",
+            "accusative"
+          ],
+          "den": [
+            "accusative"
+          ],
+          "zug": [
+            "accusative"
+          ],
+          "nach": [
+            "preposition",
+            "direction"
+          ],
+          "köln": [
+            "direction"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "für den Zug"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "eine wichtige Durchsage",
+            "english": "an important announcement",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "nach Köln",
+            "english": "to Cologne",
+            "literal_meaning": null,
+            "tags": [
+              "direction"
+            ]
+          },
+          {
+            "german": "für den Zug nach Köln",
+            "english": "for the train to Cologne",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction"
+            ]
+          },
+          {
+            "german": "Achtung, hier ist eine wichtige Durchsage für den Zug nach Köln",
+            "english": "Attention, here is an important announcement for the train to Cologne",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Der Zug fährt heute um zehn Uhr zwölf von Gleis vier ab.",
+      "en": "The train leaves today at 10:12 from platform four.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-026/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "der": [
+            "nominative"
+          ],
+          "zug": [
+            "nominative"
+          ],
+          "heute": [
+            "adverb",
+            "time"
+          ],
+          "um": [
+            "preposition",
+            "time"
+          ],
+          "zehn": [
+            "numeral",
+            "time"
+          ],
+          "uhr": [
+            "time"
+          ],
+          "zwölf": [
+            "numeral",
+            "time"
+          ],
+          "von": [
+            "preposition",
+            "dative"
+          ],
+          "gleis": [
+            "dative"
+          ],
+          "vier": [
+            "numeral"
+          ],
+          "ab": [
+            "particle"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "ab": "separable prefix of abfahren"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "um zehn Uhr",
+          "von Gleis"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Der Zug fährt heute um zehn Uhr zwölf von Gleis vier ab",
+            "english": "The train leaves today at 10:12 from platform four",
+            "literal_meaning": "The train departs today at ten o’clock twelve from platform four",
+            "tags": [
+              "main clause",
+              "verb-second",
+              "separable"
+            ]
+          },
+          {
+            "german": "um zehn Uhr zwölf",
+            "english": "at 10:12",
+            "literal_meaning": null,
+            "tags": [
+              "time"
+            ]
+          },
+          {
+            "german": "von Gleis vier",
+            "english": "from platform four",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Die Ankunft in Köln ist um elf Uhr, und dort haben Sie Anschluss nach Bonn.",
+      "en": "Arrival in Cologne is at eleven o’clock, and there you have a connection to Bonn.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-026/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "die": [
+            "nominative"
+          ],
+          "ankunft": [
+            "nominative"
+          ],
+          "in": [
+            "preposition",
+            "place"
+          ],
+          "köln": [
+            "place"
+          ],
+          "um": [
+            "preposition",
+            "time"
+          ],
+          "elf": [
+            "numeral",
+            "time"
+          ],
+          "uhr": [
+            "time"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "dort": [
+            "adverb",
+            "place"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative",
+            "formal"
+          ],
+          "anschluss": [
+            "accusative"
+          ],
+          "nach": [
+            "preposition",
+            "direction"
+          ],
+          "bonn": [
+            "direction"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "sie": "you (formal)"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "und dort haben Sie Anschluss nach Bonn"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Die Ankunft in Köln ist um elf Uhr",
+            "english": "Arrival in Cologne is at eleven o’clock",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "in Köln",
+            "english": "in Cologne",
+            "literal_meaning": null,
+            "tags": [
+              "place"
+            ]
+          },
+          {
+            "german": "um elf Uhr",
+            "english": "at eleven o’clock",
+            "literal_meaning": null,
+            "tags": [
+              "time"
+            ]
+          },
+          {
+            "german": "dort haben Sie Anschluss nach Bonn",
+            "english": "there you have a connection to Bonn",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "formal"
+            ]
+          },
+          {
+            "german": "nach Bonn",
+            "english": "to Bonn",
+            "literal_meaning": null,
+            "tags": [
+              "direction"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Bitte halten Sie Ihre Fahrkarte bereit und gehen Sie jetzt zu Gleis vier.",
+      "en": "Please have your ticket ready and go to platform four now.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-026/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "bitte": [
+            "particle"
+          ],
+          "halten": [
+            "verb",
+            "imperative",
+            "formal"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative",
+            "formal"
+          ],
+          "ihre": [
+            "possessive",
+            "accusative",
+            "formal"
+          ],
+          "fahrkarte": [
+            "accusative"
+          ],
+          "bereit": [
+            "adjective"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "gehen": [
+            "verb",
+            "imperative",
+            "formal"
+          ],
+          "jetzt": [
+            "adverb",
+            "time"
+          ],
+          "zu": [
+            "preposition",
+            "dative"
+          ],
+          "gleis": [
+            "dative"
+          ],
+          "vier": [
+            "numeral"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "sie": "you (formal)",
+          "ihre": "your",
+          "halten": "keep"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Bitte halten Sie Ihre Fahrkarte bereit",
+          "zu Gleis",
+          "und gehen Sie jetzt zu Gleis vier"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Halten Sie Ihre Fahrkarte bereit",
+            "english": "Have your ticket ready",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "imperative",
+              "formal"
+            ]
+          },
+          {
+            "german": "Ihre Fahrkarte",
+            "english": "your ticket",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "formal"
+            ]
+          },
+          {
+            "german": "gehen Sie jetzt zu Gleis vier",
+            "english": "go to platform four now",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "imperative",
+              "formal"
+            ]
+          },
+          {
+            "german": "zu Gleis vier",
+            "english": "to platform four",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "direction"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Which platform does the train leave from?",
+    "answer_en": "Platform four."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_05.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

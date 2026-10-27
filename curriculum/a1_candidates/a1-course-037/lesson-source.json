@@ -1,0 +1,489 @@
+{
+  "id": "a1-course-037",
+  "source_draft_id": "a1-draft-037",
+  "sequence": 37,
+  "band": "A1.2",
+  "format": "dialogue",
+  "title_de": "Arbeit und Kurs",
+  "title_en": "Work and Course",
+  "topic": "describing a workplace or course and the people there",
+  "communicative_goal": "Give basic information about a workplace or course.",
+  "grammar_focus": "role and place chunks with als, bei, and in",
+  "supporting_structures": [
+    "als Mitarbeiterin arbeiten",
+    "in einem kleinen Büro",
+    "bei Frau Keller"
+  ],
+  "grammar_notes": [
+    "Als identifies a role, bei identifies a person or institution, and in introduces a location."
+  ],
+  "new_targets": [
+    "das Büro",
+    "der Kollege",
+    "die Lehrerin",
+    "der Kurs",
+    "die Aufgabe",
+    "der Arbeitsplatz",
+    "der Kindergarten",
+    "sitzen"
+  ],
+  "recycled_targets": [
+    "die Arbeit",
+    "die Schule",
+    "anfangen",
+    "der Morgen",
+    "die Familie",
+    "helfen"
+  ],
+  "recycles_from": [
+    7,
+    9,
+    12,
+    21
+  ],
+  "audio_path": "assets/audio/a1_candidates/a1-course-037/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Am Morgen arbeitet Mina als Mitarbeiterin in einem kleinen Büro in Bonn.",
+      "en": "In the morning, Mina works as an employee in a small office in Bonn.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-037/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Morgen": [
+            "dative",
+            "time"
+          ],
+          "Mina": [
+            "nominative"
+          ],
+          "als": [
+            "preposition"
+          ],
+          "Mitarbeiterin": [
+            "predicate"
+          ],
+          "in": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "einem": [
+            "determiner",
+            "dative"
+          ],
+          "kleinen": [
+            "adjective",
+            "dative"
+          ],
+          "Büro": [
+            "dative"
+          ],
+          "Bonn": [
+            "proper noun",
+            "dative",
+            "place"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "Morgen": "der Morgen",
+          "kleinen": "klein"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am Morgen",
+            "english": "In the morning",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "als Mitarbeiterin",
+            "english": "as an employee",
+            "literal_meaning": null,
+            "tags": [
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "in einem kleinen Büro",
+            "english": "in a small office",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "in Bonn",
+            "english": "in Bonn",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "Am Morgen arbeitet Mina als Mitarbeiterin in einem kleinen Büro in Bonn",
+            "english": "In the morning, Mina works as an employee in a small office in Bonn",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Ihr Kollege Paul sitzt am anderen Arbeitsplatz und hilft ihr oft bei einer neuen Aufgabe.",
+      "en": "Her colleague Paul sits at the other workstation and often helps her with a new task.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-037/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Ihr": [
+            "possessive",
+            "determiner",
+            "nominative"
+          ],
+          "Kollege": [
+            "nominative"
+          ],
+          "Paul": [
+            "proper noun",
+            "nominative"
+          ],
+          "am": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "anderen": [
+            "adjective",
+            "dative"
+          ],
+          "Arbeitsplatz": [
+            "dative"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "ihr": [
+            "personal pronoun",
+            "dative"
+          ],
+          "oft": [
+            "adverb",
+            "frequency"
+          ],
+          "bei": [
+            "preposition",
+            "dative"
+          ],
+          "einer": [
+            "determiner",
+            "dative"
+          ],
+          "neuen": [
+            "adjective",
+            "dative"
+          ],
+          "Aufgabe": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "anderen": "ander",
+          "neuen": "neu"
+        },
+        "word_meanings": {
+          "Ihr": "her",
+          "ihr": "her"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Ihr Kollege Paul",
+            "english": "Her colleague Paul",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "am anderen Arbeitsplatz",
+            "english": "at the other workstation",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          },
+          {
+            "german": "hilft ihr oft",
+            "english": "often helps her",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "bei einer neuen Aufgabe",
+            "english": "with a new task",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Am Abend besucht Mina einen Deutschkurs bei Frau Keller.",
+      "en": "In the evening, Mina attends a German course with Ms Keller.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-037/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Abend": [
+            "dative",
+            "time"
+          ],
+          "Mina": [
+            "nominative"
+          ],
+          "einen": [
+            "determiner",
+            "accusative"
+          ],
+          "Deutschkurs": [
+            "accusative"
+          ],
+          "bei": [
+            "preposition",
+            "dative"
+          ],
+          "Frau": [
+            "dative"
+          ],
+          "Keller": [
+            "proper noun",
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "Frau": "Ms"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am Abend",
+            "english": "In the evening",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "einen Deutschkurs",
+            "english": "a German course",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "bei Frau Keller",
+            "english": "with Ms Keller",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Die Lehrerin arbeitet am Vormittag in einem Kindergarten.",
+      "en": "The teacher works at a nursery school in the morning.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-037/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Die": [
+            "nominative"
+          ],
+          "Lehrerin": [
+            "nominative"
+          ],
+          "am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Vormittag": [
+            "dative",
+            "time"
+          ],
+          "in": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "einem": [
+            "determiner",
+            "dative"
+          ],
+          "Kindergarten": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "am Vormittag",
+            "english": "in the morning",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "in einem Kindergarten",
+            "english": "at a nursery school",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Sie fragt Mina: „Wo arbeitest du, und wann beginnt dein Arbeitstag?“",
+      "en": "She asks Mina, “Where do you work, and when does your working day begin?”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-037/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "Mina": [
+            "accusative"
+          ],
+          "Wo": [
+            "interrogative pronoun",
+            "place"
+          ],
+          "du": [
+            "personal pronoun",
+            "nominative",
+            "informal"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "wann": [
+            "interrogative pronoun",
+            "time"
+          ],
+          "dein": [
+            "possessive",
+            "determiner",
+            "nominative"
+          ],
+          "Arbeitstag": [
+            "nominative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "Sie": "she"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Wo arbeitest du",
+            "english": "Where do you work?",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "informal"
+            ]
+          },
+          {
+            "german": "wann beginnt dein Arbeitstag",
+            "english": "when does your working day begin?",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "dein Arbeitstag",
+            "english": "your working day",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Where does Frau Keller work in the morning?",
+    "answer_en": "In a nursery school."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_07.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

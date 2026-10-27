@@ -1,0 +1,492 @@
+{
+  "id": "a1-course-038",
+  "source_draft_id": "a1-draft-038",
+  "sequence": 38,
+  "band": "A1.2",
+  "format": "dialogue",
+  "title_de": "Ich verstehe die Aufgabe nicht",
+  "title_en": "I Don’t Understand the Task",
+  "topic": "asking for clarification in a class or workplace",
+  "communicative_goal": "Say what I do not understand and ask for repetition or explanation.",
+  "grammar_focus": "placement of nicht in short verb-object and adjective statements",
+  "supporting_structures": [
+    "die letzte Frage nicht verstehen",
+    "noch nicht richtig sein",
+    "bitte wiederholen"
+  ],
+  "grammar_notes": [
+    "Nicht follows the direct object in die letzte Frage nicht verstehen and precedes the predicate adjective in noch nicht richtig."
+  ],
+  "new_targets": [
+    "verstehen",
+    "die Frage",
+    "die Antwort",
+    "wiederholen",
+    "erklären",
+    "leicht",
+    "schwer"
+  ],
+  "recycled_targets": [
+    "Ich verstehe nicht",
+    "Was bedeutet …",
+    "die Aufgabe",
+    "helfen",
+    "bitte"
+  ],
+  "recycles_from": [
+    3,
+    13,
+    21,
+    37
+  ],
+  "audio_path": "assets/audio/a1_published/a1-course-038/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Im Deutschkurs liest Mina eine neue Aufgabe, aber sie versteht die letzte Frage nicht.",
+      "en": "In the German course, Mina reads a new task, but she does not understand the final question.",
+      "audio_path": "assets/audio/a1_published/a1-course-038/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Im": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Deutschkurs": [
+            "dative"
+          ],
+          "Mina": [
+            "nominative"
+          ],
+          "eine": [
+            "determiner",
+            "accusative"
+          ],
+          "neue": [
+            "adjective",
+            "accusative"
+          ],
+          "Aufgabe": [
+            "accusative"
+          ],
+          "aber": [
+            "conjunction",
+            "coordinating"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "letzte": [
+            "adjective",
+            "accusative"
+          ],
+          "Frage": [
+            "accusative"
+          ],
+          "nicht": [
+            "negation"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "neue": "neu",
+          "letzte": "letzt"
+        },
+        "word_meanings": {
+          "sie": "she"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Im Deutschkurs",
+            "english": "In the German course",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          },
+          {
+            "german": "eine neue Aufgabe",
+            "english": "a new task",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "aber sie versteht die letzte Frage nicht",
+            "english": "but she does not understand the final question",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "main clause",
+              "verb-second",
+              "negation"
+            ]
+          },
+          {
+            "german": "die letzte Frage",
+            "english": "the final question",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Sie sagt: „Frau Keller, können Sie die Frage bitte wiederholen?“",
+      "en": "She says, “Ms Keller, can you please repeat the question?”",
+      "audio_path": "assets/audio/a1_published/a1-course-038/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Frau": [
+            "noun"
+          ],
+          "Keller": [
+            "proper noun"
+          ],
+          "können": [
+            "modal verb",
+            "present"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "Frage": [
+            "accusative"
+          ],
+          "wiederholen": [
+            "verb",
+            "infinitive"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "Frau": "Ms"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [
+          {
+            "surface": "Sie",
+            "occurrence": 1,
+            "tags": [
+              "personal pronoun",
+              "nominative"
+            ],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": "she",
+            "spoken_form": null
+          },
+          {
+            "surface": "Sie",
+            "occurrence": 2,
+            "tags": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": "you (formal)",
+            "spoken_form": null
+          }
+        ],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "können Sie die Frage bitte wiederholen",
+            "english": "can you please repeat the question?",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "formal"
+            ]
+          },
+          {
+            "german": "die Frage",
+            "english": "the question",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Die Lehrerin wiederholt die Frage langsam und erklärt zwei Wörter.",
+      "en": "The teacher repeats the question slowly and explains two words.",
+      "audio_path": "assets/audio/a1_published/a1-course-038/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Die": [
+            "nominative"
+          ],
+          "Lehrerin": [
+            "nominative"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "Frage": [
+            "accusative"
+          ],
+          "langsam": [
+            "adverb",
+            "manner"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "zwei": [
+            "numeral"
+          ],
+          "Wörter": [
+            "noun",
+            "neuter",
+            "accusative",
+            "plural"
+          ]
+        },
+        "excluded_word_tags": {
+          "Wörter": [
+            "proper noun"
+          ]
+        },
+        "base_forms": {
+          "Wörter": "das Wort"
+        },
+        "word_meanings": {
+          "Wörter": "words"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "die Frage",
+            "english": "the question",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "zwei Wörter",
+            "english": "two words",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Jetzt ist die Aufgabe leichter, aber Minas Antwort ist noch nicht richtig.",
+      "en": "Now the task is easier, but Mina’s answer is still not correct.",
+      "audio_path": "assets/audio/a1_published/a1-course-038/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Jetzt": [
+            "adverb",
+            "time"
+          ],
+          "die": [
+            "nominative"
+          ],
+          "Aufgabe": [
+            "nominative"
+          ],
+          "leichter": [
+            "adjective",
+            "predicate",
+            "comparative"
+          ],
+          "aber": [
+            "conjunction",
+            "coordinating"
+          ],
+          "Minas": [
+            "proper noun",
+            "genitive",
+            "possessive"
+          ],
+          "Antwort": [
+            "nominative"
+          ],
+          "noch": [
+            "adverb"
+          ],
+          "nicht": [
+            "negation"
+          ],
+          "richtig": [
+            "adjective",
+            "predicate"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "leichter": "leicht",
+          "Minas": "Mina"
+        },
+        "word_meanings": {
+          "Minas": "Mina’s"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Jetzt ist die Aufgabe leichter",
+            "english": "Now the task is easier",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "comparative"
+            ]
+          },
+          {
+            "german": "aber Minas Antwort ist noch nicht richtig",
+            "english": "but Mina’s answer is still not correct",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "main clause",
+              "verb-second",
+              "negation"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Leo hilft ihr in der Pause und erklärt den schweren Teil noch einmal.",
+      "en": "Leo helps her during the break and explains the difficult part once again.",
+      "audio_path": "assets/audio/a1_published/a1-course-038/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Leo": [
+            "nominative"
+          ],
+          "ihr": [
+            "personal pronoun",
+            "dative"
+          ],
+          "in": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "der": [
+            "dative"
+          ],
+          "Pause": [
+            "dative"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "den": [
+            "article",
+            "accusative"
+          ],
+          "schweren": [
+            "adjective",
+            "accusative"
+          ],
+          "Teil": [
+            "accusative"
+          ],
+          "noch": [
+            "adverb"
+          ],
+          "einmal": [
+            "adverb",
+            "time"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "schweren": "schwer"
+        },
+        "word_meanings": {
+          "ihr": "her"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "hilft ihr",
+            "english": "helps her",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "in der Pause",
+            "english": "during the break",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "den schweren Teil",
+            "english": "the difficult part",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "noch einmal",
+            "english": "once again",
+            "literal_meaning": null,
+            "tags": [
+              "fixed phrase",
+              "time"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "What does Mina ask the teacher to repeat?",
+    "answer_en": "The final question."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_07.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

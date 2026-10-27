@@ -1,0 +1,392 @@
+{
+  "id": "a2-course-012",
+  "source_draft_id": "a2-draft-012",
+  "sequence": 60,
+  "band": "A2.1",
+  "format": "dialogue",
+  "title_de": "Eine Wohnung wählen und einrichten",
+  "title_en": "Choose and Arrange a Home",
+  "topic": "choosing an apartment and agreeing on a room plan",
+  "communicative_goal": "Compare homes, state priorities, and agree where furniture should go.",
+  "grammar_focus": "consolidation of comparisons, adjective endings, two-way prepositions, and placement verbs",
+  "supporting_structures": [
+    "Das passt besser",
+    "Hier ist genug Platz",
+    "So ist es gut"
+  ],
+  "grammar_notes": [],
+  "new_targets": [
+    "Das passt besser",
+    "Was ist Ihnen wichtig",
+    "Hier ist genug Platz",
+    "Stellen wir es dort hin",
+    "So ist es gut"
+  ],
+  "recycled_targets": [
+    "größer",
+    "näher",
+    "hell",
+    "der Balkon",
+    "der Keller",
+    "stellen",
+    "legen",
+    "der Platz"
+  ],
+  "recycles_from": [
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "audio_path": "assets/audio/a2_candidates/a2-course-012/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Die Wohnung am Park ist größer, aber die Wohnung im Zentrum liegt näher an meiner Arbeit.",
+      "en": "The apartment by the park is larger, but the apartment in the center is closer to my work.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-012/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "größer": [
+            "comparative"
+          ],
+          "näher": [
+            "comparative"
+          ],
+          "meiner": [
+            "possessive",
+            "determiner",
+            "dative"
+          ],
+          "an": [
+            "preposition",
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "liegt": "liegen"
+        },
+        "word_meanings": {
+          "Zentrum": "center"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "an meiner Arbeit"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "näher an meiner Arbeit",
+            "english": "closer to my work",
+            "literal_meaning": null,
+            "tags": [
+              "comparative",
+              "dative"
+            ]
+          },
+          {
+            "german": "am Park",
+            "english": "by the park",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "im Zentrum",
+            "english": "in the center",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Was ist Ihnen bei einer Wohnung am wichtigsten?",
+      "en": "What matters most to you when considering an apartment?",
+      "audio_path": "assets/audio/a2_candidates/a2-course-012/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Was": [
+            "interrogative pronoun"
+          ],
+          "Ihnen": [
+            "personal pronoun",
+            "dative",
+            "formal"
+          ],
+          "wichtigsten": [
+            "superlative"
+          ],
+          "am": [
+            "particle"
+          ],
+          "bei": [
+            "preposition",
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {
+          "am": [
+            "preposition",
+            "dative"
+          ]
+        },
+        "base_forms": {
+          "wichtigsten": "wichtig",
+          "am": "am"
+        },
+        "word_meanings": {
+          "am": "superlative marker",
+          "wichtigsten": "most important",
+          "Ihnen": "you (formal)"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Was ist Ihnen ... am wichtigsten",
+            "english": "what is most important to you",
+            "literal_meaning": null,
+            "tags": [
+              "formal",
+              "superlative"
+            ]
+          },
+          {
+            "german": "bei einer Wohnung",
+            "english": "when considering an apartment",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "Ihnen",
+            "english": "to you (formal)",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "formal"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mir ist ein heller Balkon wichtiger als ein großer Keller.",
+      "en": "A bright balcony is more important to me than a large basement.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-012/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Mir": [
+            "personal pronoun",
+            "dative"
+          ],
+          "heller": [
+            "adjective",
+            "nominative"
+          ],
+          "wichtiger": [
+            "comparative"
+          ],
+          "großer": [
+            "adjective",
+            "nominative"
+          ],
+          "als": [
+            "conjunction"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "heller": "hell",
+          "großer": "groß"
+        },
+        "word_meanings": {
+          "Mir": "me",
+          "wichtiger": "more important"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "ein heller Balkon",
+            "english": "a bright balcony",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "wichtiger als ein großer Keller",
+            "english": "more important than a large basement",
+            "literal_meaning": null,
+            "tags": [
+              "comparative"
+            ]
+          },
+          {
+            "german": "Mir",
+            "english": "to me",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "ein großer Keller",
+            "english": "a large basement",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Dann stellen wir das Sofa ans Fenster und legen den Teppich vor die Tür.",
+      "en": "Then we put the sofa by the window and lay the rug in front of the door.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-012/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Dann": [
+            "adverb",
+            "time"
+          ],
+          "ans": [
+            "preposition",
+            "accusative",
+            "direction"
+          ],
+          "den": [
+            "article",
+            "accusative"
+          ],
+          "vor": [
+            "preposition",
+            "accusative",
+            "direction"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "Teppich": "rug"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "ans Fenster",
+            "english": "by the window",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction",
+              "contraction"
+            ]
+          },
+          {
+            "german": "vor die Tür",
+            "english": "in front of the door",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction"
+            ]
+          },
+          {
+            "german": "den Teppich vor die Tür",
+            "english": "the rug in front of the door",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Das passt besser; hier ist genug Platz, und so ist es gut.",
+      "en": "That works better; there is enough space here, and that is good.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-012/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "besser": [
+            "comparative"
+          ],
+          "hier": [
+            "adverb",
+            "place"
+          ],
+          "genug": [
+            "adverb"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "Das": "that",
+          "so": "like this",
+          "es": "it",
+          "passt": "works"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Das passt besser",
+            "english": "that works better",
+            "literal_meaning": null,
+            "tags": [
+              "comparative"
+            ]
+          },
+          {
+            "german": "hier ist genug Platz",
+            "english": "there is enough space here",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "so ist es gut",
+            "english": "that is good",
+            "literal_meaning": null,
+            "tags": [
+              "fixed phrase"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Which feature matters more than a large basement?",
+    "answer_en": "A bright balcony."
+  },
+  "source_basis": [
+    "curriculum/a2_blueprint.md",
+    "A2 Lesson 12"
+  ],
+  "speech_alternatives": []
+}

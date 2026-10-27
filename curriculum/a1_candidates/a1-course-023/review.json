@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-023",
+  "source_sha256": "b7229973296757ee0931fc33422d929a53928b49b7a565bb0b5edb06fe6b98ef",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "formal Sie imperative references",
+        "indicative versus imperative distinction",
+        "zur contraction and adjective declension",
+        "direction phrase boundaries"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "continuous two-turn route",
+        "formal direction wording",
+        "bis zur construction",
+        "entrance and bank locations"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "natural route translations",
+        "formal-address meaning",
+        "sequence language",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

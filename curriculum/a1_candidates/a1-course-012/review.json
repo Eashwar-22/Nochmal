@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-012",
+  "source_sha256": "895259a8b4c3d9c2a392a8732fce6685d010f3fd82f1e7c6754530f2a9d3b17f",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "typed dative contractions",
+        "jeder-word reference table",
+        "separable and reflexive structures"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "Morgen is a noun",
+        "am covers masculine and neuter dative",
+        "sich is a reflexive pronoun"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "weekly routine translations",
+        "direct checkpoint question",
+        "contextual pronoun meanings"
+      ],
+      "findings": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "draft_id": "a1-draft-026",
+  "status": "draft_unpublished",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav"
+  ],
+  "sentence_texts": [
+    "Achtung, hier ist eine wichtige Durchsage f\u00fcr den Zug nach K\u00f6ln.",
+    "Der Zug f\u00e4hrt heute um zehn Uhr zw\u00f6lf von Gleis vier ab.",
+    "Die Ankunft in K\u00f6ln ist um elf Uhr, und dort haben Sie Anschluss nach Bonn.",
+    "Bitte halten Sie Ihre Fahrkarte bereit und gehen Sie jetzt zu Gleis vier."
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "d49aee538580e8e5a3e00cc6915bb04edb3968b630bd3e23cd99c1a8a59dcfd4",
+    "sentence-02.wav": "d307a72bc6f300a46210d27396e1e718de227bdcbb33cfa7b66e31a3c5223419",
+    "sentence-03.wav": "bc6f923a8a815330679f1d82417757605c69830ef67778381f1e3e4720c0c989",
+    "sentence-04.wav": "f1545d92c7e07b9eef498d942c5a5633263898bea0fe0addd3c578f8fa0dd1e3"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "7c25592bb47e388a4fd8f45eadf2356b2d00680bc8081d9610b64b497029b03c",
+  "paragraph_assembled_from_sentence_files": true
+}

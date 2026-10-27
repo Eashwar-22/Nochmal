@@ -1,0 +1,31 @@
+{
+  "draft_id": "a1-draft-019",
+  "status": "release_ready",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav"
+  ],
+  "sentence_texts": [
+    "Mina wohnt jetzt mit ihrer Schwester in einer Wohnung in Bonn.",
+    "Die Wohnung ist in einem kleinen Haus und hat drei Zimmer.",
+    "Es gibt eine K\u00fcche, ein Bad und zwei Schlafzimmer.",
+    "Minas Zimmer ist klein, aber das Zimmer ihrer Schwester ist gro\u00df."
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "d28c336be2cc13c7f698959e91351bbaa57dfdeb21add818f6177c1c094a3175",
+    "sentence-02.wav": "f436f4be0fce33715f6844c70a84fecc6fbac0ca03441f579c8aed9e45f3f38a",
+    "sentence-03.wav": "ddf70d188ba02578bc16b56ef375b4ef73f36382b245d25820bf34dc9e3de843",
+    "sentence-04.wav": "7eadc9ac121c09d62a1b587ade6076504ce5bce1490bd6c010c3829115675497"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "2c5997a4e7b7577a57eb228386184fa429f7394ef780f87d96990a4f320c6965",
+  "paragraph_assembled_from_sentence_files": true
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-002",
+  "source_sha256": "978ac1d64fe8f762aa91a06d471c813ead8eb7f75a3810eb46a50d094071b002",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "every source token has one ordered word card",
+        "every phrase maps to source words in order",
+        "verbs include complete bilingual help",
+        "visible form changes include inflection help",
+        "controlled grammar tags and exclusions are coherent"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "German sentences are grammatical and natural",
+        "Leo\u2019s final response answers both the origin question and the residence question coherently",
+        "W-question word order and present-tense forms are correct",
+        "aus and location-use in have the correct dative analysis",
+        "phrase boundaries are meaningful for an A1 learner"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "sentence translations preserve contextual meaning",
+        "word meanings are useful in this sentence",
+        "the woher question distinguishes natural and literal meanings",
+        "no important word or phrase meaning is omitted"
+      ],
+      "findings": []
+    }
+  ]
+}

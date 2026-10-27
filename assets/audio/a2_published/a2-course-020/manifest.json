@@ -1,0 +1,37 @@
+{
+  "draft_id": "a2-draft-020",
+  "status": "release_ready",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav",
+    "sentence-05.wav",
+    "sentence-06.wav"
+  ],
+  "sentence_texts": [
+    "Die Chefin fragt: Welche Berufserfahrung und Qualifikation haben Sie f\u00fcr diese Stelle?",
+    "Mina antwortet: Vor drei Jahren habe ich meine Ausbildung im B\u00fcro begonnen.",
+    "Danach habe ich sechs Monate ein Praktikum in einem Hotel gemacht und G\u00e4ste beraten.",
+    "Vor einem Jahr habe ich meinen Abschluss bekommen und eine T\u00e4tigkeit an der Rezeption gefunden.",
+    "Seitdem arbeite ich dort; ich habe am Empfang gearbeitet und E-Mails geschrieben.",
+    "Die Chefin fragt: War das Praktikum vor oder nach dem Abschluss?"
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "48b1f1fd8f5caad4ffa9767c7050013f8e9fe7e6b989a1725a3d380214a5ac95",
+    "sentence-02.wav": "2a77cda0b9325a9e0c4f9b68c4f2ec8206d1814763cc60f80e43f12ed83de9e9",
+    "sentence-03.wav": "75e31576af8ae6202bde8bbca08f7803aee41bbfd6a4963051eb188e5fd9104e",
+    "sentence-04.wav": "22a827b0d9e74be33aa4f94b81044087a717ad24aaec7fe77cfd7e6f203f13d6",
+    "sentence-05.wav": "bf2781953021c3a9e9a348ef8abcf7ad041cee94c4597c4757ce5164b00253b8",
+    "sentence-06.wav": "a37bf5dd806f2525b4972b898c4d85545434c17dd1939cedfa532e686f441abb"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "90cb53f0528caca7c0fb7d8cfa4b1a0235f8628132da521d1411f8a1e6529c62",
+  "paragraph_assembled_from_sentence_files": true
+}

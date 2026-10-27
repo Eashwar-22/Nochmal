@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a2-course-020",
+  "source_sha256": "619e1042d974fd6ec1b948b1582993820cdb20495cef2f31f433504ff4a79ab9",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "Read both mandatory documents in full, the exact Lesson 20 blueprint entry, and all candidate source, compiled cards, and preview content. Ignored review.json.",
+        "Strict source and compiled Pydantic validation passed. Source hash, deterministic compilation, and generated preview match.",
+        "Inspected all 76 source tokens left to right: 67 word cards provide exact, once-only coverage in source order. All 33 phrase cards follow their components; ellipsis chunks preserve source wording and order.",
+        "All tags have controlled categories and fixed definitions. Nouns retain correct singular dictionary articles and contextual plural tags.",
+        "All 17 verb references contain complete six-row bilingual present tables and complete relevant Perfekt or Pr\u00e4teritum tables.",
+        "All 15 article/determiner references have correct case, gender, number, complete four-case tables, and matching selected cells. Contractions im and am resolve correctly.",
+        "Repeated ich in sentence 5 has separate ordered cards with the same appropriate meaning and grammatical function. No conflicting occurrence annotation or unsupported interpretation was found.",
+        "The lesson remains outside both the A2 publication manifest and mobile catalog.",
+        "Ran 25 repository tests covering the rulebook, lesson contract, contextual verb references, and A2 course; all passed."
+      ],
+      "findings": [
+        {
+          "severity": "warning",
+          "location": "compiled-lesson.json: lesson.audio_status, lesson.audio_path, and sentences 1\u20136 audio_path; preview.md: Audio",
+          "rule": "Rulebook \u00a7\u00a711\u201312: German, English, and audio agreement",
+          "message": "Audio is pending and paths are null, as expected for this pre-audio candidate. Generate and verify paragraph and sentence audio against the audited German before release. This is non-blocking for this audit."
+        },
+        {
+          "severity": "warning",
+          "location": "Later release gate: desktop/mobile reference interaction and package verification",
+          "rule": "Rulebook \u00a7\u00a711\u201313: rendering, accessibility, and publication verification",
+          "message": "Live desktop/mobile inspection and release-package integrity checks remain later release gates. Verify focus behavior, repeated-form targeting, table readability, highlighting, and clipping before publication. This is non-blocking for this audit."
+        }
+      ]
+    },
+    {
+      "kind": "language",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "Sentence 1: Die Chefin is nominative; Welche Berufserfahrung und Qualifikation is the accusative object of haben; formal Sie is nominative; f\u00fcr governs accusative diese Stelle. Dictionary genders and determiner references are correct.",
+        "Sentence 2: Temporal vor governs dative plural drei Jahren; Jahren correctly has dative-plural -n. Meine Ausbildung is accusative; im B\u00fcro expresses location with dative neuter dem. Habe \u2026 begonnen correctly forms Perfekt of beginnen with temporal fronting.",
+        "Sentence 3: Sechs Monate is accusative duration; ein Praktikum and G\u00e4ste are accusative objects; in einem Hotel is locative dative. Gemacht and beraten are coordinated participles sharing habe; beraten is correctly distinguished from its identically spelled infinitive.",
+        "Sentence 4: Vor einem Jahr is temporal dative; meinen Abschluss and eine T\u00e4tigkeit are accusative objects; an der Rezeption is locative dative feminine. Bekommen and gefunden correctly share habe.",
+        "Sentence 5: Seitdem is an adverb introducing an ongoing situation in the present. Both ich occurrences are nominative. Am Empfang expands to an dem Empfang; gearbeitet and geschrieben correctly share habe. E-Mails has feminine dictionary base die E-Mail and plural tagging.",
+        "Sentence 6: War is Pr\u00e4teritum of sein with correct question order; das Praktikum is nominative. Coordinated vor oder nach governs dative dem Abschluss. Vor correctly means before here, unlike ago in sentences 2 and 4.",
+        "Checked every noun gender, number, finite form, participle, conjunction, adverb, preposition, pronoun, and reference-table row. No declined adjectives, changed personal pronouns, or separated verb prefixes require additional references."
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "Checked every sentence translation and all word/phrase glosses against their source context. Manager, professional experience, qualification, training, internship, job, and reception meanings are appropriate.",
+        "Temporal vor is correctly translated as ago in sentences 2 and 4 and before in sentence 6. Sentence 5 naturally translates German present with seitdem using English present perfect; its literal phrase meaning preserves the German structure.",
+        "The comprehension question and answer follow the stated chronology: training began three years ago, the internship followed, and the qualification and reception job came a year ago.",
+        "Blueprint fit: six sentences and 76 words satisfy the requested 5\u20136 sentences and approximately 74\u201382 words. The interview connects education, practical training, and employment.",
+        "All seven specified vocabulary/chunk targets occur in context. Vor plus dative, chronological Perfekt narration, relative dates, duration, and a clarification question are represented.",
+        "The typed speaking activity supplies three chronological timeline points for a one-minute fictional applicant account, requires vor einem Jahr, and adds the manager's clarification question."
+      ],
+      "findings": []
+    }
+  ]
+}

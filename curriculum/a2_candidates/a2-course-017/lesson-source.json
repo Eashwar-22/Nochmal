@@ -1,0 +1,686 @@
+{
+  "id": "a2-course-017",
+  "source_draft_id": "a2-draft-017",
+  "sequence": 65,
+  "band": "A2.1",
+  "format": "dialogue",
+  "title_de": "Gib ihr bitte das Paket",
+  "title_en": "Give Her the Package, Please",
+  "topic": "accepting and passing on a parcel",
+  "communicative_goal": "Use recipient and thing objects clearly in a routine exchange.",
+  "grammar_focus": "recipient-object patterns with dative and accusative",
+  "supporting_structures": [
+    "mir ein Paket bringen",
+    "ihr das Paket geben",
+    "ihrem Mann das Paket geben"
+  ],
+  "grammar_notes": [],
+  "new_targets": [
+    "weitergeben",
+    "der Zusteller"
+  ],
+  "recycled_targets": [
+    "abgeben",
+    "annehmen",
+    "die Lieferung",
+    "das Paket",
+    "die Unterschrift",
+    "erreichen"
+  ],
+  "recycles_from": [
+    16,
+    29,
+    31
+  ],
+  "audio_path": "assets/audio/a2_candidates/a2-course-017/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Der Zusteller hat mir ein Paket und eine Nachricht für Frau Klein gebracht.",
+      "en": "The delivery person brought me a parcel and a message for Ms Klein.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-017/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "mir": [
+            "personal pronoun",
+            "dative"
+          ],
+          "Frau": [
+            "proper noun"
+          ],
+          "Klein": [
+            "proper noun"
+          ],
+          "Der": [
+            "article",
+            "nominative"
+          ],
+          "für": [
+            "preposition",
+            "accusative"
+          ],
+          "eine": [
+            "article",
+            "accusative"
+          ],
+          "ein": [
+            "article",
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {
+          "Frau": [
+            "noun",
+            "fem."
+          ],
+          "Klein": [
+            "noun",
+            "masc."
+          ]
+        },
+        "base_forms": {
+          "gebracht": "bringen",
+          "Frau": "Frau",
+          "Klein": "Klein"
+        },
+        "word_meanings": {
+          "Frau": "Ms",
+          "Klein": "Klein (surname)"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "für Frau"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "für Frau Klein",
+            "english": "for Ms Klein",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "hat mir ein Paket und eine Nachricht für Frau Klein gebracht",
+            "english": "brought me a parcel and a message for Ms Klein",
+            "literal_meaning": null,
+            "tags": [
+              "perfect"
+            ]
+          },
+          {
+            "german": "Der Zusteller",
+            "english": "the delivery person",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "hat mir ... gebracht",
+            "english": "brought to me",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "perfect"
+            ]
+          },
+          {
+            "german": "ein Paket",
+            "english": "a parcel",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "eine Nachricht",
+            "english": "a message",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Ich habe unterschrieben und die Lieferung angenommen; der Zusteller hat das Paket bei mir abgegeben.",
+      "en": "I signed for it and accepted the delivery; the delivery person left the parcel with me.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-017/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "der": [
+            "article",
+            "nominative"
+          ],
+          "das": [
+            "article",
+            "accusative"
+          ],
+          "bei": [
+            "preposition",
+            "dative"
+          ],
+          "mir": [
+            "personal pronoun",
+            "dative"
+          ],
+          "unterschrieben": [
+            "verb",
+            "past participle",
+            "perfect"
+          ]
+        },
+        "excluded_word_tags": {
+          "unterschrieben": [
+            "present"
+          ]
+        },
+        "base_forms": {
+          "unterschrieben": "unterschreiben",
+          "angenommen": "annehmen",
+          "abgegeben": "abgeben",
+          "mir": "ich"
+        },
+        "word_meanings": {
+          "unterschrieben": "signed",
+          "abgegeben": "left",
+          "bei": "with"
+        },
+        "verb_meanings": {
+          "abgegeben": "to leave"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "und die Lieferung angenommen; der Zusteller hat das Paket bei mir abgegeben"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "habe unterschrieben und die Lieferung angenommen",
+            "english": "signed and accepted the delivery",
+            "literal_meaning": null,
+            "tags": [
+              "perfect"
+            ]
+          },
+          {
+            "german": "die Lieferung",
+            "english": "the delivery",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "der Zusteller",
+            "english": "the delivery person",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "hat das Paket bei mir abgegeben",
+            "english": "left the parcel with me",
+            "literal_meaning": null,
+            "tags": [
+              "perfect"
+            ]
+          },
+          {
+            "german": "das Paket",
+            "english": "the parcel",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "bei mir",
+            "english": "with me",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Geben Sie ihr bitte das Paket und die Nachricht heute Abend weiter.",
+      "en": "Please pass the parcel and the message on to her this evening.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-017/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Geben": [
+            "verb",
+            "imperative",
+            "separable"
+          ],
+          "Sie": [
+            "personal pronoun",
+            "nominative",
+            "subject",
+            "formal"
+          ],
+          "ihr": [
+            "personal pronoun",
+            "dative"
+          ],
+          "das": [
+            "article",
+            "accusative"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "bitte": [
+            "particle"
+          ],
+          "heute": [
+            "adverb",
+            "time"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "Geben": "weitergeben",
+          "ihr": "sie"
+        },
+        "word_meanings": {
+          "ihr": "her",
+          "Sie": "you (formal)",
+          "bitte": "please"
+        },
+        "verb_components": {
+          "Geben": [
+            "weiter"
+          ]
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Geben Sie ihr bitte das Paket und die Nachricht heute Abend weiter",
+            "english": "Please pass the parcel and the message on to her this evening",
+            "literal_meaning": null,
+            "tags": [
+              "imperative",
+              "separable",
+              "formal"
+            ]
+          },
+          {
+            "german": "Geben Sie ihr",
+            "english": "give to her",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "das Paket",
+            "english": "the parcel",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "die Nachricht",
+            "english": "the message",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Ja, ich erreiche sie nach der Arbeit.",
+      "en": "Yes, I will reach her after work.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-017/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "sie": [
+            "personal pronoun",
+            "accusative",
+            "singular"
+          ],
+          "der": [
+            "article",
+            "dative"
+          ],
+          "Ja": [
+            "interjection"
+          ],
+          "nach": [
+            "preposition",
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "sie": "her",
+          "nach": "after"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "nach der Arbeit",
+            "english": "after work",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "erreiche sie",
+            "english": "reach her",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Falls sie nicht da ist, gebe ich ihrem Mann das Paket und die Nachricht, damit er ihr beides später geben kann.",
+      "en": "If she is not home, I will give her husband the parcel and the message so that he can pass both on to her later.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-017/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "sie": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "ihrem": [
+            "possessive",
+            "determiner",
+            "dative"
+          ],
+          "das": [
+            "article",
+            "accusative"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "Falls": [
+            "conjunction",
+            "subordinating"
+          ],
+          "damit": [
+            "conjunction",
+            "subordinating"
+          ],
+          "er": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "ihr": [
+            "personal pronoun",
+            "dative"
+          ],
+          "beides": [
+            "indefinite pronoun",
+            "accusative"
+          ],
+          "später": [
+            "adverb",
+            "time"
+          ],
+          "nicht": [
+            "particle",
+            "negation"
+          ],
+          "da": [
+            "adverb"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "ihr": "sie"
+        },
+        "word_meanings": {
+          "Falls": "if",
+          "Mann": "husband",
+          "sie": "she",
+          "da": "home",
+          "ihrem": "her",
+          "ihr": "her",
+          "damit": "so that"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "und die Nachricht, damit er ihr beides später geben kann"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "ihrem Mann",
+            "english": "her husband",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "Falls sie nicht da ist",
+            "english": "if she is not home",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final"
+            ]
+          },
+          {
+            "german": "gebe ich ihrem Mann das Paket",
+            "english": "I will give the parcel to her husband",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "gebe ich ihrem Mann das Paket und die Nachricht",
+            "english": "I will give her husband the parcel and the message",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "ihr beides später geben",
+            "english": "give both to her later",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "infinitive"
+            ]
+          },
+          {
+            "german": "das Paket",
+            "english": "the parcel",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "die Nachricht",
+            "english": "the message",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "damit er ihr beides später geben kann",
+            "english": "so that he can pass both on to her later",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final",
+              "modal verb"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Dann gibt er ihr beides noch heute, und sie bestätigt mir, dass die Lieferung angekommen ist.",
+      "en": "Then he gives her both later today, and she confirms to me that the delivery has arrived.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-017/sentence-06.wav",
+      "annotations": {
+        "word_tags": {
+          "Dann": [
+            "adverb",
+            "time"
+          ],
+          "er": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "ihr": [
+            "personal pronoun",
+            "dative"
+          ],
+          "beides": [
+            "indefinite pronoun",
+            "accusative"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "mir": [
+            "personal pronoun",
+            "dative"
+          ],
+          "dass": [
+            "conjunction",
+            "subordinating"
+          ],
+          "die": [
+            "article",
+            "nominative"
+          ],
+          "noch": [
+            "adverb",
+            "time"
+          ],
+          "heute": [
+            "adverb",
+            "time"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "angekommen": "ankommen",
+          "ihr": "sie",
+          "mir": "ich"
+        },
+        "word_meanings": {
+          "ihr": "her",
+          "sie": "she",
+          "mir": "me",
+          "noch": "still / before the day ends"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "gibt er ihr",
+            "english": "he gives to her",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "noch heute",
+            "english": "later today",
+            "literal_meaning": null,
+            "tags": [
+              "time"
+            ]
+          },
+          {
+            "german": "bestätigt mir",
+            "english": "confirms to me",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "die Lieferung",
+            "english": "the delivery",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "dass die Lieferung angekommen ist",
+            "english": "that the delivery has arrived",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final",
+              "perfect"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Who passes the parcel and message to Frau Klein if she is not home?",
+    "answer_en": "Her husband."
+  },
+  "source_basis": [
+    "curriculum/a2_blueprint.md",
+    "A2 Lesson 17"
+  ],
+  "speech_alternatives": [],
+  "performance_activity": {
+    "kind": "speaking",
+    "instruction": "Use the picture-card cues to say who hands each item to whom and relay the delivery message aloud.",
+    "prompts": [
+      "Picture card 1: a delivery person holding a parcel and a sealed note at an apartment door",
+      "Picture card 2: a neighbor signing for both items while Frau Klein is away",
+      "Picture card 3: Frau Klein arriving home; picture card 4: her husband holding the parcel and note",
+      "Relay item A (parcel) and item B (note) from the sender through the temporary receiver to Frau Klein; say: Die Lieferung ist angekommen."
+    ]
+  }
+}

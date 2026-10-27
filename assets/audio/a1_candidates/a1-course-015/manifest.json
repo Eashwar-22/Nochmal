@@ -1,0 +1,31 @@
+{
+  "draft_id": "a1-draft-015",
+  "status": "draft_unpublished",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav"
+  ],
+  "sentence_texts": [
+    "Am Sonntag fr\u00fchst\u00fccken Mina und ihre Schwester zusammen in der K\u00fcche.",
+    "Mina isst gern Brot mit K\u00e4se und trinkt Kaffee.",
+    "Ihre Schwester trinkt lieber Tee mit Milch und isst ein Br\u00f6tchen.",
+    "Beide m\u00f6gen Butter, aber heute essen sie lieber K\u00e4se."
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "bf0538a1d72705b343e16cb737b901afdc41af473ffa637e755772c41c4afa54",
+    "sentence-02.wav": "ff8209aab1877134166e2fccf5f5ab58f2a6360de28bf9b14d49e2bcc292e840",
+    "sentence-03.wav": "d64a428de795a832a0efad90cffde151f1f7c0351e9aafea758010738788f055",
+    "sentence-04.wav": "bc166acc20da962a1a6ba2617df684ad07576f5b5832761f13833489ee8725b2"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "dc6421bc95c592d1f12e10440e2aafd1f329b53213a069d4485eee9bcbf10d3d",
+  "paragraph_assembled_from_sentence_files": true
+}

@@ -1,0 +1,34 @@
+{
+  "draft_id": "a1-draft-028",
+  "status": "release_ready",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav",
+    "sentence-05.wav"
+  ],
+  "sentence_texts": [
+    "Hallo Leo, hier ist Mina mit einer kurzen Nachricht.",
+    "Leider muss ich morgen l\u00e4nger arbeiten und kann nicht um f\u00fcnf Uhr kommen.",
+    "Aber k\u00f6nnen wir uns bitte sp\u00e4ter um halb sieben treffen?",
+    "Bitte ruf an. Geht das?",
+    "Leo h\u00f6rt die Nachricht und antwortet kurz: \u201eJa, das geht.\u201c"
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "04f777c7ba422ec4a32dc39d32abd8f4dcb5f950c41f0cc37d1da500b07c3d5e",
+    "sentence-02.wav": "db363556e68034f5bbef8dd1fc6d4b594687aca83b7a990d5496f6bec75762ed",
+    "sentence-03.wav": "f122bc2b6f021aa2a6eb799d31e4f186d3a6cb49e242ce5ef6cd5c2fbc16eb9f",
+    "sentence-04.wav": "b1627c7e718667f32dccc07bbff4ac19af1563112ec2cde96f14c01af5d26523",
+    "sentence-05.wav": "3ebcecfb7c7ca38d5b607cffda47a7ed392219fd18094b864ec284dc8fb3292d"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "7bc69f49127ee6206a48d50496529a7a9a2ab5a04f3501d406d399c147caa3b4",
+  "paragraph_assembled_from_sentence_files": true
+}

@@ -1,0 +1,484 @@
+{
+  "id": "a1-course-039",
+  "source_draft_id": "a1-draft-039",
+  "sequence": 39,
+  "band": "A1.2",
+  "format": "dialogue",
+  "title_de": "Freizeit",
+  "title_en": "Free Time",
+  "topic": "talking about hobbies with a colleague or classmate",
+  "communicative_goal": "Say what I do in my free time and ask about another person’s interests.",
+  "grammar_focus": "frequency expressions in present-tense statements",
+  "supporting_structures": [
+    "zweimal pro Woche",
+    "am Wochenende gern die Zeitung lesen",
+    "oft Freunde treffen"
+  ],
+  "grammar_notes": [
+    "Frequency expressions can occupy the first position; aber coordinates contrasting preferences without changing verb-second order."
+  ],
+  "new_targets": [
+    "die Freizeit",
+    "der Sport",
+    "schwimmen",
+    "lesen",
+    "fernsehen",
+    "das Internet",
+    "die Zeitung"
+  ],
+  "recycled_targets": [
+    "gern",
+    "lieber",
+    "oft",
+    "am Wochenende",
+    "zusammen",
+    "treffen"
+  ],
+  "recycles_from": [
+    5,
+    7,
+    12,
+    15,
+    29
+  ],
+  "audio_path": "assets/audio/a1_candidates/a1-course-039/paragraph.wav",
+  "sentences": [
+    {
+      "de": "In der Pause sprechen Mina und Paul über ihre Freizeit.",
+      "en": "During the break, Mina and Paul talk about their free time.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-039/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "In": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "der": [
+            "dative"
+          ],
+          "Pause": [
+            "dative"
+          ],
+          "Mina": [
+            "nominative"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "Paul": [
+            "nominative"
+          ],
+          "über": [
+            "preposition",
+            "accusative"
+          ],
+          "ihre": [
+            "possessive",
+            "determiner",
+            "accusative"
+          ],
+          "Freizeit": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "In der Pause",
+            "english": "During the break",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "über ihre Freizeit",
+            "english": "about their free time",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "In der Pause sprechen Mina und Paul über ihre Freizeit",
+            "english": "During the break, Mina and Paul talk about their free time",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina schwimmt zweimal pro Woche und liest am Wochenende gern die Zeitung.",
+      "en": "Mina swims twice a week and likes reading the newspaper at the weekend.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-039/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Mina": [
+            "nominative"
+          ],
+          "zweimal": [
+            "adverb",
+            "frequency"
+          ],
+          "pro": [
+            "preposition",
+            "frequency"
+          ],
+          "Woche": [
+            "frequency"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Wochenende": [
+            "dative",
+            "time"
+          ],
+          "gern": [
+            "adverb",
+            "manner"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "Zeitung": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "zweimal pro Woche",
+            "english": "twice a week",
+            "literal_meaning": null,
+            "tags": [
+              "frequency",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "am Wochenende",
+            "english": "at the weekend",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "die Zeitung",
+            "english": "the newspaper",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Paul macht lieber Sport draußen und trifft oft Freunde im Park.",
+      "en": "Paul prefers doing sport outside and often meets friends in the park.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-039/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Paul": [
+            "nominative"
+          ],
+          "lieber": [
+            "adverb",
+            "comparative",
+            "manner"
+          ],
+          "Sport": [
+            "accusative"
+          ],
+          "draußen": [
+            "adverb",
+            "place"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "oft": [
+            "adverb",
+            "frequency"
+          ],
+          "Freunde": [
+            "accusative",
+            "plural"
+          ],
+          "im": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Park": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "macht": "does",
+          "Freunde": "friends"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "macht lieber Sport draußen",
+            "english": "prefers doing sport outside",
+            "literal_meaning": null,
+            "tags": [
+              "comparative"
+            ]
+          },
+          {
+            "german": "trifft oft Freunde",
+            "english": "often meets friends",
+            "literal_meaning": null,
+            "tags": [
+              "frequency"
+            ]
+          },
+          {
+            "german": "im Park",
+            "english": "in the park",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Am Abend sieht er manchmal fern oder sucht im Internet nach einem Film.",
+      "en": "In the evening, he sometimes watches television or looks online for a film.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-039/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Abend": [
+            "dative",
+            "time"
+          ],
+          "er": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "manchmal": [
+            "adverb",
+            "frequency"
+          ],
+          "fern": [
+            "particle"
+          ],
+          "oder": [
+            "conjunction",
+            "coordinating"
+          ],
+          "im": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Internet": [
+            "dative"
+          ],
+          "nach": [
+            "preposition",
+            "dative"
+          ],
+          "einem": [
+            "determiner",
+            "dative"
+          ],
+          "Film": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "sieht": "fernsehen"
+        },
+        "word_meanings": {
+          "sieht": "watches television",
+          "fern": "separable prefix of fernsehen"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am Abend",
+            "english": "In the evening",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "sieht er manchmal fern",
+            "english": "he sometimes watches television",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "separable",
+              "frequency"
+            ]
+          },
+          {
+            "german": "im Internet",
+            "english": "online",
+            "literal_meaning": "on the internet",
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          },
+          {
+            "german": "nach einem Film",
+            "english": "for a film",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Dann fragt er Mina: „Was machst du heute in deiner Freizeit?“",
+      "en": "Then he asks Mina, “What are you doing in your free time today?”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-039/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Dann": [
+            "adverb",
+            "time"
+          ],
+          "er": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "Mina": [
+            "accusative"
+          ],
+          "Was": [
+            "interrogative pronoun",
+            "accusative"
+          ],
+          "du": [
+            "personal pronoun",
+            "nominative",
+            "informal"
+          ],
+          "heute": [
+            "adverb",
+            "time"
+          ],
+          "in": [
+            "preposition",
+            "dative"
+          ],
+          "deiner": [
+            "possessive",
+            "determiner",
+            "dative"
+          ],
+          "Freizeit": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Dann fragt er Mina",
+            "english": "Then he asks Mina",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "Was machst du heute in deiner Freizeit",
+            "english": "What are you doing in your free time today?",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "informal"
+            ]
+          },
+          {
+            "german": "in deiner Freizeit",
+            "english": "in your free time",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "What does Mina like to read at the weekend?",
+    "answer_en": "The newspaper."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_07.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

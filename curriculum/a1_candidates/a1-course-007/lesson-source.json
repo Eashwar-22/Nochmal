@@ -1,0 +1,397 @@
+{
+  "id": "a1-course-007",
+  "source_draft_id": "a1-draft-007",
+  "sequence": 7,
+  "band": "A1.1",
+  "format": "dialogue",
+  "title_de": "Meine Familie",
+  "title_en": "My Family",
+  "topic": "identifying close family members in a photo",
+  "communicative_goal": "Name close family members and say who they are.",
+  "grammar_focus": "possessive determiners mein/dein in nominative noun phrases",
+  "supporting_structures": [
+    "Das ist meine Mutter.",
+    "Ist das dein Bruder?",
+    "mit dem Kind"
+  ],
+  "grammar_notes": [
+    "Meine and dein are possessive determiners agreeing with the following nominative noun.",
+    "Mit governs dative, so dem Kind is neuter dative."
+  ],
+  "new_targets": [
+    "die Familie",
+    "die Mutter",
+    "der Vater",
+    "der Bruder",
+    "die Schwester",
+    "das Kind",
+    "das Foto"
+  ],
+  "recycled_targets": [
+    "zeigen",
+    "fragen",
+    "antworten",
+    "Das ist"
+  ],
+  "recycles_from": [
+    1,
+    5
+  ],
+  "audio_path": "assets/audio/a1_candidates/a1-course-007/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Mina zeigt Leo ein Foto; darauf ist ihre Familie.",
+      "en": "Mina shows Leo a photo; her family is in it.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-007/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "mina": [
+            "nominative",
+            "subject"
+          ],
+          "leo": [
+            "dative"
+          ],
+          "ein": [
+            "accusative"
+          ],
+          "foto": [
+            "accusative"
+          ],
+          "darauf": [
+            "adverb",
+            "place"
+          ],
+          "ihre": [
+            "possessive",
+            "determiner",
+            "nominative"
+          ],
+          "familie": [
+            "nominative",
+            "subject"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "zeigt": "shows",
+          "ein": "a",
+          "foto": "photo",
+          "darauf": "in it",
+          "ist": "is",
+          "ihre": "her"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "zeigt Leo ein Foto",
+            "english": "shows Leo a photo",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "ein Foto",
+            "english": "a photo",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "ihre Familie",
+            "english": "her family",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "darauf ist ihre Familie",
+            "english": "her family is in it",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Sie sagt: „Das ist meine Mutter, und das ist mein Vater.“",
+      "en": "She says, “This is my mother, and this is my father.”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-007/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "sie": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "das": [
+            "nominative",
+            "subject"
+          ],
+          "meine": [
+            "nominative"
+          ],
+          "mutter": [
+            "nominative"
+          ],
+          "mein": [
+            "nominative"
+          ],
+          "vater": [
+            "nominative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "sie": "she",
+          "sagt": "says",
+          "das": "this",
+          "ist": "is",
+          "meine": "my",
+          "mein": "my"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "meine Mutter",
+            "english": "my mother",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "mein Vater",
+            "english": "my father",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "Sie sagt",
+            "english": "She says",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "Das ist meine Mutter",
+            "english": "This is my mother",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Leo fragt: „Ist das dein Bruder mit dem Kind?“",
+      "en": "Leo asks, “Is that your brother with the child?”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-007/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "leo": [
+            "nominative",
+            "subject"
+          ],
+          "das": [
+            "nominative",
+            "subject"
+          ],
+          "dein": [
+            "nominative"
+          ],
+          "bruder": [
+            "nominative"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "dem": [
+            "dative"
+          ],
+          "kind": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "fragt": "asks",
+          "ist": "is",
+          "das": "that",
+          "dein": "your",
+          "bruder": "brother",
+          "mit": "with",
+          "dem": "the",
+          "kind": "child"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "dein Bruder",
+            "english": "your brother",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "mit dem Kind",
+            "english": "with the child",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "Leo fragt",
+            "english": "Leo asks",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina antwortet: „Nein, der Mann ist mein Vater, und das Kind ist meine Schwester.“",
+      "en": "Mina answers, “No, the man is my father, and the child is my sister.”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-007/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "mina": [
+            "nominative",
+            "subject"
+          ],
+          "nein": [
+            "interjection"
+          ],
+          "der": [
+            "nominative"
+          ],
+          "mann": [
+            "nominative"
+          ],
+          "mein": [
+            "nominative"
+          ],
+          "vater": [
+            "nominative"
+          ],
+          "das": [
+            "nominative"
+          ],
+          "kind": [
+            "nominative"
+          ],
+          "meine": [
+            "nominative"
+          ],
+          "schwester": [
+            "nominative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "antwortet": "answers",
+          "nein": "no",
+          "der": "the",
+          "mann": "man",
+          "ist": "is",
+          "mein": "my",
+          "vater": "father",
+          "das": "the",
+          "kind": "child",
+          "meine": "my",
+          "schwester": "sister"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "der Mann",
+            "english": "the man",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "mein Vater",
+            "english": "my father",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "das Kind",
+            "english": "the child",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "meine Schwester",
+            "english": "my sister",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "Mina antwortet",
+            "english": "Mina answers",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Whose husband is in the photo?",
+    "answer_en": "Mina’s sister’s husband."
+  },
+  "source_basis": [
+    "a1-blueprint",
+    "a1-draft-007",
+    "grammar-breakdown-rulebook"
+  ],
+  "speech_alternatives": []
+}

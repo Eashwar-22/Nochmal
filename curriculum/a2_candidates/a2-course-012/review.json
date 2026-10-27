@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a2-course-012",
+  "source_sha256": "5ea4aa07b358f48d3e62b93d45655e7b8001c96056ba783f29763fdd11617465",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token and phrase coverage",
+        "comparison and placement reference coverage",
+        "controlled tags and source linkage"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "natural apartment-choice dialogue",
+        "correct comparison and placement grammar",
+        "coherent final checkpoint"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "natural English renderings",
+        "A2 module recap practice",
+        "sentence-level meaning agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

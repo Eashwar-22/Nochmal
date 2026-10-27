@@ -1,0 +1,760 @@
+{
+  "id": "a2-course-016",
+  "source_draft_id": "a2-draft-016",
+  "sequence": 64,
+  "band": "A2.1",
+  "format": "dialogue",
+  "title_de": "Ich helfe ihm",
+  "title_en": "I Can Help Him",
+  "topic": "borrowing tools and helping a neighbor",
+  "communicative_goal": "Use dative personal pronouns when offering and arranging help.",
+  "grammar_focus": "dative personal pronouns with helfen, leihen, gehören, and bringen",
+  "supporting_structures": [
+    "ihm helfen",
+    "ihm etwas leihen",
+    "dir etwas bringen"
+  ],
+  "grammar_notes": [],
+  "new_targets": [
+    "leihen",
+    "das Werkzeug",
+    "die Leiter",
+    "der Eimer"
+  ],
+  "recycled_targets": [
+    "helfen",
+    "gehören",
+    "bringen",
+    "der Nachbar",
+    "morgen"
+  ],
+  "recycles_from": [
+    13,
+    15,
+    21
+  ],
+  "audio_path": "assets/audio/a2_candidates/a2-course-016/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Mara: Herr Braun baut ein Regal auf, aber ihm fehlt eine Leiter.",
+      "en": "Mara: Mr Braun is assembling a shelf, but he is missing a ladder.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-016/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Mara": [
+            "proper noun"
+          ],
+          "Herr": [
+            "proper noun"
+          ],
+          "Braun": [
+            "proper noun"
+          ],
+          "ein": [
+            "article",
+            "accusative"
+          ],
+          "ihm": [
+            "personal pronoun",
+            "dative"
+          ],
+          "eine": [
+            "article",
+            "nominative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "baut": "aufbauen",
+          "ihm": "er"
+        },
+        "word_meanings": {
+          "Mara": "Mara",
+          "Herr": "Mr",
+          "Braun": "Braun",
+          "fehlt": "is missing"
+        },
+        "verb_components": {
+          "baut": [
+            "auf"
+          ]
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Herr Braun",
+            "english": "Mr Braun",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "baut ein Regal auf",
+            "english": "is assembling a shelf",
+            "literal_meaning": null,
+            "tags": [
+              "separable",
+              "present"
+            ]
+          },
+          {
+            "german": "ein Regal",
+            "english": "a shelf",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "ihm fehlt",
+            "english": "he is missing",
+            "literal_meaning": "something is missing to him",
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "eine Leiter",
+            "english": "a ladder",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Frau Keller: Ich kann ihm meine Leiter und einen Eimer leihen.",
+      "en": "Ms Keller: I can lend him my ladder and a bucket.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-016/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Frau": [
+            "proper noun"
+          ],
+          "Keller": [
+            "proper noun"
+          ],
+          "Ich": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "ihm": [
+            "personal pronoun",
+            "dative"
+          ],
+          "meine": [
+            "possessive",
+            "determiner",
+            "accusative"
+          ],
+          "einen": [
+            "article",
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {
+          "Frau": [
+            "noun",
+            "fem."
+          ],
+          "Keller": [
+            "noun",
+            "masc."
+          ]
+        },
+        "base_forms": {
+          "Frau": "Frau",
+          "Keller": "Keller",
+          "ihm": "er"
+        },
+        "word_meanings": {
+          "Frau": "Ms",
+          "Keller": "Keller",
+          "ihm": "him"
+        },
+        "verb_forms": {
+          "leihen": "infinitive"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Frau Keller: Ich kann ihm meine Leiter",
+          "und einen Eimer leihen"
+        ],
+        "excluded_phrase_tags": {
+          "Frau Keller": [
+            "main clause"
+          ]
+        },
+        "phrases": [
+          {
+            "german": "Frau Keller",
+            "english": "Ms Keller",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "ihm ... leihen",
+            "english": "lend to him",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "infinitive"
+            ]
+          },
+          {
+            "german": "meine Leiter",
+            "english": "my ladder",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "einen Eimer",
+            "english": "a bucket",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "Ich kann ihm meine Leiter und einen Eimer leihen",
+            "english": "I can lend him my ladder and a bucket",
+            "literal_meaning": null,
+            "tags": [
+              "modal verb",
+              "infinitive"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Herr Braun: Das Werkzeug gehört mir; könntest du mir bitte helfen, Mara?",
+      "en": "Mr Braun: The tool belongs to me; could you please help me, Mara?",
+      "audio_path": "assets/audio/a2_candidates/a2-course-016/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Herr": [
+            "proper noun"
+          ],
+          "Braun": [
+            "proper noun"
+          ],
+          "Das": [
+            "article",
+            "nominative"
+          ],
+          "mir": [
+            "personal pronoun",
+            "dative"
+          ],
+          "könntest": [
+            "modal verb",
+            "subjunctive"
+          ],
+          "du": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "bitte": [
+            "particle"
+          ],
+          "Mara": [
+            "proper noun"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "könntest": "können",
+          "mir": "ich"
+        },
+        "word_meanings": {
+          "Herr": "Mr",
+          "Braun": "Braun",
+          "mir": "me",
+          "bitte": "please",
+          "Mara": "Mara"
+        },
+        "verb_forms": {
+          "helfen": "infinitive"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [
+          {
+            "surface": "mir",
+            "occurrence": 1,
+            "tags": [
+              "personal pronoun",
+              "dative"
+            ],
+            "excluded_tags": [],
+            "base_form": "ich",
+            "meaning": "me",
+            "spoken_form": null
+          },
+          {
+            "surface": "mir",
+            "occurrence": 2,
+            "tags": [
+              "personal pronoun",
+              "dative"
+            ],
+            "excluded_tags": [],
+            "base_form": "ich",
+            "meaning": "me",
+            "spoken_form": null
+          }
+        ],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {
+          "Herr Braun": [
+            "main clause"
+          ]
+        },
+        "phrases": [
+          {
+            "german": "Herr Braun",
+            "english": "Mr Braun",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "Das Werkzeug",
+            "english": "the tool",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "gehört mir",
+            "english": "belongs to me",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "könntest du mir bitte helfen",
+            "english": "could you please help me",
+            "literal_meaning": null,
+            "tags": [
+              "subjunctive",
+              "modal verb",
+              "infinitive"
+            ]
+          },
+          {
+            "german": "mir bitte helfen",
+            "english": "help me, please",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mara: Ich bringe dir die Sachen, Herr Braun, und helfe euch, Kinder, morgen beim Regal.",
+      "en": "Mara: I will bring you the things, Mr Braun, and help you children with the shelf tomorrow.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-016/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Mara": [
+            "proper noun"
+          ],
+          "Ich": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "dir": [
+            "personal pronoun",
+            "dative"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "Herr": [
+            "proper noun"
+          ],
+          "Braun": [
+            "proper noun"
+          ],
+          "euch": [
+            "personal pronoun",
+            "dative",
+            "plural"
+          ],
+          "Kinder": [
+            "noun",
+            "plural"
+          ],
+          "morgen": [
+            "adverb",
+            "time"
+          ],
+          "beim": [
+            "contraction",
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "bringe": "bringen",
+          "dir": "du",
+          "euch": "ihr",
+          "beim": "bei dem"
+        },
+        "word_meanings": {
+          "Mara": "Mara",
+          "dir": "you",
+          "Herr": "Mr",
+          "Braun": "Braun",
+          "euch": "you all",
+          "Kinder": "children",
+          "morgen": "tomorrow",
+          "beim": "with the"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "bringe dir",
+            "english": "bring to you",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "die Sachen",
+            "english": "the things",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "Herr Braun",
+            "english": "Mr Braun",
+            "literal_meaning": null,
+            "tags": []
+          },
+          {
+            "german": "helfe euch",
+            "english": "help you all",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "beim Regal",
+            "english": "with the shelf",
+            "literal_meaning": null,
+            "tags": [
+              "contraction",
+              "dative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Frau Keller: Danke, das hilft uns; Kinder, könnt ihr Mara den Eimer bringen?",
+      "en": "Ms Keller: Thanks, that helps us; children, can you bring Mara the bucket?",
+      "audio_path": "assets/audio/a2_candidates/a2-course-016/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Frau": [
+            "proper noun"
+          ],
+          "Keller": [
+            "proper noun"
+          ],
+          "Danke": [
+            "interjection"
+          ],
+          "das": [
+            "demonstrative pronoun",
+            "nominative",
+            "subject"
+          ],
+          "uns": [
+            "personal pronoun",
+            "dative"
+          ],
+          "Kinder": [
+            "noun",
+            "plural"
+          ],
+          "könnt": [
+            "modal verb",
+            "present"
+          ],
+          "ihr": [
+            "personal pronoun",
+            "nominative",
+            "subject",
+            "plural"
+          ],
+          "Mara": [
+            "proper noun"
+          ],
+          "den": [
+            "article",
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {
+          "Frau": [
+            "noun",
+            "fem."
+          ],
+          "Keller": [
+            "noun",
+            "masc."
+          ],
+          "könnt": [
+            "subjunctive"
+          ]
+        },
+        "base_forms": {
+          "Frau": "Frau",
+          "Keller": "Keller",
+          "uns": "wir",
+          "könnt": "können"
+        },
+        "word_meanings": {
+          "Frau": "Ms",
+          "Keller": "Keller",
+          "das": "that",
+          "uns": "us",
+          "Kinder": "children",
+          "könnt": "can",
+          "ihr": "you all",
+          "Mara": "Mara"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "ihr Mara"
+        ],
+        "excluded_phrase_tags": {
+          "Frau Keller": [
+            "main clause"
+          ]
+        },
+        "phrases": [
+          {
+            "german": "Frau Keller",
+            "english": "Ms Keller",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "hilft uns",
+            "english": "helps us",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "den Eimer",
+            "english": "the bucket",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "könnt ihr Mara den Eimer bringen",
+            "english": "can you bring Mara the bucket",
+            "literal_meaning": null,
+            "tags": [
+              "modal verb",
+              "infinitive"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Kinder: Ja, wir bringen ihr den Eimer und geben Ihnen später die Leiter zurück, Frau Keller.",
+      "en": "Children: Yes, we will bring her the bucket and return the ladder to you later, Ms Keller.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-016/sentence-06.wav",
+      "annotations": {
+        "word_tags": {
+          "Kinder": [
+            "noun",
+            "plural"
+          ],
+          "Ja": [
+            "interjection"
+          ],
+          "wir": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "ihr": [
+            "personal pronoun",
+            "dative"
+          ],
+          "den": [
+            "article",
+            "accusative"
+          ],
+          "Ihnen": [
+            "personal pronoun",
+            "dative",
+            "formal"
+          ],
+          "später": [
+            "adverb",
+            "time"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "Frau": [
+            "proper noun"
+          ],
+          "Keller": [
+            "proper noun"
+          ]
+        },
+        "excluded_word_tags": {
+          "Frau": [
+            "noun",
+            "fem."
+          ],
+          "Keller": [
+            "noun",
+            "masc."
+          ]
+        },
+        "base_forms": {
+          "ihr": "sie",
+          "Ihnen": "Sie",
+          "geben": "zurückgeben",
+          "Frau": "Frau",
+          "Keller": "Keller"
+        },
+        "word_meanings": {
+          "Kinder": "children",
+          "ihr": "her",
+          "Ihnen": "you (formal)",
+          "Frau": "Ms",
+          "Keller": "Keller"
+        },
+        "verb_components": {
+          "geben": [
+            "zurück"
+          ]
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {
+          "Frau Keller": [
+            "main clause"
+          ]
+        },
+        "phrases": [
+          {
+            "german": "bringen ihr",
+            "english": "bring to her",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "den Eimer",
+            "english": "the bucket",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "geben Ihnen",
+            "english": "give back to you",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "formal"
+            ]
+          },
+          {
+            "german": "die Leiter",
+            "english": "the ladder",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "geben Ihnen später die Leiter zurück",
+            "english": "return the ladder to you later",
+            "literal_meaning": null,
+            "tags": [
+              "separable"
+            ]
+          },
+          {
+            "german": "Frau Keller",
+            "english": "Ms Keller",
+            "literal_meaning": null,
+            "tags": []
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Who lends the ladder and bucket to help Herr Braun?",
+    "answer_en": "Frau Keller."
+  },
+  "source_basis": [
+    "curriculum/a2_blueprint.md",
+    "A2 Lesson 16"
+  ],
+  "speech_alternatives": [],
+  "performance_activity": {
+    "kind": "listening",
+    "instruction": "Listen and choose a recipient for each object or action from the recipient bank.",
+    "prompts": [
+      "Recipient bank: Herr Braun, Mara, Frau Keller, the children",
+      "Who receives the ladder and bucket?",
+      "Who receives the things?",
+      "Who receives help with the shelf?",
+      "Who receives the bucket from the children?",
+      "Who receives the returned ladder?"
+    ]
+  }
+}

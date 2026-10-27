@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-005",
+  "source_sha256": "e1fc27582dfc3aaf1b494b303d4435409f8006b943bcb5f0db0bcc090493ec91",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "every source token has one ordered word card",
+        "every finite verb has complete bilingual present-tense help",
+        "the dative forms in aus dem Kurs and in Bonn have typed or intentionally invisible-form handling",
+        "nominative feminine and masculine noun phrases carry their determiner reference cards",
+        "all phrase cards use exact source wording and controlled tags"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "the staged dialogue is grammatical and natural for a first introduction",
+        "eine Freundin is a feminine nominative apposition to Sara",
+        "Wer ist der Mann dort has correct W-question verb-second order",
+        "aus dem Kurs is masculine dative and in Bonn is a location with no visible proper-noun ending",
+        "Er correctly refers to der Mann in the reply"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "sentence translations retain the introduction and identification sequence",
+        "word meanings are concise and suitable for an A1 learner",
+        "literal meanings expose is called and fronted Dann word order without learner-facing prose",
+        "the lesson recycles course, name, residence, and speaking vocabulary from Lessons 1\u20134"
+      ],
+      "findings": []
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-020",
+  "source_sha256": "69ca6488f2ecc826f8f58b7782088ec823eafde84ef5d22eb13fa8036830545b",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "two-way preposition case triggers",
+        "possessive and adjective dative cards",
+        "invisible dative complement",
+        "question and inversion phrase boundaries"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "furniture-location descriptions",
+        "helfen dative complement",
+        "stehen versus aufstehen",
+        "fixed-location wording"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "natural room-location translations",
+        "contextual meanings for stehen",
+        "direction versus location contrast",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

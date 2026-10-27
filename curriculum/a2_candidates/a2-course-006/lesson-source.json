@@ -1,0 +1,517 @@
+{
+  "id": "a2-course-006",
+  "source_draft_id": "a2-draft-006",
+  "sequence": 54,
+  "band": "A2.1",
+  "format": "dialogue",
+  "title_de": "Checkpoint: Was ist passiert?",
+  "title_en": "Checkpoint: Explain What Happened",
+  "topic": "explaining a late arrival and agreeing on the next step",
+  "communicative_goal": "Give a connected account, a reason, and a practical consequence.",
+  "grammar_focus": "retrieval of Perfekt, war/hatte, weil, deshalb, and trotzdem",
+  "supporting_structures": [],
+  "grammar_notes": [],
+  "new_targets": [
+    "Was ist passiert?",
+    "Mein Bus hatte Verspätung",
+    "Danach",
+    "Deshalb",
+    "Zum Glück"
+  ],
+  "recycled_targets": [
+    "die Verspätung",
+    "der Termin",
+    "anrufen",
+    "verschieben",
+    "sich entschuldigen"
+  ],
+  "recycles_from": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "audio_path": "assets/audio/a2_candidates/a2-course-006/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Sara fragt Mina im Büro: „Was ist heute Morgen passiert?“",
+      "en": "Sara asks Mina at the office, “What happened this morning?”",
+      "audio_path": "assets/audio/a2_candidates/a2-course-006/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Sara": [
+            "proper noun",
+            "nominative",
+            "subject"
+          ],
+          "fragt": [
+            "verb",
+            "present"
+          ],
+          "Mina": [
+            "proper noun",
+            "accusative"
+          ],
+          "im": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Büro": [
+            "dative"
+          ],
+          "Was": [
+            "interrogative pronoun"
+          ],
+          "ist": [
+            "auxiliary",
+            "present"
+          ],
+          "heute": [
+            "adverb",
+            "time"
+          ],
+          "Morgen": [
+            "accusative",
+            "time"
+          ],
+          "passiert": [
+            "verb",
+            "past participle",
+            "perfect"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "fragt": "fragen",
+          "ist": "sein",
+          "passiert": "passieren"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "im Büro",
+            "english": "at the office",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          },
+          {
+            "german": "Was ist heute Morgen passiert",
+            "english": "What happened this morning",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "perfect"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina sagt: „Mein Bus hatte Verspätung, weil auf der Straße ein Unfall war.“",
+      "en": "Mina says, “My bus was delayed because there was an accident on the road.”",
+      "audio_path": "assets/audio/a2_candidates/a2-course-006/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Mina": [
+            "proper noun",
+            "nominative",
+            "subject"
+          ],
+          "sagt": [
+            "verb",
+            "present"
+          ],
+          "Mein": [
+            "possessive",
+            "determiner",
+            "nominative"
+          ],
+          "Bus": [
+            "nominative",
+            "subject"
+          ],
+          "hatte": [
+            "verb",
+            "simple past"
+          ],
+          "Verspätung": [
+            "accusative"
+          ],
+          "weil": [
+            "conjunction",
+            "subordinating",
+            "reason"
+          ],
+          "auf": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "der": [
+            "article",
+            "dative"
+          ],
+          "Straße": [
+            "dative"
+          ],
+          "ein": [
+            "article",
+            "nominative"
+          ],
+          "Unfall": [
+            "nominative",
+            "subject"
+          ],
+          "war": [
+            "verb",
+            "simple past"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "sagt": "sagen",
+          "hatte": "haben",
+          "war": "sein"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Mein Bus",
+            "english": "my bus",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "hatte Verspätung",
+            "english": "was delayed",
+            "literal_meaning": null,
+            "tags": [
+              "main clause"
+            ]
+          },
+          {
+            "german": "weil auf der Straße ein Unfall war",
+            "english": "because there was an accident on the road",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final",
+              "reason"
+            ]
+          },
+          {
+            "german": "auf der Straße",
+            "english": "on the road",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Danach hat sie im Büro angerufen und sich für die Verspätung entschuldigt.",
+      "en": "Afterwards she called the office and apologized for the delay.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-006/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Danach": [
+            "adverb",
+            "time"
+          ],
+          "hat": [
+            "auxiliary",
+            "present"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "im": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Büro": [
+            "dative"
+          ],
+          "angerufen": [
+            "verb",
+            "past participle",
+            "perfect",
+            "separable"
+          ],
+          "sich": [
+            "reflexive pronoun",
+            "accusative"
+          ],
+          "für": [
+            "preposition",
+            "accusative"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "Verspätung": [
+            "accusative"
+          ],
+          "entschuldigt": [
+            "verb",
+            "past participle",
+            "perfect",
+            "reflexive"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "hat": "haben",
+          "angerufen": "anrufen",
+          "entschuldigt": "sich entschuldigen"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "im Büro",
+            "english": "at the office",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          },
+          {
+            "german": "hat sie im Büro angerufen",
+            "english": "she called the office",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "perfect"
+            ]
+          },
+          {
+            "german": "sich für die Verspätung entschuldigt",
+            "english": "apologized for the delay",
+            "literal_meaning": null,
+            "tags": [
+              "reflexive",
+              "perfect",
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Deshalb haben sie den Termin auf den Nachmittag verschoben.",
+      "en": "Therefore they moved the appointment to the afternoon.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-006/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Deshalb": [
+            "adverb",
+            "connector",
+            "reason"
+          ],
+          "haben": [
+            "auxiliary",
+            "present"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "den": [
+            "article",
+            "accusative"
+          ],
+          "Termin": [
+            "accusative"
+          ],
+          "auf": [
+            "preposition",
+            "accusative",
+            "time"
+          ],
+          "Nachmittag": [
+            "accusative"
+          ],
+          "verschoben": [
+            "verb",
+            "past participle",
+            "perfect"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "haben": "haben",
+          "verschoben": "verschieben"
+        },
+        "word_meanings": {
+          "sie": "they"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Deshalb haben sie den Termin auf den Nachmittag verschoben",
+            "english": "Therefore they moved the appointment to the afternoon",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "perfect"
+            ]
+          },
+          {
+            "german": "den Termin",
+            "english": "the appointment",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "auf den Nachmittag",
+            "english": "to the afternoon",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "time"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Trotzdem war Mina nervös, aber zum Glück ist jetzt alles klar.",
+      "en": "Mina was nervous nevertheless, but fortunately everything is clear now.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-006/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Trotzdem": [
+            "adverb",
+            "connector"
+          ],
+          "war": [
+            "verb",
+            "simple past"
+          ],
+          "Mina": [
+            "proper noun",
+            "nominative",
+            "subject"
+          ],
+          "nervös": [
+            "adjective",
+            "predicate"
+          ],
+          "aber": [
+            "conjunction",
+            "coordinating"
+          ],
+          "zum": [
+            "preposition",
+            "dative"
+          ],
+          "Glück": [
+            "dative"
+          ],
+          "ist": [
+            "verb",
+            "present"
+          ],
+          "jetzt": [
+            "adverb",
+            "time"
+          ],
+          "alles": [
+            "indefinite pronoun",
+            "nominative",
+            "subject"
+          ],
+          "klar": [
+            "adjective",
+            "predicate"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "war": "sein",
+          "ist": "sein"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Trotzdem war Mina nervös",
+            "english": "Mina was nervous nevertheless",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "zum Glück",
+            "english": "fortunately",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "fixed phrase",
+              "contraction"
+            ]
+          },
+          {
+            "german": "ist jetzt alles klar",
+            "english": "everything is clear now",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Why did Mina's bus have a delay?",
+    "answer_en": "There was an accident on the road."
+  },
+  "source_basis": [
+    "curriculum/a2_blueprint.md",
+    "A2 blueprint lesson 6"
+  ],
+  "speech_alternatives": []
+}

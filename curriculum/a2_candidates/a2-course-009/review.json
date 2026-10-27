@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a2-course-009",
+  "source_sha256": "10247ff34548cf281efbbc5ec2fdeee6565e69a502271821ec5ff2dc99a17ba5",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token and phrase coverage",
+        "attributive-adjective and case-form reference coverage",
+        "controlled tags and source linkage"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "natural apartment-search dialogue",
+        "correct adjective endings",
+        "coherent housing criteria"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "natural English renderings",
+        "A2 housing vocabulary practice",
+        "sentence-level meaning agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

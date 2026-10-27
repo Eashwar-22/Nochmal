@@ -1,0 +1,603 @@
+{
+  "id": "a1-course-045",
+  "source_draft_id": "a1-draft-045",
+  "sequence": 45,
+  "band": "A1.2",
+  "format": "announcement",
+  "title_de": "Wann ist geöffnet?",
+  "title_en": "When Is It Open?",
+  "topic": "reading opening hours and entrance information",
+  "communicative_goal": "Find when a place opens or closes and where to enter.",
+  "grammar_focus": "time ranges with von bis and state adjectives",
+  "supporting_structures": [
+    "von Montag bis Freitag",
+    "geöffnet",
+    "geschlossen"
+  ],
+  "grammar_notes": [
+    "Opening-hours phrases give concrete time information without introducing a new verb tense."
+  ],
+  "new_targets": [
+    "das Geschäft",
+    "geöffnet",
+    "geschlossen",
+    "von bis",
+    "der Ausgang",
+    "der Feiertag",
+    "benutzen"
+  ],
+  "recycled_targets": [
+    "der Eingang",
+    "die Bank",
+    "die Seite",
+    "die Zeit",
+    "schreiben"
+  ],
+  "recycles_from": [
+    10,
+    12,
+    23,
+    34,
+    44
+  ],
+  "audio_path": "assets/audio/a1_candidates/a1-course-045/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Das Geschäft am Markt ist von Montag bis Freitag von neun bis achtzehn Uhr geöffnet.",
+      "en": "The shop at the market is open from Monday to Friday from nine until six.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-045/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Das": [
+            "article",
+            "nominative"
+          ],
+          "Geschäft": [
+            "nominative"
+          ],
+          "am": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Markt": [
+            "dative"
+          ],
+          "ist": [
+            "verb",
+            "present"
+          ],
+          "von": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Montag": [
+            "dative",
+            "time"
+          ],
+          "bis": [
+            "preposition",
+            "time"
+          ],
+          "Freitag": [
+            "time"
+          ],
+          "neun": [
+            "numeral",
+            "time"
+          ],
+          "achtzehn": [
+            "numeral",
+            "time"
+          ],
+          "Uhr": [
+            "time"
+          ],
+          "geöffnet": [
+            "adjective",
+            "predicate"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "ist": "sein"
+        },
+        "word_meanings": {
+          "ist": "is",
+          "achtzehn": "six (18:00)"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "am Markt",
+            "english": "at the market",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          },
+          {
+            "german": "von Montag bis Freitag",
+            "english": "from Monday to Friday",
+            "literal_meaning": null,
+            "tags": [
+              "time",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "von neun bis achtzehn Uhr",
+            "english": "from nine until six",
+            "literal_meaning": "from nine until eighteen hundred hours",
+            "tags": [
+              "time",
+              "fixed phrase"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Am Samstag schließt es schon um vierzehn Uhr, und am Sonntag bleibt es geschlossen.",
+      "en": "On Saturday it closes at two o’clock, and on Sunday it remains closed.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-045/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Samstag": [
+            "dative",
+            "time"
+          ],
+          "schließt": [
+            "verb",
+            "present"
+          ],
+          "es": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "schon": [
+            "adverb",
+            "time"
+          ],
+          "um": [
+            "preposition",
+            "accusative",
+            "time"
+          ],
+          "vierzehn": [
+            "numeral",
+            "time"
+          ],
+          "Uhr": [
+            "time"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Sonntag": [
+            "dative",
+            "time"
+          ],
+          "bleibt": [
+            "verb",
+            "present"
+          ],
+          "geschlossen": [
+            "adjective",
+            "predicate"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "schließt": "schließen",
+          "bleibt": "bleiben"
+        },
+        "word_meanings": {
+          "vierzehn": "two (14:00)"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am Samstag",
+            "english": "on Saturday",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "um vierzehn Uhr",
+            "english": "at two o’clock",
+            "literal_meaning": "at fourteen hundred hours",
+            "tags": [
+              "time",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "Am Samstag schließt es schon um vierzehn Uhr",
+            "english": "On Saturday it closes at two o’clock",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "time"
+            ]
+          },
+          {
+            "german": "am Sonntag",
+            "english": "on Sunday",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "am Sonntag bleibt es geschlossen",
+            "english": "on Sunday it remains closed",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "time"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Der Eingang liegt neben der Bank, aber der Ausgang ist auf der anderen Seite.",
+      "en": "The entrance is next to the bank, but the exit is on the other side.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-045/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Der": [
+            "article",
+            "nominative"
+          ],
+          "Eingang": [
+            "nominative"
+          ],
+          "liegt": [
+            "verb",
+            "present"
+          ],
+          "neben": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "der": [
+            "article",
+            "dative"
+          ],
+          "Bank": [
+            "dative"
+          ],
+          "aber": [
+            "conjunction",
+            "coordinating"
+          ],
+          "Ausgang": [
+            "nominative"
+          ],
+          "ist": [
+            "verb",
+            "present"
+          ],
+          "auf": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "anderen": [
+            "adjective",
+            "dative"
+          ],
+          "Seite": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "liegt": "liegen",
+          "ist": "sein",
+          "anderen": "ander",
+          "Seite": "die Seite"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [
+          {
+            "surface": "der",
+            "occurrence": 1,
+            "tags": [
+              "article",
+              "dative"
+            ],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": null,
+            "spoken_form": null
+          },
+          {
+            "surface": "der",
+            "occurrence": 2,
+            "tags": [
+              "article",
+              "nominative"
+            ],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": null,
+            "spoken_form": null
+          },
+          {
+            "surface": "der",
+            "occurrence": 3,
+            "tags": [
+              "article",
+              "dative"
+            ],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": null,
+            "spoken_form": null
+          }
+        ],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "neben der Bank",
+            "english": "next to the bank",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "auf der anderen Seite",
+            "english": "on the other side",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Am Feiertag gilt: Bitte den Eingang an der Bank nicht benutzen.",
+      "en": "On the public holiday, the rule is: please do not use the entrance by the bank.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-045/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Feiertag": [
+            "dative",
+            "time"
+          ],
+          "gilt": [
+            "verb",
+            "present"
+          ],
+          "Bitte": [
+            "interjection"
+          ],
+          "den": [
+            "article",
+            "accusative"
+          ],
+          "Eingang": [
+            "accusative"
+          ],
+          "an": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "der": [
+            "article",
+            "dative"
+          ],
+          "Bank": [
+            "dative"
+          ],
+          "nicht": [
+            "negation"
+          ],
+          "benutzen": [
+            "verb",
+            "infinitive"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "gilt": "gelten",
+          "benutzen": "benutzen"
+        },
+        "word_meanings": {
+          "gilt": "the rule is"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am Feiertag",
+            "english": "on the public holiday",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "Am Feiertag gilt",
+            "english": "On the public holiday, the rule is",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "time"
+            ]
+          },
+          {
+            "german": "an der Bank",
+            "english": "by the bank",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "den Eingang an der Bank nicht benutzen",
+            "english": "do not use the entrance by the bank",
+            "literal_meaning": null,
+            "tags": [
+              "imperative",
+              "negation"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina liest die Information und schreibt Leo die richtige Zeit.",
+      "en": "Mina reads the information and messages Leo the correct time.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-045/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Mina": [
+            "nominative"
+          ],
+          "liest": [
+            "verb",
+            "present"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "Information": [
+            "accusative"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "schreibt": [
+            "verb",
+            "present"
+          ],
+          "Leo": [
+            "dative"
+          ],
+          "richtige": [
+            "adjective",
+            "accusative"
+          ],
+          "Zeit": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "liest": "lesen",
+          "schreibt": "schreiben",
+          "richtige": "richtig"
+        },
+        "word_meanings": {
+          "schreibt": "messages / writes"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [
+          {
+            "surface": "die",
+            "occurrence": 1,
+            "tags": [
+              "article",
+              "accusative"
+            ],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": null,
+            "spoken_form": null
+          },
+          {
+            "surface": "die",
+            "occurrence": 2,
+            "tags": [
+              "article",
+              "accusative"
+            ],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": null,
+            "spoken_form": null
+          }
+        ],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "die Information",
+            "english": "the information",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "die richtige Zeit",
+            "english": "the correct time",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "What time does the shop close on Saturday?",
+    "answer_en": "At two o’clock."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_08.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

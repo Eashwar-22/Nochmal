@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-037",
+  "source_sha256": "83c4e97c8e0a48b12d94fae06f1a1d7d87a3550b907c4cebcf08731e4e9570ab",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token coverage",
+        "role and place frames",
+        "mixed and weak adjective references",
+        "dative recipient reference"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "work and course profiles",
+        "als bei in usage",
+        "workday question",
+        "person and place agreement"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "workplace translations",
+        "role vocabulary",
+        "varied sentence openings",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

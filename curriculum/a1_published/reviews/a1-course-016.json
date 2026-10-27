@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-016",
+  "source_sha256": "9a91c50f3ed3eec92f2ce9d6ddbef9414335218dfe3748ecb4e40b561a71903a",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "negative-determiner reference cards",
+        "dative and accusative preposition phrases",
+        "mixed-adjective card"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "keine Milch and kein Gemüse",
+        "in den Kühlschrank",
+        "auf eine kurze Einkaufsliste"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "noun negation meaning",
+        "shopping-list vocabulary",
+        "time expression"
+      ],
+      "findings": []
+    }
+  ]
+}

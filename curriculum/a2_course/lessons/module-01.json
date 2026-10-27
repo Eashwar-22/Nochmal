@@ -1,0 +1,3115 @@
+[
+  {
+    "id": "a2-course-001",
+    "source_draft_id": "a2-draft-001",
+    "sequence": 49,
+    "band": "A2.1",
+    "format": "narrative",
+    "title_de": "Der Tag lief anders",
+    "title_en": "The Day Did Not Go to Plan",
+    "topic": "a connected account of an unexpectedly difficult day",
+    "communicative_goal": "Understand and give a short chronological account of completed everyday actions.",
+    "grammar_focus": "expanded spoken Perfekt with common regular, irregular, and separable verbs",
+    "supporting_structures": [],
+    "grammar_notes": [],
+    "new_targets": [
+      "vergessen",
+      "verpassen",
+      "zurückfahren",
+      "zum Glück"
+    ],
+    "recycled_targets": [
+      "gestern",
+      "aufstehen",
+      "der Bus",
+      "die Stadt",
+      "der Termin"
+    ],
+    "recycles_from": [
+      43,
+      47
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Gestern ist Mina früh aufgestanden und mit dem Bus in die Stadt gefahren.",
+        "en": "Yesterday Mina got up early and took the bus into the city.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Gestern": [
+              "adverb",
+              "time"
+            ],
+            "ist": [
+              "auxiliary",
+              "present"
+            ],
+            "Mina": [
+              "proper noun",
+              "nominative",
+              "subject"
+            ],
+            "früh": [
+              "adverb",
+              "time"
+            ],
+            "aufgestanden": [
+              "verb",
+              "past participle",
+              "perfect",
+              "separable"
+            ],
+            "mit": [
+              "preposition",
+              "dative"
+            ],
+            "dem": [
+              "article",
+              "dative"
+            ],
+            "Bus": [
+              "dative"
+            ],
+            "in": [
+              "preposition",
+              "accusative",
+              "direction"
+            ],
+            "die": [
+              "article",
+              "accusative"
+            ],
+            "Stadt": [
+              "accusative"
+            ],
+            "gefahren": [
+              "verb",
+              "past participle",
+              "perfect"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "ist": "sein",
+            "aufgestanden": "aufstehen",
+            "gefahren": "fahren"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "ist Mina früh aufgestanden",
+              "english": "Mina got up early",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "perfect"
+              ]
+            },
+            {
+              "german": "mit dem Bus",
+              "english": "by bus",
+              "literal_meaning": null,
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "in die Stadt",
+              "english": "into the city",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "direction"
+              ]
+            },
+            {
+              "german": "ist ... gefahren",
+              "english": "travelled",
+              "literal_meaning": null,
+              "tags": [
+                "perfect"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Zuerst hat sie im Café gefrühstückt, aber dann hat sie ihre Geldbörse vergessen.",
+        "en": "First she had breakfast in the café, but then she forgot her wallet.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Zuerst": [
+              "adverb",
+              "time"
+            ],
+            "hat": [
+              "auxiliary",
+              "present"
+            ],
+            "sie": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "im": [
+              "preposition",
+              "dative",
+              "place"
+            ],
+            "Café": [
+              "dative"
+            ],
+            "gefrühstückt": [
+              "verb",
+              "past participle",
+              "perfect"
+            ],
+            "aber": [
+              "conjunction",
+              "coordinating"
+            ],
+            "dann": [
+              "adverb",
+              "time"
+            ],
+            "ihre": [
+              "possessive",
+              "determiner",
+              "accusative"
+            ],
+            "Geldbörse": [
+              "accusative"
+            ],
+            "vergessen": [
+              "verb",
+              "past participle",
+              "perfect"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "hat": "haben",
+            "gefrühstückt": "frühstücken",
+            "vergessen": "vergessen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "im Café",
+              "english": "in the café",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place",
+                "contraction"
+              ]
+            },
+            {
+              "german": "hat sie im Café gefrühstückt",
+              "english": "she had breakfast in the café",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "perfect"
+              ]
+            },
+            {
+              "german": "ihre Geldbörse",
+              "english": "her wallet",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "hat sie ihre Geldbörse vergessen",
+              "english": "she forgot her wallet",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "perfect"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Deshalb ist sie nach Hause zurückgefahren und hat den wichtigen Termin verpasst.",
+        "en": "Therefore she went back home and missed the important appointment.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Deshalb": [
+              "adverb",
+              "connector",
+              "reason"
+            ],
+            "ist": [
+              "auxiliary",
+              "present"
+            ],
+            "sie": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "nach": [
+              "preposition",
+              "dative",
+              "direction"
+            ],
+            "zurückgefahren": [
+              "verb",
+              "past participle",
+              "perfect",
+              "separable"
+            ],
+            "hat": [
+              "auxiliary",
+              "present"
+            ],
+            "den": [
+              "article",
+              "accusative"
+            ],
+            "wichtigen": [
+              "adjective",
+              "accusative"
+            ],
+            "Termin": [
+              "accusative"
+            ],
+            "verpasst": [
+              "verb",
+              "past participle",
+              "perfect"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "ist": "sein",
+            "zurückgefahren": "zurückfahren",
+            "hat": "haben",
+            "wichtigen": "wichtig",
+            "verpasst": "verpassen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Deshalb ist sie nach Hause zurückgefahren",
+              "english": "Therefore she went back home",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "inversion",
+                "perfect"
+              ]
+            },
+            {
+              "german": "nach Hause",
+              "english": "home",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "direction"
+              ]
+            },
+            {
+              "german": "den wichtigen Termin",
+              "english": "the important appointment",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "hat ... verpasst",
+              "english": "missed",
+              "literal_meaning": null,
+              "tags": [
+                "perfect"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Am Nachmittag hat Mina im Büro angerufen und sich freundlich entschuldigt.",
+        "en": "In the afternoon Mina called the office and apologized politely.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Am": [
+              "preposition",
+              "dative",
+              "time"
+            ],
+            "Nachmittag": [
+              "dative"
+            ],
+            "hat": [
+              "auxiliary",
+              "present"
+            ],
+            "Mina": [
+              "proper noun",
+              "nominative",
+              "subject"
+            ],
+            "im": [
+              "preposition",
+              "dative",
+              "place"
+            ],
+            "Büro": [
+              "dative"
+            ],
+            "angerufen": [
+              "verb",
+              "past participle",
+              "perfect",
+              "separable"
+            ],
+            "sich": [
+              "reflexive pronoun",
+              "accusative"
+            ],
+            "freundlich": [
+              "adverb",
+              "manner"
+            ],
+            "entschuldigt": [
+              "verb",
+              "past participle",
+              "perfect",
+              "reflexive"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "hat": "haben",
+            "angerufen": "anrufen",
+            "entschuldigt": "sich entschuldigen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Am Nachmittag",
+              "english": "in the afternoon",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time",
+                "contraction"
+              ]
+            },
+            {
+              "german": "im Büro",
+              "english": "at the office",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place",
+                "contraction"
+              ]
+            },
+            {
+              "german": "hat Mina im Büro angerufen",
+              "english": "Mina called the office",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "perfect"
+              ]
+            },
+            {
+              "german": "sich freundlich entschuldigt",
+              "english": "apologized politely",
+              "literal_meaning": null,
+              "tags": [
+                "reflexive",
+                "perfect"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Am Ende hat sie einen neuen Termin bekommen, und zum Glück ist alles gut gegangen.",
+        "en": "In the end she got a new appointment, and fortunately everything turned out well.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Am": [
+              "preposition",
+              "dative",
+              "time"
+            ],
+            "Ende": [
+              "dative"
+            ],
+            "hat": [
+              "auxiliary",
+              "present"
+            ],
+            "sie": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "einen": [
+              "article",
+              "accusative"
+            ],
+            "neuen": [
+              "adjective",
+              "accusative"
+            ],
+            "Termin": [
+              "accusative"
+            ],
+            "bekommen": [
+              "verb",
+              "past participle",
+              "perfect"
+            ],
+            "zum": [
+              "preposition",
+              "dative"
+            ],
+            "Glück": [
+              "dative"
+            ],
+            "ist": [
+              "auxiliary",
+              "present"
+            ],
+            "alles": [
+              "indefinite pronoun",
+              "nominative",
+              "subject"
+            ],
+            "gut": [
+              "adverb",
+              "manner"
+            ],
+            "gegangen": [
+              "verb",
+              "past participle",
+              "perfect"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "hat": "haben",
+            "bekommen": "bekommen",
+            "neuen": "neu",
+            "ist": "sein",
+            "gegangen": "gehen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Am Ende",
+              "english": "in the end",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time",
+                "contraction"
+              ]
+            },
+            {
+              "german": "einen neuen Termin",
+              "english": "a new appointment",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "hat sie einen neuen Termin bekommen",
+              "english": "she got a new appointment",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "perfect"
+              ]
+            },
+            {
+              "german": "zum Glück",
+              "english": "fortunately",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "fixed phrase",
+                "contraction"
+              ]
+            },
+            {
+              "german": "ist alles gut gegangen",
+              "english": "everything turned out well",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "perfect"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What positive result did Mina get at the end?",
+      "answer_en": "She got a new appointment."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 blueprint lesson 1"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-002",
+    "source_draft_id": "a2-draft-002",
+    "sequence": 50,
+    "band": "A2.1",
+    "format": "narrative",
+    "title_de": "Damals in Bonn",
+    "title_en": "Back Then in Bonn",
+    "topic": "a recollection of the first weeks in a new city",
+    "communicative_goal": "Understand and state simple past background facts and contrast them with the present.",
+    "grammar_focus": "spoken Präteritum of sein and haben",
+    "supporting_structures": [],
+    "grammar_notes": [],
+    "new_targets": [
+      "damals",
+      "fremd",
+      "nervös",
+      "allein",
+      "die Erfahrung",
+      "am Anfang"
+    ],
+    "recycled_targets": [
+      "die Stadt",
+      "die Wohnung",
+      "der Kurs",
+      "die Nachbarin",
+      "heute"
+    ],
+    "recycles_from": [
+      1,
+      2,
+      7,
+      19
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Damals war Mina neu in Bonn und hatte nur ein kleines Zimmer.",
+        "en": "Back then Mina was new in Bonn and only had a small room.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Damals": [
+              "adverb",
+              "time"
+            ],
+            "Mina": [
+              "proper noun",
+              "nominative",
+              "subject"
+            ],
+            "neu": [
+              "adjective"
+            ],
+            "in": [
+              "preposition",
+              "dative",
+              "place"
+            ],
+            "Bonn": [
+              "proper noun",
+              "dative"
+            ],
+            "war": [
+              "verb",
+              "simple past"
+            ],
+            "hatte": [
+              "verb",
+              "simple past"
+            ],
+            "nur": [
+              "adverb"
+            ],
+            "ein": [
+              "article",
+              "accusative"
+            ],
+            "kleines": [
+              "adjective",
+              "accusative"
+            ],
+            "Zimmer": [
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "war": "sein",
+            "hatte": "haben",
+            "kleines": "klein"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Damals war Mina neu in Bonn",
+              "english": "Back then Mina was new in Bonn",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "inversion",
+                "simple past"
+              ]
+            },
+            {
+              "german": "ein kleines Zimmer",
+              "english": "a small room",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "hatte nur ein kleines Zimmer",
+              "english": "and only had a small room",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "simple past"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Am Anfang war die Stadt fremd, und Mina war oft nervös.",
+        "en": "At first the city was unfamiliar, and Mina was often nervous.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Am": [
+              "preposition",
+              "dative",
+              "time"
+            ],
+            "Anfang": [
+              "dative"
+            ],
+            "war": [
+              "verb",
+              "simple past"
+            ],
+            "die": [
+              "article",
+              "nominative"
+            ],
+            "Stadt": [
+              "nominative",
+              "subject"
+            ],
+            "fremd": [
+              "adjective",
+              "predicate"
+            ],
+            "Mina": [
+              "proper noun",
+              "nominative",
+              "subject"
+            ],
+            "oft": [
+              "adverb",
+              "frequency"
+            ],
+            "nervös": [
+              "adjective",
+              "predicate"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "war": "sein"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Am Anfang",
+              "english": "at first",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time",
+                "contraction"
+              ]
+            },
+            {
+              "german": "war die Stadt fremd",
+              "english": "the city was unfamiliar",
+              "literal_meaning": null,
+              "tags": [
+                "main clause"
+              ]
+            },
+            {
+              "german": "Mina war oft nervös",
+              "english": "Mina was often nervous",
+              "literal_meaning": null,
+              "tags": [
+                "main clause"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Sie hatte noch keine Freunde und war am Wochenende meistens allein.",
+        "en": "She did not have any friends yet and was usually alone at the weekend.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "hatte": [
+              "verb",
+              "simple past"
+            ],
+            "noch": [
+              "adverb",
+              "time"
+            ],
+            "keine": [
+              "determiner",
+              "accusative",
+              "negation"
+            ],
+            "Freunde": [
+              "accusative",
+              "plural"
+            ],
+            "war": [
+              "verb",
+              "simple past"
+            ],
+            "am": [
+              "preposition",
+              "dative",
+              "time"
+            ],
+            "Wochenende": [
+              "dative"
+            ],
+            "meistens": [
+              "adverb",
+              "frequency"
+            ],
+            "allein": [
+              "adjective",
+              "predicate"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "hatte": "haben",
+            "war": "sein"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "noch keine Freunde",
+              "english": "no friends yet",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "negation"
+              ]
+            },
+            {
+              "german": "am Wochenende",
+              "english": "at the weekend",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time",
+                "contraction"
+              ]
+            },
+            {
+              "german": "war am Wochenende meistens allein",
+              "english": "was usually alone at the weekend",
+              "literal_meaning": null,
+              "tags": [
+                "main clause"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Dann hat sie im Deutschkurs Sara kennengelernt und mit ihrer Nachbarin gesprochen.",
+        "en": "Then she met Sara in the German course and spoke with her neighbor.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Dann": [
+              "adverb",
+              "time"
+            ],
+            "hat": [
+              "auxiliary",
+              "present"
+            ],
+            "sie": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "im": [
+              "preposition",
+              "dative",
+              "place"
+            ],
+            "Deutschkurs": [
+              "dative"
+            ],
+            "Sara": [
+              "proper noun",
+              "accusative"
+            ],
+            "kennengelernt": [
+              "verb",
+              "past participle",
+              "perfect",
+              "separable"
+            ],
+            "mit": [
+              "preposition",
+              "dative"
+            ],
+            "ihrer": [
+              "possessive",
+              "determiner",
+              "dative"
+            ],
+            "Nachbarin": [
+              "dative"
+            ],
+            "gesprochen": [
+              "verb",
+              "past participle",
+              "perfect"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "hat": "haben",
+            "kennengelernt": "kennenlernen",
+            "gesprochen": "sprechen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "im Deutschkurs",
+              "english": "in the German course",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place",
+                "contraction"
+              ]
+            },
+            {
+              "german": "hat sie ... kennengelernt",
+              "english": "she met",
+              "literal_meaning": null,
+              "tags": [
+                "perfect"
+              ]
+            },
+            {
+              "german": "mit ihrer Nachbarin",
+              "english": "with her neighbor",
+              "literal_meaning": null,
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "hat ... gesprochen",
+              "english": "spoke",
+              "literal_meaning": null,
+              "tags": [
+                "perfect"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Heute hat Mina viele Freunde, hat gute Erfahrungen gemacht und fühlt sich in Bonn zu Hause.",
+        "en": "Today Mina has many friends, has had good experiences, and feels at home in Bonn.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Heute": [
+              "adverb",
+              "time"
+            ],
+            "hat": [
+              "verb",
+              "present"
+            ],
+            "Mina": [
+              "proper noun",
+              "nominative",
+              "subject"
+            ],
+            "viele": [
+              "adjective",
+              "accusative"
+            ],
+            "Freunde": [
+              "noun",
+              "accusative",
+              "plural"
+            ],
+            "gute": [
+              "adjective",
+              "accusative"
+            ],
+            "Erfahrungen": [
+              "accusative",
+              "plural"
+            ],
+            "fühlt": [
+              "verb",
+              "present",
+              "reflexive"
+            ],
+            "sich": [
+              "reflexive pronoun",
+              "accusative"
+            ],
+            "in": [
+              "preposition",
+              "dative",
+              "place"
+            ],
+            "Bonn": [
+              "proper noun",
+              "dative"
+            ],
+            "zu": [
+              "preposition",
+              "dative",
+              "place"
+            ],
+            "Hause": [
+              "dative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "hat": "haben",
+            "viele": "viel",
+            "gute": "gut",
+            "gemacht": "machen",
+            "fühlt": "sich fühlen"
+          },
+          "word_meanings": {
+            "hat": "has"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [
+            {
+              "surface": "hat",
+              "occurrence": 2,
+              "tags": [
+                "auxiliary"
+              ]
+            }
+          ],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Heute hat Mina viele Freunde",
+              "english": "Today Mina has many friends",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "inversion"
+              ]
+            },
+            {
+              "german": "viele Freunde",
+              "english": "many friends",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "plural"
+              ]
+            },
+            {
+              "german": "gute Erfahrungen",
+              "english": "good experiences",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "plural"
+              ]
+            },
+            {
+              "german": "hat gute Erfahrungen gemacht",
+              "english": "has had good experiences",
+              "literal_meaning": null,
+              "tags": [
+                "perfect"
+              ]
+            },
+            {
+              "german": "fühlt sich in Bonn zu Hause",
+              "english": "feels at home in Bonn",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "reflexive",
+                "place"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "How did Mina feel at the beginning?",
+      "answer_en": "The city felt unfamiliar, and she was often nervous and alone."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 blueprint lesson 2"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-003",
+    "source_draft_id": "a2-draft-003",
+    "sequence": 51,
+    "band": "A2.1",
+    "format": "dialogue",
+    "title_de": "Weil der Bus zu spät war",
+    "title_en": "Because the Bus Was Late",
+    "topic": "an explanation for arriving late",
+    "communicative_goal": "Give a clear reason for a familiar event and respond appropriately.",
+    "grammar_focus": "subordinate reason clauses with weil",
+    "supporting_structures": [],
+    "grammar_notes": [],
+    "new_targets": [
+      "der Grund",
+      "die Verspätung",
+      "zu spät",
+      "warten",
+      "der Bescheid"
+    ],
+    "recycled_targets": [
+      "der Bus",
+      "der Termin",
+      "sich entschuldigen",
+      "gestern"
+    ],
+    "recycles_from": [
+      3,
+      10,
+      25,
+      28,
+      41
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Mina kommt zu spät zu einem Termin im Büro.",
+        "en": "Mina arrives late for an appointment at the office.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Mina": [
+              "proper noun",
+              "nominative",
+              "subject"
+            ],
+            "kommt": [
+              "verb",
+              "present"
+            ],
+            "spät": [
+              "adverb",
+              "time"
+            ],
+            "einem": [
+              "article",
+              "dative"
+            ],
+            "Termin": [
+              "dative"
+            ],
+            "im": [
+              "preposition",
+              "dative",
+              "place"
+            ],
+            "Büro": [
+              "dative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "kommt": "kommen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [
+            {
+              "surface": "zu",
+              "occurrence": 1,
+              "tags": [
+                "particle"
+              ],
+              "excluded_tags": [
+                "preposition"
+              ]
+            },
+            {
+              "surface": "zu",
+              "occurrence": 2,
+              "tags": [
+                "preposition",
+                "dative",
+                "direction"
+              ]
+            }
+          ],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "zu einem Termin",
+              "english": "for an appointment",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "direction"
+              ]
+            },
+            {
+              "german": "im Büro",
+              "english": "at the office",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place",
+                "contraction"
+              ]
+            },
+            {
+              "german": "kommt zu spät",
+              "english": "arrives late",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "fixed phrase"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ihr Chef fragt freundlich: „Warum bist du heute zu spät?“",
+        "en": "Her manager asks politely, “Why are you late today?”",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Ihr": [
+              "possessive",
+              "determiner",
+              "nominative"
+            ],
+            "Chef": [
+              "nominative",
+              "subject"
+            ],
+            "fragt": [
+              "verb",
+              "present"
+            ],
+            "freundlich": [
+              "adverb",
+              "manner"
+            ],
+            "Warum": [
+              "interrogative pronoun",
+              "reason"
+            ],
+            "bist": [
+              "verb",
+              "present"
+            ],
+            "du": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "heute": [
+              "adverb",
+              "time"
+            ],
+            "zu": [
+              "particle"
+            ],
+            "spät": [
+              "adjective",
+              "predicate"
+            ]
+          },
+          "excluded_word_tags": {
+            "Ihr": [
+              "personal pronoun"
+            ]
+          },
+          "base_forms": {
+            "fragt": "fragen",
+            "bist": "sein"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Ihr Chef",
+              "english": "her manager",
+              "literal_meaning": null,
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "Warum bist du heute zu spät",
+              "english": "Why are you late today",
+              "literal_meaning": null,
+              "tags": [
+                "main clause"
+              ]
+            },
+            {
+              "german": "zu spät",
+              "english": "late",
+              "literal_meaning": null,
+              "tags": [
+                "fixed phrase"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Mina antwortet: „Ich bin zu spät, weil der Bus eine Verspätung hatte.“",
+        "en": "Mina replies, “I am late because the bus was delayed.”",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Mina": [
+              "proper noun",
+              "nominative",
+              "subject"
+            ],
+            "antwortet": [
+              "verb",
+              "present"
+            ],
+            "Ich": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "bin": [
+              "verb",
+              "present"
+            ],
+            "zu": [
+              "particle"
+            ],
+            "weil": [
+              "conjunction",
+              "subordinating",
+              "reason"
+            ],
+            "der": [
+              "article",
+              "nominative"
+            ],
+            "Bus": [
+              "nominative",
+              "subject"
+            ],
+            "eine": [
+              "article",
+              "accusative"
+            ],
+            "Verspätung": [
+              "accusative"
+            ],
+            "hatte": [
+              "verb",
+              "simple past"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "antwortet": "antworten",
+            "bin": "sein",
+            "hatte": "haben"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Ich bin zu spät",
+              "english": "I am late",
+              "literal_meaning": null,
+              "tags": [
+                "main clause"
+              ]
+            },
+            {
+              "german": "weil der Bus eine Verspätung hatte",
+              "english": "because the bus was delayed",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "reason"
+              ]
+            },
+            {
+              "german": "eine Verspätung",
+              "english": "a delay",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Sie hat zwanzig Minuten gewartet und im Bus sofort angerufen.",
+        "en": "She waited for twenty minutes and called immediately from the bus.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "hat": [
+              "auxiliary",
+              "present"
+            ],
+            "zwanzig": [
+              "numeral",
+              "time"
+            ],
+            "Minuten": [
+              "accusative",
+              "plural",
+              "time"
+            ],
+            "gewartet": [
+              "verb",
+              "past participle",
+              "perfect"
+            ],
+            "im": [
+              "preposition",
+              "dative",
+              "place"
+            ],
+            "Bus": [
+              "dative"
+            ],
+            "sofort": [
+              "adverb",
+              "time"
+            ],
+            "angerufen": [
+              "verb",
+              "past participle",
+              "perfect",
+              "separable"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "hat": "haben",
+            "gewartet": "warten",
+            "angerufen": "anrufen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "zwanzig Minuten",
+              "english": "for twenty minutes",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "time"
+              ]
+            },
+            {
+              "german": "hat ... gewartet",
+              "english": "waited",
+              "literal_meaning": null,
+              "tags": [
+                "perfect"
+              ]
+            },
+            {
+              "german": "im Bus",
+              "english": "on the bus",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place",
+                "contraction"
+              ]
+            },
+            {
+              "german": "hat ... angerufen",
+              "english": "called",
+              "literal_meaning": null,
+              "tags": [
+                "perfect"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Der Chef sagt: „Danke für den Bescheid; jetzt ist der Grund klar.“",
+        "en": "The manager says, “Thanks for letting me know; now the reason is clear.”",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Der": [
+              "article",
+              "nominative"
+            ],
+            "Chef": [
+              "nominative",
+              "subject"
+            ],
+            "sagt": [
+              "verb",
+              "present"
+            ],
+            "für": [
+              "preposition",
+              "accusative"
+            ],
+            "den": [
+              "article",
+              "accusative"
+            ],
+            "Bescheid": [
+              "accusative"
+            ],
+            "jetzt": [
+              "adverb",
+              "time"
+            ],
+            "ist": [
+              "verb",
+              "present"
+            ],
+            "der": [
+              "article",
+              "nominative"
+            ],
+            "Grund": [
+              "nominative",
+              "subject"
+            ],
+            "klar": [
+              "adjective",
+              "predicate"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "sagt": "sagen",
+            "ist": "sein"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Der Chef",
+              "english": "the manager",
+              "literal_meaning": null,
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "für den Bescheid",
+              "english": "for letting me know",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "fixed phrase"
+              ]
+            },
+            {
+              "german": "jetzt ist der Grund klar",
+              "english": "now the reason is clear",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "inversion"
+              ]
+            },
+            {
+              "german": "der Grund",
+              "english": "the reason",
+              "literal_meaning": null,
+              "tags": [
+                "nominative"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "Why was Mina late?",
+      "answer_en": "The bus was delayed."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 blueprint lesson 3"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-004",
+    "source_draft_id": "a2-draft-004",
+    "sequence": 52,
+    "band": "A2.1",
+    "format": "message",
+    "title_de": "Deshalb ändere ich den Plan",
+    "title_en": "That Is Why I’m Changing the Plan",
+    "topic": "a message explaining a practical consequence",
+    "communicative_goal": "Connect a familiar cause to a practical result.",
+    "grammar_focus": "main-clause result connector deshalb with inversion",
+    "supporting_structures": [],
+    "grammar_notes": [],
+    "new_targets": [
+      "absagen",
+      "verschieben",
+      "die Lösung",
+      "rechtzeitig"
+    ],
+    "recycled_targets": [
+      "der Termin",
+      "der Bus",
+      "der Plan",
+      "die Verspätung"
+    ],
+    "recycles_from": [
+      3,
+      10,
+      28,
+      40
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Der Zug nach Bonn hat heute eine große Verspätung.",
+        "en": "The train to Bonn has a major delay today.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Der": [
+              "article",
+              "nominative"
+            ],
+            "Zug": [
+              "nominative",
+              "subject"
+            ],
+            "nach": [
+              "preposition",
+              "dative",
+              "direction"
+            ],
+            "Bonn": [
+              "proper noun",
+              "dative"
+            ],
+            "hat": [
+              "verb",
+              "present"
+            ],
+            "heute": [
+              "adverb",
+              "time"
+            ],
+            "eine": [
+              "article",
+              "accusative"
+            ],
+            "große": [
+              "adjective",
+              "accusative"
+            ],
+            "Verspätung": [
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "hat": "haben",
+            "große": "groß"
+          },
+          "word_meanings": {
+            "große": "major"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Der Zug nach Bonn",
+              "english": "the train to Bonn",
+              "literal_meaning": null,
+              "tags": [
+                "nominative",
+                "direction"
+              ]
+            },
+            {
+              "german": "eine große Verspätung",
+              "english": "a major delay",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Deshalb komme ich nicht rechtzeitig zu unserem Termin.",
+        "en": "That is why I will not arrive at our appointment on time.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Deshalb": [
+              "adverb",
+              "connector",
+              "reason"
+            ],
+            "komme": [
+              "verb",
+              "present"
+            ],
+            "ich": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "nicht": [
+              "adverb",
+              "negation"
+            ],
+            "rechtzeitig": [
+              "adverb",
+              "time"
+            ],
+            "zu": [
+              "preposition",
+              "dative",
+              "direction"
+            ],
+            "unserem": [
+              "possessive",
+              "determiner",
+              "dative"
+            ],
+            "Termin": [
+              "dative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "komme": "kommen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Deshalb komme ich nicht rechtzeitig",
+              "english": "That is why I will not arrive on time",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "inversion",
+                "negation"
+              ]
+            },
+            {
+              "german": "zu unserem Termin",
+              "english": "for our appointment",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "direction"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ich möchte das Gespräch aber nicht ganz absagen.",
+        "en": "However, I do not want to cancel the meeting completely.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Ich": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "möchte": [
+              "modal verb",
+              "present",
+              "subjunctive"
+            ],
+            "das": [
+              "article",
+              "accusative"
+            ],
+            "Gespräch": [
+              "accusative"
+            ],
+            "aber": [
+              "conjunction",
+              "coordinating"
+            ],
+            "nicht": [
+              "adverb",
+              "negation"
+            ],
+            "ganz": [
+              "adverb"
+            ],
+            "absagen": [
+              "verb",
+              "infinitive",
+              "separable"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "möchte": "möchten",
+            "absagen": "absagen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "das Gespräch",
+              "english": "the meeting",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "möchte ... nicht ganz absagen",
+              "english": "do not want to cancel completely",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "negation"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Wir können den Termin auf morgen verschieben oder heute telefonieren.",
+        "en": "We can move the appointment to tomorrow or speak on the phone today.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Wir": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "können": [
+              "modal verb",
+              "present"
+            ],
+            "den": [
+              "article",
+              "accusative"
+            ],
+            "Termin": [
+              "accusative"
+            ],
+            "auf": [
+              "preposition",
+              "accusative",
+              "time"
+            ],
+            "morgen": [
+              "adverb",
+              "time"
+            ],
+            "verschieben": [
+              "verb",
+              "infinitive"
+            ],
+            "oder": [
+              "conjunction",
+              "coordinating"
+            ],
+            "heute": [
+              "adverb",
+              "time"
+            ],
+            "telefonieren": [
+              "verb",
+              "infinitive"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "können": "können",
+            "verschieben": "verschieben",
+            "telefonieren": "telefonieren"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "den Termin",
+              "english": "the appointment",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "auf morgen",
+              "english": "to tomorrow",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "time"
+              ]
+            },
+            {
+              "german": "können den Termin auf morgen verschieben",
+              "english": "can move the appointment to tomorrow",
+              "literal_meaning": null,
+              "tags": [
+                "main clause"
+              ]
+            },
+            {
+              "german": "oder heute telefonieren",
+              "english": "or speak on the phone today",
+              "literal_meaning": null,
+              "tags": [
+                "coordinating"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Bitte schreib mir kurz, welche Lösung für dich besser passt.",
+        "en": "Please write to me briefly which solution suits you better.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Bitte": [
+              "interjection"
+            ],
+            "schreib": [
+              "verb",
+              "imperative"
+            ],
+            "mir": [
+              "personal pronoun",
+              "dative"
+            ],
+            "kurz": [
+              "adverb",
+              "manner"
+            ],
+            "welche": [
+              "determiner",
+              "nominative"
+            ],
+            "Lösung": [
+              "nominative",
+              "subject"
+            ],
+            "für": [
+              "preposition",
+              "accusative"
+            ],
+            "dich": [
+              "personal pronoun",
+              "accusative"
+            ],
+            "besser": [
+              "adverb",
+              "comparative"
+            ],
+            "passt": [
+              "verb",
+              "present"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "schreib": "schreiben",
+            "passt": "passen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "welche Lösung",
+              "english": "which solution",
+              "literal_meaning": null,
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "schreib mir kurz",
+              "english": "write to me briefly",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "imperative"
+              ]
+            },
+            {
+              "german": "welche Lösung für dich besser passt",
+              "english": "which solution suits you better",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            },
+            {
+              "german": "für dich",
+              "english": "for you",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What two alternatives does the message offer?",
+      "answer_en": "Move the appointment to tomorrow or speak on the phone today."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 blueprint lesson 4"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-005",
+    "source_draft_id": "a2-draft-005",
+    "sequence": 53,
+    "band": "A2.1",
+    "format": "narrative",
+    "title_de": "Es hat trotzdem geklappt",
+    "title_en": "It Worked Anyway",
+    "topic": "a positive result despite a practical problem",
+    "communicative_goal": "Signal a contrast between a difficulty and an unexpected result.",
+    "grammar_focus": "main-clause contrast connector trotzdem with inversion",
+    "supporting_structures": [],
+    "grammar_notes": [],
+    "new_targets": [
+      "trotzdem",
+      "klappen",
+      "schaffen",
+      "zufrieden",
+      "außerdem"
+    ],
+    "recycled_targets": [
+      "die Verspätung",
+      "der Termin",
+      "die Lösung",
+      "am Ende"
+    ],
+    "recycles_from": [
+      4,
+      28,
+      40,
+      47
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Mina hatte am Morgen einen wichtigen Termin in der Stadt.",
+        "en": "Mina had an important appointment in the city in the morning.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Mina": [
+              "proper noun",
+              "nominative",
+              "subject"
+            ],
+            "hatte": [
+              "verb",
+              "simple past"
+            ],
+            "am": [
+              "preposition",
+              "dative",
+              "time"
+            ],
+            "Morgen": [
+              "dative"
+            ],
+            "einen": [
+              "article",
+              "accusative"
+            ],
+            "wichtigen": [
+              "adjective",
+              "accusative"
+            ],
+            "Termin": [
+              "accusative"
+            ],
+            "in": [
+              "preposition",
+              "dative",
+              "place"
+            ],
+            "der": [
+              "article",
+              "dative"
+            ],
+            "Stadt": [
+              "dative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "hatte": "haben"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "am Morgen",
+              "english": "in the morning",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time",
+                "contraction"
+              ]
+            },
+            {
+              "german": "einen wichtigen Termin",
+              "english": "an important appointment",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "in der Stadt",
+              "english": "in the city",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Der Bus war zu spät, und außerdem hat es stark geregnet.",
+        "en": "The bus was late, and it also rained heavily.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Der": [
+              "article",
+              "nominative"
+            ],
+            "Bus": [
+              "nominative",
+              "subject"
+            ],
+            "war": [
+              "verb",
+              "simple past"
+            ],
+            "zu": [
+              "particle"
+            ],
+            "spät": [
+              "adjective",
+              "predicate"
+            ],
+            "außerdem": [
+              "adverb",
+              "connector"
+            ],
+            "hat": [
+              "auxiliary",
+              "present"
+            ],
+            "es": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "stark": [
+              "adverb",
+              "manner"
+            ],
+            "geregnet": [
+              "verb",
+              "past participle",
+              "perfect"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "war": "sein",
+            "hat": "haben",
+            "geregnet": "regnen"
+          },
+          "word_meanings": {
+            "stark": "heavily"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Der Bus war zu spät",
+              "english": "The bus was late",
+              "literal_meaning": null,
+              "tags": [
+                "main clause"
+              ]
+            },
+            {
+              "german": "hat es stark geregnet",
+              "english": "it rained heavily",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "perfect"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Trotzdem ist Mina rechtzeitig im Büro angekommen.",
+        "en": "Nevertheless, Mina arrived at the office on time.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Trotzdem": [
+              "adverb",
+              "connector"
+            ],
+            "ist": [
+              "auxiliary",
+              "present"
+            ],
+            "Mina": [
+              "proper noun",
+              "nominative",
+              "subject"
+            ],
+            "rechtzeitig": [
+              "adverb",
+              "time"
+            ],
+            "im": [
+              "preposition",
+              "dative",
+              "place"
+            ],
+            "Büro": [
+              "dative"
+            ],
+            "angekommen": [
+              "verb",
+              "past participle",
+              "perfect",
+              "separable"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "ist": "sein",
+            "angekommen": "ankommen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Trotzdem ist Mina rechtzeitig im Büro angekommen",
+              "english": "Nevertheless, Mina arrived at the office on time",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "inversion",
+                "perfect"
+              ]
+            },
+            {
+              "german": "im Büro",
+              "english": "at the office",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place",
+                "contraction"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Das Gespräch war schwierig, aber sie hat alles geschafft.",
+        "en": "The meeting was difficult, but she managed everything.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Das": [
+              "article",
+              "nominative"
+            ],
+            "Gespräch": [
+              "nominative",
+              "subject"
+            ],
+            "war": [
+              "verb",
+              "simple past"
+            ],
+            "schwierig": [
+              "adjective",
+              "predicate"
+            ],
+            "aber": [
+              "conjunction",
+              "coordinating"
+            ],
+            "sie": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "hat": [
+              "auxiliary",
+              "present"
+            ],
+            "alles": [
+              "indefinite pronoun",
+              "accusative"
+            ],
+            "geschafft": [
+              "verb",
+              "past participle",
+              "perfect"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "war": "sein",
+            "hat": "haben",
+            "geschafft": "schaffen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Das Gespräch war schwierig",
+              "english": "The meeting was difficult",
+              "literal_meaning": null,
+              "tags": [
+                "main clause"
+              ]
+            },
+            {
+              "german": "hat alles geschafft",
+              "english": "managed everything",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "perfect"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Am Ende war ihr Chef zufrieden, und der ganze Plan hat doch geklappt.",
+        "en": "In the end her manager was satisfied, and the whole plan worked after all.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Am": [
+              "preposition",
+              "dative",
+              "time"
+            ],
+            "Ende": [
+              "dative"
+            ],
+            "ihr": [
+              "possessive",
+              "determiner",
+              "nominative"
+            ],
+            "Chef": [
+              "nominative",
+              "subject"
+            ],
+            "war": [
+              "verb",
+              "simple past"
+            ],
+            "zufrieden": [
+              "adjective",
+              "predicate"
+            ],
+            "der": [
+              "article",
+              "nominative"
+            ],
+            "ganze": [
+              "adjective",
+              "nominative"
+            ],
+            "Plan": [
+              "nominative",
+              "subject"
+            ],
+            "hat": [
+              "auxiliary",
+              "present"
+            ],
+            "doch": [
+              "particle"
+            ],
+            "geklappt": [
+              "verb",
+              "past participle",
+              "perfect"
+            ]
+          },
+          "excluded_word_tags": {
+            "ihr": [
+              "personal pronoun"
+            ],
+            "doch": [
+              "conjunction",
+              "coordinating"
+            ]
+          },
+          "base_forms": {
+            "war": "sein",
+            "hat": "haben",
+            "geklappt": "klappen",
+            "ganze": "ganz"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Am Ende",
+              "english": "in the end",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time",
+                "contraction"
+              ]
+            },
+            {
+              "german": "ihr Chef",
+              "english": "her manager",
+              "literal_meaning": null,
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "der ganze Plan",
+              "english": "the whole plan",
+              "literal_meaning": null,
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "hat doch geklappt",
+              "english": "worked after all",
+              "literal_meaning": null,
+              "tags": [
+                "perfect"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What was the unexpected positive result?",
+      "answer_en": "Mina arrived on time, managed the meeting, and her plan worked."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 blueprint lesson 5"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-006",
+    "source_draft_id": "a2-draft-006",
+    "sequence": 54,
+    "band": "A2.1",
+    "format": "dialogue",
+    "title_de": "Checkpoint: Was ist passiert?",
+    "title_en": "Checkpoint: Explain What Happened",
+    "topic": "explaining a late arrival and agreeing on the next step",
+    "communicative_goal": "Give a connected account, a reason, and a practical consequence.",
+    "grammar_focus": "retrieval of Perfekt, war/hatte, weil, deshalb, and trotzdem",
+    "supporting_structures": [],
+    "grammar_notes": [],
+    "new_targets": [
+      "Was ist passiert?",
+      "Mein Bus hatte Verspätung",
+      "Danach",
+      "Deshalb",
+      "Zum Glück"
+    ],
+    "recycled_targets": [
+      "die Verspätung",
+      "der Termin",
+      "anrufen",
+      "verschieben",
+      "sich entschuldigen"
+    ],
+    "recycles_from": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Sara fragt Mina im Büro: „Was ist heute Morgen passiert?“",
+        "en": "Sara asks Mina at the office, “What happened this morning?”",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sara": [
+              "proper noun",
+              "nominative",
+              "subject"
+            ],
+            "fragt": [
+              "verb",
+              "present"
+            ],
+            "Mina": [
+              "proper noun",
+              "accusative"
+            ],
+            "im": [
+              "preposition",
+              "dative",
+              "place"
+            ],
+            "Büro": [
+              "dative"
+            ],
+            "Was": [
+              "interrogative pronoun"
+            ],
+            "ist": [
+              "auxiliary",
+              "present"
+            ],
+            "heute": [
+              "adverb",
+              "time"
+            ],
+            "Morgen": [
+              "accusative",
+              "time"
+            ],
+            "passiert": [
+              "verb",
+              "past participle",
+              "perfect"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "fragt": "fragen",
+            "ist": "sein",
+            "passiert": "passieren"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "im Büro",
+              "english": "at the office",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place",
+                "contraction"
+              ]
+            },
+            {
+              "german": "Was ist heute Morgen passiert",
+              "english": "What happened this morning",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "perfect"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Mina sagt: „Mein Bus hatte Verspätung, weil auf der Straße ein Unfall war.“",
+        "en": "Mina says, “My bus was delayed because there was an accident on the road.”",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Mina": [
+              "proper noun",
+              "nominative",
+              "subject"
+            ],
+            "sagt": [
+              "verb",
+              "present"
+            ],
+            "Mein": [
+              "possessive",
+              "determiner",
+              "nominative"
+            ],
+            "Bus": [
+              "nominative",
+              "subject"
+            ],
+            "hatte": [
+              "verb",
+              "simple past"
+            ],
+            "Verspätung": [
+              "accusative"
+            ],
+            "weil": [
+              "conjunction",
+              "subordinating",
+              "reason"
+            ],
+            "auf": [
+              "preposition",
+              "dative",
+              "place"
+            ],
+            "der": [
+              "article",
+              "dative"
+            ],
+            "Straße": [
+              "dative"
+            ],
+            "ein": [
+              "article",
+              "nominative"
+            ],
+            "Unfall": [
+              "nominative",
+              "subject"
+            ],
+            "war": [
+              "verb",
+              "simple past"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "sagt": "sagen",
+            "hatte": "haben",
+            "war": "sein"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Mein Bus",
+              "english": "my bus",
+              "literal_meaning": null,
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "hatte Verspätung",
+              "english": "was delayed",
+              "literal_meaning": null,
+              "tags": [
+                "main clause"
+              ]
+            },
+            {
+              "german": "weil auf der Straße ein Unfall war",
+              "english": "because there was an accident on the road",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "reason"
+              ]
+            },
+            {
+              "german": "auf der Straße",
+              "english": "on the road",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Danach hat sie im Büro angerufen und sich für die Verspätung entschuldigt.",
+        "en": "Afterwards she called the office and apologized for the delay.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Danach": [
+              "adverb",
+              "time"
+            ],
+            "hat": [
+              "auxiliary",
+              "present"
+            ],
+            "sie": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "im": [
+              "preposition",
+              "dative",
+              "place"
+            ],
+            "Büro": [
+              "dative"
+            ],
+            "angerufen": [
+              "verb",
+              "past participle",
+              "perfect",
+              "separable"
+            ],
+            "sich": [
+              "reflexive pronoun",
+              "accusative"
+            ],
+            "für": [
+              "preposition",
+              "accusative"
+            ],
+            "die": [
+              "article",
+              "accusative"
+            ],
+            "Verspätung": [
+              "accusative"
+            ],
+            "entschuldigt": [
+              "verb",
+              "past participle",
+              "perfect",
+              "reflexive"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "hat": "haben",
+            "angerufen": "anrufen",
+            "entschuldigt": "sich entschuldigen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "im Büro",
+              "english": "at the office",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place",
+                "contraction"
+              ]
+            },
+            {
+              "german": "hat sie im Büro angerufen",
+              "english": "she called the office",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "perfect"
+              ]
+            },
+            {
+              "german": "sich für die Verspätung entschuldigt",
+              "english": "apologized for the delay",
+              "literal_meaning": null,
+              "tags": [
+                "reflexive",
+                "perfect",
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Deshalb haben sie den Termin auf den Nachmittag verschoben.",
+        "en": "Therefore they moved the appointment to the afternoon.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Deshalb": [
+              "adverb",
+              "connector",
+              "reason"
+            ],
+            "haben": [
+              "auxiliary",
+              "present"
+            ],
+            "sie": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "den": [
+              "article",
+              "accusative"
+            ],
+            "Termin": [
+              "accusative"
+            ],
+            "auf": [
+              "preposition",
+              "accusative",
+              "time"
+            ],
+            "Nachmittag": [
+              "accusative"
+            ],
+            "verschoben": [
+              "verb",
+              "past participle",
+              "perfect"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "haben": "haben",
+            "verschoben": "verschieben"
+          },
+          "word_meanings": {
+            "sie": "they"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Deshalb haben sie den Termin auf den Nachmittag verschoben",
+              "english": "Therefore they moved the appointment to the afternoon",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "inversion",
+                "perfect"
+              ]
+            },
+            {
+              "german": "den Termin",
+              "english": "the appointment",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "auf den Nachmittag",
+              "english": "to the afternoon",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "time"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Trotzdem war Mina nervös, aber zum Glück ist jetzt alles klar.",
+        "en": "Mina was nervous nevertheless, but fortunately everything is clear now.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Trotzdem": [
+              "adverb",
+              "connector"
+            ],
+            "war": [
+              "verb",
+              "simple past"
+            ],
+            "Mina": [
+              "proper noun",
+              "nominative",
+              "subject"
+            ],
+            "nervös": [
+              "adjective",
+              "predicate"
+            ],
+            "aber": [
+              "conjunction",
+              "coordinating"
+            ],
+            "zum": [
+              "preposition",
+              "dative"
+            ],
+            "Glück": [
+              "dative"
+            ],
+            "ist": [
+              "verb",
+              "present"
+            ],
+            "jetzt": [
+              "adverb",
+              "time"
+            ],
+            "alles": [
+              "indefinite pronoun",
+              "nominative",
+              "subject"
+            ],
+            "klar": [
+              "adjective",
+              "predicate"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "war": "sein",
+            "ist": "sein"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Trotzdem war Mina nervös",
+              "english": "Mina was nervous nevertheless",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "inversion"
+              ]
+            },
+            {
+              "german": "zum Glück",
+              "english": "fortunately",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "fixed phrase",
+                "contraction"
+              ]
+            },
+            {
+              "german": "ist jetzt alles klar",
+              "english": "everything is clear now",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "inversion"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "Why did Mina's bus have a delay?",
+      "answer_en": "There was an accident on the road."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 blueprint lesson 6"
+    ],
+    "speech_alternatives": []
+  }
+]

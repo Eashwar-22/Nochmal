@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-031",
+  "source_sha256": "211f97bd5d788f5236c0be9cbe40b987af138c7d35055a67006dd1f8f9cc7437",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token coverage",
+        "mir personal-pronoun reference",
+        "wehtun separable construction",
+        "possessive accusative forms"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "doctor consultation wording",
+        "body-part subjects",
+        "formal Ihr agreement",
+        "symptom continuity"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "natural symptom translations",
+        "A1 consultation scope",
+        "body vocabulary progression",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

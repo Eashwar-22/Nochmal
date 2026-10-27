@@ -1,0 +1,2995 @@
+{
+  "schema_version": 1,
+  "source_sha256": "d240426869bdf72f5dcbe246807af6dbb7329dcdd25d714140020c0a255e9fbf",
+  "tag_descriptions": {
+    "noun": "A word for a person, place, thing, or idea.",
+    "compound noun": "A noun formed by joining two or more words.",
+    "proper noun": "The specific name of a person, place, or organization.",
+    "masc.": "A noun with masculine grammatical gender.",
+    "fem.": "A noun with feminine grammatical gender.",
+    "neuter": "A noun with neuter grammatical gender.",
+    "singular": "A form referring to one person or thing.",
+    "plural": "A form referring to more than one person or thing.",
+    "verb": "A word expressing an action, process, or state.",
+    "modal verb": "A verb expressing ability, permission, need, or intention.",
+    "auxiliary": "A helping verb used to build a tense or voice.",
+    "reflexive": "A verb used with a pronoun that refers back to the subject.",
+    "separable": "A verb whose prefix separates in some sentence patterns.",
+    "inseparable": "A prefixed verb whose prefix stays attached.",
+    "regular": "A verb that follows the standard conjugation pattern.",
+    "irregular": "A verb with a stem or form that changes irregularly.",
+    "infinitive": "The unconjugated dictionary form of a verb.",
+    "past participle": "A verb form used in perfect tenses and the passive.",
+    "imperative": "A verb form used for commands or requests.",
+    "present": "A tense for current actions, habits, or general facts.",
+    "simple past": "A tense for completed past events, especially in writing.",
+    "perfect": "A past tense formed with haben or sein and a past participle.",
+    "pluperfect": "A tense for an event completed before another past event.",
+    "future": "A tense commonly formed with werden and an infinitive.",
+    "adjective": "A word describing a noun or a state.",
+    "adverb": "A word modifying a verb, adjective, or whole sentence.",
+    "interjection": "A standalone word used for a greeting, reaction, or brief response.",
+    "article": "A noun companion that can show gender, number, and case.",
+    "determiner": "A word that specifies quantity or reference before a noun.",
+    "personal pronoun": "A word such as ich or mir that refers to a participant.",
+    "interrogative pronoun": "A pronoun used to ask about a person, thing, or idea.",
+    "demonstrative pronoun": "A pronoun that points to a specific person, thing, or idea.",
+    "reflexive pronoun": "A pronoun that refers back to the subject of its clause.",
+    "relative pronoun": "A pronoun that introduces a relative clause and refers back to a noun.",
+    "indefinite pronoun": "A pronoun referring to a non-specific person, thing, amount, or totality.",
+    "possessive": "A form expressing ownership or another close relationship.",
+    "preposition": "A word showing a relationship and governing a case.",
+    "conjunction": "A word joining words, phrases, or clauses.",
+    "particle": "A small word that changes meaning, emphasis, or tone.",
+    "numeral": "A word expressing number, quantity, or order.",
+    "nominative": "The case normally used for the subject.",
+    "accusative": "The case often used for a direct object.",
+    "dative": "The case often used for a recipient or indirect object.",
+    "genitive": "The case commonly expressing possession or belonging.",
+    "subject": "The person or thing performing an action or being described.",
+    "direct object": "The person or thing directly affected by the action.",
+    "indirect object": "The recipient or beneficiary of the action.",
+    "predicate": "A word or phrase describing what the subject is or does.",
+    "main clause": "A complete clause that can stand on its own.",
+    "subordinate clause": "A dependent clause that supports a main clause.",
+    "verb-second": "The finite verb occupies the second sentence position.",
+    "verb-final": "The finite verb appears at the end of the clause.",
+    "inversion": "The verb comes before the subject after another first element.",
+    "negation": "A form that makes a word, phrase, or sentence negative.",
+    "fixed phrase": "A common expression usually learned as one stable unit.",
+    "idiom": "A phrase whose meaning is not fully predictable from its words.",
+    "ellipsis": "An understood word or phrase is omitted because the meaning is clear in context.",
+    "contraction": "A shortened form made by combining two words.",
+    "comparative": "An adjective or adverb form used to compare two things.",
+    "superlative": "A form expressing the highest degree of a quality.",
+    "time": "Shows when something happens.",
+    "place": "Shows where something happens.",
+    "direction": "Shows movement toward or away from a place.",
+    "frequency": "Shows how often something happens.",
+    "manner": "Shows how an action happens.",
+    "reason": "Shows why something happens.",
+    "connector": "Links one idea or sentence to another.",
+    "coordinating": "Joins elements that have equal grammatical status.",
+    "subordinating": "Introduces a clause that depends on another clause.",
+    "formal": "Used mainly in polite, official, or professional contexts.",
+    "informal": "Used mainly in relaxed or familiar contexts.",
+    "colloquial": "Typical of everyday spoken language.",
+    "subjunctive": "A verb form used for hypothetical, reported, or politely distanced statements."
+  },
+  "lesson": {
+    "id": "a2-course-009",
+    "title": "Eine helle Wohnung mit Balkon",
+    "english_title": "A Bright Apartment with a Balcony",
+    "level": "A2.1",
+    "sentences": [
+      {
+        "text": "Guten Tag, ich suche eine helle Wohnung für meine Familie.",
+        "natural_meaning": "Hello, I am looking for a bright apartment for my family.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "gut",
+                "english": "good",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Guten"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Tag",
+                "english": "day",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Tag"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ich",
+                "english": "I",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "suche",
+                "english": "look for",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "suchen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "suche"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "suchst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "sucht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "suchen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "sucht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "suchen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to look for",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "suche"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "suchst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "sucht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "suchen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "sucht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "suchen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I look for",
+                    "you look for",
+                    "he/she/it look fors",
+                    "we look for",
+                    "you look for",
+                    "they/you look for"
+                  ],
+                  "current_english_forms": [
+                    "I look for",
+                    "you look for",
+                    "he/she/it look fors",
+                    "we look for",
+                    "you look for",
+                    "they/you look for"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "suche"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "hell",
+                "english": "bright / light",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "helle"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Wohnung",
+                "english": "apartment / flat",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "eine",
+                  "Wohnung"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "für",
+                "english": "for",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "für"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "meine",
+                "english": "my",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "possessive",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "determiner",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "meine"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Familie",
+                "english": "family",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Familie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Guten Tag",
+                "english": "hello",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "fixed phrase",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Guten",
+                    "base": "gut",
+                    "kind": "adjective",
+                    "paradigm": "strong-adjective",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "-er",
+                        "-e",
+                        "-es",
+                        "-e"
+                      ],
+                      "accusative": [
+                        "-en",
+                        "-e",
+                        "-es",
+                        "-e"
+                      ],
+                      "dative": [
+                        "-em",
+                        "-er",
+                        "-em",
+                        "-en"
+                      ],
+                      "genitive": [
+                        "-en",
+                        "-er",
+                        "-en",
+                        "-er"
+                      ]
+                    },
+                    "selected_column": 0
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "eine helle Wohnung",
+                "english": "a bright apartment",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "eine",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "ein",
+                        "eine",
+                        "ein",
+                        "—"
+                      ],
+                      "accusative": [
+                        "einen",
+                        "eine",
+                        "ein",
+                        "—"
+                      ],
+                      "dative": [
+                        "einem",
+                        "einer",
+                        "einem",
+                        "—"
+                      ],
+                      "genitive": [
+                        "eines",
+                        "einer",
+                        "eines",
+                        "—"
+                      ]
+                    },
+                    "selected_column": 1
+                  },
+                  {
+                    "surface": "helle",
+                    "base": "hell",
+                    "kind": "adjective",
+                    "paradigm": "mixed-adjective",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "-er",
+                        "-e",
+                        "-es",
+                        "-en"
+                      ],
+                      "accusative": [
+                        "-en",
+                        "-e",
+                        "-es",
+                        "-en"
+                      ],
+                      "dative": [
+                        "-en",
+                        "-en",
+                        "-en",
+                        "-en"
+                      ],
+                      "genitive": [
+                        "-en",
+                        "-en",
+                        "-en",
+                        "-en"
+                      ]
+                    },
+                    "selected_column": 1
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "für meine Familie",
+                "english": "for my family",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "meine",
+                    "base": "mein",
+                    "kind": "possessive-determiner",
+                    "paradigm": "possessive",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "mein",
+                        "meine",
+                        "mein",
+                        "meine"
+                      ],
+                      "accusative": [
+                        "meinen",
+                        "meine",
+                        "mein",
+                        "meine"
+                      ],
+                      "dative": [
+                        "meinem",
+                        "meiner",
+                        "meinem",
+                        "meinen"
+                      ],
+                      "genitive": [
+                        "meines",
+                        "meiner",
+                        "meines",
+                        "meiner"
+                      ]
+                    },
+                    "selected_column": 1
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "ich suche eine helle Wohnung für meine Familie",
+                "english": "I am looking for a bright apartment for my family",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_published/a2-course-009/sentence-01.wav"
+      },
+      {
+        "text": "Sie soll ein großes Wohnzimmer haben; eine moderne Küche ist auch wichtig.",
+        "natural_meaning": "It should have a large living room; a modern kitchen is also important.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Sie",
+                "english": "it",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "soll",
+                "english": "should",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  },
+                  {
+                    "label": "modal verb",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sollen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "soll"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "sollst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "soll"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sollen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "sollt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sollen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "should / to be supposed to",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "soll"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "sollst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "soll"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sollen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "sollt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sollen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I should",
+                    "you should",
+                    "he/she/it should",
+                    "we should",
+                    "you should",
+                    "they/you should"
+                  ],
+                  "current_english_forms": [
+                    "I should",
+                    "you should",
+                    "he/she/it should",
+                    "we should",
+                    "you should",
+                    "they/you should"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "soll"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "groß",
+                "english": "big / tall",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "großes"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Wohnzimmer",
+                "english": "living room",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ein",
+                  "Wohnzimmer"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "haben",
+                "english": "have",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "infinitive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "haben",
+                  "tense": "Infinitiv (infinitive in this construction)",
+                  "forms": [
+                    {
+                      "pronoun": "—",
+                      "verb": "haben"
+                    }
+                  ],
+                  "usage": "This non-finite form follows a modal verb or zu, so it does not change for person in this sentence.",
+                  "english": "to have",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I have",
+                    "you have",
+                    "he/she/it has",
+                    "we have",
+                    "you have",
+                    "they/you have"
+                  ],
+                  "current_english_forms": [
+                    "to have"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "haben"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "modern",
+                "english": "modern",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "moderne"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Küche",
+                "english": "kitchen",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "eine",
+                  "Küche"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ist",
+                "english": "be",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "ist"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "auch",
+                "english": "also",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "auch"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "wichtig",
+                "english": "important",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "wichtig"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Sie soll ein großes Wohnzimmer haben",
+                "english": "It should have a large living room",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "eine moderne Küche ist auch wichtig",
+                "english": "a modern kitchen is also important",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "ein großes Wohnzimmer",
+                "english": "a large living room",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "ein",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "accusative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "ein",
+                        "eine",
+                        "ein",
+                        "—"
+                      ],
+                      "accusative": [
+                        "einen",
+                        "eine",
+                        "ein",
+                        "—"
+                      ],
+                      "dative": [
+                        "einem",
+                        "einer",
+                        "einem",
+                        "—"
+                      ],
+                      "genitive": [
+                        "eines",
+                        "einer",
+                        "eines",
+                        "—"
+                      ]
+                    },
+                    "selected_column": 2
+                  },
+                  {
+                    "surface": "großes",
+                    "base": "groß",
+                    "kind": "adjective",
+                    "paradigm": "mixed-adjective",
+                    "case": "accusative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "-er",
+                        "-e",
+                        "-es",
+                        "-en"
+                      ],
+                      "accusative": [
+                        "-en",
+                        "-e",
+                        "-es",
+                        "-en"
+                      ],
+                      "dative": [
+                        "-en",
+                        "-en",
+                        "-en",
+                        "-en"
+                      ],
+                      "genitive": [
+                        "-en",
+                        "-en",
+                        "-en",
+                        "-en"
+                      ]
+                    },
+                    "selected_column": 2
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "eine moderne Küche",
+                "english": "a modern kitchen",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "eine",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "nominative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "ein",
+                        "eine",
+                        "ein",
+                        "—"
+                      ],
+                      "accusative": [
+                        "einen",
+                        "eine",
+                        "ein",
+                        "—"
+                      ],
+                      "dative": [
+                        "einem",
+                        "einer",
+                        "einem",
+                        "—"
+                      ],
+                      "genitive": [
+                        "eines",
+                        "einer",
+                        "eines",
+                        "—"
+                      ]
+                    },
+                    "selected_column": 1
+                  },
+                  {
+                    "surface": "moderne",
+                    "base": "modern",
+                    "kind": "adjective",
+                    "paradigm": "mixed-adjective",
+                    "case": "nominative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "-er",
+                        "-e",
+                        "-es",
+                        "-en"
+                      ],
+                      "accusative": [
+                        "-en",
+                        "-e",
+                        "-es",
+                        "-en"
+                      ],
+                      "dative": [
+                        "-en",
+                        "-en",
+                        "-en",
+                        "-en"
+                      ],
+                      "genitive": [
+                        "-en",
+                        "-en",
+                        "-en",
+                        "-en"
+                      ]
+                    },
+                    "selected_column": 1
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "soll ein großes Wohnzimmer haben",
+                "english": "should have a large living room",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "infinitive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_published/a2-course-009/sentence-02.wav"
+      },
+      {
+        "text": "Wir brauchen auch einen kleinen Balkon, aber keinen dunklen Keller.",
+        "natural_meaning": "We also need a small balcony, but no dark basement.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Wir",
+                "english": "we",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Wir"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "brauchen",
+                "english": "need",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "brauchen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "brauche"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "brauchst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "braucht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "brauchen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "braucht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "brauchen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to need",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "brauche"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "brauchst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "braucht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "brauchen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "braucht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "brauchen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I need",
+                    "you need",
+                    "he/she/it needs",
+                    "we need",
+                    "you need",
+                    "they/you need"
+                  ],
+                  "current_english_forms": [
+                    "I need",
+                    "you need",
+                    "he/she/it needs",
+                    "we need",
+                    "you need",
+                    "they/you need"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "brauchen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "auch",
+                "english": "also",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "auch"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "klein",
+                "english": "small",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "kleinen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Balkon",
+                "english": "balcony",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "einen",
+                  "Balkon"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "aber",
+                "english": "but",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "aber"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "keinen",
+                "english": "no / not a",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "determiner",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "negation",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "keinen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "dunkel",
+                "english": "dark",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "dunklen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Keller",
+                "english": "cellar / basement",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Keller"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "einen kleinen Balkon",
+                "english": "a small balcony",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "einen",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "ein",
+                        "eine",
+                        "ein",
+                        "—"
+                      ],
+                      "accusative": [
+                        "einen",
+                        "eine",
+                        "ein",
+                        "—"
+                      ],
+                      "dative": [
+                        "einem",
+                        "einer",
+                        "einem",
+                        "—"
+                      ],
+                      "genitive": [
+                        "eines",
+                        "einer",
+                        "eines",
+                        "—"
+                      ]
+                    },
+                    "selected_column": 0
+                  },
+                  {
+                    "surface": "kleinen",
+                    "base": "klein",
+                    "kind": "adjective",
+                    "paradigm": "mixed-adjective",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "-er",
+                        "-e",
+                        "-es",
+                        "-en"
+                      ],
+                      "accusative": [
+                        "-en",
+                        "-e",
+                        "-es",
+                        "-en"
+                      ],
+                      "dative": [
+                        "-en",
+                        "-en",
+                        "-en",
+                        "-en"
+                      ],
+                      "genitive": [
+                        "-en",
+                        "-en",
+                        "-en",
+                        "-en"
+                      ]
+                    },
+                    "selected_column": 0
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "keinen dunklen Keller",
+                "english": "no dark basement",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "negation",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "keinen",
+                    "base": "kein",
+                    "kind": "negative-determiner",
+                    "paradigm": "negative",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "kein",
+                        "keine",
+                        "kein",
+                        "keine"
+                      ],
+                      "accusative": [
+                        "keinen",
+                        "keine",
+                        "kein",
+                        "keine"
+                      ],
+                      "dative": [
+                        "keinem",
+                        "keiner",
+                        "keinem",
+                        "keinen"
+                      ],
+                      "genitive": [
+                        "keines",
+                        "keiner",
+                        "keines",
+                        "keiner"
+                      ]
+                    },
+                    "selected_column": 0
+                  },
+                  {
+                    "surface": "dunklen",
+                    "base": "dunkel",
+                    "kind": "adjective",
+                    "paradigm": "mixed-adjective",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "-er",
+                        "-e",
+                        "-es",
+                        "-en"
+                      ],
+                      "accusative": [
+                        "-en",
+                        "-e",
+                        "-es",
+                        "-en"
+                      ],
+                      "dative": [
+                        "-en",
+                        "-en",
+                        "-en",
+                        "-en"
+                      ],
+                      "genitive": [
+                        "-en",
+                        "-en",
+                        "-en",
+                        "-en"
+                      ]
+                    },
+                    "selected_column": 0
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_published/a2-course-009/sentence-03.wav"
+      },
+      {
+        "text": "Ist in Ihrem Haus eine möblierte Wohnung mit einem kleinen Balkon frei?",
+        "natural_meaning": "Is a furnished apartment with a small balcony available in your building?",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Ist",
+                "english": "be",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "Ist"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "in",
+                "english": "in / into",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "in"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Ihrem",
+                "english": "your",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "possessive",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "determiner",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Ihrem"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Haus",
+                "english": "house / building",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Haus"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "möbliert",
+                "english": "furnished",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "möblierte"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Wohnung",
+                "english": "apartment / flat",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "eine",
+                  "Wohnung"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "mit",
+                "english": "with / by",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "mit"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "klein",
+                "english": "small",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "kleinen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Balkon",
+                "english": "balcony",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "einem",
+                  "Balkon"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "frei",
+                "english": "free / available",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "frei"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "in Ihrem Haus",
+                "english": "in your building",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Ihrem",
+                    "base": "ihr",
+                    "kind": "possessive-determiner",
+                    "paradigm": "possessive",
+                    "case": "dative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "ihr",
+                        "ihre",
+                        "ihr",
+                        "ihre"
+                      ],
+                      "accusative": [
+                        "ihren",
+                        "ihre",
+                        "ihr",
+                        "ihre"
+                      ],
+                      "dative": [
+                        "ihrem",
+                        "ihrer",
+                        "ihrem",
+                        "ihren"
+                      ],
+                      "genitive": [
+                        "ihres",
+                        "ihrer",
+                        "ihres",
+                        "ihrer"
+                      ]
+                    },
+                    "selected_column": 2
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "mit einem kleinen Balkon",
+                "english": "with a small balcony",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "einem",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "dative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "ein",
+                        "eine",
+                        "ein",
+                        "—"
+                      ],
+                      "accusative": [
+                        "einen",
+                        "eine",
+                        "ein",
+                        "—"
+                      ],
+                      "dative": [
+                        "einem",
+                        "einer",
+                        "einem",
+                        "—"
+                      ],
+                      "genitive": [
+                        "eines",
+                        "einer",
+                        "eines",
+                        "—"
+                      ]
+                    },
+                    "selected_column": 0
+                  },
+                  {
+                    "surface": "kleinen",
+                    "base": "klein",
+                    "kind": "adjective",
+                    "paradigm": "mixed-adjective",
+                    "case": "dative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "-er",
+                        "-e",
+                        "-es",
+                        "-en"
+                      ],
+                      "accusative": [
+                        "-en",
+                        "-e",
+                        "-es",
+                        "-en"
+                      ],
+                      "dative": [
+                        "-en",
+                        "-en",
+                        "-en",
+                        "-en"
+                      ],
+                      "genitive": [
+                        "-en",
+                        "-en",
+                        "-en",
+                        "-en"
+                      ]
+                    },
+                    "selected_column": 0
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "eine möblierte Wohnung",
+                "english": "a furnished apartment",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "eine",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "nominative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "ein",
+                        "eine",
+                        "ein",
+                        "—"
+                      ],
+                      "accusative": [
+                        "einen",
+                        "eine",
+                        "ein",
+                        "—"
+                      ],
+                      "dative": [
+                        "einem",
+                        "einer",
+                        "einem",
+                        "—"
+                      ],
+                      "genitive": [
+                        "eines",
+                        "einer",
+                        "eines",
+                        "—"
+                      ]
+                    },
+                    "selected_column": 1
+                  },
+                  {
+                    "surface": "möblierte",
+                    "base": "möbliert",
+                    "kind": "adjective",
+                    "paradigm": "mixed-adjective",
+                    "case": "nominative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "-er",
+                        "-e",
+                        "-es",
+                        "-en"
+                      ],
+                      "accusative": [
+                        "-en",
+                        "-e",
+                        "-es",
+                        "-en"
+                      ],
+                      "dative": [
+                        "-en",
+                        "-en",
+                        "-en",
+                        "-en"
+                      ],
+                      "genitive": [
+                        "-en",
+                        "-en",
+                        "-en",
+                        "-en"
+                      ]
+                    },
+                    "selected_column": 1
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Ist in Ihrem Haus ... frei",
+                "english": "Is a furnished apartment with a small balcony available in your building?",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_published/a2-course-009/sentence-04.wav"
+      },
+      {
+        "text": "Eine ruhige Gegend ist für uns wichtiger als eine große Fläche.",
+        "natural_meaning": "A quiet area is more important to us than a large floor area.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "ruhig",
+                "english": "quiet / calm",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ruhige"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Gegend",
+                "english": "area / neighborhood",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Eine",
+                  "Gegend"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ist",
+                "english": "be",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "ist"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "für",
+                "english": "for",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "für"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "uns",
+                "english": "us",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "uns"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "wichtig",
+                "english": "important",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "comparative",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "wichtiger"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "als",
+                "english": "as / when / than",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "als"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "groß",
+                "english": "big / tall",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "große"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Fläche",
+                "english": "area / floor space",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "eine",
+                  "Fläche"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Eine ruhige Gegend",
+                "english": "a quiet area",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Eine",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "nominative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "ein",
+                        "eine",
+                        "ein",
+                        "—"
+                      ],
+                      "accusative": [
+                        "einen",
+                        "eine",
+                        "ein",
+                        "—"
+                      ],
+                      "dative": [
+                        "einem",
+                        "einer",
+                        "einem",
+                        "—"
+                      ],
+                      "genitive": [
+                        "eines",
+                        "einer",
+                        "eines",
+                        "—"
+                      ]
+                    },
+                    "selected_column": 1
+                  },
+                  {
+                    "surface": "ruhige",
+                    "base": "ruhig",
+                    "kind": "adjective",
+                    "paradigm": "mixed-adjective",
+                    "case": "nominative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "-er",
+                        "-e",
+                        "-es",
+                        "-en"
+                      ],
+                      "accusative": [
+                        "-en",
+                        "-e",
+                        "-es",
+                        "-en"
+                      ],
+                      "dative": [
+                        "-en",
+                        "-en",
+                        "-en",
+                        "-en"
+                      ],
+                      "genitive": [
+                        "-en",
+                        "-en",
+                        "-en",
+                        "-en"
+                      ]
+                    },
+                    "selected_column": 1
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "wichtiger als eine große Fläche",
+                "english": "more important than a large floor area",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "comparative",
+                    "category": "form"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "für uns",
+                "english": "for us",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "uns",
+                    "base": "wir",
+                    "kind": "personal-pronoun",
+                    "paradigm": "personal-pronoun",
+                    "case": "accusative",
+                    "gender": null,
+                    "number": "plural",
+                    "pronoun_slot": "first-plural",
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "ich",
+                      "du",
+                      "er",
+                      "sie",
+                      "es",
+                      "wir",
+                      "ihr",
+                      "sie / Sie"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "ich",
+                        "du",
+                        "er",
+                        "sie",
+                        "es",
+                        "wir",
+                        "ihr",
+                        "sie / Sie"
+                      ],
+                      "accusative": [
+                        "mich",
+                        "dich",
+                        "ihn",
+                        "sie",
+                        "es",
+                        "uns",
+                        "euch",
+                        "sie / Sie"
+                      ],
+                      "dative": [
+                        "mir",
+                        "dir",
+                        "ihm",
+                        "ihr",
+                        "ihm",
+                        "uns",
+                        "euch",
+                        "ihnen / Ihnen"
+                      ],
+                      "genitive": [
+                        "meiner",
+                        "deiner",
+                        "seiner",
+                        "ihrer",
+                        "seiner",
+                        "unser",
+                        "euer",
+                        "ihrer / Ihrer"
+                      ]
+                    },
+                    "selected_column": 5
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "eine große Fläche",
+                "english": "a large floor area",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "eine",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "nominative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "ein",
+                        "eine",
+                        "ein",
+                        "—"
+                      ],
+                      "accusative": [
+                        "einen",
+                        "eine",
+                        "ein",
+                        "—"
+                      ],
+                      "dative": [
+                        "einem",
+                        "einer",
+                        "einem",
+                        "—"
+                      ],
+                      "genitive": [
+                        "eines",
+                        "einer",
+                        "eines",
+                        "—"
+                      ]
+                    },
+                    "selected_column": 1
+                  },
+                  {
+                    "surface": "große",
+                    "base": "groß",
+                    "kind": "adjective",
+                    "paradigm": "mixed-adjective",
+                    "case": "nominative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "-er",
+                        "-e",
+                        "-es",
+                        "-en"
+                      ],
+                      "accusative": [
+                        "-en",
+                        "-e",
+                        "-es",
+                        "-en"
+                      ],
+                      "dative": [
+                        "-en",
+                        "-en",
+                        "-en",
+                        "-en"
+                      ],
+                      "genitive": [
+                        "-en",
+                        "-en",
+                        "-en",
+                        "-en"
+                      ]
+                    },
+                    "selected_column": 1
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_published/a2-course-009/sentence-05.wav"
+      }
+    ],
+    "audio_path": "assets/audio/a2_published/a2-course-009/paragraph.wav",
+    "initial_question": "Which feature do the speakers not want?",
+    "initial_answer": "A dark basement.",
+    "audio_status": "ready",
+    "sequence": 57,
+    "lesson_format": "message",
+    "topic": "describing housing requirements to an agent",
+    "new_targets": [
+      "hell",
+      "dunkel",
+      "modern",
+      "möbliert",
+      "die Fläche",
+      "der Keller"
+    ],
+    "recycled_targets": [
+      "die Wohnung",
+      "die Familie",
+      "das Wohnzimmer",
+      "die Küche",
+      "der Balkon",
+      "das Zimmer",
+      "die Gegend",
+      "suchen"
+    ],
+    "speech_alternatives": []
+  }
+}

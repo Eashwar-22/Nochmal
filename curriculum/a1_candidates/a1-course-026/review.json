@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-026",
+  "source_sha256": "2d72d3d61241d946f56dbc6537542fd8ec63b99efdabb7100c3db9705ce37c14",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "token-by-token word coverage",
+        "f\u00e4hrt ... ab separable-verb analysis",
+        "formal possessive reference",
+        "formal imperative analysis"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "station-announcement register",
+        "scheduled departure and connection details",
+        "von and zu dative phrases",
+        "formal passenger instruction"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "time and platform translation",
+        "separable verb literal support",
+        "formal-address consistency",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

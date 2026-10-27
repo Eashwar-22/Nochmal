@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-030",
+  "source_sha256": "e25a3861789d7c007a61c7ab51784872a54e21d568366cd4ad0745388ca41d38",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "checkpoint token coverage",
+        "fährt ... ab separable-verb analysis",
+        "modal-final-infinitive bracket",
+        "reflexive meeting and time-first inversion"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "linked day-out sequence",
+        "return-ticket expression",
+        "work-delay explanation",
+        "meeting time and place consistency"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "natural checkpoint translation",
+        "sequence-marker clarity",
+        "transport and modal recycling",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

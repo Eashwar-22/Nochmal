@@ -1,0 +1,1838 @@
+{
+  "schema_version": 1,
+  "source_sha256": "1ae606b0a0114af137dc2e286fc5c529eb860604b9f8c01dbfcacb9ccaed4da6",
+  "lesson": {
+    "id": "a1-course-014",
+    "title": "Wie viel kostet das?",
+    "english_title": "How Much Is It?",
+    "level": "A1.1",
+    "sentences": [
+      {
+        "text": "Auf dem Markt möchte Leo Äpfel und Wasser kaufen.",
+        "natural_meaning": "At the market, Leo would like to buy apples and water.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Auf",
+                "english": "on / onto",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Auf"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Markt",
+                "english": "market",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "dem",
+                  "Markt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "möchte",
+                "english": "would like",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "möchten",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "möchte"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "möchtest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "möchte"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "möchten"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "möchtet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "möchten"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "would like",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "möchte"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "möchtest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "möchte"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "möchten"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "möchtet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "möchten"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I would like",
+                    "you would like",
+                    "he/she/it would like",
+                    "we would like",
+                    "you would like",
+                    "they/you would like"
+                  ],
+                  "current_english_forms": [
+                    "I would like",
+                    "you would like",
+                    "he/she/it would like",
+                    "we would like",
+                    "you would like",
+                    "they/you would like"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "möchte"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Leo",
+                "english": "Leo",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Leo"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Apfel",
+                "english": "apples",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "plural",
+                    "category": "form"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Äpfel"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Wasser",
+                "english": "water",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Wasser"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "kaufen",
+                "english": "buy",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "kaufen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "kaufe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kaufst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kauft"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "kaufen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "kauft"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "kaufen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to buy",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "kaufe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kaufst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kauft"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "kaufen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "kauft"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "kaufen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I buy",
+                    "you buy",
+                    "he/she/it buys",
+                    "we buy",
+                    "you buy",
+                    "they/you buy"
+                  ],
+                  "current_english_forms": [
+                    "I buy",
+                    "you buy",
+                    "he/she/it buys",
+                    "we buy",
+                    "you buy",
+                    "they/you buy"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "kaufen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Auf dem Markt möchte Leo Äpfel und Wasser kaufen",
+                "english": "At the market, Leo would like to buy apples and water",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "modal verb",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Auf dem Markt",
+                "english": "at the market",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "dem",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Äpfel und Wasser kaufen",
+                "english": "buy apples and water",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "modal verb",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_candidates/a1-course-014/sentence-01.wav"
+      },
+      {
+        "text": "Er fragt: „Wie viel kostet ein Kilo Äpfel?“",
+        "natural_meaning": "He asks, “How much does a kilo of apples cost?”",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Er",
+                "english": "he",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Er"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "fragt",
+                "english": "ask",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "fragen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "frage"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "fragst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "fragt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "fragen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "fragt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "fragen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to ask",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "frage"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "fragst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "fragt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "fragen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "fragt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "fragen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I ask",
+                    "you ask",
+                    "he/she/it asks",
+                    "we ask",
+                    "you ask",
+                    "they/you ask"
+                  ],
+                  "current_english_forms": [
+                    "I ask",
+                    "you ask",
+                    "he/she/it asks",
+                    "we ask",
+                    "you ask",
+                    "they/you ask"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "fragt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Wie",
+                "english": "how",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Wie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "viel",
+                "english": "much",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "numeral",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "viel"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "kostet",
+                "english": "cost",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "kosten",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "koste"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kostest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kostet"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "kosten"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "kostet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "kosten"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to cost",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "koste"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kostest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kostet"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "kosten"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "kostet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "kosten"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I cost",
+                    "you cost",
+                    "he/she/it costs",
+                    "we cost",
+                    "you cost",
+                    "they/you cost"
+                  ],
+                  "current_english_forms": [
+                    "I cost",
+                    "you cost",
+                    "he/she/it costs",
+                    "we cost",
+                    "you cost",
+                    "they/you cost"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "kostet"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Kilo",
+                "english": "kilogram",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ein",
+                  "Kilo"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Apfel",
+                "english": "apples",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "plural",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Äpfel"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Wie viel kostet ein Kilo Äpfel",
+                "english": "How much does a kilo of apples cost?",
+                "literal_meaning": "How much costs a kilo apples?",
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Er fragt",
+                "english": "He asks",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "ein Kilo Äpfel",
+                "english": "a kilo of apples",
+                "literal_meaning": "a kilo apples",
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "ein",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "nominative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_candidates/a1-course-014/sentence-02.wav"
+      },
+      {
+        "text": "Die Verkäuferin antwortet: „Drei Euro, und eine Flasche Wasser kostet einen Euro.“",
+        "natural_meaning": "The saleswoman answers, “Three euros, and a bottle of water costs one euro.”",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "die Verkäuferin",
+                "english": "saleswoman",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Die",
+                  "Verkäuferin"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "antwortet",
+                "english": "answer",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "antworten",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "antworte"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "antwortest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "antwortet"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "antworten"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "antwortet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "antworten"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to answer",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "antworte"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "antwortest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "antwortet"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "antworten"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "antwortet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "antworten"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I answer",
+                    "you answer",
+                    "he/she/it answers",
+                    "we answer",
+                    "you answer",
+                    "they/you answer"
+                  ],
+                  "current_english_forms": [
+                    "I answer",
+                    "you answer",
+                    "he/she/it answers",
+                    "we answer",
+                    "you answer",
+                    "they/you answer"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "antwortet"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Drei",
+                "english": "three",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "numeral",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Drei"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Euro",
+                "english": "euro",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "plural",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Euro"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Flasche",
+                "english": "bottle",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "eine",
+                  "Flasche"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Wasser",
+                "english": "water",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Wasser"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "kostet",
+                "english": "cost",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "kosten",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "koste"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kostest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kostet"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "kosten"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "kostet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "kosten"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to cost",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "koste"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kostest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kostet"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "kosten"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "kostet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "kosten"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I cost",
+                    "you cost",
+                    "he/she/it costs",
+                    "we cost",
+                    "you cost",
+                    "they/you cost"
+                  ],
+                  "current_english_forms": [
+                    "I cost",
+                    "you cost",
+                    "he/she/it costs",
+                    "we cost",
+                    "you cost",
+                    "they/you cost"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "kostet"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Euro",
+                "english": "euro",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "einen",
+                  "Euro"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Drei Euro",
+                "english": "three euros",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "plural",
+                    "category": "form"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "und eine Flasche Wasser kostet einen Euro",
+                "english": "and a bottle of water costs one euro",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "connector",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Die Verkäuferin antwortet",
+                "english": "The saleswoman answers",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Die Verkäuferin",
+                "english": "the sales assistant",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Die",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "nominative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "eine Flasche Wasser",
+                "english": "a bottle of water",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "eine",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "nominative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "einen Euro",
+                "english": "one euro",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "einen",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_candidates/a1-course-014/sentence-03.wav"
+      },
+      {
+        "text": "Leo findet den Preis billig und nimmt ein Kilo und zwei Flaschen.",
+        "natural_meaning": "Leo finds the price cheap and takes one kilo and two bottles.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Leo",
+                "english": "Leo",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Leo"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "findet",
+                "english": "find",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "finden",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "finde"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "findest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "findet"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "finden"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "findet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "finden"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to find",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "finde"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "findest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "findet"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "finden"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "findet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "finden"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I find",
+                    "you find",
+                    "he/she/it finds",
+                    "we find",
+                    "you find",
+                    "they/you find"
+                  ],
+                  "current_english_forms": [
+                    "I find",
+                    "you find",
+                    "he/she/it finds",
+                    "we find",
+                    "you find",
+                    "they/you find"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "findet"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Preis",
+                "english": "price",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "den",
+                  "Preis"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "billig",
+                "english": "cheap",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "billig"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "nimmt",
+                "english": "take",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "nehmen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "nehme"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "nimmst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "nimmt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "nehmen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "nehmt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "nehmen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to take",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "nehme"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "nimmst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "nimmt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "nehmen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "nehmt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "nehmen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I take",
+                    "you take",
+                    "he/she/it takes",
+                    "we take",
+                    "you take",
+                    "they/you take"
+                  ],
+                  "current_english_forms": [
+                    "I take",
+                    "you take",
+                    "he/she/it takes",
+                    "we take",
+                    "you take",
+                    "they/you take"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "nimmt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Kilo",
+                "english": "kilogram",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ein",
+                  "Kilo"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "zwei",
+                "english": "two",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "numeral",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "zwei"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Flasche",
+                "english": "bottle",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "plural",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Flaschen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "den Preis",
+                "english": "the price",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "den",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "ein Kilo und zwei Flaschen",
+                "english": "one kilo and two bottles",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "ein",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "accusative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Leo findet den Preis billig",
+                "english": "Leo finds the price cheap",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "und nimmt ein Kilo und zwei Flaschen",
+                "english": "and takes one kilo and two bottles",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "connector",
+                    "category": "connector"
+                  },
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "ellipsis",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_candidates/a1-course-014/sentence-04.wav"
+      }
+    ],
+    "audio_path": "assets/audio/a1_candidates/a1-course-014/paragraph.wav",
+    "initial_question": "How much does one bottle of water cost?",
+    "initial_answer": "One euro.",
+    "audio_status": "ready",
+    "sequence": 14,
+    "lesson_format": "dialogue",
+    "topic": "asking about prices at a market",
+    "new_targets": [
+      "der Markt",
+      "kaufen",
+      "kosten",
+      "das Kilo",
+      "der Euro",
+      "die Flasche",
+      "billig"
+    ],
+    "recycled_targets": [
+      "der Apfel",
+      "das Wasser",
+      "möchten",
+      "nehmen",
+      "fragen",
+      "die Verkäuferin",
+      "ein",
+      "zwei",
+      "drei"
+    ],
+    "speech_alternatives": []
+  }
+}

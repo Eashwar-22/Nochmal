@@ -1,0 +1,2221 @@
+{
+  "schema_version": 1,
+  "source_sha256": "696990ca2ab1dcaad4e0081075a187a0a54bfa6d06a4f44ff69bcd7968971614",
+  "lesson": {
+    "id": "a2-course-008",
+    "title": "Der beste Stadtteil für uns",
+    "english_title": "The Best Area for Us",
+    "level": "A2.1",
+    "sentences": [
+      {
+        "text": "Wir vergleichen drei Stadtteile, weil wir bald umziehen.",
+        "natural_meaning": "We are comparing three districts because we are moving soon.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Wir",
+                "english": "we",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Wir"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "vergleichen",
+                "english": "compare",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "vergleichen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "vergleiche"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "vergleichst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "vergleicht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "vergleichen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "vergleicht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "vergleichen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to compare",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "vergleiche"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "vergleichst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "vergleicht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "vergleichen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "vergleicht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "vergleichen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I compare",
+                    "you compare",
+                    "he/she/it compares",
+                    "we compare",
+                    "you compare",
+                    "they/you compare"
+                  ],
+                  "current_english_forms": [
+                    "I compare",
+                    "you compare",
+                    "he/she/it compares",
+                    "we compare",
+                    "you compare",
+                    "they/you compare"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "vergleichen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "drei",
+                "english": "three",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "numeral",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "drei"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Stadtteil",
+                "english": "district / neighborhood",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "plural",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Stadtteile"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "weil",
+                "english": "because",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "subordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "weil"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "wir",
+                "english": "we",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "wir"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "bald",
+                "english": "soon",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "bald"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "umziehen",
+                "english": "move house",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "umziehen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "ziehe um"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "ziehst um"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "zieht um"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "ziehen um"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "zieht um"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "ziehen um"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to move house",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "ziehe um"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "ziehst um"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "zieht um"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "ziehen um"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "zieht um"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "ziehen um"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I move house",
+                    "you move house",
+                    "he/she/it moves house",
+                    "we move house",
+                    "you move house",
+                    "they/you move house"
+                  ],
+                  "current_english_forms": [
+                    "I move house",
+                    "you move house",
+                    "he/she/it moves house",
+                    "we move house",
+                    "you move house",
+                    "they/you move house"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "umziehen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "drei Stadtteile",
+                "english": "three districts",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Wir vergleichen drei Stadtteile",
+                "english": "We are comparing three districts",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "weil wir bald umziehen",
+                "english": "because we are moving soon",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "subordinate clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-final",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-008/sentence-01.wav"
+      },
+      {
+        "text": "Nord ist am günstigsten, aber dort ist die Verbindung zur Arbeit schlecht.",
+        "natural_meaning": "North is the least expensive, but the connection to work is poor.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Nord",
+                "english": "Nord",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Nord"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ist",
+                "english": "be",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "ist"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "am",
+                "english": "superlative marker",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "particle",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "am"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "günstig",
+                "english": "least expensive",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "superlative",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "günstigsten"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "aber",
+                "english": "but",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "aber"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "dort",
+                "english": "there",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "dort"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ist",
+                "english": "be",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "ist"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Verbindung",
+                "english": "connection / transport link",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "die",
+                  "Verbindung"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "zu",
+                "english": "to",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "zur"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Arbeit",
+                "english": "work / job",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Arbeit"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "schlecht",
+                "english": "bad",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "schlecht"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "dort ist die Verbindung zur Arbeit schlecht",
+                "english": "there the connection to work is poor",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "zur Arbeit",
+                "english": "to work",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "contraction",
+                    "category": "form"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "zur",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": "der",
+                    "contraction": "zu + der"
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Nord ist am günstigsten",
+                "english": "North is the least expensive",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "aber dort ist die Verbindung zur Arbeit schlecht",
+                "english": "but the connection to work is poor",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "am günstigsten",
+                "english": "the least expensive",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "superlative",
+                    "category": "form"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "die Verbindung zur Arbeit",
+                "english": "the connection to work",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-008/sentence-02.wav"
+      },
+      {
+        "text": "Im Zentrum ist der Weg am kürzesten und die Gegend am lebhaftesten.",
+        "natural_meaning": "In the center, the route is the shortest and the area is the liveliest.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "in",
+                "english": "in / into",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Im"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Zentrum",
+                "english": "center",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Zentrum"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ist",
+                "english": "be",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "ist"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Weg",
+                "english": "way / path",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "der",
+                  "Weg"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "am",
+                "english": "superlative marker",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "particle",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "am"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "kurz",
+                "english": "shortest",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "superlative",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "kürzesten"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Gegend",
+                "english": "area / neighborhood",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "die",
+                  "Gegend"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "am",
+                "english": "superlative marker",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "particle",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "am"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "lebhaft",
+                "english": "liveliest",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "superlative",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "lebhaftesten"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Im Zentrum ist der Weg am kürzesten und die Gegend am lebhaftesten",
+                "english": "In the center, the route is the shortest and the area is the liveliest",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Im Zentrum",
+                "english": "in the center",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "contraction",
+                    "category": "form"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Im",
+                    "base": "das",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": "dem",
+                    "contraction": "in + dem"
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "am kürzesten",
+                "english": "the shortest",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "superlative",
+                    "category": "form"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "am lebhaftesten",
+                "english": "the liveliest",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "superlative",
+                    "category": "form"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-008/sentence-03.wav"
+      },
+      {
+        "text": "West ist am ruhigsten, und dort gibt es den größten Park.",
+        "natural_meaning": "West is the quietest, and it has the largest park.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "West",
+                "english": "West",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "West"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ist",
+                "english": "be",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "ist"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "am",
+                "english": "superlative marker",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "particle",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "am"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ruhig",
+                "english": "quietest",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "superlative",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ruhigsten"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "dort",
+                "english": "there",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "dort"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "gibt",
+                "english": "there is / there are",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "geben",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "gebe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "gibst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "gibt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "geben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "gebt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "geben"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to give; es gibt = there is / there are",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "gebe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "gibst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "gibt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "geben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "gebt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "geben"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I give",
+                    "you give",
+                    "he/she/it gives",
+                    "we give",
+                    "you give",
+                    "they/you give"
+                  ],
+                  "current_english_forms": [
+                    "I give",
+                    "you give",
+                    "he/she/it gives",
+                    "we give",
+                    "you give",
+                    "they/you give"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "gibt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "es",
+                "english": "there",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "es"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "groß",
+                "english": "largest",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "superlative",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "größten"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Park",
+                "english": "park",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "den",
+                  "Park"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "dort gibt es den größten Park",
+                "english": "that area has the largest park",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "West ist am ruhigsten",
+                "english": "West is the quietest",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "und dort gibt es den größten Park",
+                "english": "and it has the largest park",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "am ruhigsten",
+                "english": "the quietest",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "superlative",
+                    "category": "form"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "den größten Park",
+                "english": "the largest park",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "superlative",
+                    "category": "form"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "den",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  },
+                  {
+                    "surface": "größten",
+                    "base": "groß",
+                    "kind": "adjective",
+                    "paradigm": "weak-adjective",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-008/sentence-04.wav"
+      },
+      {
+        "text": "Für uns ist eine gute Verbindung am wichtigsten, deshalb wählen wir das Zentrum.",
+        "natural_meaning": "For us, a good transport connection is most important, so we choose the center.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Für",
+                "english": "for",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Für"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "uns",
+                "english": "us",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "uns"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ist",
+                "english": "be",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "ist"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "gut",
+                "english": "good",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "gute"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Verbindung",
+                "english": "connection / transport link",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "eine",
+                  "Verbindung"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "am",
+                "english": "superlative marker",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "particle",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "am"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "wichtig",
+                "english": "most important",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "superlative",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "wichtigsten"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "deshalb",
+                "english": "therefore / that is why",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "connector",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "deshalb"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "wählen",
+                "english": "choose",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "wählen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "wähle"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "wählst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "wählt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "wählen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "wählt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "wählen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to choose / dial",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "wähle"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "wählst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "wählt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "wählen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "wählt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "wählen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I choose",
+                    "you choose",
+                    "he/she/it chooses",
+                    "we choose",
+                    "you choose",
+                    "they/you choose"
+                  ],
+                  "current_english_forms": [
+                    "I choose",
+                    "you choose",
+                    "he/she/it chooses",
+                    "we choose",
+                    "you choose",
+                    "they/you choose"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "wählen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "wir",
+                "english": "we",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "wir"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Zentrum",
+                "english": "center",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "das",
+                  "Zentrum"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Für uns ist eine gute Verbindung am wichtigsten",
+                "english": "For us, a good transport connection is most important",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "deshalb wählen wir das Zentrum",
+                "english": "so we choose the center",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "eine gute Verbindung",
+                "english": "a good transport connection",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "eine",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "nominative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  },
+                  {
+                    "surface": "gute",
+                    "base": "gut",
+                    "kind": "adjective",
+                    "paradigm": "mixed-adjective",
+                    "case": "nominative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "am wichtigsten",
+                "english": "most important",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "superlative",
+                    "category": "form"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Für uns",
+                "english": "for us",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "uns",
+                    "base": "wir",
+                    "kind": "personal-pronoun",
+                    "paradigm": "personal-pronoun",
+                    "case": "accusative",
+                    "gender": null,
+                    "number": "plural",
+                    "pronoun_slot": "first-plural",
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-008/sentence-05.wav"
+      }
+    ],
+    "audio_path": "assets/audio/a2_candidates/a2-course-008/paragraph.wav",
+    "initial_question": "Which criterion is most important to the speakers?",
+    "initial_answer": "A good transport connection.",
+    "audio_status": "ready",
+    "sequence": 56,
+    "lesson_format": "dialogue",
+    "topic": "ranking three neighborhoods before a move",
+    "new_targets": [
+      "am wichtigsten",
+      "am günstigsten",
+      "am ruhigsten",
+      "zentral",
+      "der Stadtteil",
+      "die Gegend",
+      "die Verbindung"
+    ],
+    "recycled_targets": [
+      "vergleichen",
+      "umziehen",
+      "die Arbeit",
+      "der Weg",
+      "der Park",
+      "deshalb"
+    ],
+    "speech_alternatives": []
+  }
+}

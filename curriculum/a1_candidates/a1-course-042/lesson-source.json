@@ -1,0 +1,553 @@
+{
+  "id": "a1-course-042",
+  "source_draft_id": "a1-draft-042",
+  "sequence": 42,
+  "band": "A1.2",
+  "format": "dialogue",
+  "title_de": "Checkpunkt: Gemeinsam planen",
+  "title_en": "Checkpoint: Make a Plan Together",
+  "topic": "agreeing on a shared activity despite different schedules and preferences",
+  "communicative_goal": "Sustain a short supported planning exchange to a clear agreement.",
+  "grammar_focus": "review of modal verbs, preference language, time-first order, negation, and denn",
+  "supporting_structures": [
+    "zusammen schwimmen gehen",
+    "am Samstag lange arbeiten",
+    "sich am Sonntagnachmittag treffen"
+  ],
+  "grammar_notes": [
+    "This checkpoint consolidates Module 7 forms and introduces no substantial grammar."
+  ],
+  "new_targets": [
+    "Gute Idee",
+    "Ja, gern",
+    "Vielleicht später",
+    "Leider nicht",
+    "Das geht"
+  ],
+  "recycled_targets": [
+    "haben",
+    "arbeiten",
+    "der Deutschkurs",
+    "schwimmen",
+    "sich treffen",
+    "frei",
+    "der Termin"
+  ],
+  "recycles_from": [
+    10,
+    11,
+    37,
+    38,
+    39,
+    40,
+    41
+  ],
+  "audio_path": "assets/audio/a1_candidates/a1-course-042/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Mina fragt Sara: „Wollen wir am Wochenende zusammen schwimmen gehen?“",
+      "en": "Mina asks Sara, “Shall we go swimming together at the weekend?”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-042/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Mina": [
+            "nominative"
+          ],
+          "Sara": [
+            "accusative"
+          ],
+          "Wollen": [
+            "modal verb",
+            "present"
+          ],
+          "wir": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Wochenende": [
+            "dative",
+            "time"
+          ],
+          "zusammen": [
+            "adverb",
+            "manner"
+          ],
+          "schwimmen": [
+            "verb",
+            "infinitive"
+          ],
+          "gehen": [
+            "verb",
+            "infinitive"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "Wollen": "shall / want to"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Wollen wir am Wochenende zusammen schwimmen gehen",
+            "english": "Shall we go swimming together at the weekend?",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "am Wochenende",
+            "english": "at the weekend",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "zusammen schwimmen gehen",
+            "english": "go swimming together",
+            "literal_meaning": null,
+            "tags": [
+              "fixed phrase"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Sara antwortet: „Gute Idee, aber am Samstag kann ich nicht, denn ich muss lange arbeiten.“",
+      "en": "Sara answers, “Good idea, but I can’t on Saturday because I have to work late.”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-042/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Sara": [
+            "nominative"
+          ],
+          "Gute": [
+            "adjective",
+            "nominative"
+          ],
+          "Idee": [
+            "nominative"
+          ],
+          "aber": [
+            "conjunction",
+            "coordinating"
+          ],
+          "am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Samstag": [
+            "dative",
+            "time"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "nicht": [
+            "negation"
+          ],
+          "denn": [
+            "conjunction",
+            "coordinating",
+            "reason"
+          ],
+          "lange": [
+            "adverb",
+            "manner"
+          ],
+          "arbeiten": [
+            "verb",
+            "infinitive"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "Gute": "gut"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "am Samstag kann ich nicht"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Gute Idee",
+            "english": "Good idea",
+            "literal_meaning": null,
+            "tags": [
+              "nominative",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "aber am Samstag kann ich nicht",
+            "english": "but I can’t on Saturday",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "main clause",
+              "inversion",
+              "negation"
+            ]
+          },
+          {
+            "german": "am Samstag",
+            "english": "on Saturday",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "denn ich muss lange arbeiten",
+            "english": "because I have to work late",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "coordinating",
+              "main clause",
+              "reason"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina nennt Sonntagmorgen, aber dann hat Sara ihren Deutschkurs.",
+      "en": "Mina mentions Sunday morning, but Sara has her German course then.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-042/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Mina": [
+            "nominative"
+          ],
+          "Sonntagmorgen": [
+            "accusative",
+            "time"
+          ],
+          "aber": [
+            "conjunction",
+            "coordinating"
+          ],
+          "dann": [
+            "adverb",
+            "time"
+          ],
+          "Sara": [
+            "nominative"
+          ],
+          "ihren": [
+            "possessive",
+            "determiner",
+            "accusative"
+          ],
+          "Deutschkurs": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "hat": "haben"
+        },
+        "word_meanings": {
+          "nennt": "mentions",
+          "hat": "has"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "aber dann hat Sara ihren Deutschkurs",
+            "english": "but Sara has her German course then",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "ihren Deutschkurs",
+            "english": "her German course",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Vielleicht können sie sich am Sonntagnachmittag im Schwimmbad treffen.",
+      "en": "Perhaps they can meet at the swimming pool on Sunday afternoon.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-042/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Vielleicht": [
+            "adverb"
+          ],
+          "können": [
+            "modal verb",
+            "present"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "sich": [
+            "reflexive pronoun",
+            "accusative"
+          ],
+          "am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Sonntagnachmittag": [
+            "dative",
+            "time"
+          ],
+          "im": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Schwimmbad": [
+            "dative"
+          ],
+          "treffen": [
+            "verb",
+            "infinitive",
+            "reflexive"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "sie": "they"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Vielleicht können sie sich am Sonntagnachmittag im Schwimmbad treffen",
+            "english": "Perhaps they can meet at the swimming pool on Sunday afternoon",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "reflexive"
+            ]
+          },
+          {
+            "german": "am Sonntagnachmittag",
+            "english": "on Sunday afternoon",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "im Schwimmbad",
+            "english": "at the swimming pool",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Sara sagt: „Ja, gern; um vier Uhr bin ich frei.“",
+      "en": "Sara says, “Yes, gladly; I am free at four o’clock.”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-042/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Sara": [
+            "nominative"
+          ],
+          "Ja": [
+            "interjection"
+          ],
+          "gern": [
+            "adverb",
+            "manner"
+          ],
+          "um": [
+            "preposition",
+            "time"
+          ],
+          "vier": [
+            "numeral",
+            "time"
+          ],
+          "Uhr": [
+            "time"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "frei": [
+            "adjective",
+            "predicate"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Ja, gern",
+            "english": "Yes, gladly",
+            "literal_meaning": null,
+            "tags": [
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "um vier Uhr",
+            "english": "at four o’clock",
+            "literal_meaning": null,
+            "tags": [
+              "time",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "um vier Uhr bin ich frei",
+            "english": "I am free at four o’clock",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Beide sagen: „Das geht“, und schreiben den Termin in ihre Kalender.",
+      "en": "They both say, “That works,” and write the appointment in their calendars.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-042/sentence-06.wav",
+      "annotations": {
+        "word_tags": {
+          "Beide": [
+            "indefinite pronoun",
+            "nominative"
+          ],
+          "Das": [
+            "demonstrative pronoun",
+            "nominative"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "den": [
+            "article",
+            "accusative"
+          ],
+          "Termin": [
+            "accusative"
+          ],
+          "in": [
+            "preposition",
+            "accusative",
+            "direction"
+          ],
+          "ihre": [
+            "possessive",
+            "determiner",
+            "accusative"
+          ],
+          "Kalender": [
+            "accusative",
+            "plural"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "Beide": "both of them",
+          "geht": "works"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Das geht",
+            "english": "That works",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "den Termin",
+            "english": "the appointment",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "in ihre Kalender",
+            "english": "in their calendars",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "When do Mina and Sara finally agree to meet?",
+    "answer_en": "On Sunday afternoon at four o’clock."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_07.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

@@ -1,0 +1,2073 @@
+{
+  "schema_version": 1,
+  "source_sha256": "965f4fc91cbfbf6ace744fccc1afe33b1bda0867768c0a5c058b506cc0948cf7",
+  "lesson": {
+    "id": "a1-course-033",
+    "title": "Welche Jacke?",
+    "english_title": "Which Jacket?",
+    "level": "A1.2",
+    "sentences": [
+      {
+        "text": "Mina sucht im Geschäft eine Jacke für das kalte Wetter.",
+        "natural_meaning": "Mina is looking for a jacket in the shop for the cold weather.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Mina",
+                "english": "Mina",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Mina"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sucht",
+                "english": "look for",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "suchen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "suche"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "suchst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "sucht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "suchen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "sucht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "suchen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to look for",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "suche"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "suchst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "sucht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "suchen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "sucht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "suchen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I look for",
+                    "you look for",
+                    "he/she/it looks for",
+                    "we look for",
+                    "you look for",
+                    "they/you look for"
+                  ],
+                  "current_english_forms": [
+                    "I look for",
+                    "you look for",
+                    "he/she/it looks for",
+                    "we look for",
+                    "you look for",
+                    "they/you look for"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "sucht"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "in",
+                "english": "in / into",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "im"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Geschäft",
+                "english": "shop / business",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Geschäft"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Jacke",
+                "english": "jacket",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "eine",
+                  "Jacke"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "für",
+                "english": "for",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "für"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "kalt",
+                "english": "cold",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "kalte"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Wetter",
+                "english": "weather",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "das",
+                  "Wetter"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "im Geschäft",
+                "english": "in the shop",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "contraction",
+                    "category": "form"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "im",
+                    "base": "das",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": "dem",
+                    "contraction": "in + dem"
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "eine Jacke",
+                "english": "a jacket",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "eine",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "für das kalte Wetter",
+                "english": "for the cold weather",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "das",
+                    "base": "das",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  },
+                  {
+                    "surface": "kalte",
+                    "base": "kalt",
+                    "kind": "adjective",
+                    "paradigm": "weak-adjective",
+                    "case": "accusative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_candidates/a1-course-033/sentence-01.wav"
+      },
+      {
+        "text": "Die Verkäuferin zeigt ihr eine blaue Jacke in Größe 38.",
+        "natural_meaning": "The saleswoman shows her a blue jacket in size 38.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "die Verkäuferin",
+                "english": "saleswoman",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Die",
+                  "Verkäuferin"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "zeigt",
+                "english": "show",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "zeigen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "zeige"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "zeigst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "zeigt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "zeigen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "zeigt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "zeigen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to show",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "zeige"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "zeigst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "zeigt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "zeigen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "zeigt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "zeigen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I show",
+                    "you show",
+                    "he/she/it shows",
+                    "we show",
+                    "you show",
+                    "they/you show"
+                  ],
+                  "current_english_forms": [
+                    "I show",
+                    "you show",
+                    "he/she/it shows",
+                    "we show",
+                    "you show",
+                    "they/you show"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "zeigt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ihr",
+                "english": "to her",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ihr"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "blau",
+                "english": "blue",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "blaue"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Jacke",
+                "english": "jacket",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "eine",
+                  "Jacke"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "in",
+                "english": "in / into",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "in"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Größe",
+                "english": "size",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Größe"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "38",
+                "english": "thirty-eight",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "numeral",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "38"
+                ],
+                "spoken_form": "achtunddreißig"
+              },
+              {
+                "german": "eine blaue Jacke",
+                "english": "a blue jacket",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "eine",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  },
+                  {
+                    "surface": "blaue",
+                    "base": "blau",
+                    "kind": "adjective",
+                    "paradigm": "mixed-adjective",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "in Größe",
+                "english": "in size",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "zeigt ihr",
+                "english": "shows her",
+                "literal_meaning": "shows to her",
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "ihr",
+                    "base": "sie",
+                    "kind": "personal-pronoun",
+                    "paradigm": "personal-pronoun",
+                    "case": "dative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": "third-feminine",
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "in Größe 38",
+                "english": "in size 38",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "fixed phrase",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_candidates/a1-course-033/sentence-02.wav"
+      },
+      {
+        "text": "Mina probiert die Jacke an, aber sie ist zu groß.",
+        "natural_meaning": "Mina tries the jacket on, but it is too large.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Mina",
+                "english": "Mina",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Mina"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "probiert",
+                "english": "tries on",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "anprobieren",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "probiere an"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "probierst an"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "probiert an"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "probieren an"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "probiert an"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "probieren an"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to try on",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "probiere an"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "probierst an"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "probiert an"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "probieren an"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "probiert an"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "probieren an"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I try on",
+                    "you try on",
+                    "he/she/it trys on",
+                    "we try on",
+                    "you try on",
+                    "they/you try on"
+                  ],
+                  "current_english_forms": [
+                    "I try on",
+                    "you try on",
+                    "he/she/it trys on",
+                    "we try on",
+                    "you try on",
+                    "they/you try on"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "probiert"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Jacke",
+                "english": "jacket",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "die",
+                  "Jacke"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "an",
+                "english": "separable prefix of anprobieren",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "particle",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "an"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "aber",
+                "english": "but",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "aber"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sie",
+                "english": "it",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ist",
+                "english": "be",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "ist"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "zu",
+                "english": "to / too",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "zu"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "groß",
+                "english": "big / tall",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "predicate",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "groß"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Mina probiert die Jacke an",
+                "english": "Mina tries the jacket on",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "aber sie ist zu groß",
+                "english": "but it is too large",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "connector",
+                    "category": "connector"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "probiert die Jacke an",
+                "english": "tries the jacket on",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "separable",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "die",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_candidates/a1-course-033/sentence-03.wav"
+      },
+      {
+        "text": "Dann nimmt sie die rote Jacke; die passt gut.",
+        "natural_meaning": "Then she takes the red jacket; it fits well.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Dann",
+                "english": "then",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Dann"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "nimmt",
+                "english": "take",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "nehmen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "nehme"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "nimmst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "nimmt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "nehmen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "nehmt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "nehmen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to take",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "nehme"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "nimmst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "nimmt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "nehmen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "nehmt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "nehmen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I take",
+                    "you take",
+                    "he/she/it takes",
+                    "we take",
+                    "you take",
+                    "they/you take"
+                  ],
+                  "current_english_forms": [
+                    "I take",
+                    "you take",
+                    "he/she/it takes",
+                    "we take",
+                    "you take",
+                    "they/you take"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "nimmt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sie",
+                "english": "she / they / you",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "rot",
+                "english": "red",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "rote"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Jacke",
+                "english": "jacket",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "die",
+                  "Jacke"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die",
+                "english": "it",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "demonstrative pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "die"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "passt",
+                "english": "suit",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "passen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "passe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "passt"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "passt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "passen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "passt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "passen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to suit / fit",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "passe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "passt"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "passt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "passen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "passt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "passen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I suit",
+                    "you suit",
+                    "he/she/it suits",
+                    "we suit",
+                    "you suit",
+                    "they/you suit"
+                  ],
+                  "current_english_forms": [
+                    "I suit",
+                    "you suit",
+                    "he/she/it suits",
+                    "we suit",
+                    "you suit",
+                    "they/you suit"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "passt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "gut",
+                "english": "good / well",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "manner",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "gut"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Dann nimmt sie die rote Jacke",
+                "english": "Then she takes the red jacket",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "die passt gut",
+                "english": "it fits well",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "die rote Jacke",
+                "english": "the red jacket",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "die",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  },
+                  {
+                    "surface": "rote",
+                    "base": "rot",
+                    "kind": "adjective",
+                    "paradigm": "weak-adjective",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_candidates/a1-course-033/sentence-04.wav"
+      },
+      {
+        "text": "Den Schuh nimmt sie nicht; er ist schön, aber zu teuer.",
+        "natural_meaning": "She does not take the shoe; it is nice but too expensive.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "der Schuh",
+                "english": "shoe",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Den",
+                  "Schuh"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "nimmt",
+                "english": "take",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "nehmen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "nehme"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "nimmst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "nimmt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "nehmen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "nehmt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "nehmen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to take",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "nehme"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "nimmst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "nimmt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "nehmen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "nehmt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "nehmen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I take",
+                    "you take",
+                    "he/she/it takes",
+                    "we take",
+                    "you take",
+                    "they/you take"
+                  ],
+                  "current_english_forms": [
+                    "I take",
+                    "you take",
+                    "he/she/it takes",
+                    "we take",
+                    "you take",
+                    "they/you take"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "nimmt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sie",
+                "english": "she / they / you",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "nicht",
+                "english": "not",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "negation",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "nicht"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "er",
+                "english": "it",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "er"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ist",
+                "english": "be",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "ist"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "schön",
+                "english": "beautiful / nice",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "predicate",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "schön"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "aber",
+                "english": "but",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "aber"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "zu",
+                "english": "to / too",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "zu"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "teuer",
+                "english": "expensive",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "predicate",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "teuer"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Den Schuh nimmt sie nicht",
+                "english": "She does not take the shoe",
+                "literal_meaning": "The shoe takes she not",
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "negation",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Den",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "er ist schön",
+                "english": "it is nice",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "aber zu teuer",
+                "english": "but too expensive",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "connector",
+                    "category": "connector"
+                  },
+                  {
+                    "label": "ellipsis",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_candidates/a1-course-033/sentence-05.wav"
+      }
+    ],
+    "audio_path": "assets/audio/a1_candidates/a1-course-033/paragraph.wav",
+    "initial_question": "Which jacket does Mina choose?",
+    "initial_answer": "The red jacket.",
+    "audio_status": "ready",
+    "sequence": 33,
+    "lesson_format": "dialogue",
+    "topic": "choosing clothing by colour, size, and price",
+    "new_targets": [
+      "die Jacke",
+      "der Schuh",
+      "die Größe",
+      "die Farbe",
+      "rot",
+      "passen",
+      "anprobieren",
+      "tragen",
+      "zu teuer"
+    ],
+    "recycled_targets": [
+      "möchten",
+      "nehmen",
+      "der Preis",
+      "billig",
+      "teuer",
+      "gern",
+      "lieber"
+    ],
+    "speech_alternatives": []
+  }
+}

@@ -1,0 +1,2159 @@
+{
+  "schema_version": 1,
+  "source_sha256": "201aea2866cb7b37f9fd604d192ed3d1150c3a9c8f9dcc11e1f3fb712a065506",
+  "tag_descriptions": {
+    "noun": "A word for a person, place, thing, or idea.",
+    "compound noun": "A noun formed by joining two or more words.",
+    "proper noun": "The specific name of a person, place, or organization.",
+    "masc.": "A noun with masculine grammatical gender.",
+    "fem.": "A noun with feminine grammatical gender.",
+    "neuter": "A noun with neuter grammatical gender.",
+    "singular": "A form referring to one person or thing.",
+    "plural": "A form referring to more than one person or thing.",
+    "verb": "A word expressing an action, process, or state.",
+    "modal verb": "A verb expressing ability, permission, need, or intention.",
+    "auxiliary": "A helping verb used to build a tense or voice.",
+    "reflexive": "A verb used with a pronoun that refers back to the subject.",
+    "separable": "A verb whose prefix separates in some sentence patterns.",
+    "inseparable": "A prefixed verb whose prefix stays attached.",
+    "regular": "A verb that follows the standard conjugation pattern.",
+    "irregular": "A verb with a stem or form that changes irregularly.",
+    "infinitive": "The unconjugated dictionary form of a verb.",
+    "past participle": "A verb form used in perfect tenses and the passive.",
+    "imperative": "A verb form used for commands or requests.",
+    "present": "A tense for current actions, habits, or general facts.",
+    "simple past": "A tense for completed past events, especially in writing.",
+    "perfect": "A past tense formed with haben or sein and a past participle.",
+    "pluperfect": "A tense for an event completed before another past event.",
+    "future": "A tense commonly formed with werden and an infinitive.",
+    "adjective": "A word describing a noun or a state.",
+    "adverb": "A word modifying a verb, adjective, or whole sentence.",
+    "interjection": "A standalone word used for a greeting, reaction, or brief response.",
+    "article": "A noun companion that can show gender, number, and case.",
+    "determiner": "A word that specifies quantity or reference before a noun.",
+    "personal pronoun": "A word such as ich or mir that refers to a participant.",
+    "interrogative pronoun": "A pronoun used to ask about a person, thing, or idea.",
+    "demonstrative pronoun": "A pronoun that points to a specific person, thing, or idea.",
+    "reflexive pronoun": "A pronoun that refers back to the subject of its clause.",
+    "relative pronoun": "A pronoun that introduces a relative clause and refers back to a noun.",
+    "indefinite pronoun": "A pronoun referring to a non-specific person, thing, amount, or totality.",
+    "possessive": "A form expressing ownership or another close relationship.",
+    "preposition": "A word showing a relationship and governing a case.",
+    "conjunction": "A word joining words, phrases, or clauses.",
+    "particle": "A small word that changes meaning, emphasis, or tone.",
+    "numeral": "A word expressing number, quantity, or order.",
+    "nominative": "The case normally used for the subject.",
+    "accusative": "The case often used for a direct object.",
+    "dative": "The case often used for a recipient or indirect object.",
+    "genitive": "The case commonly expressing possession or belonging.",
+    "subject": "The person or thing performing an action or being described.",
+    "direct object": "The person or thing directly affected by the action.",
+    "indirect object": "The recipient or beneficiary of the action.",
+    "predicate": "A word or phrase describing what the subject is or does.",
+    "main clause": "A complete clause that can stand on its own.",
+    "subordinate clause": "A dependent clause that supports a main clause.",
+    "verb-second": "The finite verb occupies the second sentence position.",
+    "verb-final": "The finite verb appears at the end of the clause.",
+    "inversion": "The verb comes before the subject after another first element.",
+    "negation": "A form that makes a word, phrase, or sentence negative.",
+    "fixed phrase": "A common expression usually learned as one stable unit.",
+    "idiom": "A phrase whose meaning is not fully predictable from its words.",
+    "ellipsis": "An understood word or phrase is omitted because the meaning is clear in context.",
+    "contraction": "A shortened form made by combining two words.",
+    "comparative": "An adjective or adverb form used to compare two things.",
+    "superlative": "A form expressing the highest degree of a quality.",
+    "time": "Shows when something happens.",
+    "place": "Shows where something happens.",
+    "direction": "Shows movement toward or away from a place.",
+    "frequency": "Shows how often something happens.",
+    "manner": "Shows how an action happens.",
+    "reason": "Shows why something happens.",
+    "connector": "Links one idea or sentence to another.",
+    "coordinating": "Joins elements that have equal grammatical status.",
+    "subordinating": "Introduces a clause that depends on another clause.",
+    "formal": "Used mainly in polite, official, or professional contexts.",
+    "informal": "Used mainly in relaxed or familiar contexts.",
+    "colloquial": "Typical of everyday spoken language.",
+    "subjunctive": "A verb form used for hypothetical, reported, or politely distanced statements."
+  },
+  "lesson": {
+    "id": "a1-course-026",
+    "title": "Die Bahnsteigdurchsage",
+    "english_title": "The Platform Announcement",
+    "level": "A1.1",
+    "sentences": [
+      {
+        "text": "Achtung, hier ist eine wichtige Durchsage für den Zug nach Köln.",
+        "natural_meaning": "Attention, here is an important announcement for the train to Cologne.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Achtung",
+                "english": "attention",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "interjection",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Achtung"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "hier",
+                "english": "here",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "hier"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ist",
+                "english": "be",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "ist"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "wichtig",
+                "english": "important",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "wichtige"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Durchsage",
+                "english": "announcement",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "eine",
+                  "Durchsage"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "für",
+                "english": "for",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "für"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Zug",
+                "english": "train",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "den",
+                  "Zug"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "nach",
+                "english": "after / to",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "nach"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Köln",
+                "english": "Köln",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Köln"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "hier ist eine wichtige Durchsage für den Zug nach Köln",
+                "english": "here is an important announcement for the train to Cologne",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "eine wichtige Durchsage",
+                "english": "an important announcement",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "eine",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "nominative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "ein",
+                        "eine",
+                        "ein",
+                        "—"
+                      ],
+                      "accusative": [
+                        "einen",
+                        "eine",
+                        "ein",
+                        "—"
+                      ],
+                      "dative": [
+                        "einem",
+                        "einer",
+                        "einem",
+                        "—"
+                      ],
+                      "genitive": [
+                        "eines",
+                        "einer",
+                        "eines",
+                        "—"
+                      ]
+                    },
+                    "selected_column": 1
+                  },
+                  {
+                    "surface": "wichtige",
+                    "base": "wichtig",
+                    "kind": "adjective",
+                    "paradigm": "mixed-adjective",
+                    "case": "nominative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "-er",
+                        "-e",
+                        "-es",
+                        "-en"
+                      ],
+                      "accusative": [
+                        "-en",
+                        "-e",
+                        "-es",
+                        "-en"
+                      ],
+                      "dative": [
+                        "-en",
+                        "-en",
+                        "-en",
+                        "-en"
+                      ],
+                      "genitive": [
+                        "-en",
+                        "-en",
+                        "-en",
+                        "-en"
+                      ]
+                    },
+                    "selected_column": 1
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "nach Köln",
+                "english": "to Cologne",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "für den Zug nach Köln",
+                "english": "for the train to Cologne",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "den",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "der",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "accusative": [
+                        "den",
+                        "die",
+                        "das",
+                        "die"
+                      ],
+                      "dative": [
+                        "dem",
+                        "der",
+                        "dem",
+                        "den"
+                      ],
+                      "genitive": [
+                        "des",
+                        "der",
+                        "des",
+                        "der"
+                      ]
+                    },
+                    "selected_column": 0
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Achtung, hier ist eine wichtige Durchsage für den Zug nach Köln",
+                "english": "Attention, here is an important announcement for the train to Cologne",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_published/a1-course-026/sentence-01.wav"
+      },
+      {
+        "text": "Der Zug fährt heute um zehn Uhr zwölf von Gleis vier ab.",
+        "natural_meaning": "The train leaves today at 10:12 from platform four.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "der Zug",
+                "english": "train",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Der",
+                  "Zug"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "fährt",
+                "english": "depart",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "abfahren",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "fahre ab"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "fährst ab"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "fährt ab"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "fahren ab"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "fahrt ab"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "fahren ab"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to depart",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "fahre ab"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "fährst ab"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "fährt ab"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "fahren ab"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "fahrt ab"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "fahren ab"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I depart",
+                    "you depart",
+                    "he/she/it departs",
+                    "we depart",
+                    "you depart",
+                    "they/you depart"
+                  ],
+                  "current_english_forms": [
+                    "I depart",
+                    "you depart",
+                    "he/she/it departs",
+                    "we depart",
+                    "you depart",
+                    "they/you depart"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "fährt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "heute",
+                "english": "today",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "heute"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "um",
+                "english": "at / around / in order to",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "um"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "zehn",
+                "english": "ten",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "numeral",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "zehn"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Uhr",
+                "english": "clock; o'clock",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Uhr"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "zwölf",
+                "english": "twelve",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "numeral",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "zwölf"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "von",
+                "english": "from / of",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "von"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Gleis",
+                "english": "platform / track",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Gleis"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "vier",
+                "english": "four",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "numeral",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "vier"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ab",
+                "english": "separable prefix of abfahren",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "particle",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ab"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Der Zug fährt heute um zehn Uhr zwölf von Gleis vier ab",
+                "english": "The train leaves today at 10:12 from platform four",
+                "literal_meaning": "The train departs today at ten o’clock twelve from platform four",
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "separable",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "um zehn Uhr zwölf",
+                "english": "at 10:12",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "von Gleis vier",
+                "english": "from platform four",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_published/a1-course-026/sentence-02.wav"
+      },
+      {
+        "text": "Die Ankunft in Köln ist um elf Uhr, und dort haben Sie Anschluss nach Bonn.",
+        "natural_meaning": "Arrival in Cologne is at eleven o’clock, and there you have a connection to Bonn.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "die Ankunft",
+                "english": "arrival",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Die",
+                  "Ankunft"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "in",
+                "english": "in / into",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "in"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Köln",
+                "english": "Köln",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Köln"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ist",
+                "english": "be",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "ist"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "um",
+                "english": "at / around / in order to",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "um"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "elf",
+                "english": "eleven",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "numeral",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "elf"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Uhr",
+                "english": "clock; o'clock",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Uhr"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "dort",
+                "english": "there",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "dort"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "haben",
+                "english": "have",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "haben",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to have",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I have",
+                    "you have",
+                    "he/she/it has",
+                    "we have",
+                    "you have",
+                    "they/you have"
+                  ],
+                  "current_english_forms": [
+                    "I have",
+                    "you have",
+                    "he/she/it has",
+                    "we have",
+                    "you have",
+                    "they/you have"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "haben"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Sie",
+                "english": "you (formal)",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Anschluss",
+                "english": "connection",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Anschluss"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "nach",
+                "english": "after / to",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "nach"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Bonn",
+                "english": "Bonn",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Bonn"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "dort haben Sie Anschluss nach Bonn",
+                "english": "there you have a connection to Bonn",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "in Köln",
+                "english": "in Cologne",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "um elf Uhr",
+                "english": "at eleven o’clock",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "nach Bonn",
+                "english": "to Bonn",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Die Ankunft in Köln ist um elf Uhr",
+                "english": "Arrival in Cologne is at eleven o’clock",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_published/a1-course-026/sentence-03.wav"
+      },
+      {
+        "text": "Bitte halten Sie Ihre Fahrkarte bereit und gehen Sie jetzt zu Gleis vier.",
+        "natural_meaning": "Please have your ticket ready and go to platform four now.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "bitte",
+                "english": "please; you're welcome",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "particle",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Bitte"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "halten",
+                "english": "keep",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "imperative",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "halten",
+                  "tense": "Imperativ (command/request)",
+                  "forms": [
+                    {
+                      "pronoun": "du",
+                      "verb": "hältst"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "haltet"
+                    },
+                    {
+                      "pronoun": "Sie",
+                      "verb": "halten Sie"
+                    }
+                  ],
+                  "usage": "The sentence uses a command or instruction; the rows show du, ihr, and formal Sie.",
+                  "english": "to hold / keep",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "halte"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hältst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hält"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "halten"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "haltet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "halten"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I hold",
+                    "you hold",
+                    "he/she/it holds",
+                    "we hold",
+                    "you hold",
+                    "they/you hold"
+                  ],
+                  "current_english_forms": [
+                    "you hold",
+                    "you all hold",
+                    "you hold (formal)"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "halten"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Sie",
+                "english": "you (formal)",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Ihre",
+                "english": "your",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "possessive",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Ihre"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Fahrkarte",
+                "english": "ticket",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Fahrkarte"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "bereit",
+                "english": "ready",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "bereit"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "gehen",
+                "english": "go",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "imperative",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "gehen",
+                  "tense": "Imperativ (command/request)",
+                  "forms": [
+                    {
+                      "pronoun": "du",
+                      "verb": "gehst"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "geht"
+                    },
+                    {
+                      "pronoun": "Sie",
+                      "verb": "gehen Sie"
+                    }
+                  ],
+                  "usage": "The sentence uses a command or instruction; the rows show du, ihr, and formal Sie.",
+                  "english": "to go / be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "gehe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "gehst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "geht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "gehen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "geht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "gehen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I go",
+                    "you go",
+                    "he/she/it goes",
+                    "we go",
+                    "you go",
+                    "they/you go"
+                  ],
+                  "current_english_forms": [
+                    "you go",
+                    "you all go",
+                    "you go (formal)"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "gehen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Sie",
+                "english": "you (formal)",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "jetzt",
+                "english": "now",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "jetzt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "zu",
+                "english": "to / too",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "zu"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Gleis",
+                "english": "platform / track",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Gleis"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "vier",
+                "english": "four",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "numeral",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "vier"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Ihre Fahrkarte",
+                "english": "your ticket",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Ihre",
+                    "base": "ihr",
+                    "kind": "possessive-determiner",
+                    "paradigm": "possessive",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null,
+                    "reference_columns": [
+                      "masculine",
+                      "feminine",
+                      "neuter",
+                      "plural"
+                    ],
+                    "reference_table": {
+                      "nominative": [
+                        "ihr",
+                        "ihre",
+                        "ihr",
+                        "ihre"
+                      ],
+                      "accusative": [
+                        "ihren",
+                        "ihre",
+                        "ihr",
+                        "ihre"
+                      ],
+                      "dative": [
+                        "ihrem",
+                        "ihrer",
+                        "ihrem",
+                        "ihren"
+                      ],
+                      "genitive": [
+                        "ihres",
+                        "ihrer",
+                        "ihres",
+                        "ihrer"
+                      ]
+                    },
+                    "selected_column": 1
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Halten Sie Ihre Fahrkarte bereit",
+                "english": "Have your ticket ready",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "imperative",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "gehen Sie jetzt zu Gleis vier",
+                "english": "go to platform four now",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "imperative",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "zu Gleis vier",
+                "english": "to platform four",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_published/a1-course-026/sentence-04.wav"
+      }
+    ],
+    "audio_path": "assets/audio/a1_published/a1-course-026/paragraph.wav",
+    "initial_question": "Which platform does the train leave from?",
+    "initial_answer": "Platform four.",
+    "audio_status": "ready",
+    "sequence": 26,
+    "lesson_format": "announcement",
+    "topic": "understanding a station announcement",
+    "new_targets": [
+      "die Durchsage",
+      "das Gleis",
+      "abfahren",
+      "die Ankunft",
+      "der Anschluss"
+    ],
+    "recycled_targets": [
+      "Achtung",
+      "der Zug",
+      "die Fahrkarte",
+      "heute",
+      "die Uhr",
+      "halten",
+      "gehen",
+      "bereit",
+      "Köln",
+      "Bonn"
+    ],
+    "speech_alternatives": []
+  }
+}

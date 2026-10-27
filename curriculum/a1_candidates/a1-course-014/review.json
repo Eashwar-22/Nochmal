@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-014",
+  "source_sha256": "1ae606b0a0114af137dc2e286fc5c529eb860604b9f8c01dbfcacb9ccaed4da6",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "market dative phrase",
+        "wie viel question",
+        "quantity and accusative object phrases"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "price-question word order",
+        "Kilo and Euro quantity expressions",
+        "market-stall exchange"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "price meanings",
+        "one versus plural euro",
+        "literal question structure"
+      ],
+      "findings": []
+    }
+  ]
+}

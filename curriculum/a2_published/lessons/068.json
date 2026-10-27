@@ -1,0 +1,543 @@
+{
+  "id": "a2-course-020",
+  "source_draft_id": "a2-draft-020",
+  "sequence": 68,
+  "band": "A2.1",
+  "format": "dialogue",
+  "title_de": "Was ich vorher gemacht habe",
+  "title_en": "What I Did Before",
+  "topic": "describing education, practical training, and work experience in order",
+  "communicative_goal": "Give a chronological account of completed education and work stages.",
+  "grammar_focus": "past-time expressions with vor plus dative and a Perfekt sequence",
+  "supporting_structures": [
+    "vor drei Jahren",
+    "vor einem Jahr",
+    "danach habe ich",
+    "seitdem arbeite ich"
+  ],
+  "grammar_notes": [],
+  "new_targets": [
+    "die Ausbildung",
+    "das Praktikum",
+    "der Abschluss",
+    "die Tätigkeit",
+    "vor einem Jahr",
+    "die Qualifikation",
+    "Berufserfahrung haben"
+  ],
+  "recycled_targets": [
+    "machen",
+    "arbeiten",
+    "lernen",
+    "Berufserfahrung",
+    "die Stelle"
+  ],
+  "recycles_from": [
+    1,
+    19,
+    37,
+    38
+  ],
+  "audio_path": "assets/audio/a2_published/a2-course-020/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Die Chefin fragt: Welche Berufserfahrung und Qualifikation haben Sie für diese Stelle?",
+      "en": "The manager asks: What professional experience and qualifications do you have for this position?",
+      "audio_path": "assets/audio/a2_published/a2-course-020/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Die": [
+            "article",
+            "nominative"
+          ],
+          "Welche": [
+            "determiner",
+            "accusative"
+          ],
+          "Sie": [
+            "personal pronoun",
+            "nominative",
+            "subject",
+            "formal"
+          ],
+          "für": [
+            "preposition",
+            "accusative"
+          ],
+          "diese": [
+            "determiner",
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "Chefin": "manager",
+          "Berufserfahrung": "professional experience",
+          "Qualifikation": "qualification",
+          "fragt": "asks",
+          "Sie": "you (formal)",
+          "diese": "this",
+          "Stelle": "position"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Die Chefin fragt: Welche Berufserfahrung",
+          "und Qualifikation haben Sie für diese Stelle"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Die Chefin",
+            "english": "the manager",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "Welche Berufserfahrung und Qualifikation",
+            "english": "what professional experience and qualifications",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "für diese Stelle",
+            "english": "for this position",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "Welche Berufserfahrung und Qualifikation haben Sie",
+            "english": "what professional experience and qualifications do you have",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "formal"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina antwortet: Vor drei Jahren habe ich meine Ausbildung im Büro begonnen.",
+      "en": "Mina replies: Three years ago I began my office training.",
+      "audio_path": "assets/audio/a2_published/a2-course-020/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Mina": [
+            "proper noun"
+          ],
+          "Vor": [
+            "preposition",
+            "dative"
+          ],
+          "drei": [
+            "numeral"
+          ],
+          "Jahren": [
+            "plural"
+          ],
+          "meine": [
+            "possessive",
+            "determiner",
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "begonnen": "beginnen"
+        },
+        "word_meanings": {
+          "Vor": "ago",
+          "antwortet": "replies"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Vor drei Jahren",
+            "english": "three years ago",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "meine Ausbildung",
+            "english": "my training",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "im Büro",
+            "english": "in the office",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "habe ich meine Ausbildung im Büro begonnen",
+            "english": "I began my office training",
+            "literal_meaning": null,
+            "tags": [
+              "perfect",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Danach habe ich sechs Monate ein Praktikum in einem Hotel gemacht und Gäste beraten.",
+      "en": "After that I did a six-month internship in a hotel and advised guests.",
+      "audio_path": "assets/audio/a2_published/a2-course-020/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Danach": [
+            "adverb",
+            "time"
+          ],
+          "sechs": [
+            "numeral"
+          ],
+          "Monate": [
+            "plural"
+          ],
+          "einem": [
+            "article",
+            "dative"
+          ],
+          "in": [
+            "preposition",
+            "dative"
+          ],
+          "Gäste": [
+            "plural"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "gemacht": "machen",
+          "beraten": "beraten"
+        },
+        "word_meanings": {
+          "Monate": "months",
+          "Gäste": "guests"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "sechs Monate",
+            "english": "six months",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "time"
+            ]
+          },
+          {
+            "german": "ein Praktikum",
+            "english": "an internship",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "in einem Hotel",
+            "english": "in a hotel",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "habe ich sechs Monate ein Praktikum in einem Hotel gemacht",
+            "english": "I did a six-month internship in a hotel",
+            "literal_meaning": null,
+            "tags": [
+              "perfect",
+              "inversion"
+            ]
+          },
+          {
+            "german": "Gäste beraten",
+            "english": "advised guests",
+            "literal_meaning": null,
+            "tags": [
+              "perfect"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Vor einem Jahr habe ich meinen Abschluss bekommen und eine Tätigkeit an der Rezeption gefunden.",
+      "en": "A year ago I received my qualification and found a job at reception.",
+      "audio_path": "assets/audio/a2_published/a2-course-020/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Vor": [
+            "preposition",
+            "dative"
+          ],
+          "einem": [
+            "article",
+            "dative"
+          ],
+          "meinen": [
+            "possessive",
+            "determiner",
+            "accusative"
+          ],
+          "eine": [
+            "article",
+            "accusative"
+          ],
+          "an": [
+            "preposition",
+            "dative"
+          ],
+          "der": [
+            "article",
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "gefunden": "finden"
+        },
+        "word_meanings": {
+          "Vor": "ago",
+          "Abschluss": "qualification",
+          "Tätigkeit": "job"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Vor einem Jahr",
+            "english": "a year ago",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "meinen Abschluss",
+            "english": "my qualification",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "eine Tätigkeit",
+            "english": "a job",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "an der Rezeption",
+            "english": "at reception",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "habe ich meinen Abschluss bekommen und eine Tätigkeit an der Rezeption gefunden",
+            "english": "I received my qualification and found a job at reception",
+            "literal_meaning": null,
+            "tags": [
+              "perfect",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Seitdem arbeite ich dort; ich habe am Empfang gearbeitet und E-Mails geschrieben.",
+      "en": "Since then I have worked there; I have worked at reception and written emails.",
+      "audio_path": "assets/audio/a2_published/a2-course-020/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Seitdem": [
+            "adverb",
+            "time"
+          ],
+          "dort": [
+            "adverb",
+            "place"
+          ],
+          "E-Mails": [
+            "plural"
+          ]
+        },
+        "excluded_word_tags": {
+          "Seitdem": [
+            "proper noun"
+          ]
+        },
+        "base_forms": {
+          "gearbeitet": "arbeiten",
+          "geschrieben": "schreiben"
+        },
+        "word_meanings": {
+          "Seitdem": "since then",
+          "Empfang": "reception"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Seitdem arbeite ich dort",
+            "english": "since then I have worked there",
+            "literal_meaning": "Since then I work there",
+            "tags": [
+              "inversion",
+              "main clause"
+            ]
+          },
+          {
+            "german": "am Empfang",
+            "english": "at reception",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "ich habe am Empfang gearbeitet und E-Mails geschrieben",
+            "english": "I have worked at reception and written emails",
+            "literal_meaning": null,
+            "tags": [
+              "perfect"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Die Chefin fragt: War das Praktikum vor oder nach dem Abschluss?",
+      "en": "The manager asks: Was the internship before or after the qualification?",
+      "audio_path": "assets/audio/a2_published/a2-course-020/sentence-06.wav",
+      "annotations": {
+        "word_tags": {
+          "Die": [
+            "article",
+            "nominative"
+          ],
+          "vor": [
+            "preposition",
+            "dative"
+          ],
+          "nach": [
+            "preposition",
+            "dative"
+          ],
+          "dem": [
+            "article",
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "War": "sein"
+        },
+        "word_meanings": {
+          "Chefin": "manager",
+          "fragt": "asks",
+          "vor": "before",
+          "nach": "after",
+          "Abschluss": "qualification"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Die Chefin",
+            "english": "the manager",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "das Praktikum",
+            "english": "the internship",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "War das Praktikum vor oder nach dem Abschluss",
+            "english": "was the internship before or after the qualification",
+            "literal_meaning": null,
+            "tags": [
+              "main clause"
+            ]
+          },
+          {
+            "german": "nach dem Abschluss",
+            "english": "after the qualification",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Was Mina's internship before or after she received her qualification?",
+    "answer_en": "Before: she did the internship after starting training three years ago, and received the qualification a year ago."
+  },
+  "source_basis": [
+    "curriculum/a2_blueprint.md",
+    "A2 Lesson 20"
+  ],
+  "speech_alternatives": [],
+  "performance_activity": {
+    "kind": "speaking",
+    "instruction": "Use the timeline to give a one-minute account of this applicant's background in chronological order, including vor einem Jahr; then answer the manager's clarification question.",
+    "prompts": [
+      "Three years ago: office training",
+      "Afterward: six-month hotel internship and guest advice",
+      "One year ago: qualification and reception job",
+      "Was the internship before or after the qualification?"
+    ]
+  }
+}

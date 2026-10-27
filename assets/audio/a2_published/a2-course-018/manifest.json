@@ -1,0 +1,37 @@
+{
+  "draft_id": "a2-draft-018",
+  "status": "release_ready",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav",
+    "sentence-05.wav",
+    "sentence-06.wav"
+  ],
+  "sentence_texts": [
+    "Frau Klein fragt: Darf ich kurz st\u00f6ren? Wissen Sie, ob mein Paket kommt?",
+    "Herr Braun sagt: Der L\u00e4rm st\u00f6rt mich; k\u00f6nnten Sie bitte leiser sein?",
+    "Frau Klein sagt: Das tut mir leid. Ich entschuldige mich bei Ihnen.",
+    "Der Zusteller fragt: Soll ich Frau Klein das Paket geben?",
+    "Herr Braun antwortet: Ich sehe nach; Frau Klein ist hier. Geben Sie ihr das Paket.",
+    "Frau Klein sagt: Danke f\u00fcr Ihr Verst\u00e4ndnis; ich k\u00fcmmere mich darum, bitte die Kinder um Ruhe und helfe Ihnen mit dem Paket."
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "68f21b9fc90db2cfc068c26738eec885cc8dbb8b9fa363eb4bee76a6ec0d4b72",
+    "sentence-02.wav": "cd59223b7d6e22e195be6a25c464b6b875dfa55f2414359b5768d3f2657d3c15",
+    "sentence-03.wav": "eaa1c039c8d804f756285c34f33bbc1638cc35d24aa23f0a9e84eaf10b09850c",
+    "sentence-04.wav": "0b92b7ed87d625afbb7666c5cc594da45cdad163c99394dd4d3ae96897bd5413",
+    "sentence-05.wav": "3d3b8cf142935301b9121ed2d0a0e685eac29fad12cfe919e265fd9320570430",
+    "sentence-06.wav": "6b05b2f099672609a7ffa9f737cde386fe0b76be98e6c896e8ef6e31da00b7cf"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "69e47a86f7565cf29479b397de29b31bd59ad8f17dda03ddb4308df51d84d945",
+  "paragraph_assembled_from_sentence_files": true
+}

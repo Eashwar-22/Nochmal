@@ -1,0 +1,1458 @@
+[
+  {
+    "id": "a2-course-055",
+    "source_draft_id": "a2-draft-055",
+    "sequence": 103,
+    "band": "A2.2",
+    "format": "instructions",
+    "title_de": "Was gehört in welche Tonne?",
+    "title_en": "What Goes in Which Bin?",
+    "topic": "sorting household waste",
+    "communicative_goal": "Understand and explain basic recycling rules.",
+    "grammar_focus": "generic man for general instructions",
+    "supporting_structures": [
+      "trennt man",
+      "wirft man",
+      "darf man nicht"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "das Plastik",
+      "trennen",
+      "wegwerfen"
+    ],
+    "recycled_targets": [
+      "der Müll",
+      "das Papier",
+      "das Glas",
+      "die Tonne",
+      "sauber"
+    ],
+    "recycles_from": [
+      32,
+      47
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "In unserem Haus trennt man Papier, Glas und Plastik.",
+        "en": "In our building, people separate paper, glass, and plastic.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "unserem": [
+              "possessive",
+              "determiner",
+              "dative"
+            ],
+            "man": [
+              "indefinite pronoun",
+              "nominative",
+              "subject"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "In unserem Haus",
+              "english": "in our building",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place"
+              ]
+            },
+            {
+              "german": "trennt man Papier, Glas und Plastik",
+              "english": "people separate paper, glass, and plastic",
+              "literal_meaning": null,
+              "tags": [
+                "inversion"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Papier wirft man in die blaue Tonne.",
+        "en": "Paper is put into the blue bin.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "man": [
+              "indefinite pronoun",
+              "nominative",
+              "subject"
+            ],
+            "blaue": [
+              "adjective",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "wirft": "wegwerfen",
+            "blaue": "blau"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Papier wirft man in die blaue Tonne",
+              "english": "paper is put into the blue bin",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "accusative",
+                "direction"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Gläser bringt man zum Container hinter dem Haus.",
+        "en": "Glass jars are taken to the container behind the building.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "man": [
+              "indefinite pronoun",
+              "nominative",
+              "subject"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "zum Container",
+              "english": "to the container",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "direction",
+                "contraction"
+              ]
+            },
+            {
+              "german": "hinter dem Haus",
+              "english": "behind the building",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Verpackungen aus Plastik macht man vorher leer und sauber.",
+        "en": "Plastic packaging is emptied and cleaned beforehand.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "man": [
+              "indefinite pronoun",
+              "nominative",
+              "subject"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "Verpackungen": "packaging",
+            "leer": "empty"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "aus Plastik",
+              "english": "made of plastic",
+              "literal_meaning": null,
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "macht man vorher leer und sauber",
+              "english": "is emptied and cleaned beforehand",
+              "literal_meaning": null,
+              "tags": [
+                "inversion"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Gefährlichen Müll darf man nicht in normale Tonnen werfen.",
+        "en": "Hazardous waste must not be put in normal bins.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Gefährlichen": [
+              "adjective",
+              "accusative"
+            ],
+            "man": [
+              "indefinite pronoun",
+              "nominative",
+              "subject"
+            ],
+            "nicht": [
+              "particle",
+              "negation"
+            ],
+            "normale": [
+              "adjective",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "Gefährlichen": "gefährlich"
+          },
+          "word_meanings": {
+            "Gefährlichen": "hazardous",
+            "normale": "normal"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "darf man nicht ... werfen",
+              "english": "must not be thrown",
+              "literal_meaning": null,
+              "tags": [
+                "modal verb",
+                "negation",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "in normale Tonnen",
+              "english": "into normal bins",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "direction"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "Where does paper go?",
+      "answer_en": "Into the blue bin."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 55"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-056",
+    "source_draft_id": "a2-draft-056",
+    "sequence": 104,
+    "band": "A2.2",
+    "format": "dialogue",
+    "title_de": "Stadt oder Land?",
+    "title_en": "City or Countryside?",
+    "topic": "comparing city and countryside life",
+    "communicative_goal": "Compare familiar advantages of city and countryside.",
+    "grammar_focus": "comparatives with als and so ... wie",
+    "supporting_structures": [
+      "ruhiger als",
+      "praktischer als",
+      "genauso wichtig wie"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "die Natur",
+      "das Verkehrsmittel",
+      "die Entfernung"
+    ],
+    "recycled_targets": [
+      "auf dem Land",
+      "der Verkehr",
+      "die Baustelle",
+      "das Einkaufszentrum",
+      "ruhig",
+      "praktisch"
+    ],
+    "recycles_from": [
+      7,
+      8,
+      55
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Auf dem Land ist es ruhiger als in der Stadt.",
+        "en": "In the countryside it is quieter than in the city.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "ruhiger": [
+              "comparative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Auf dem Land",
+              "english": "in the countryside",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place"
+              ]
+            },
+            {
+              "german": "ruhiger als in der Stadt",
+              "english": "quieter than in the city",
+              "literal_meaning": null,
+              "tags": [
+                "comparative",
+                "dative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Die Natur ist näher, und es gibt weniger Verkehr.",
+        "en": "Nature is closer, and there is less traffic.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "näher": [
+              "comparative"
+            ],
+            "weniger": [
+              "determiner",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "weniger Verkehr",
+              "english": "less traffic",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "comparative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "In der Stadt sind Bus und Bahn praktischer als das Auto.",
+        "en": "In the city, buses and trains are more practical than the car.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "praktischer": [
+              "comparative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "praktischer": "praktisch"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "In der Stadt",
+              "english": "in the city",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place"
+              ]
+            },
+            {
+              "german": "praktischer als das Auto",
+              "english": "more practical than the car",
+              "literal_meaning": null,
+              "tags": [
+                "comparative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Dort ist die Entfernung zum Einkaufszentrum nicht so groß.",
+        "en": "There, the distance to the shopping center is not as great.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Dort": [
+              "adverb",
+              "place"
+            ],
+            "nicht": [
+              "particle",
+              "negation"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "zum Einkaufszentrum",
+              "english": "to the shopping center",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "direction",
+                "contraction"
+              ]
+            },
+            {
+              "german": "nicht so groß",
+              "english": "not as great",
+              "literal_meaning": null,
+              "tags": [
+                "negation",
+                "comparative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Für mich sind gute Verkehrsmittel genauso wichtig wie Ruhe.",
+        "en": "For me, good public transport is just as important as peace and quiet.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "gute": [
+              "adjective",
+              "nominative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "gute": "gut"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "genauso wichtig wie Ruhe",
+              "english": "just as important as peace and quiet",
+              "literal_meaning": null,
+              "tags": [
+                "comparative"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "Where is traffic lighter?",
+      "answer_en": "In the countryside."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 56"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-057",
+    "source_draft_id": "a2-draft-057",
+    "sequence": 105,
+    "band": "A2.2",
+    "format": "announcement",
+    "title_de": "Das Wetter am Wochenende",
+    "title_en": "Weather for the Weekend",
+    "topic": "understanding a weekend weather forecast",
+    "communicative_goal": "Understand a simple forecast and adapt a plan.",
+    "grammar_focus": "weather description with es and future reference",
+    "supporting_structures": [
+      "einen bewölkten Himmel",
+      "wird stärker",
+      "bleibt trocken"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "der Sturm",
+      "trocken",
+      "sonnig",
+      "die Vorhersage"
+    ],
+    "recycled_targets": [
+      "bewölkt",
+      "der Grad",
+      "der Himmel",
+      "regnen",
+      "der Wind",
+      "das Wetter"
+    ],
+    "recycles_from": [
+      33,
+      47,
+      56
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Die Vorhersage sagt für Samstag einen bewölkten Himmel voraus.",
+        "en": "The forecast predicts a cloudy sky for Saturday.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "bewölkten": [
+              "adjective",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "bewölkten": "bewölkt",
+            "sagt": "voraussagen"
+          },
+          "word_meanings": {
+            "voraus": "ahead"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "für Samstag",
+              "english": "for Saturday",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "time"
+              ]
+            },
+            {
+              "german": "einen bewölkten Himmel",
+              "english": "a cloudy sky",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Am Vormittag regnet es bei zwölf Grad.",
+        "en": "In the morning it will rain at twelve degrees.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "zwölf": [
+              "numeral"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Am Vormittag",
+              "english": "in the morning",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "bei zwölf Grad",
+              "english": "at twelve degrees",
+              "literal_meaning": null,
+              "tags": [
+                "dative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Am Nachmittag wird der Wind stärker, und es kann einen Sturm geben.",
+        "en": "In the afternoon the wind will get stronger, and there may be a storm.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "wird": [
+              "auxiliary",
+              "future"
+            ],
+            "stärker": [
+              "comparative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "wird": "werden",
+            "stärker": "stark"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "wird der Wind stärker",
+              "english": "the wind will get stronger",
+              "literal_meaning": null,
+              "tags": [
+                "future",
+                "comparative"
+              ]
+            },
+            {
+              "german": "kann einen Sturm geben",
+              "english": "there may be a storm",
+              "literal_meaning": null,
+              "tags": [
+                "modal verb",
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Sonntag bleibt es dagegen trocken und später sonnig.",
+        "en": "Sunday, by contrast, will remain dry and later become sunny.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "dagegen": [
+              "connector"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "dagegen trocken",
+              "english": "dry by contrast",
+              "literal_meaning": null,
+              "tags": [
+                "connector"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Deshalb verschieben wir den Ausflug auf Sonntag.",
+        "en": "Therefore, we are moving the excursion to Sunday.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Deshalb": [
+              "connector"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "verschieben wir den Ausflug auf Sonntag",
+              "english": "we are moving the excursion to Sunday",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "accusative",
+                "time"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "On which day will it be dry?",
+      "answer_en": "Sunday."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 57"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-058",
+    "source_draft_id": "a2-draft-058",
+    "sequence": 106,
+    "band": "A2.2",
+    "format": "narrative",
+    "title_de": "Als wir uns verlaufen haben",
+    "title_en": "When We Got Lost",
+    "topic": "recounting an incident on a day trip",
+    "communicative_goal": "Tell what happened at one specific time in the past.",
+    "grammar_focus": "als clauses for a single past event",
+    "supporting_structures": [
+      "Als wir gegangen sind",
+      "haben wir uns verlaufen",
+      "zum See zurückgefunden"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "sich verlaufen",
+      "zurückfinden"
+    ],
+    "recycled_targets": [
+      "der Ausflug",
+      "der Wald",
+      "der See",
+      "die Brücke",
+      "der Weg",
+      "die Karte"
+    ],
+    "recycles_from": [
+      1,
+      31,
+      57
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Letzten Sonntag haben wir einen Ausflug zu einem See gemacht.",
+        "en": "Last Sunday we took a trip to a lake.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Letzten": [
+              "adjective",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "Letzten": "letzte",
+            "gemacht": "machen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "einen Ausflug zu einem See gemacht",
+              "english": "took a trip to a lake",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "dative",
+                "perfect"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Als wir durch den Wald gegangen sind, haben wir uns verlaufen.",
+        "en": "When we walked through the forest, we got lost.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Als": [
+              "conjunction",
+              "subordinating"
+            ],
+            "uns": [
+              "reflexive pronoun",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "gegangen": "gehen",
+            "verlaufen": "sich verlaufen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Als wir durch den Wald gegangen sind",
+              "english": "when we walked through the forest",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "perfect"
+              ]
+            },
+            {
+              "german": "haben wir uns verlaufen",
+              "english": "we got lost",
+              "literal_meaning": null,
+              "tags": [
+                "perfect",
+                "reflexive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Die Karte war nass, und wir konnten den Weg nicht lesen.",
+        "en": "The map was wet, and we could not read the path.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "nicht": [
+              "particle",
+              "negation"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "konnten": "können"
+          },
+          "word_meanings": {
+            "nass": "wet"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "konnten den Weg nicht lesen",
+              "english": "could not read the path",
+              "literal_meaning": null,
+              "tags": [
+                "modal verb",
+                "simple past",
+                "accusative",
+                "negation",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Als wir eine alte Brücke gesehen haben, wussten wir wieder, wo wir waren.",
+        "en": "When we saw an old bridge, we once again knew where we were.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Als": [
+              "conjunction",
+              "subordinating"
+            ],
+            "alte": [
+              "adjective",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "alte": "alt",
+            "gesehen": "sehen",
+            "wussten": "wissen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Als wir eine alte Brücke gesehen haben",
+              "english": "when we saw an old bridge",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "perfect"
+              ]
+            },
+            {
+              "german": "wussten wir wieder",
+              "english": "we once again knew",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "inversion",
+                "simple past"
+              ]
+            },
+            {
+              "german": "wo wir waren",
+              "english": "where we were",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "simple past"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Danach haben wir schnell zum See zurückgefunden.",
+        "en": "Afterwards we quickly found our way back to the lake.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {
+            "zurückgefunden": "zurückfinden"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "haben wir ... zum See zurückgefunden",
+              "english": "we found our way back to the lake",
+              "literal_meaning": null,
+              "tags": [
+                "perfect",
+                "dative",
+                "direction"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What helped them find their bearings again?",
+      "answer_en": "An old bridge."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 58"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-059",
+    "source_draft_id": "a2-draft-059",
+    "sequence": 107,
+    "band": "A2.2",
+    "format": "message",
+    "title_de": "Wir kümmern uns um den Park",
+    "title_en": "We Take Care of the Park",
+    "topic": "joining a neighborhood clean-up",
+    "communicative_goal": "Explain interests and responsibilities in a community action.",
+    "grammar_focus": "reflexive verbs with fixed prepositions",
+    "supporting_structures": [
+      "sich für ... interessieren",
+      "sich um den Park kümmern",
+      "freiwillig helfen"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "sich kümmern um",
+      "sich interessieren für",
+      "die Umgebung",
+      "sammeln",
+      "die Aktion",
+      "freiwillig"
+    ],
+    "recycled_targets": [
+      "der Park",
+      "der Müll",
+      "sauber",
+      "helfen",
+      "sich treffen"
+    ],
+    "recycles_from": [
+      55,
+      56,
+      58
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Viele Nachbarn interessieren sich für eine saubere Umgebung.",
+        "en": "Many neighbors are interested in clean surroundings.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "sich": [
+              "reflexive pronoun",
+              "accusative"
+            ],
+            "saubere": [
+              "adjective",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "interessieren": "sich interessieren für",
+            "saubere": "sauber"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "interessieren sich für eine saubere Umgebung",
+              "english": "are interested in clean surroundings",
+              "literal_meaning": null,
+              "tags": [
+                "reflexive",
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Am Samstag kümmern wir uns gemeinsam um den Park.",
+        "en": "On Saturday we will take care of the park together.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "uns": [
+              "reflexive pronoun",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "kümmern": "sich kümmern um"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "kümmern wir uns ... um den Park",
+              "english": "we take care of the park",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "reflexive",
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Eine Gruppe sammelt Papier und Plastik auf den Wegen.",
+        "en": "One group collects paper and plastic on the paths.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "auf den Wegen",
+              "english": "on the paths",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Andere helfen freiwillig dabei, Bäume und Blumen zu schützen.",
+        "en": "Others volunteer to help protect trees and flowers.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "Andere": "others",
+            "Bäume": "trees"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "helfen freiwillig dabei",
+              "english": "volunteer to help",
+              "literal_meaning": null,
+              "tags": [
+                "manner"
+              ]
+            },
+            {
+              "german": "Bäume und Blumen zu schützen",
+              "english": "to protect trees and flowers",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Nach der Aktion ist die Umgebung wieder sauber.",
+        "en": "After the activity, the surroundings are clean again.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Nach der Aktion",
+              "english": "after the activity",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What do the neighbors clean?",
+      "answer_en": "The park and its paths."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 59"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-060",
+    "source_draft_id": "a2-draft-060",
+    "sequence": 108,
+    "band": "A2.2",
+    "format": "dialogue",
+    "title_de": "Ein Plan fürs Viertel",
+    "title_en": "Plan for the Neighbourhood",
+    "topic": "planning a neighborhood action",
+    "communicative_goal": "Compare needs, discuss weather, and assign responsibilities.",
+    "grammar_focus": "consolidation of man, comparisons, weather, als, and fixed prepositions",
+    "supporting_structures": [
+      "Was können wir tun?",
+      "Wer kümmert sich darum?",
+      "vom Wetter abhängen"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "Was können wir tun",
+      "Wer kümmert sich darum",
+      "Das hängt vom Wetter ab",
+      "Wir treffen uns vor Ort",
+      "Alle können mitmachen"
+    ],
+    "recycled_targets": [
+      "der Müll",
+      "die Umgebung",
+      "das Wetter",
+      "sich kümmern",
+      "sammeln"
+    ],
+    "recycles_from": [
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Im Park liegt viel Müll; was können wir tun?",
+        "en": "There is a lot of litter in the park; what can we do?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Im Park",
+              "english": "in the park",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place",
+                "contraction"
+              ]
+            },
+            {
+              "german": "was können wir tun",
+              "english": "what can we do",
+              "literal_meaning": null,
+              "tags": [
+                "modal verb",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Man kann Papier und Plastik sammeln und die Wege sauber machen.",
+        "en": "People can collect paper and plastic and clean the paths.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Man": [
+              "indefinite pronoun",
+              "nominative",
+              "subject"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Man kann ... sammeln",
+              "english": "people can collect",
+              "literal_meaning": null,
+              "tags": [
+                "modal verb",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "die Wege sauber machen",
+              "english": "clean the paths",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Wer kümmert sich um die Handschuhe und die Säcke?",
+        "en": "Who will take care of the gloves and bags?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "sich": [
+              "reflexive pronoun",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "kümmert": "sich kümmern"
+          },
+          "word_meanings": {
+            "Handschuhe": "gloves",
+            "Säcke": "bags"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "kümmert sich um die Handschuhe und die Säcke",
+              "english": "takes care of the gloves and bags",
+              "literal_meaning": null,
+              "tags": [
+                "reflexive",
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ich mache das; der Termin hängt aber vom Wetter ab.",
+        "en": "I will do that; however, the date depends on the weather.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "ab": [
+              "particle"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "hängt": "abhängen"
+          },
+          "word_meanings": {
+            "hängt": "depends"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "hängt ... vom Wetter ab",
+              "english": "depends on the weather",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "separable"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Wir treffen uns vor Ort, und alle können mitmachen.",
+        "en": "We will meet on site, and everyone can take part.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {
+            "treffen": "sich treffen",
+            "mitmachen": "mitmachen"
+          },
+          "word_meanings": {
+            "Ort": "site"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "treffen uns vor Ort",
+              "english": "meet on site",
+              "literal_meaning": null,
+              "tags": [
+                "reflexive",
+                "place"
+              ]
+            },
+            {
+              "german": "alle können mitmachen",
+              "english": "everyone can take part",
+              "literal_meaning": null,
+              "tags": [
+                "modal verb",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What does the date depend on?",
+      "answer_en": "The weather."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 60"
+    ],
+    "speech_alternatives": []
+  }
+]

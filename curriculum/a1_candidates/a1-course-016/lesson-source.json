@@ -1,0 +1,331 @@
+{
+  "id": "a1-course-016",
+  "source_draft_id": "a1-draft-016",
+  "sequence": 16,
+  "band": "A1.1",
+  "format": "dialogue",
+  "title_de": "Die Einkaufsliste",
+  "title_en": "The Shopping List",
+  "topic": "checking what is needed before shopping",
+  "communicative_goal": "Say what you need and what you no longer have.",
+  "grammar_focus": "kein and keine for noun negation",
+  "supporting_structures": [
+    "vor dem Einkauf",
+    "keine Milch",
+    "kein Gemüse",
+    "auf eine kurze Einkaufsliste"
+  ],
+  "grammar_notes": [
+    "Kein takes the same endings as ein, but negates a noun phrase; keine is feminine accusative and kein is neuter accusative here.",
+    "Auf eine kurze Einkaufsliste uses accusative because the list is the destination of writing."
+  ],
+  "new_targets": [
+    "der Einkauf",
+    "kein",
+    "das Gemüse",
+    "brauchen",
+    "die Tomate",
+    "der Apfel",
+    "die Einkaufsliste"
+  ],
+  "recycled_targets": [
+    "sehen",
+    "die Milch",
+    "das Wasser",
+    "schreiben",
+    "vier",
+    "morgen",
+    "zusammen"
+  ],
+  "recycles_from": [
+    8,
+    13,
+    15
+  ],
+  "audio_path": "assets/audio/a1_candidates/a1-course-016/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Vor dem Einkauf sehen Mina und Leo in den Kühlschrank.",
+      "en": "Before shopping, Mina and Leo look in the fridge.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-016/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "vor": [
+            "preposition",
+            "dative"
+          ],
+          "dem": [
+            "dative"
+          ],
+          "einkauf": [
+            "dative"
+          ],
+          "in": [
+            "preposition",
+            "accusative"
+          ],
+          "den": [
+            "accusative"
+          ],
+          "kühlschrank": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Vor dem Einkauf",
+            "english": "before shopping",
+            "literal_meaning": "before the shopping",
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "in den Kühlschrank",
+            "english": "in the fridge",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction"
+            ]
+          },
+          {
+            "german": "Vor dem Einkauf sehen Mina und Leo in den Kühlschrank",
+            "english": "Before shopping, Mina and Leo look in the fridge",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina sagt: „Wir haben keine Milch und kein Gemüse mehr.“",
+      "en": "Mina says, “We don’t have any milk or vegetables left.”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-016/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "wir": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "keine": [
+            "determiner",
+            "accusative"
+          ],
+          "milch": [
+            "accusative"
+          ],
+          "kein": [
+            "determiner",
+            "accusative"
+          ],
+          "gemüse": [
+            "accusative"
+          ],
+          "mehr": [
+            "adverb",
+            "negation"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "mehr": "any longer / left"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "kein Gemüse"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "keine Milch",
+            "english": "no milk / not any milk",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "negation"
+            ]
+          },
+          {
+            "german": "kein Gemüse mehr",
+            "english": "no vegetables left",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "negation"
+            ]
+          },
+          {
+            "german": "Wir haben keine Milch und kein Gemüse mehr",
+            "english": "We don’t have any milk or vegetables left",
+            "literal_meaning": "We have no milk and no vegetables any more",
+            "tags": [
+              "main clause",
+              "verb-second",
+              "negation"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Leo braucht auch Wasser, Tomaten und vier Äpfel für morgen früh.",
+      "en": "Leo also needs water, tomatoes, and four apples for tomorrow morning.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-016/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "auch": [
+            "adverb"
+          ],
+          "wasser": [
+            "accusative"
+          ],
+          "tomaten": [
+            "accusative",
+            "plural"
+          ],
+          "äpfel": [
+            "accusative",
+            "plural"
+          ],
+          "für": [
+            "preposition",
+            "accusative"
+          ],
+          "morgen": [
+            "adverb",
+            "time"
+          ],
+          "früh": [
+            "adverb",
+            "time"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "auch": "also"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "vier Äpfel"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Wasser, Tomaten und vier Äpfel",
+            "english": "water, tomatoes, and four apples",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "für morgen früh",
+            "english": "for tomorrow morning",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "fixed phrase",
+              "time"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Dann schreiben sie alles zusammen auf eine kurze Einkaufsliste.",
+      "en": "Then they write everything together on a short shopping list.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-016/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "dann": [
+            "adverb"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "alles": [
+            "indefinite pronoun",
+            "accusative"
+          ],
+          "zusammen": [
+            "adverb"
+          ],
+          "auf": [
+            "preposition",
+            "accusative"
+          ],
+          "eine": [
+            "determiner",
+            "accusative"
+          ],
+          "kurze": [
+            "adjective",
+            "accusative"
+          ],
+          "einkaufsliste": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "kurze": "kurz"
+        },
+        "word_meanings": {
+          "sie": "they"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "auf eine kurze Einkaufsliste",
+            "english": "on a short shopping list",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction"
+            ]
+          },
+          {
+            "german": "Dann schreiben sie alles zusammen auf eine kurze Einkaufsliste",
+            "english": "Then they write everything together on a short shopping list",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Which two things are no longer in the fridge?",
+    "answer_en": "Milk and vegetables."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_03.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

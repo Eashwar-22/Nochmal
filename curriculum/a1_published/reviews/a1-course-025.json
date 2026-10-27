@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-025",
+  "source_sha256": "3fce4cdaa78c17dd7bd0f80ade8c1d06e014b9b085b9741d40a5d2111acec92b",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "token-by-token word coverage",
+        "mit dem Zug dative article help",
+        "question-order phrase",
+        "modal plus final infinitive"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "ticket-counter dialogue",
+        "nach Köln destination",
+        "train-departure response",
+        "card-payment expression"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "natural ticket-request translations",
+        "literal modal support",
+        "transport vocabulary sequencing",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

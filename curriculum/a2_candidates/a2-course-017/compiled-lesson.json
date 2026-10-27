@@ -1,0 +1,3844 @@
+{
+  "schema_version": 1,
+  "source_sha256": "12a777ca47351639d608f3d7f0c7547afa8a17fef6339340c59e4ede9ad25130",
+  "lesson": {
+    "id": "a2-course-017",
+    "title": "Gib ihr bitte das Paket",
+    "english_title": "Give Her the Package, Please",
+    "level": "A2.1",
+    "sentences": [
+      {
+        "text": "Der Zusteller hat mir ein Paket und eine Nachricht für Frau Klein gebracht.",
+        "natural_meaning": "The delivery person brought me a parcel and a message for Ms Klein.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "der Zusteller",
+                "english": "delivery person",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Der",
+                  "Zusteller"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "hat",
+                "english": "have",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "haben",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to have",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I have",
+                    "you have",
+                    "he/she/it has",
+                    "we have",
+                    "you have",
+                    "they/you have"
+                  ],
+                  "current_english_forms": [
+                    "I have",
+                    "you have",
+                    "he/she/it has",
+                    "we have",
+                    "you have",
+                    "they/you have"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "hat"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "mir",
+                "english": "me",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "mir"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Paket",
+                "english": "package / parcel",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ein",
+                  "Paket"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Nachricht",
+                "english": "message",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "eine",
+                  "Nachricht"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "für",
+                "english": "for",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "für"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Frau",
+                "english": "Ms",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Frau"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Klein",
+                "english": "Klein (surname)",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Klein"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "gebracht",
+                "english": "brought",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "past participle",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "bringen",
+                  "tense": "Perfekt (conversational past)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe gebracht"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast gebracht"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat gebracht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben gebracht"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt gebracht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben gebracht"
+                    }
+                  ],
+                  "usage": "gebracht is the past participle of bringen; it combines with haben to form the conversational past.",
+                  "english": "to bring",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bringe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bringst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "bringt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "bringen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "bringt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "bringen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I bring",
+                    "you bring",
+                    "he/she/it brings",
+                    "we bring",
+                    "you bring",
+                    "they/you bring"
+                  ],
+                  "current_english_forms": [
+                    "I have brought",
+                    "you have brought",
+                    "he/she/it has brought",
+                    "we have brought",
+                    "you have brought",
+                    "they/you have brought"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "gebracht"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "für Frau Klein",
+                "english": "for Ms Klein",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "hat mir ein Paket und eine Nachricht für Frau Klein gebracht",
+                "english": "brought me a parcel and a message for Ms Klein",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Der Zusteller",
+                "english": "the delivery person",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Der",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "nominative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "hat mir ... gebracht",
+                "english": "brought to me",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "mir",
+                    "base": "ich",
+                    "kind": "personal-pronoun",
+                    "paradigm": "personal-pronoun",
+                    "case": "dative",
+                    "gender": null,
+                    "number": "singular",
+                    "pronoun_slot": "first-singular",
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "ein Paket",
+                "english": "a parcel",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "ein",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "accusative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "eine Nachricht",
+                "english": "a message",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "eine",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-017/sentence-01.wav"
+      },
+      {
+        "text": "Ich habe unterschrieben und die Lieferung angenommen; der Zusteller hat das Paket bei mir abgegeben.",
+        "natural_meaning": "I signed for it and accepted the delivery; the delivery person left the parcel with me.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Ich",
+                "english": "I",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Ich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "habe",
+                "english": "have",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "haben",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to have",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I have",
+                    "you have",
+                    "he/she/it has",
+                    "we have",
+                    "you have",
+                    "they/you have"
+                  ],
+                  "current_english_forms": [
+                    "I have",
+                    "you have",
+                    "he/she/it has",
+                    "we have",
+                    "you have",
+                    "they/you have"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "habe"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "unterschrieben",
+                "english": "signed",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "past participle",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "unterschreiben",
+                  "tense": "Perfekt (conversational past)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe unterschrieben"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast unterschrieben"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat unterschrieben"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben unterschrieben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt unterschrieben"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben unterschrieben"
+                    }
+                  ],
+                  "usage": "unterschrieben is the past participle of unterschreiben; it combines with haben to form the conversational past.",
+                  "english": "to sign",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "unterschreibe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "unterschreibst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "unterschreibt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "unterschreiben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "unterschreibt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "unterschreiben"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I sign",
+                    "you sign",
+                    "he/she/it signs",
+                    "we sign",
+                    "you sign",
+                    "they/you sign"
+                  ],
+                  "current_english_forms": [
+                    "I have signed",
+                    "you have signed",
+                    "he/she/it has signed",
+                    "we have signed",
+                    "you have signed",
+                    "they/you have signed"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "unterschrieben"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Lieferung",
+                "english": "delivery",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "die",
+                  "Lieferung"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "angenommen",
+                "english": "accepted",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "past participle",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "annehmen",
+                  "tense": "Perfekt (conversational past)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe angenommen"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast angenommen"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat angenommen"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben angenommen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt angenommen"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben angenommen"
+                    }
+                  ],
+                  "usage": "angenommen is the past participle of annehmen; it combines with haben to form the conversational past.",
+                  "english": "to accept",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "nehme an"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "nimmst an"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "nimmt an"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "nehmen an"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "nehmt an"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "nehmen an"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I accept",
+                    "you accept",
+                    "he/she/it accepts",
+                    "we accept",
+                    "you accept",
+                    "they/you accept"
+                  ],
+                  "current_english_forms": [
+                    "I have accepted",
+                    "you have accepted",
+                    "he/she/it has accepted",
+                    "we have accepted",
+                    "you have accepted",
+                    "they/you have accepted"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "angenommen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Zusteller",
+                "english": "delivery person",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "der",
+                  "Zusteller"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "hat",
+                "english": "have",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "haben",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to have",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I have",
+                    "you have",
+                    "he/she/it has",
+                    "we have",
+                    "you have",
+                    "they/you have"
+                  ],
+                  "current_english_forms": [
+                    "I have",
+                    "you have",
+                    "he/she/it has",
+                    "we have",
+                    "you have",
+                    "they/you have"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "hat"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Paket",
+                "english": "package / parcel",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "das",
+                  "Paket"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "bei",
+                "english": "with",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "bei"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ich",
+                "english": "me",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "mir"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "abgegeben",
+                "english": "left",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "past participle",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "abgeben",
+                  "tense": "Perfekt (conversational past)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe abgegeben"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast abgegeben"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat abgegeben"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben abgegeben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt abgegeben"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben abgegeben"
+                    }
+                  ],
+                  "usage": "abgegeben is the past participle of abgeben; it combines with haben to form the conversational past.",
+                  "english": "to hand in / hand over",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "gebe ab"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "gibst ab"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "gibt ab"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "geben ab"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "gebt ab"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "geben ab"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I hand in",
+                    "you hand in",
+                    "he/she/it hands in",
+                    "we hand in",
+                    "you hand in",
+                    "they/you hand in"
+                  ],
+                  "current_english_forms": [
+                    "I have left",
+                    "you have left",
+                    "he/she/it has left",
+                    "we have left",
+                    "you have left",
+                    "they/you have left"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "abgegeben"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Ich habe unterschrieben",
+                "english": "I signed for it",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Ich habe unterschrieben und die Lieferung angenommen",
+                "english": "I signed for it and accepted the delivery",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "der Zusteller hat das Paket bei mir abgegeben",
+                "english": "the delivery person left the parcel with me",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "habe unterschrieben und die Lieferung angenommen",
+                "english": "signed and accepted the delivery",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "die Lieferung",
+                "english": "the delivery",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "die",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "der Zusteller",
+                "english": "the delivery person",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "der",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "nominative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "hat das Paket bei mir abgegeben",
+                "english": "left the parcel with me",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "das Paket",
+                "english": "the parcel",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "das",
+                    "base": "das",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "bei mir",
+                "english": "with me",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "mir",
+                    "base": "ich",
+                    "kind": "personal-pronoun",
+                    "paradigm": "personal-pronoun",
+                    "case": "dative",
+                    "gender": null,
+                    "number": "singular",
+                    "pronoun_slot": "first-singular",
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-017/sentence-02.wav"
+      },
+      {
+        "text": "Geben Sie ihr bitte das Paket und die Nachricht heute Abend weiter.",
+        "natural_meaning": "Please pass the parcel and the message on to her this evening.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Geben",
+                "english": "pass on",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "imperative",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "separable",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "weitergeben",
+                  "tense": "Imperativ (command/request)",
+                  "forms": [
+                    {
+                      "pronoun": "du",
+                      "verb": "gib weiter"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "gebt weiter"
+                    },
+                    {
+                      "pronoun": "Sie",
+                      "verb": "geben Sie weiter"
+                    }
+                  ],
+                  "usage": "The sentence uses a command or instruction; the rows show du, ihr, and formal Sie.",
+                  "english": "to pass on",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "gebe weiter"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "gibst weiter"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "gibt weiter"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "geben weiter"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "gebt weiter"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "geben weiter"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I pass on",
+                    "you pass on",
+                    "he/she/it passes on",
+                    "we pass on",
+                    "you pass on",
+                    "they/you pass on"
+                  ],
+                  "current_english_forms": [
+                    "you pass on",
+                    "you all pass on",
+                    "you pass on (formal)"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "Geben",
+                  "weiter"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Sie",
+                "english": "you (formal)",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sie",
+                "english": "her",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ihr"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "bitte",
+                "english": "please",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "particle",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "bitte"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Paket",
+                "english": "package / parcel",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "das",
+                  "Paket"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Nachricht",
+                "english": "message",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "die",
+                  "Nachricht"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "heute",
+                "english": "today",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "heute"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Abend",
+                "english": "evening",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Abend"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Geben Sie ihr bitte das Paket und die Nachricht heute Abend weiter",
+                "english": "Please pass the parcel and the message on to her this evening",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "imperative",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "separable",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Geben Sie ihr",
+                "english": "give to her",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "ihr",
+                    "base": "sie",
+                    "kind": "personal-pronoun",
+                    "paradigm": "personal-pronoun",
+                    "case": "dative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": "third-feminine",
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "das Paket",
+                "english": "the parcel",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "das",
+                    "base": "das",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "die Nachricht",
+                "english": "the message",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "die",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-017/sentence-03.wav"
+      },
+      {
+        "text": "Ja, ich erreiche sie nach der Arbeit.",
+        "natural_meaning": "Yes, I will reach her after work.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Ja",
+                "english": "yes",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "interjection",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Ja"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ich",
+                "english": "I",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "erreiche",
+                "english": "reach",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "erreichen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "erreiche"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "erreichst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "erreicht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "erreichen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "erreicht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "erreichen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to reach",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "erreiche"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "erreichst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "erreicht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "erreichen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "erreicht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "erreichen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I reach",
+                    "you reach",
+                    "he/she/it reaches",
+                    "we reach",
+                    "you reach",
+                    "they/you reach"
+                  ],
+                  "current_english_forms": [
+                    "I reach",
+                    "you reach",
+                    "he/she/it reaches",
+                    "we reach",
+                    "you reach",
+                    "they/you reach"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "erreiche"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sie",
+                "english": "her",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "singular",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "nach",
+                "english": "after",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "nach"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Arbeit",
+                "english": "work / job",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "der",
+                  "Arbeit"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "nach der Arbeit",
+                "english": "after work",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "der",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "ich erreiche sie nach der Arbeit",
+                "english": "I will reach her after work",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "erreiche sie",
+                "english": "reach her",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "sie",
+                    "base": "sie",
+                    "kind": "personal-pronoun",
+                    "paradigm": "personal-pronoun",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": "third-feminine",
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-017/sentence-04.wav"
+      },
+      {
+        "text": "Falls sie nicht da ist, gebe ich ihrem Mann das Paket und die Nachricht, damit er ihr beides später geben kann.",
+        "natural_meaning": "If she is not home, I will give her husband the parcel and the message so that he can pass both on to her later.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Falls",
+                "english": "if",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "subordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Falls"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sie",
+                "english": "she",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "nicht",
+                "english": "not",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "particle",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "negation",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "nicht"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "da",
+                "english": "home",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "da"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ist",
+                "english": "be",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "ist"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "gebe",
+                "english": "give",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "geben",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "gebe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "gibst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "gibt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "geben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "gebt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "geben"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to give",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "gebe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "gibst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "gibt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "geben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "gebt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "geben"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I give",
+                    "you give",
+                    "he/she/it gives",
+                    "we give",
+                    "you give",
+                    "they/you give"
+                  ],
+                  "current_english_forms": [
+                    "I give",
+                    "you give",
+                    "he/she/it gives",
+                    "we give",
+                    "you give",
+                    "they/you give"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "gebe"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ich",
+                "english": "I",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ihrem",
+                "english": "her",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "possessive",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "determiner",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ihrem"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Mann",
+                "english": "husband",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Mann"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Paket",
+                "english": "package / parcel",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "das",
+                  "Paket"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Nachricht",
+                "english": "message",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "die",
+                  "Nachricht"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "damit",
+                "english": "so that",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "subordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "damit"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "er",
+                "english": "he",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "er"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sie",
+                "english": "her",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ihr"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "beides",
+                "english": "both",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "indefinite pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "beides"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "später",
+                "english": "later",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "später"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "geben",
+                "english": "give",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "infinitive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "geben",
+                  "tense": "Infinitiv (infinitive in this construction)",
+                  "forms": [
+                    {
+                      "pronoun": "—",
+                      "verb": "geben"
+                    }
+                  ],
+                  "usage": "This non-finite form follows a modal verb or zu, so it does not change for person in this sentence.",
+                  "english": "to give",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "gebe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "gibst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "gibt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "geben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "gebt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "geben"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I give",
+                    "you give",
+                    "he/she/it gives",
+                    "we give",
+                    "you give",
+                    "they/you give"
+                  ],
+                  "current_english_forms": [
+                    "to give"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "geben"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "kann",
+                "english": "can",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "können",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kannst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "können"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "könnt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "können"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "can / to be able to",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kannst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "können"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "könnt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "können"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I can",
+                    "you can",
+                    "he/she/it can",
+                    "we can",
+                    "you can",
+                    "they/you can"
+                  ],
+                  "current_english_forms": [
+                    "I can",
+                    "you can",
+                    "he/she/it can",
+                    "we can",
+                    "you can",
+                    "they/you can"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "kann"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ihrem Mann",
+                "english": "her husband",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "ihrem",
+                    "base": "ihr",
+                    "kind": "possessive-determiner",
+                    "paradigm": "possessive",
+                    "case": "dative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Falls sie nicht da ist, gebe ich ihrem Mann das Paket",
+                "english": "If she is not home, I will give her husband the parcel",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Falls sie nicht da ist",
+                "english": "if she is not home",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "subordinate clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-final",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "gebe ich ihrem Mann das Paket",
+                "english": "I will give the parcel to her husband",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "gebe ich ihrem Mann das Paket und die Nachricht",
+                "english": "I will give her husband the parcel and the message",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "ihr beides später geben",
+                "english": "give both to her later",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "infinitive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "ihr",
+                    "base": "sie",
+                    "kind": "personal-pronoun",
+                    "paradigm": "personal-pronoun",
+                    "case": "dative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": "third-feminine",
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "das Paket",
+                "english": "the parcel",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "das",
+                    "base": "das",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "die Nachricht",
+                "english": "the message",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "die",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "damit er ihr beides später geben kann",
+                "english": "so that he can pass both on to her later",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "subordinate clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-final",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "modal verb",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-017/sentence-05.wav"
+      },
+      {
+        "text": "Dann gibt er ihr beides noch heute, und sie bestätigt mir, dass die Lieferung angekommen ist.",
+        "natural_meaning": "Then he gives her both later today, and she confirms to me that the delivery has arrived.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Dann",
+                "english": "then",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Dann"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "gibt",
+                "english": "give",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "geben",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "gebe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "gibst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "gibt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "geben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "gebt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "geben"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to give",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "gebe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "gibst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "gibt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "geben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "gebt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "geben"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I give",
+                    "you give",
+                    "he/she/it gives",
+                    "we give",
+                    "you give",
+                    "they/you give"
+                  ],
+                  "current_english_forms": [
+                    "I give",
+                    "you give",
+                    "he/she/it gives",
+                    "we give",
+                    "you give",
+                    "they/you give"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "gibt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "er",
+                "english": "he",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "er"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sie",
+                "english": "her",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ihr"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "beides",
+                "english": "both",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "indefinite pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "beides"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "noch",
+                "english": "still / before the day ends",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "noch"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "heute",
+                "english": "today",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "heute"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sie",
+                "english": "she",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "bestätigt",
+                "english": "confirm",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "bestätigen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bestätige"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bestätigst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "bestätigt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "bestätigen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "bestätigt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "bestätigen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to confirm",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bestätige"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bestätigst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "bestätigt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "bestätigen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "bestätigt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "bestätigen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I confirm",
+                    "you confirm",
+                    "he/she/it confirms",
+                    "we confirm",
+                    "you confirm",
+                    "they/you confirm"
+                  ],
+                  "current_english_forms": [
+                    "I confirm",
+                    "you confirm",
+                    "he/she/it confirms",
+                    "we confirm",
+                    "you confirm",
+                    "they/you confirm"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "bestätigt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ich",
+                "english": "me",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "mir"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "dass",
+                "english": "that",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "subordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "dass"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Lieferung",
+                "english": "delivery",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "die",
+                  "Lieferung"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "angekommen",
+                "english": "arrived",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "past participle",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "ankommen",
+                  "tense": "Perfekt (conversational past)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin angekommen"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist angekommen"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist angekommen"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind angekommen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid angekommen"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind angekommen"
+                    }
+                  ],
+                  "usage": "angekommen is the past participle of ankommen; it combines with sein to form the conversational past.",
+                  "english": "to arrive",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "komme an"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kommst an"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kommt an"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "kommen an"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "kommt an"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "kommen an"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I arrive",
+                    "you arrive",
+                    "he/she/it arrives",
+                    "we arrive",
+                    "you arrive",
+                    "they/you arrive"
+                  ],
+                  "current_english_forms": [
+                    "I have arrived",
+                    "you have arrived",
+                    "he/she/it has arrived",
+                    "we have arrived",
+                    "you have arrived",
+                    "they/you have arrived"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "angekommen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ist",
+                "english": "be",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "ist"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Dann gibt er ihr beides noch heute",
+                "english": "Then he gives her both later today",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "und sie bestätigt mir, dass die Lieferung angekommen ist",
+                "english": "and she confirms to me that the delivery has arrived",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Dann gibt er ihr beides noch heute, und sie bestätigt mir",
+                "english": "Then he gives her both later today, and she confirms to me",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "dass die Lieferung angekommen ist",
+                "english": "that the delivery has arrived",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "subordinate clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-final",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "gibt er ihr",
+                "english": "he gives to her",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "ihr",
+                    "base": "sie",
+                    "kind": "personal-pronoun",
+                    "paradigm": "personal-pronoun",
+                    "case": "dative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": "third-feminine",
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "noch heute",
+                "english": "later today",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "bestätigt mir",
+                "english": "confirms to me",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "mir",
+                    "base": "ich",
+                    "kind": "personal-pronoun",
+                    "paradigm": "personal-pronoun",
+                    "case": "dative",
+                    "gender": null,
+                    "number": "singular",
+                    "pronoun_slot": "first-singular",
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "die Lieferung",
+                "english": "the delivery",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "die",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "nominative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-017/sentence-06.wav"
+      }
+    ],
+    "audio_path": "assets/audio/a2_candidates/a2-course-017/paragraph.wav",
+    "initial_question": "Who passes the parcel and message to Frau Klein if she is not home?",
+    "initial_answer": "Her husband.",
+    "audio_status": "ready",
+    "sequence": 65,
+    "lesson_format": "dialogue",
+    "topic": "accepting and passing on a parcel",
+    "new_targets": [
+      "weitergeben",
+      "der Zusteller"
+    ],
+    "recycled_targets": [
+      "abgeben",
+      "annehmen",
+      "die Lieferung",
+      "das Paket",
+      "die Unterschrift",
+      "erreichen"
+    ],
+    "speech_alternatives": [],
+    "performance_activity": {
+      "kind": "speaking",
+      "instruction": "Use the picture-card cues to say who hands each item to whom and relay the delivery message aloud.",
+      "prompts": [
+        "Picture card 1: a delivery person holding a parcel and a sealed note at an apartment door",
+        "Picture card 2: a neighbor signing for both items while Frau Klein is away",
+        "Picture card 3: Frau Klein arriving home; picture card 4: her husband holding the parcel and note",
+        "Relay item A (parcel) and item B (note) from the sender through the temporary receiver to Frau Klein; say: Die Lieferung ist angekommen."
+      ]
+    }
+  }
+}

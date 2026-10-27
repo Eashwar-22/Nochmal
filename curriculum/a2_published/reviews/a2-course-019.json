@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a2-course-019",
+  "source_sha256": "db4f1a981605dc38311ca64d6bed8b1524c85c41fb65a99c060f631385604807",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "Read both required documents in full and the exact Lesson 19 blueprint entry; independently inspected source, compiled artifact, and preview.",
+        "Audited all 82 tokens left to right: each has exactly one owner among 74 word cards. All 36 phrase cards preserve source wording and ordered components.",
+        "Verified 16 complete bilingual verb references and 18 typed inflection references, including four-case tables, correct selected cells, and contraction expansions.",
+        "Checked repeated du/dich occurrences in sentence 4, mich in sentence 5, article ownership, phrase placement, controlled tags, and authored ambiguity resolution.",
+        "Strict validation and deterministic compilation pass; preview matches exactly. Authored curriculum passage matches the candidate. Lesson 19 remains unpublished.",
+        "All 19 selected repository tests passed. In-memory export preserves complete reference tables."
+      ],
+      "findings": [
+        {
+          "severity": "warning",
+          "location": "lesson-source.json: audio_path; compiled-lesson.json: lesson.audio_status and sentences 1–6 audio_path",
+          "rule": "Rulebook §§11–12: audio agreement and publication gate",
+          "message": "Audio is pending and paths are null, as expected for this audit. Verify exact German/audio agreement after generation and before publication."
+        },
+        {
+          "severity": "warning",
+          "location": "Lesson 19 release verification",
+          "rule": "Rulebook §§11–13: rendering and release verification",
+          "message": "Full release preflight, package integrity checks, and live desktop/mobile accessibility inspection remain later gates. Keep the lesson unpublished until they pass; these do not block this pre-audio content audit."
+        }
+      ]
+    },
+    {
+      "kind": "language",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "Checked every sentence and card for German grammar, spelling, noun gender, number, lexical identity, and clause boundaries.",
+        "Sentences 1–3: verified dative In einer Anzeige, nominative Ein Hotel and eine wichtige Voraussetzung, accusative für phrases, dative mit/zu constructions, and temporal am Samstag.",
+        "Sentences 4–5: verified reflexive accusatives dich/mich, fixed accusative complements für den Beruf and um die Stelle, modal-final bewerben, and accusative meine Bewerbung.",
+        "Sentence 6: verified Dann inversion, modal-final haben, and predicate frei without adjective declension.",
+        "Checked every German conjugation row, including liest/lest, bewirbst/bewirbt, reflexive pronoun agreement, and modal forms. No unsupported grammatical choices found."
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "Checked all sentence translations, word glosses, phrase meanings, and bilingual verb-reference rows against their German context.",
+        "Verified natural rendering of reflexive constructions, planned-present schicke as will send, advertisement ellipsis, and frei haben as having time off.",
+        "Blueprint fit: six sentences/turns and 82 words; advertisement plus connected conversation; all seven target vocabulary items and the required application construction appear.",
+        "Requirements, evaluation, scheduling reason, and application intention are present. Saturday availability is recycled meaningfully in the conversation.",
+        "Reading activity supplies a concrete applicant profile and prompts for experience, hours, contact method, documents, and applicant suitability. Comprehension answer agrees with the advertisement."
+      ],
+      "findings": []
+    }
+  ]
+}

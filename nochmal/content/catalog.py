@@ -1,29 +1,25 @@
-"""Publication catalog kept outside the Streamlit presentation layer."""
+"""Source of truth for published mobile lessons."""
 
 from __future__ import annotations
 
-from pathlib import Path
-
 from .models import Lesson, StrictModel
-
-
-CATALOG_PATH = (
-    Path(__file__).resolve().parents[2]
-    / "curriculum"
-    / "a1_course"
-    / "publication.json"
-)
+from .course_paths import discovered_levels, published_root
 
 
 class PublicationCatalog(StrictModel):
     published_lesson_ids: tuple[str, ...]
-    speaking_practice_lesson_ids: frozenset[str]
 
 
 def load_publication_catalog() -> PublicationCatalog:
-    return PublicationCatalog.model_validate_json(
-        CATALOG_PATH.read_text(encoding="utf-8")
-    )
+    published: tuple[str, ...] = ()
+    for level in discovered_levels():
+        path = published_root(f"{level}-course-001") / "publication.json"
+        if path.is_file():
+            catalog = PublicationCatalog.model_validate_json(path.read_text(encoding="utf-8"))
+            published += catalog.published_lesson_ids
+    if len(published) != len(set(published)):
+        raise ValueError("Publication catalogs contain duplicate lesson IDs")
+    return PublicationCatalog(published_lesson_ids=published)
 
 
 def published_lessons(lessons: list[Lesson]) -> tuple[Lesson, ...]:

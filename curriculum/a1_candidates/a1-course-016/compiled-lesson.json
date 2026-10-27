@@ -1,0 +1,1577 @@
+{
+  "schema_version": 1,
+  "source_sha256": "a7a6c208858c18b4cca9bed36cc40cc0c7de9cdc137b70920af310b47fcee8c7",
+  "lesson": {
+    "id": "a1-course-016",
+    "title": "Die Einkaufsliste",
+    "english_title": "The Shopping List",
+    "level": "A1.1",
+    "sentences": [
+      {
+        "text": "Vor dem Einkauf sehen Mina und Leo in den Kühlschrank.",
+        "natural_meaning": "Before shopping, Mina and Leo look in the fridge.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Vor",
+                "english": "before / in front of",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Vor"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Einkauf",
+                "english": "shopping",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "dem",
+                  "Einkauf"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sehen",
+                "english": "see",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sehen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "sehe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "siehst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "sieht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sehen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sehen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to see",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "sehe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "siehst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "sieht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sehen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sehen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I see",
+                    "you see",
+                    "he/she/it sees",
+                    "we see",
+                    "you see",
+                    "they/you see"
+                  ],
+                  "current_english_forms": [
+                    "I see",
+                    "you see",
+                    "he/she/it sees",
+                    "we see",
+                    "you see",
+                    "they/you see"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "sehen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Mina",
+                "english": "Mina",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Mina"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Leo",
+                "english": "Leo",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Leo"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "in",
+                "english": "in / into",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "in"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Kühlschrank",
+                "english": "fridge / refrigerator",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "den",
+                  "Kühlschrank"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Vor dem Einkauf sehen Mina und Leo in den Kühlschrank",
+                "english": "Before shopping, Mina and Leo look in the fridge",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Vor dem Einkauf",
+                "english": "before shopping",
+                "literal_meaning": "before the shopping",
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "dem",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "in den Kühlschrank",
+                "english": "in the fridge",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "den",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_candidates/a1-course-016/sentence-01.wav"
+      },
+      {
+        "text": "Mina sagt: „Wir haben keine Milch und kein Gemüse mehr.“",
+        "natural_meaning": "Mina says, “We don’t have any milk or vegetables left.”",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Mina",
+                "english": "Mina",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Mina"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sagt",
+                "english": "say",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sagen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "sage"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "sagst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "sagt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sagen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "sagt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sagen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to say",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "sage"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "sagst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "sagt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sagen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "sagt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sagen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I say",
+                    "you say",
+                    "he/she/it says",
+                    "we say",
+                    "you say",
+                    "they/you say"
+                  ],
+                  "current_english_forms": [
+                    "I say",
+                    "you say",
+                    "he/she/it says",
+                    "we say",
+                    "you say",
+                    "they/you say"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "sagt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Wir",
+                "english": "we",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Wir"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "haben",
+                "english": "have",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "haben",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to have",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I have",
+                    "you have",
+                    "he/she/it has",
+                    "we have",
+                    "you have",
+                    "they/you have"
+                  ],
+                  "current_english_forms": [
+                    "I have",
+                    "you have",
+                    "he/she/it has",
+                    "we have",
+                    "you have",
+                    "they/you have"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "haben"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "keine",
+                "english": "no / not a",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "determiner",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "keine"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Milch",
+                "english": "milk",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Milch"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "kein",
+                "english": "no / not a",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "determiner",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "kein"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Gemüse",
+                "english": "vegetables",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Gemüse"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "mehr",
+                "english": "any longer / left",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "negation",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "mehr"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "keine Milch",
+                "english": "no milk / not any milk",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "negation",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "keine",
+                    "base": "kein",
+                    "kind": "negative-determiner",
+                    "paradigm": "negative",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Mina sagt",
+                "english": "Mina says",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Wir haben keine Milch und kein Gemüse mehr",
+                "english": "We don’t have any milk or vegetables left",
+                "literal_meaning": "We have no milk and no vegetables any more",
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "negation",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "kein Gemüse mehr",
+                "english": "no vegetables left",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "negation",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "kein",
+                    "base": "kein",
+                    "kind": "negative-determiner",
+                    "paradigm": "negative",
+                    "case": "accusative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_candidates/a1-course-016/sentence-02.wav"
+      },
+      {
+        "text": "Leo braucht auch Wasser, Tomaten und vier Äpfel für morgen früh.",
+        "natural_meaning": "Leo also needs water, tomatoes, and four apples for tomorrow morning.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Leo",
+                "english": "Leo",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Leo"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "braucht",
+                "english": "need",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "brauchen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "brauche"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "brauchst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "braucht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "brauchen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "braucht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "brauchen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to need",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "brauche"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "brauchst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "braucht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "brauchen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "braucht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "brauchen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I need",
+                    "you need",
+                    "he/she/it needs",
+                    "we need",
+                    "you need",
+                    "they/you need"
+                  ],
+                  "current_english_forms": [
+                    "I need",
+                    "you need",
+                    "he/she/it needs",
+                    "we need",
+                    "you need",
+                    "they/you need"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "braucht"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "auch",
+                "english": "also",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "auch"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Wasser",
+                "english": "water",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Wasser"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Tomate",
+                "english": "tomato",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "plural",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Tomaten"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "vier",
+                "english": "four",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "numeral",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "vier"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Apfel",
+                "english": "apples",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "plural",
+                    "category": "form"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Äpfel"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "für",
+                "english": "for",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "für"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "morgen",
+                "english": "tomorrow",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "morgen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "früh",
+                "english": "early",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "früh"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Wasser, Tomaten und vier Äpfel",
+                "english": "water, tomatoes, and four apples",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "für morgen früh",
+                "english": "for tomorrow morning",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "fixed phrase",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_candidates/a1-course-016/sentence-03.wav"
+      },
+      {
+        "text": "Dann schreiben sie alles zusammen auf eine kurze Einkaufsliste.",
+        "natural_meaning": "Then they write everything together on a short shopping list.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Dann",
+                "english": "then",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Dann"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "schreiben",
+                "english": "write",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "schreiben",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "schreibe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "schreibst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "schreibt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "schreiben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "schreibt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "schreiben"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to write",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "schreibe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "schreibst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "schreibt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "schreiben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "schreibt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "schreiben"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I write",
+                    "you write",
+                    "he/she/it writes",
+                    "we write",
+                    "you write",
+                    "they/you write"
+                  ],
+                  "current_english_forms": [
+                    "I write",
+                    "you write",
+                    "he/she/it writes",
+                    "we write",
+                    "you write",
+                    "they/you write"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "schreiben"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sie",
+                "english": "they",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "alles",
+                "english": "everything",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "indefinite pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "alles"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "zusammen",
+                "english": "together",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "zusammen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "auf",
+                "english": "on / onto",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "auf"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "kurz",
+                "english": "short",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "kurze"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Einkaufsliste",
+                "english": "shopping list",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "eine",
+                  "Einkaufsliste"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Dann schreiben sie alles zusammen auf eine kurze Einkaufsliste",
+                "english": "Then they write everything together on a short shopping list",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "auf eine kurze Einkaufsliste",
+                "english": "on a short shopping list",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "eine",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  },
+                  {
+                    "surface": "kurze",
+                    "base": "kurz",
+                    "kind": "adjective",
+                    "paradigm": "mixed-adjective",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_candidates/a1-course-016/sentence-04.wav"
+      }
+    ],
+    "audio_path": "assets/audio/a1_candidates/a1-course-016/paragraph.wav",
+    "initial_question": "Which two things are no longer in the fridge?",
+    "initial_answer": "Milk and vegetables.",
+    "audio_status": "ready",
+    "sequence": 16,
+    "lesson_format": "dialogue",
+    "topic": "checking what is needed before shopping",
+    "new_targets": [
+      "der Einkauf",
+      "kein",
+      "das Gemüse",
+      "brauchen",
+      "die Tomate",
+      "der Apfel",
+      "die Einkaufsliste"
+    ],
+    "recycled_targets": [
+      "sehen",
+      "die Milch",
+      "das Wasser",
+      "schreiben",
+      "vier",
+      "morgen",
+      "zusammen"
+    ],
+    "speech_alternatives": []
+  }
+}

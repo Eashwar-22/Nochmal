@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a2-course-024",
+  "source_sha256": "af80b544500a049b72c350b65cb9f865ed0539a6e2355f407225aebb4eb6daa4",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "Read both mandatory documents in full, Lesson 24's exact blueprint entry, source, compiled artifact, and complete preview; ignored review.json.",
+        "All 97 source tokens have exactly one owner across 90 ordered word cards. All 34 phrase cards use exact source wording and follow their component cards.",
+        "All 19 verb cards have complete bilingual present references and appropriate additional forms. All 18 inflection references have correct grammatical slots, complete four-case tables, and matching selected cells.",
+        "Repeated Sie, habe, ich, einem, and an forms retain correct source order and contextual analysis.",
+        "Pydantic validation, source hash, deterministic compilation, preview regeneration comparison, and candidate validation pass. Candidate source exactly matches the authored curriculum record.",
+        "All 25 focused rulebook, lesson-contract, contextual-verb-reference, and A2-course tests pass.",
+        "The candidate remains outside the published A2 manifest."
+      ],
+      "findings": [
+        {
+          "severity": "warning",
+          "location": "compiled-lesson.json: lesson.audio_status, lesson.audio_path, and sentences[1–7].audio_path",
+          "rule": "Rulebook §§11–12; pre-audio audit exception",
+          "message": "Audio is pending and paths are null, as expected. Verify exact German/audio agreement after audio generation; this does not block the candidate-content audit."
+        },
+        {
+          "severity": "warning",
+          "location": "a2-course-024: subsequent release verification",
+          "rule": "Rulebook §§11–13",
+          "message": "Live desktop/mobile inspection, package integrity checks, and the complete release test suite remain later gates. This audit establishes content and shared-reference correctness through artifact inspection and 25 focused tests."
+        }
+      ]
+    },
+    {
+      "kind": "language",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "S1: noun genders, Gästen as dative plural after mit, temporal ab Montag, locative an der Rezeption, and predicate wichtig are correct.",
+        "S2: demonstrative Das, conditional würde plus infinitive, reflexive accusative mich, and um die Stelle are correct; sich bewerben references include bewirbst/bewirbt.",
+        "S3: Welche Erfahrung is accusative, both Sie occurrences are formal nominative, könnten is conditional, uns is dative after bei, and anfangen has correct separable present forms.",
+        "S4: both einem forms are neuter dative; meine Ausbildung is accusative; beendet correctly lacks ge-; both Perfekt constructions and temporal fronting are grammatical.",
+        "S5: dass correctly places passe last; Ihrem is formal possessive neuter dative after zu; hätte and subsequent subject placement are correct.",
+        "S6: von Frau Koch, im = in + dem, reflexive mich, and masculine dative dem Vertrag are correct.",
+        "S7: Am = an + dem, locative an der Rezeption, accusative plural ihre Kollegen, and coordinated Perfekt gearbeitet/kennengelernt are correct.",
+        "No unsupported gender, case, person, reflexivity, separability, or tense inference was identified."
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "All seven German/English records and every word/phrase gloss preserve contextual meaning, register, participants, and time reference.",
+        "Natural translations correctly handle würde gern, vor einem Jahr, ab Montag hätte ich Zeit, Willkommen im Team, and future-oriented Ich melde mich morgen.",
+        "Literal meanings accompany the conditional wish and availability phrases where natural English hides useful German structure.",
+        "Blueprint fit passes: seven turns, 87 passage words excluding labels, linked advertisement/interview/follow-up/first-day account, required chunks, application background, inseparable participle, dass opinion, polite wish, availability, and confirmation.",
+        "The typed speaking checkpoint supplies supported prompts for background, a dass opinion, availability, and a polite question."
+      ],
+      "findings": []
+    }
+  ]
+}

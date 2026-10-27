@@ -1,0 +1,385 @@
+{
+  "id": "a1-course-031",
+  "source_draft_id": "a1-draft-031",
+  "sequence": 31,
+  "band": "A1.2",
+  "format": "dialogue",
+  "title_de": "Beim Arzt",
+  "title_en": "At the Doctor",
+  "topic": "describing a simple health problem at a medical appointment",
+  "communicative_goal": "Say where it hurts and answer a simple question about the problem.",
+  "grammar_focus": "dative pronoun mir in Mir tut … weh",
+  "supporting_structures": [
+    "Mir tut der Kopf weh",
+    "Tut Ihr Arm auch weh",
+    "Mein Arm tut nicht weh"
+  ],
+  "grammar_notes": [
+    "Wehtun is a separable verb; the body part is the nominative subject and mir marks the person affected."
+  ],
+  "new_targets": [
+    "der Arzt",
+    "der Kopf",
+    "der Bauch",
+    "der Arm",
+    "wehtun",
+    "krank",
+    "Mir tut … weh"
+  ],
+  "recycled_targets": [
+    "haben",
+    "der Termin",
+    "der Morgen",
+    "heute",
+    "nicht",
+    "fragen",
+    "antworten"
+  ],
+  "recycles_from": [
+    3,
+    8,
+    10,
+    11,
+    23,
+    27
+  ],
+  "audio_path": "assets/audio/a1_candidates/a1-course-031/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Mina ist krank und hat am Morgen einen Termin beim Arzt.",
+      "en": "Mina is ill and has a doctor’s appointment in the morning.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-031/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Mina": [
+            "nominative"
+          ],
+          "krank": [
+            "adjective",
+            "predicate"
+          ],
+          "am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Morgen": [
+            "dative",
+            "time"
+          ],
+          "einen": [
+            "determiner",
+            "accusative"
+          ],
+          "Termin": [
+            "accusative"
+          ],
+          "beim": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Arzt": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "Morgen": "der Morgen",
+          "hat": "haben"
+        },
+        "word_meanings": {
+          "hat": "has",
+          "Morgen": "morning"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "am Morgen",
+            "english": "in the morning",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "einen Termin",
+            "english": "an appointment",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "beim Arzt",
+            "english": "at the doctor’s",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Sie sagt: „Mir tut der Kopf weh, und mein Bauch tut auch weh.“",
+      "en": "She says, “My head hurts, and my stomach hurts too.”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-031/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "Mir": [
+            "personal pronoun",
+            "dative"
+          ],
+          "der": [
+            "nominative"
+          ],
+          "Kopf": [
+            "nominative"
+          ],
+          "mein": [
+            "possessive",
+            "determiner",
+            "nominative"
+          ],
+          "Bauch": [
+            "nominative"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "Sie": "she",
+          "Mir": "to me",
+          "weh": "hurting"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Mir tut … weh",
+            "english": "hurts me",
+            "literal_meaning": "to me hurts …",
+            "tags": [
+              "dative",
+              "fixed phrase",
+              "separable"
+            ]
+          },
+          {
+            "german": "mein Bauch",
+            "english": "my stomach",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Der Arzt fragt: „Tut Ihr Arm auch weh?“",
+      "en": "The doctor asks, “Does your arm hurt too?”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-031/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Der": [
+            "nominative"
+          ],
+          "Arzt": [
+            "nominative"
+          ],
+          "Ihr": [
+            "possessive",
+            "determiner",
+            "nominative",
+            "formal"
+          ],
+          "Arm": [
+            "nominative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "Ihr": "your (formal)"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Tut Ihr Arm auch weh",
+            "english": "Does your arm hurt too?",
+            "literal_meaning": "Hurts your arm too?",
+            "tags": [
+              "main clause",
+              "inversion",
+              "separable"
+            ]
+          },
+          {
+            "german": "Ihr Arm",
+            "english": "your arm",
+            "literal_meaning": null,
+            "tags": [
+              "nominative",
+              "formal"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina antwortet: „Nein, mein Arm tut nicht weh.“",
+      "en": "Mina answers, “No, my arm does not hurt.”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-031/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Mina": [
+            "nominative"
+          ],
+          "Nein": [
+            "interjection"
+          ],
+          "mein": [
+            "possessive",
+            "determiner",
+            "nominative"
+          ],
+          "Arm": [
+            "nominative"
+          ],
+          "nicht": [
+            "negation"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "mein Arm",
+            "english": "my arm",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "mein Arm tut nicht weh",
+            "english": "my arm does not hurt",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "negation",
+              "separable"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Dann untersucht der Arzt kurz ihren Kopf und ihren Bauch.",
+      "en": "Then the doctor briefly examines her head and stomach.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-031/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Dann": [
+            "adverb",
+            "time"
+          ],
+          "der": [
+            "nominative"
+          ],
+          "Arzt": [
+            "nominative"
+          ],
+          "kurz": [
+            "adverb",
+            "manner"
+          ],
+          "ihren": [
+            "possessive",
+            "determiner",
+            "accusative"
+          ],
+          "Kopf": [
+            "accusative"
+          ],
+          "Bauch": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "ihren": "her"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Dann untersucht der Arzt kurz ihren Kopf und ihren Bauch",
+            "english": "Then the doctor briefly examines her head and stomach",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "ihren Kopf",
+            "english": "her head",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "ihren Bauch",
+            "english": "her stomach",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Which body parts hurt?",
+    "answer_en": "Mina’s head and stomach."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_06.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

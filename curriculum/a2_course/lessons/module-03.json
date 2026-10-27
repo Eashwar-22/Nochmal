@@ -1,0 +1,3775 @@
+[
+  {
+    "id": "a2-course-013",
+    "source_draft_id": "a2-draft-013",
+    "sequence": 61,
+    "band": "A2.1",
+    "format": "dialogue",
+    "title_de": "Könnten Sie leiser sein?",
+    "title_en": "Could You Be Quieter?",
+    "topic": "a polite request about noise",
+    "communicative_goal": "Make and answer a polite request in a mildly difficult situation.",
+    "grammar_focus": "polite Konjunktiv II requests with könnten plus infinitive",
+    "supporting_structures": [
+      "Könnten Sie ...?",
+      "seit einer Stunde",
+      "Rücksicht nehmen"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "könnten",
+      "stören",
+      "laut",
+      "leise",
+      "die Ruhe",
+      "die Musik",
+      "Rücksicht nehmen"
+    ],
+    "recycled_targets": [
+      "das Kind",
+      "schlafen",
+      "deshalb"
+    ],
+    "recycles_from": [
+      21,
+      13,
+      3,
+      4
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Guten Abend, Frau Klein; darf ich Sie kurz stören?",
+        "en": "Good evening, Ms Klein; may I bother you briefly?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Guten": [
+              "adjective",
+              "accusative"
+            ],
+            "Klein": [
+              "proper noun"
+            ],
+            "Sie": [
+              "personal pronoun",
+              "accusative",
+              "formal",
+              "singular"
+            ],
+            "kurz": [
+              "adverb"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "Guten": "gut"
+          },
+          "word_meanings": {
+            "Klein": "Klein (surname)",
+            "Sie": "you"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {
+            "Guten Abend": [
+              "main clause"
+            ],
+            "Frau Klein": [
+              "main clause"
+            ]
+          },
+          "phrases": [
+            {
+              "german": "Guten Abend",
+              "english": "good evening",
+              "literal_meaning": null,
+              "tags": [
+                "fixed phrase",
+                "accusative"
+              ]
+            },
+            {
+              "german": "darf ich Sie kurz stören",
+              "english": "may I bother you briefly",
+              "literal_meaning": null,
+              "tags": [
+                "formal",
+                "modal verb",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "Sie kurz stören",
+              "english": "bother you briefly",
+              "literal_meaning": null,
+              "tags": [
+                "formal",
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Natürlich, was ist denn los?",
+        "en": "Of course, what is the matter?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Natürlich": [
+              "interjection"
+            ],
+            "was": [
+              "interrogative pronoun"
+            ],
+            "denn": [
+              "particle"
+            ],
+            "los": [
+              "adjective"
+            ]
+          },
+          "excluded_word_tags": {
+            "denn": [
+              "conjunction",
+              "coordinating"
+            ]
+          },
+          "base_forms": {},
+          "word_meanings": {
+            "Natürlich": "of course",
+            "ist": "is",
+            "denn": "then / adds conversational emphasis",
+            "los": "the matter / going on"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "was ist denn los",
+              "english": "what is the matter",
+              "literal_meaning": null,
+              "tags": [
+                "fixed phrase"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Die Musik aus Ihrer Wohnung ist seit einer Stunde sehr laut, und mein Kind kann deshalb nicht schlafen.",
+        "en": "The music from your apartment has been very loud for an hour, and my child therefore cannot sleep.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Die": [
+              "article",
+              "nominative"
+            ],
+            "aus": [
+              "preposition",
+              "dative"
+            ],
+            "Ihrer": [
+              "possessive",
+              "determiner",
+              "dative",
+              "formal"
+            ],
+            "seit": [
+              "preposition",
+              "dative"
+            ],
+            "einer": [
+              "article",
+              "dative"
+            ],
+            "sehr": [
+              "adverb"
+            ],
+            "laut": [
+              "adjective"
+            ],
+            "und": [
+              "conjunction",
+              "coordinating"
+            ],
+            "mein": [
+              "possessive",
+              "determiner",
+              "nominative"
+            ],
+            "deshalb": [
+              "connector"
+            ],
+            "nicht": [
+              "particle",
+              "negation"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "Ihrer": "Ihr"
+          },
+          "word_meanings": {
+            "Ihrer": "your",
+            "ist": "is"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Die Musik",
+              "english": "the music",
+              "literal_meaning": null,
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "aus Ihrer Wohnung",
+              "english": "from your apartment",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "formal"
+              ]
+            },
+            {
+              "german": "seit einer Stunde",
+              "english": "for an hour",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "mein Kind",
+              "english": "my child",
+              "literal_meaning": null,
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "kann deshalb nicht schlafen",
+              "english": "therefore cannot sleep",
+              "literal_meaning": null,
+              "tags": [
+                "modal verb",
+                "negation",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Oh, das tut mir leid; ich habe die Zeit ganz vergessen.",
+        "en": "Oh, I am sorry; I completely lost track of the time.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Oh": [
+              "interjection"
+            ],
+            "das": [
+              "demonstrative pronoun",
+              "nominative",
+              "subject"
+            ],
+            "mir": [
+              "personal pronoun",
+              "dative",
+              "singular"
+            ],
+            "leid": [
+              "particle"
+            ],
+            "ich": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "die": [
+              "article",
+              "accusative"
+            ],
+            "ganz": [
+              "adverb"
+            ]
+          },
+          "excluded_word_tags": {
+            "Oh": [
+              "proper noun"
+            ]
+          },
+          "base_forms": {
+            "Oh": "oh",
+            "tut": "leidtun",
+            "habe": "haben"
+          },
+          "word_meanings": {
+            "das": "that / it",
+            "tut": "causes regret",
+            "leid": "regret (part of leidtun)",
+            "ganz": "completely"
+          },
+          "verb_components": {
+            "tut": [
+              "leid"
+            ]
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "tut mir leid",
+              "english": "am sorry",
+              "literal_meaning": "causes regret to me",
+              "tags": [
+                "dative",
+                "fixed phrase",
+                "separable"
+              ]
+            },
+            {
+              "german": "die Zeit",
+              "english": "the time",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "habe die Zeit ganz vergessen",
+              "english": "completely lost track of the time",
+              "literal_meaning": "completely forgot the time",
+              "tags": [
+                "perfect"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Könnten Sie die Musik bitte leiser machen und heute Abend auf die Ruhe im Haus Rücksicht nehmen?",
+        "en": "Could you please make the music quieter and be considerate of the peace in the building this evening?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Könnten": [
+              "modal verb",
+              "subjunctive",
+              "formal"
+            ],
+            "bitte": [
+              "particle"
+            ],
+            "leiser": [
+              "adjective",
+              "comparative"
+            ],
+            "und": [
+              "conjunction",
+              "coordinating"
+            ],
+            "heute": [
+              "adverb",
+              "time"
+            ],
+            "auf": [
+              "preposition",
+              "accusative"
+            ],
+            "die": [
+              "article",
+              "accusative"
+            ],
+            "im": [
+              "preposition",
+              "contraction",
+              "dative"
+            ],
+            "nehmen": [
+              "verb",
+              "infinitive"
+            ]
+          },
+          "excluded_word_tags": {
+            "nehmen": [
+              "present"
+            ]
+          },
+          "base_forms": {
+            "Könnten": "können",
+            "leiser": "leise",
+            "nehmen": "nehmen"
+          },
+          "word_meanings": {
+            "auf": "of / toward (with Rücksicht nehmen)",
+            "bitte": "please",
+            "machen": "make",
+            "Sie": "you",
+            "im": "in"
+          },
+          "verb_meanings": {
+            "machen": "to make"
+          },
+          "verb_forms": {
+            "nehmen": "infinitive"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [
+            {
+              "surface": "Sie",
+              "occurrence": 1,
+              "tags": [
+                "personal pronoun",
+                "nominative",
+                "subject",
+                "formal",
+                "singular"
+              ],
+              "excluded_tags": [
+                "accusative"
+              ],
+              "base_form": null,
+              "meaning": "you",
+              "spoken_form": null
+            }
+          ],
+          "excluded_phrases": [
+            "und heute Abend auf die Ruhe im Haus Rücksicht nehmen"
+          ],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Könnten Sie ... machen",
+              "english": "could you make",
+              "literal_meaning": null,
+              "tags": [
+                "subjunctive",
+                "formal",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "Könnten Sie",
+              "english": "could you",
+              "literal_meaning": null,
+              "tags": [
+                "subjunctive",
+                "formal",
+                "nominative"
+              ]
+            },
+            {
+              "german": "die Musik bitte leiser machen",
+              "english": "please make the music quieter",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "heute Abend",
+              "english": "this evening",
+              "literal_meaning": null,
+              "tags": [
+                "time"
+              ]
+            },
+            {
+              "german": "auf die Ruhe",
+              "english": "of the peace and quiet",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "im Haus",
+              "english": "in the building",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place"
+              ]
+            },
+            {
+              "german": "Rücksicht nehmen",
+              "english": "be considerate",
+              "literal_meaning": "take consideration",
+              "tags": [
+                "fixed phrase"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Natürlich mache ich sie sofort leiser und nehme ab jetzt wirklich mehr Rücksicht.",
+        "en": "Of course, I will make it quieter immediately and really be more considerate from now on.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Natürlich": [
+              "adverb"
+            ],
+            "ich": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "sie": [
+              "personal pronoun",
+              "accusative",
+              "singular"
+            ],
+            "sofort": [
+              "adverb",
+              "time"
+            ],
+            "leiser": [
+              "adjective",
+              "comparative"
+            ],
+            "und": [
+              "conjunction",
+              "coordinating"
+            ],
+            "ab": [
+              "preposition"
+            ],
+            "jetzt": [
+              "adverb",
+              "time"
+            ],
+            "wirklich": [
+              "adverb"
+            ],
+            "mehr": [
+              "determiner",
+              "comparative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "leiser": "leise",
+            "nehme": "nehmen",
+            "mehr": "viel"
+          },
+          "word_meanings": {
+            "Natürlich": "of course",
+            "mache": "make / will make",
+            "sie": "it",
+            "wirklich": "really",
+            "ab": "from"
+          },
+          "verb_meanings": {
+            "mache": "to make"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Natürlich mache ich sie sofort leiser",
+              "english": "of course I will make it quieter immediately",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "verb-second",
+                "inversion"
+              ]
+            },
+            {
+              "german": "sie",
+              "english": "it",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "ab jetzt",
+              "english": "from now on",
+              "literal_meaning": null,
+              "tags": [
+                "time"
+              ]
+            },
+            {
+              "german": "nehme ab jetzt wirklich mehr Rücksicht",
+              "english": "will really be more considerate from now on",
+              "literal_meaning": "really take more consideration from now on",
+              "tags": [
+                "fixed phrase"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What does the neighbor agree to do?",
+      "answer_en": "Make the music quieter and be more considerate."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 13"
+    ],
+    "speech_alternatives": [],
+    "performance_activity": {
+      "kind": "speaking",
+      "instruction": "Make a polite request for each neighbour problem, then respond constructively to both requests.",
+      "prompts": [
+        "The music next door is too loud and your child cannot sleep.",
+        "A neighbour is drilling during the building's quiet hours."
+      ]
+    }
+  },
+  {
+    "id": "a2-course-014",
+    "source_draft_id": "a2-draft-014",
+    "sequence": 62,
+    "band": "A2.1",
+    "format": "dialogue",
+    "title_de": "Entschuldigung wegen des Lärms",
+    "title_en": "I’m Sorry About the Noise",
+    "topic": "apologizing for a noisy evening",
+    "communicative_goal": "Apologize for a specific action and respond to the apology.",
+    "grammar_focus": "accusative reflexive pronouns with common reflexive verbs",
+    "supporting_structures": [
+      "mich entschuldigen",
+      "mich geärgert",
+      "mich beruhigen"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "sich entschuldigen",
+      "sich ärgern",
+      "der Lärm",
+      "sich beruhigen",
+      "versprechen",
+      "unangenehm"
+    ],
+    "recycled_targets": [
+      "die Musik",
+      "gestern",
+      "weil",
+      "leise",
+      "kein Problem"
+    ],
+    "recycles_from": [
+      13,
+      1,
+      3
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Es tut mir leid; ich möchte mich für den Lärm entschuldigen.",
+        "en": "I am sorry; I would like to apologize for the noise.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Es": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "mir": [
+              "personal pronoun",
+              "dative",
+              "singular"
+            ],
+            "mich": [
+              "reflexive pronoun",
+              "personal pronoun",
+              "accusative",
+              "singular"
+            ],
+            "für": [
+              "preposition",
+              "accusative"
+            ],
+            "den": [
+              "article",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "tut": "leidtun",
+            "entschuldigen": "sich entschuldigen",
+            "möchte": "mögen"
+          },
+          "word_meanings": {
+            "tut": "causes regret",
+            "leid": "regret (part of leidtun)",
+            "für": "for"
+          },
+          "verb_components": {
+            "tut": [
+              "leid"
+            ]
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "tut mir leid",
+              "english": "am sorry",
+              "literal_meaning": "causes regret to me",
+              "tags": [
+                "dative",
+                "fixed phrase",
+                "separable"
+              ]
+            },
+            {
+              "german": "möchte mich ... entschuldigen",
+              "english": "would like to apologize",
+              "literal_meaning": null,
+              "tags": [
+                "modal verb",
+                "reflexive",
+                "accusative",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "für den Lärm",
+              "english": "for the noise",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ich habe mich darüber geärgert, dass du nicht früher an die Nachbarn gedacht hast.",
+        "en": "I was annoyed that you hadn’t thought of the neighbours earlier.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Ich": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "mich": [
+              "reflexive pronoun",
+              "personal pronoun",
+              "accusative",
+              "singular"
+            ],
+            "darüber": [
+              "adverb"
+            ],
+            "dass": [
+              "conjunction",
+              "subordinating"
+            ],
+            "nicht": [
+              "negation"
+            ],
+            "früher": [
+              "adverb",
+              "time"
+            ],
+            "an": [
+              "preposition",
+              "accusative"
+            ],
+            "die": [
+              "article",
+              "accusative"
+            ],
+            "du": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "Nachbarn": [
+              "noun",
+              "plural"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "geärgert": "sich ärgern",
+            "gedacht": "denken"
+          },
+          "word_meanings": {
+            "darüber": "about it",
+            "gedacht": "thought",
+            "früher": "earlier",
+            "an": "of / about",
+            "Nachbarn": "neighbours"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "habe mich darüber geärgert",
+              "english": "was annoyed about it",
+              "literal_meaning": null,
+              "tags": [
+                "reflexive",
+                "perfect",
+                "accusative"
+              ]
+            },
+            {
+              "german": "dass du nicht früher an die Nachbarn gedacht hast",
+              "english": "that you hadn’t thought of the neighbours earlier",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "perfect",
+                "negation"
+              ]
+            },
+            {
+              "german": "an die Nachbarn",
+              "english": "of the neighbours",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ich habe gestern mit Freundinnen gefeiert, weil wir den Geburtstag meiner Schwester nachgeholt haben.",
+        "en": "I celebrated with friends yesterday because we were celebrating my sister’s birthday belatedly.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Ich": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "mit": [
+              "preposition",
+              "dative"
+            ],
+            "weil": [
+              "conjunction",
+              "subordinating"
+            ],
+            "den": [
+              "article",
+              "accusative"
+            ],
+            "meiner": [
+              "possessive",
+              "genitive"
+            ],
+            "Schwester": [
+              "noun"
+            ],
+            "gestern": [
+              "adverb",
+              "time"
+            ],
+            "Freundinnen": [
+              "noun",
+              "plural"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "gefeiert": "feiern",
+            "nachgeholt": "nachholen",
+            "Freundinnen": "die Freundin"
+          },
+          "word_meanings": {
+            "nachgeholt": "celebrated belatedly",
+            "mit": "with",
+            "Freundinnen": "friends"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "mit Freundinnen gefeiert",
+              "english": "celebrated with friends",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "perfect"
+              ]
+            },
+            {
+              "german": "weil wir den Geburtstag meiner Schwester nachgeholt haben",
+              "english": "because we were celebrating my sister’s birthday belatedly",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "perfect"
+              ]
+            },
+            {
+              "german": "meiner Schwester",
+              "english": "of my sister",
+              "literal_meaning": null,
+              "tags": [
+                "genitive"
+              ]
+            },
+            {
+              "german": "den Geburtstag",
+              "english": "the birthday",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "mit Freundinnen",
+              "english": "with friends",
+              "literal_meaning": null,
+              "tags": [
+                "dative"
+              ]
+            }
+          ],
+          "verb_meanings": {
+            "nachgeholt": "to celebrate belatedly"
+          }
+        }
+      },
+      {
+        "de": "Das verstehe ich, und die Situation war mir selbst unangenehm.",
+        "en": "I understand that, and I felt uncomfortable about the situation myself.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Das": [
+              "demonstrative pronoun",
+              "accusative"
+            ],
+            "ich": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "die": [
+              "article",
+              "nominative"
+            ],
+            "mir": [
+              "personal pronoun",
+              "dative",
+              "singular"
+            ],
+            "selbst": [
+              "particle"
+            ],
+            "unangenehm": [
+              "adjective",
+              "predicate"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "Das": "that",
+            "selbst": "myself"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Das verstehe ich",
+              "english": "I understand that",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "inversion",
+                "verb-second"
+              ]
+            },
+            {
+              "german": "die Situation",
+              "english": "the situation",
+              "literal_meaning": null,
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "war mir selbst unangenehm",
+              "english": "was uncomfortable for me personally",
+              "literal_meaning": null,
+              "tags": [
+                "simple past",
+                "dative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ich verspreche, dass es heute Abend ruhig bleibt und die Musik um zehn Uhr leiser ist.",
+        "en": "I promise that it will stay quiet this evening and that the music will be quieter at ten o’clock.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Ich": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "dass": [
+              "conjunction",
+              "subordinating"
+            ],
+            "es": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "heute": [
+              "adverb",
+              "time"
+            ],
+            "ruhig": [
+              "adjective",
+              "predicate"
+            ],
+            "und": [
+              "conjunction",
+              "coordinating"
+            ],
+            "die": [
+              "article",
+              "nominative"
+            ],
+            "um": [
+              "preposition",
+              "time",
+              "accusative"
+            ],
+            "zehn": [
+              "numeral"
+            ],
+            "leiser": [
+              "adjective",
+              "comparative",
+              "predicate"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "verspreche": "versprechen"
+          },
+          "word_meanings": {
+            "um": "at"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {
+            "und die Musik um zehn Uhr leiser ist": [
+              "main clause"
+            ]
+          },
+          "phrases": [
+            {
+              "german": "dass es heute Abend ruhig bleibt und die Musik um zehn Uhr leiser ist",
+              "english": "that it will stay quiet this evening and that the music will be quieter at ten o’clock",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            },
+            {
+              "german": "die Musik",
+              "english": "the music",
+              "literal_meaning": null,
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "und die Musik um zehn Uhr leiser ist",
+              "english": "and that the music will be quieter at ten o’clock",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            },
+            {
+              "german": "um zehn Uhr",
+              "english": "at ten o’clock",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Danke, dann kann ich mich wieder beruhigen; kein Problem, wenn es heute Abend leise bleibt.",
+        "en": "Thank you, then I can calm down again; no problem if it stays quiet this evening.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Danke": [
+              "interjection"
+            ],
+            "dann": [
+              "adverb",
+              "time"
+            ],
+            "ich": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "mich": [
+              "reflexive pronoun",
+              "personal pronoun",
+              "accusative",
+              "singular"
+            ],
+            "wieder": [
+              "adverb",
+              "time"
+            ],
+            "kein": [
+              "determiner",
+              "nominative"
+            ],
+            "wenn": [
+              "conjunction",
+              "subordinating"
+            ],
+            "es": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "heute": [
+              "adverb",
+              "time"
+            ],
+            "leise": [
+              "adjective",
+              "predicate"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "beruhigen": "sich beruhigen"
+          },
+          "word_meanings": {
+            "wenn": "if",
+            "leise": "quiet"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [
+            "dann kann ich … beruhigen"
+          ],
+          "excluded_phrase_tags": {
+            "wenn es heute Abend leise bleibt": [
+              "main clause"
+            ]
+          },
+          "phrases": [
+            {
+              "german": "dann kann ich mich wieder beruhigen",
+              "english": "then I can calm down again",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "modal verb",
+                "reflexive",
+                "accusative",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "kein Problem",
+              "english": "no problem",
+              "literal_meaning": null,
+              "tags": [
+                "nominative",
+                "ellipsis",
+                "fixed phrase"
+              ]
+            },
+            {
+              "german": "wenn es heute Abend leise bleibt",
+              "english": "if it stays quiet this evening",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "Why does the speaker apologize?",
+      "answer_en": "Because the music was too loud during a delayed birthday celebration."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 14"
+    ],
+    "speech_alternatives": [],
+    "performance_activity": {
+      "kind": "listening",
+      "instruction": "Listen to the neighbour conversation, then identify the event, both people’s feelings, and the promised change.",
+      "prompts": [
+        "What happened the previous evening?",
+        "How did the neighbour feel about the noise, and how did the speaker feel about the situation?",
+        "What does the speaker promise to change?"
+      ]
+    }
+  },
+  {
+    "id": "a2-course-015",
+    "source_draft_id": "a2-draft-015",
+    "sequence": 63,
+    "band": "A2.1",
+    "format": "dialogue",
+    "title_de": "Ist die Waschküche frei?",
+    "title_en": "Is the Laundry Room Free?",
+    "topic": "asking a neighbor for uncertain information",
+    "communicative_goal": "Ask indirectly whether a simple fact is true.",
+    "grammar_focus": "indirect yes/no questions with ob and final verb position",
+    "supporting_structures": [
+      "wissen, ob",
+      "nachsehen, ob",
+      "fragen, ob"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "ob",
+      "die Waschküche",
+      "die Hausordnung",
+      "der Hausmeister",
+      "nachsehen"
+    ],
+    "recycled_targets": [
+      "wissen",
+      "frei",
+      "waschen",
+      "morgen",
+      "der Schlüssel"
+    ],
+    "recycles_from": [
+      13,
+      14,
+      21
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Wissen Sie vielleicht, ob die Waschküche heute Abend nach acht Uhr frei ist?",
+        "en": "Do you perhaps know whether the laundry room is free after eight this evening?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "nach": [
+              "preposition",
+              "dative"
+            ],
+            "ob": [
+              "conjunction",
+              "subordinating"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "Sie": "you"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "nach acht Uhr",
+              "english": "after eight o'clock",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "ob die Waschküche heute Abend nach acht Uhr frei ist",
+              "english": "whether the laundry room is free after eight this evening",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ich weiß leider nicht, ob Herr Roth gerade noch dort wäscht.",
+        "en": "Unfortunately, I do not know whether Mr Roth is still doing laundry there right now.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "ob": [
+              "conjunction",
+              "subordinating"
+            ],
+            "dort": [
+              "adverb",
+              "place"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "wäscht": "waschen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "ob Herr Roth gerade noch dort wäscht",
+              "english": "whether Mr Roth is still doing laundry there right now",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "In der Hausordnung steht, dass man die Waschküche bis zehn Uhr benutzen darf, aber sie sagt nichts über die genaue Uhrzeit.",
+        "en": "The building rules say that the laundry room may be used until ten o'clock, but they do not say exactly when.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "In": [
+              "preposition",
+              "dative"
+            ],
+            "der": [
+              "article",
+              "dative"
+            ],
+            "dass": [
+              "conjunction",
+              "subordinating"
+            ],
+            "man": [
+              "indefinite pronoun",
+              "nominative",
+              "subject"
+            ],
+            "zehn": [
+              "numeral"
+            ],
+            "über": [
+              "preposition",
+              "accusative"
+            ],
+            "genaue": [
+              "adjective"
+            ],
+            "Uhrzeit": [
+              "noun",
+              "fem."
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "genaue": "genau",
+            "Uhrzeit": "die Uhrzeit"
+          },
+          "word_meanings": {
+            "Waschküche": "laundry room",
+            "genaue": "exact",
+            "Uhrzeit": "time",
+            "sie": "it"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "In der Hausordnung",
+              "english": "in the building rules",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place"
+              ]
+            },
+            {
+              "german": "dass man die Waschküche bis zehn Uhr benutzen darf",
+              "english": "that the room may be used until ten o'clock",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "modal verb"
+              ]
+            },
+            {
+              "german": "über die genaue Uhrzeit",
+              "english": "about the exact time",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Der Hausmeister kann im Büro nachsehen, ob der Schlüssel für die Waschküche noch da ist.",
+        "en": "The caretaker can check in the office whether the key to the laundry room is still there.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "im": [
+              "preposition",
+              "dative"
+            ],
+            "ob": [
+              "conjunction",
+              "subordinating"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "im Büro",
+              "english": "in the office",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place"
+              ]
+            },
+            {
+              "german": "kann im Büro nachsehen",
+              "english": "can check",
+              "literal_meaning": null,
+              "tags": [
+                "modal verb",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "für die Waschküche",
+              "english": "for the laundry room",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "ob der Schlüssel für die Waschküche noch da ist",
+              "english": "whether the key to the laundry room is still there",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Dann frage ich ihn gleich, ob ich morgen um sieben Uhr waschen kann oder lieber später kommen soll.",
+        "en": "Then I will ask him right away whether I can do laundry tomorrow at seven or should come later instead.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Dann": [
+              "adverb",
+              "time"
+            ],
+            "ihn": [
+              "personal pronoun",
+              "accusative"
+            ],
+            "ob": [
+              "conjunction",
+              "subordinating"
+            ],
+            "sieben": [
+              "numeral"
+            ],
+            "um": [
+              "preposition",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "gleich": "right away"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "frage ich ihn",
+              "english": "I will ask him",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "inversion",
+                "accusative"
+              ]
+            },
+            {
+              "german": "um sieben Uhr",
+              "english": "at seven o'clock",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "time"
+              ]
+            },
+            {
+              "german": "ob ich morgen um sieben Uhr waschen kann oder lieber später kommen soll",
+              "english": "whether I can do laundry tomorrow at seven or should come later instead",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "modal verb"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "Who can check whether the key is there?",
+      "answer_en": "The caretaker."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 15"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-016",
+    "source_draft_id": "a2-draft-016",
+    "sequence": 64,
+    "band": "A2.1",
+    "format": "dialogue",
+    "title_de": "Ich helfe ihm",
+    "title_en": "I Can Help Him",
+    "topic": "borrowing tools and helping a neighbor",
+    "communicative_goal": "Use dative personal pronouns when offering and arranging help.",
+    "grammar_focus": "dative personal pronouns with helfen, leihen, gehören, and bringen",
+    "supporting_structures": [
+      "ihm helfen",
+      "ihm etwas leihen",
+      "dir etwas bringen"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "leihen",
+      "das Werkzeug",
+      "die Leiter",
+      "der Eimer"
+    ],
+    "recycled_targets": [
+      "helfen",
+      "gehören",
+      "bringen",
+      "der Nachbar",
+      "morgen"
+    ],
+    "recycles_from": [
+      13,
+      15,
+      21
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Mara: Herr Braun baut ein Regal auf, aber ihm fehlt eine Leiter.",
+        "en": "Mara: Mr Braun is assembling a shelf, but he is missing a ladder.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Mara": [
+              "proper noun"
+            ],
+            "Herr": [
+              "proper noun"
+            ],
+            "Braun": [
+              "proper noun"
+            ],
+            "ein": [
+              "article",
+              "accusative"
+            ],
+            "ihm": [
+              "personal pronoun",
+              "dative"
+            ],
+            "eine": [
+              "article",
+              "nominative"
+            ]
+          },
+          "base_forms": {
+            "baut": "aufbauen",
+            "ihm": "er"
+          },
+          "verb_components": {
+            "baut": [
+              "auf"
+            ]
+          },
+          "word_meanings": {
+            "Mara": "Mara",
+            "Herr": "Mr",
+            "Braun": "Braun",
+            "fehlt": "is missing"
+          },
+          "excluded_phrases": [],
+          "phrases": [
+            {
+              "german": "Herr Braun",
+              "english": "Mr Braun",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "baut ein Regal auf",
+              "english": "is assembling a shelf",
+              "tags": [
+                "separable",
+                "present"
+              ]
+            },
+            {
+              "german": "ein Regal",
+              "english": "a shelf",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "ihm fehlt",
+              "english": "he is missing",
+              "literal_meaning": "something is missing to him",
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "eine Leiter",
+              "english": "a ladder",
+              "tags": [
+                "nominative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Frau Keller: Ich kann ihm meine Leiter und einen Eimer leihen.",
+        "en": "Ms Keller: I can lend him my ladder and a bucket.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Frau": [
+              "proper noun"
+            ],
+            "Keller": [
+              "proper noun"
+            ],
+            "Ich": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "ihm": [
+              "personal pronoun",
+              "dative"
+            ],
+            "meine": [
+              "possessive",
+              "determiner",
+              "accusative"
+            ],
+            "einen": [
+              "article",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {
+            "Frau": [
+              "noun",
+              "fem."
+            ],
+            "Keller": [
+              "noun",
+              "masc."
+            ]
+          },
+          "base_forms": {
+            "Frau": "Frau",
+            "Keller": "Keller",
+            "ihm": "er"
+          },
+          "word_meanings": {
+            "Frau": "Ms",
+            "Keller": "Keller",
+            "ihm": "him"
+          },
+          "verb_forms": {
+            "leihen": "infinitive"
+          },
+          "excluded_phrases": [
+            "Frau Keller: Ich kann ihm meine Leiter",
+            "und einen Eimer leihen"
+          ],
+          "excluded_phrase_tags": {
+            "Frau Keller": [
+              "main clause"
+            ]
+          },
+          "phrases": [
+            {
+              "german": "Frau Keller",
+              "english": "Ms Keller",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "ihm ... leihen",
+              "english": "lend to him",
+              "tags": [
+                "dative",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "meine Leiter",
+              "english": "my ladder",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "einen Eimer",
+              "english": "a bucket",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "Ich kann ihm meine Leiter und einen Eimer leihen",
+              "english": "I can lend him my ladder and a bucket",
+              "tags": [
+                "modal verb",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Herr Braun: Das Werkzeug gehört mir; könntest du mir bitte helfen, Mara?",
+        "en": "Mr Braun: The tool belongs to me; could you please help me, Mara?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Herr": [
+              "proper noun"
+            ],
+            "Braun": [
+              "proper noun"
+            ],
+            "Das": [
+              "article",
+              "nominative"
+            ],
+            "mir": [
+              "personal pronoun",
+              "dative"
+            ],
+            "könntest": [
+              "modal verb",
+              "subjunctive"
+            ],
+            "du": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "bitte": [
+              "particle"
+            ],
+            "Mara": [
+              "proper noun"
+            ]
+          },
+          "base_forms": {
+            "könntest": "können",
+            "mir": "ich"
+          },
+          "verb_forms": {
+            "helfen": "infinitive"
+          },
+          "word_meanings": {
+            "Herr": "Mr",
+            "Braun": "Braun",
+            "mir": "me",
+            "bitte": "please",
+            "Mara": "Mara"
+          },
+          "excluded_phrase_tags": {
+            "Herr Braun": [
+              "main clause"
+            ]
+          },
+          "word_occurrences": [
+            {
+              "surface": "mir",
+              "occurrence": 1,
+              "base_form": "ich",
+              "meaning": "me",
+              "tags": [
+                "personal pronoun",
+                "dative"
+              ]
+            },
+            {
+              "surface": "mir",
+              "occurrence": 2,
+              "base_form": "ich",
+              "meaning": "me",
+              "tags": [
+                "personal pronoun",
+                "dative"
+              ]
+            }
+          ],
+          "phrases": [
+            {
+              "german": "Herr Braun",
+              "english": "Mr Braun",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "Das Werkzeug",
+              "english": "the tool",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "gehört mir",
+              "english": "belongs to me",
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "könntest du mir bitte helfen",
+              "english": "could you please help me",
+              "tags": [
+                "subjunctive",
+                "modal verb",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "mir bitte helfen",
+              "english": "help me, please",
+              "tags": [
+                "dative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Mara: Ich bringe dir die Sachen, Herr Braun, und helfe euch, Kinder, morgen beim Regal.",
+        "en": "Mara: I will bring you the things, Mr Braun, and help you children with the shelf tomorrow.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Mara": [
+              "proper noun"
+            ],
+            "Ich": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "dir": [
+              "personal pronoun",
+              "dative"
+            ],
+            "die": [
+              "article",
+              "accusative"
+            ],
+            "Herr": [
+              "proper noun"
+            ],
+            "Braun": [
+              "proper noun"
+            ],
+            "euch": [
+              "personal pronoun",
+              "dative",
+              "plural"
+            ],
+            "Kinder": [
+              "noun",
+              "plural"
+            ],
+            "morgen": [
+              "adverb",
+              "time"
+            ],
+            "beim": [
+              "contraction",
+              "dative"
+            ]
+          },
+          "base_forms": {
+            "bringe": "bringen",
+            "dir": "du",
+            "euch": "ihr",
+            "beim": "bei dem"
+          },
+          "word_meanings": {
+            "Mara": "Mara",
+            "dir": "you",
+            "Herr": "Mr",
+            "Braun": "Braun",
+            "euch": "you all",
+            "Kinder": "children",
+            "morgen": "tomorrow",
+            "beim": "with the"
+          },
+          "phrases": [
+            {
+              "german": "bringe dir",
+              "english": "bring to you",
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "die Sachen",
+              "english": "the things",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "Herr Braun",
+              "english": "Mr Braun",
+              "tags": []
+            },
+            {
+              "german": "helfe euch",
+              "english": "help you all",
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "beim Regal",
+              "english": "with the shelf",
+              "tags": [
+                "contraction",
+                "dative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Frau Keller: Danke, das hilft uns; Kinder, könnt ihr Mara den Eimer bringen?",
+        "en": "Ms Keller: Thanks, that helps us; children, can you bring Mara the bucket?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Frau": [
+              "proper noun"
+            ],
+            "Keller": [
+              "proper noun"
+            ],
+            "Danke": [
+              "interjection"
+            ],
+            "das": [
+              "demonstrative pronoun",
+              "nominative",
+              "subject"
+            ],
+            "uns": [
+              "personal pronoun",
+              "dative"
+            ],
+            "Kinder": [
+              "noun",
+              "plural"
+            ],
+            "könnt": [
+              "modal verb",
+              "present"
+            ],
+            "ihr": [
+              "personal pronoun",
+              "nominative",
+              "subject",
+              "plural"
+            ],
+            "Mara": [
+              "proper noun"
+            ],
+            "den": [
+              "article",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {
+            "Frau": [
+              "noun",
+              "fem."
+            ],
+            "Keller": [
+              "noun",
+              "masc."
+            ],
+            "könnt": [
+              "subjunctive"
+            ]
+          },
+          "base_forms": {
+            "Frau": "Frau",
+            "Keller": "Keller",
+            "uns": "wir",
+            "könnt": "können"
+          },
+          "word_meanings": {
+            "Frau": "Ms",
+            "Keller": "Keller",
+            "das": "that",
+            "uns": "us",
+            "Kinder": "children",
+            "könnt": "can",
+            "ihr": "you all",
+            "Mara": "Mara"
+          },
+          "excluded_phrases": [
+            "ihr Mara"
+          ],
+          "excluded_phrase_tags": {
+            "Frau Keller": [
+              "main clause"
+            ]
+          },
+          "phrases": [
+            {
+              "german": "Frau Keller",
+              "english": "Ms Keller",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "hilft uns",
+              "english": "helps us",
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "den Eimer",
+              "english": "the bucket",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "könnt ihr Mara den Eimer bringen",
+              "english": "can you bring Mara the bucket",
+              "tags": [
+                "modal verb",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Kinder: Ja, wir bringen ihr den Eimer und geben Ihnen später die Leiter zurück, Frau Keller.",
+        "en": "Children: Yes, we will bring her the bucket and return the ladder to you later, Ms Keller.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Kinder": [
+              "noun",
+              "plural"
+            ],
+            "Ja": [
+              "interjection"
+            ],
+            "wir": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "ihr": [
+              "personal pronoun",
+              "dative"
+            ],
+            "den": [
+              "article",
+              "accusative"
+            ],
+            "Ihnen": [
+              "personal pronoun",
+              "dative",
+              "formal"
+            ],
+            "später": [
+              "adverb",
+              "time"
+            ],
+            "die": [
+              "article",
+              "accusative"
+            ],
+            "Frau": [
+              "proper noun"
+            ],
+            "Keller": [
+              "proper noun"
+            ]
+          },
+          "excluded_word_tags": {
+            "Frau": [
+              "noun",
+              "fem."
+            ],
+            "Keller": [
+              "noun",
+              "masc."
+            ]
+          },
+          "base_forms": {
+            "ihr": "sie",
+            "Ihnen": "Sie",
+            "geben": "zurückgeben",
+            "Frau": "Frau",
+            "Keller": "Keller"
+          },
+          "verb_components": {
+            "geben": [
+              "zurück"
+            ]
+          },
+          "word_meanings": {
+            "Kinder": "children",
+            "ihr": "her",
+            "Ihnen": "you (formal)",
+            "Frau": "Ms",
+            "Keller": "Keller"
+          },
+          "excluded_phrase_tags": {
+            "Frau Keller": [
+              "main clause"
+            ]
+          },
+          "phrases": [
+            {
+              "german": "bringen ihr",
+              "english": "bring to her",
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "den Eimer",
+              "english": "the bucket",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "geben Ihnen",
+              "english": "give back to you",
+              "tags": [
+                "dative",
+                "formal"
+              ]
+            },
+            {
+              "german": "die Leiter",
+              "english": "the ladder",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "geben Ihnen später die Leiter zurück",
+              "english": "return the ladder to you later",
+              "tags": [
+                "separable"
+              ]
+            },
+            {
+              "german": "Frau Keller",
+              "english": "Ms Keller",
+              "tags": []
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "Who lends the ladder and bucket to help Herr Braun?",
+      "answer_en": "Frau Keller."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 16"
+    ],
+    "speech_alternatives": [],
+    "performance_activity": {
+      "kind": "listening",
+      "instruction": "Listen and choose a recipient for each object or action from the recipient bank.",
+      "prompts": [
+        "Recipient bank: Herr Braun, Mara, Frau Keller, the children",
+        "Who receives the ladder and bucket?",
+        "Who receives the things?",
+        "Who receives help with the shelf?",
+        "Who receives the bucket from the children?",
+        "Who receives the returned ladder?"
+      ]
+    }
+  },
+  {
+    "id": "a2-course-017",
+    "source_draft_id": "a2-draft-017",
+    "sequence": 65,
+    "band": "A2.1",
+    "format": "dialogue",
+    "title_de": "Gib ihr bitte das Paket",
+    "title_en": "Give Her the Package, Please",
+    "topic": "accepting and passing on a parcel",
+    "communicative_goal": "Use recipient and thing objects clearly in a routine exchange.",
+    "grammar_focus": "recipient-object patterns with dative and accusative",
+    "supporting_structures": [
+      "mir ein Paket bringen",
+      "ihr das Paket geben",
+      "ihrem Mann das Paket geben"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "weitergeben",
+      "der Zusteller"
+    ],
+    "recycled_targets": [
+      "abgeben",
+      "annehmen",
+      "die Lieferung",
+      "das Paket",
+      "die Unterschrift",
+      "erreichen"
+    ],
+    "recycles_from": [
+      16,
+      29,
+      31
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Der Zusteller hat mir ein Paket und eine Nachricht für Frau Klein gebracht.",
+        "en": "The delivery person brought me a parcel and a message for Ms Klein.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "mir": [
+              "personal pronoun",
+              "dative"
+            ],
+            "Frau": [
+              "proper noun"
+            ],
+            "Klein": [
+              "proper noun"
+            ],
+            "Der": [
+              "article",
+              "nominative"
+            ],
+            "für": [
+              "preposition",
+              "accusative"
+            ],
+            "eine": [
+              "article",
+              "accusative"
+            ],
+            "ein": [
+              "article",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {
+            "Frau": [
+              "noun",
+              "fem."
+            ],
+            "Klein": [
+              "noun",
+              "masc."
+            ]
+          },
+          "base_forms": {
+            "gebracht": "bringen",
+            "Frau": "Frau",
+            "Klein": "Klein"
+          },
+          "word_meanings": {
+            "Frau": "Ms",
+            "Klein": "Klein (surname)"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [
+            "für Frau"
+          ],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "für Frau Klein",
+              "english": "for Ms Klein",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "hat mir ein Paket und eine Nachricht für Frau Klein gebracht",
+              "english": "brought me a parcel and a message for Ms Klein",
+              "literal_meaning": null,
+              "tags": [
+                "perfect"
+              ]
+            },
+            {
+              "german": "Der Zusteller",
+              "english": "the delivery person",
+              "literal_meaning": null,
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "hat mir ... gebracht",
+              "english": "brought to me",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "perfect"
+              ]
+            },
+            {
+              "german": "ein Paket",
+              "english": "a parcel",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "eine Nachricht",
+              "english": "a message",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ich habe unterschrieben und die Lieferung angenommen; der Zusteller hat das Paket bei mir abgegeben.",
+        "en": "I signed for it and accepted the delivery; the delivery person left the parcel with me.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "die": [
+              "article",
+              "accusative"
+            ],
+            "der": [
+              "article",
+              "nominative"
+            ],
+            "das": [
+              "article",
+              "accusative"
+            ],
+            "bei": [
+              "preposition",
+              "dative"
+            ],
+            "mir": [
+              "personal pronoun",
+              "dative"
+            ],
+            "unterschrieben": [
+              "verb",
+              "past participle",
+              "perfect"
+            ]
+          },
+          "excluded_word_tags": {
+            "unterschrieben": [
+              "present"
+            ]
+          },
+          "base_forms": {
+            "unterschrieben": "unterschreiben",
+            "angenommen": "annehmen",
+            "abgegeben": "abgeben",
+            "mir": "ich"
+          },
+          "word_meanings": {
+            "unterschrieben": "signed",
+            "abgegeben": "left",
+            "bei": "with"
+          },
+          "verb_meanings": {
+            "abgegeben": "to leave"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [
+            "und die Lieferung angenommen; der Zusteller hat das Paket bei mir abgegeben"
+          ],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "habe unterschrieben und die Lieferung angenommen",
+              "english": "signed and accepted the delivery",
+              "literal_meaning": null,
+              "tags": [
+                "perfect"
+              ]
+            },
+            {
+              "german": "die Lieferung",
+              "english": "the delivery",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "der Zusteller",
+              "english": "the delivery person",
+              "literal_meaning": null,
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "hat das Paket bei mir abgegeben",
+              "english": "left the parcel with me",
+              "literal_meaning": null,
+              "tags": [
+                "perfect"
+              ]
+            },
+            {
+              "german": "das Paket",
+              "english": "the parcel",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "bei mir",
+              "english": "with me",
+              "literal_meaning": null,
+              "tags": [
+                "dative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Geben Sie ihr bitte das Paket und die Nachricht heute Abend weiter.",
+        "en": "Please pass the parcel and the message on to her this evening.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Geben": [
+              "verb",
+              "imperative",
+              "separable"
+            ],
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "subject",
+              "formal"
+            ],
+            "ihr": [
+              "personal pronoun",
+              "dative"
+            ],
+            "das": [
+              "article",
+              "accusative"
+            ],
+            "die": [
+              "article",
+              "accusative"
+            ],
+            "bitte": [
+              "particle"
+            ],
+            "heute": [
+              "adverb",
+              "time"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "Geben": "weitergeben",
+            "ihr": "sie"
+          },
+          "verb_components": {
+            "Geben": [
+              "weiter"
+            ]
+          },
+          "word_meanings": {
+            "ihr": "her",
+            "Sie": "you (formal)",
+            "bitte": "please"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Geben Sie ihr bitte das Paket und die Nachricht heute Abend weiter",
+              "english": "Please pass the parcel and the message on to her this evening",
+              "literal_meaning": null,
+              "tags": [
+                "imperative",
+                "separable",
+                "formal"
+              ]
+            },
+            {
+              "german": "Geben Sie ihr",
+              "english": "give to her",
+              "literal_meaning": null,
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "das Paket",
+              "english": "the parcel",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "die Nachricht",
+              "english": "the message",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ja, ich erreiche sie nach der Arbeit.",
+        "en": "Yes, I will reach her after work.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "sie": [
+              "personal pronoun",
+              "accusative",
+              "singular"
+            ],
+            "der": [
+              "article",
+              "dative"
+            ],
+            "Ja": [
+              "interjection"
+            ],
+            "nach": [
+              "preposition",
+              "dative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "sie": "her",
+            "nach": "after"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "nach der Arbeit",
+              "english": "after work",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "erreiche sie",
+              "english": "reach her",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Falls sie nicht da ist, gebe ich ihrem Mann das Paket und die Nachricht, damit er ihr beides später geben kann.",
+        "en": "If she is not home, I will give her husband the parcel and the message so that he can pass both on to her later.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "sie": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "ihrem": [
+              "possessive",
+              "determiner",
+              "dative"
+            ],
+            "das": [
+              "article",
+              "accusative"
+            ],
+            "die": [
+              "article",
+              "accusative"
+            ],
+            "Falls": [
+              "conjunction",
+              "subordinating"
+            ],
+            "damit": [
+              "conjunction",
+              "subordinating"
+            ],
+            "er": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "ihr": [
+              "personal pronoun",
+              "dative"
+            ],
+            "beides": [
+              "indefinite pronoun",
+              "accusative"
+            ],
+            "später": [
+              "adverb",
+              "time"
+            ],
+            "nicht": [
+              "particle",
+              "negation"
+            ],
+            "da": [
+              "adverb"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "ihr": "sie"
+          },
+          "word_meanings": {
+            "Falls": "if",
+            "Mann": "husband",
+            "sie": "she",
+            "da": "home",
+            "ihrem": "her",
+            "ihr": "her",
+            "damit": "so that"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [
+            "und die Nachricht, damit er ihr beides später geben kann"
+          ],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "ihrem Mann",
+              "english": "her husband",
+              "literal_meaning": null,
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "Falls sie nicht da ist",
+              "english": "if she is not home",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            },
+            {
+              "german": "gebe ich ihrem Mann das Paket",
+              "english": "I will give the parcel to her husband",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "inversion"
+              ]
+            },
+            {
+              "german": "gebe ich ihrem Mann das Paket und die Nachricht",
+              "english": "I will give her husband the parcel and the message",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "inversion"
+              ]
+            },
+            {
+              "german": "ihr beides später geben",
+              "english": "give both to her later",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "das Paket",
+              "english": "the parcel",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "die Nachricht",
+              "english": "the message",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "damit er ihr beides später geben kann",
+              "english": "so that he can pass both on to her later",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "modal verb"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Dann gibt er ihr beides noch heute, und sie bestätigt mir, dass die Lieferung angekommen ist.",
+        "en": "Then he gives her both later today, and she confirms to me that the delivery has arrived.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Dann": [
+              "adverb",
+              "time"
+            ],
+            "er": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "ihr": [
+              "personal pronoun",
+              "dative"
+            ],
+            "beides": [
+              "indefinite pronoun",
+              "accusative"
+            ],
+            "sie": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "mir": [
+              "personal pronoun",
+              "dative"
+            ],
+            "dass": [
+              "conjunction",
+              "subordinating"
+            ],
+            "die": [
+              "article",
+              "nominative"
+            ],
+            "noch": [
+              "adverb",
+              "time"
+            ],
+            "heute": [
+              "adverb",
+              "time"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "angekommen": "ankommen",
+            "ihr": "sie",
+            "mir": "ich"
+          },
+          "word_meanings": {
+            "ihr": "her",
+            "sie": "she",
+            "mir": "me",
+            "noch": "still / before the day ends"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "gibt er ihr",
+              "english": "he gives to her",
+              "literal_meaning": null,
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "noch heute",
+              "english": "later today",
+              "literal_meaning": null,
+              "tags": [
+                "time"
+              ]
+            },
+            {
+              "german": "bestätigt mir",
+              "english": "confirms to me",
+              "literal_meaning": null,
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "die Lieferung",
+              "english": "the delivery",
+              "literal_meaning": null,
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "dass die Lieferung angekommen ist",
+              "english": "that the delivery has arrived",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "perfect"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "Who passes the parcel and message to Frau Klein if she is not home?",
+      "answer_en": "Her husband."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 17"
+    ],
+    "speech_alternatives": [],
+    "performance_activity": {
+      "kind": "speaking",
+      "instruction": "Use the picture-card cues to say who hands each item to whom and relay the delivery message aloud.",
+      "prompts": [
+        "Picture card 1: a delivery person holding a parcel and a sealed note at an apartment door",
+        "Picture card 2: a neighbor signing for both items while Frau Klein is away",
+        "Picture card 3: Frau Klein arriving home; picture card 4: her husband holding the parcel and note",
+        "Relay item A (parcel) and item B (note) from the sender through the temporary receiver to Frau Klein; say: Die Lieferung ist angekommen."
+      ]
+    }
+  },
+  {
+    "id": "a2-course-018",
+    "source_draft_id": "a2-draft-018",
+    "sequence": 66,
+    "band": "A2.1",
+    "format": "dialogue",
+    "title_de": "Ein Problem im Haus lösen",
+    "title_en": "Solve a Neighbour Problem",
+    "topic": "resolving noise and a delivery question in a shared building",
+    "communicative_goal": "Combine a polite request, indirect question, apology, and practical help.",
+    "grammar_focus": "consolidation of polite requests, reflexives, ob clauses, and dative recipients",
+    "supporting_structures": [
+      "Darf ich kurz stören?",
+      "Das tut mir leid.",
+      "Ich sehe nach.",
+      "Danke für Ihr Verständnis."
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "Darf ich kurz stören",
+      "Das tut mir leid",
+      "Ich sehe nach",
+      "Ich kümmere mich darum",
+      "Danke für Ihr Verständnis"
+    ],
+    "recycled_targets": [
+      "könnten",
+      "sich entschuldigen",
+      "ob",
+      "helfen",
+      "weitergeben"
+    ],
+    "recycles_from": [
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Frau Klein fragt: Darf ich kurz stören? Wissen Sie, ob mein Paket kommt?",
+        "en": "Ms Klein asks: May I bother you briefly? Do you know whether my parcel is coming?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Frau": [
+              "proper noun"
+            ],
+            "Klein": [
+              "proper noun"
+            ],
+            "ich": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "subject",
+              "formal"
+            ],
+            "ob": [
+              "conjunction",
+              "subordinating"
+            ],
+            "mein": [
+              "possessive",
+              "determiner",
+              "nominative"
+            ]
+          },
+          "excluded_word_tags": {
+            "Frau": [
+              "noun",
+              "fem."
+            ],
+            "Klein": [
+              "noun",
+              "masc."
+            ]
+          },
+          "base_forms": {
+            "fragt": "fragen",
+            "Frau": "Frau",
+            "Klein": "Klein",
+            "kommt": "kommen"
+          },
+          "word_meanings": {
+            "Frau": "Ms",
+            "Klein": "Klein",
+            "Sie": "you (formal)"
+          },
+          "excluded_phrases": [
+            "Frau Klein fragt: Darf ich kurz stören? Wissen Sie"
+          ],
+          "phrases": [
+            {
+              "german": "Frau Klein",
+              "english": "Ms Klein",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "Darf ich kurz stören",
+              "english": "may I bother you briefly",
+              "tags": [
+                "modal verb",
+                "formal"
+              ]
+            },
+            {
+              "german": "mein Paket",
+              "english": "my parcel",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "Wissen Sie, ob mein Paket kommt",
+              "english": "do you know whether my parcel is coming",
+              "tags": [
+                "main clause",
+                "formal"
+              ]
+            },
+            {
+              "german": "ob mein Paket kommt",
+              "english": "whether my parcel is coming",
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Herr Braun sagt: Der Lärm stört mich; könnten Sie bitte leiser sein?",
+        "en": "Mr Braun says: The noise bothers me; could you please be quieter?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Herr": [
+              "proper noun"
+            ],
+            "Braun": [
+              "proper noun"
+            ],
+            "Der": [
+              "article",
+              "nominative"
+            ],
+            "mich": [
+              "personal pronoun",
+              "accusative"
+            ],
+            "könnten": [
+              "modal verb",
+              "subjunctive"
+            ],
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "subject",
+              "formal"
+            ],
+            "bitte": [
+              "particle"
+            ],
+            "leiser": [
+              "adjective",
+              "comparative"
+            ]
+          },
+          "base_forms": {
+            "sagt": "sagen",
+            "könnten": "können",
+            "mich": "ich",
+            "leiser": "leise"
+          },
+          "word_meanings": {
+            "Herr": "Mr",
+            "Braun": "Braun",
+            "Sie": "you (formal)",
+            "bitte": "please",
+            "leiser": "quieter"
+          },
+          "phrases": [
+            {
+              "german": "Herr Braun",
+              "english": "Mr Braun",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "Der Lärm",
+              "english": "the noise",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "stört mich",
+              "english": "bothers me",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "könnten Sie bitte leiser sein",
+              "english": "could you please be quieter",
+              "tags": [
+                "subjunctive",
+                "modal verb",
+                "formal",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Frau Klein sagt: Das tut mir leid. Ich entschuldige mich bei Ihnen.",
+        "en": "Ms Klein says: I am sorry. I apologize to you.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Frau": [
+              "proper noun"
+            ],
+            "Klein": [
+              "proper noun"
+            ],
+            "Das": [
+              "demonstrative pronoun",
+              "nominative",
+              "subject"
+            ],
+            "mir": [
+              "personal pronoun",
+              "dative"
+            ],
+            "leid": [
+              "particle"
+            ],
+            "Ich": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "mich": [
+              "reflexive pronoun",
+              "accusative"
+            ],
+            "bei": [
+              "preposition",
+              "dative"
+            ],
+            "Ihnen": [
+              "personal pronoun",
+              "dative",
+              "formal"
+            ]
+          },
+          "excluded_word_tags": {
+            "Frau": [
+              "noun",
+              "fem."
+            ],
+            "Klein": [
+              "noun",
+              "masc."
+            ]
+          },
+          "base_forms": {
+            "sagt": "sagen",
+            "Frau": "Frau",
+            "Klein": "Klein",
+            "tut": "leidtun",
+            "mir": "ich",
+            "entschuldige": "sich entschuldigen",
+            "mich": "ich",
+            "Ihnen": "Sie"
+          },
+          "verb_components": {
+            "tut": [
+              "leid"
+            ]
+          },
+          "word_meanings": {
+            "Frau": "Ms",
+            "Klein": "Klein",
+            "Das": "that",
+            "tut": "causes regret",
+            "leid": "regret (part of leidtun)",
+            "mich": "myself",
+            "bei": "to (when apologizing)",
+            "Ihnen": "you (formal)"
+          },
+          "excluded_phrases": [
+            "Das tut mir leid. Ich entschuldige mich bei Ihnen"
+          ],
+          "phrases": [
+            {
+              "german": "Frau Klein",
+              "english": "Ms Klein",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "Das tut mir leid",
+              "english": "I am sorry",
+              "literal_meaning": "that causes regret to me",
+              "tags": [
+                "fixed phrase"
+              ]
+            },
+            {
+              "german": "tut mir leid",
+              "english": "causes regret to me",
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "Ich entschuldige mich",
+              "english": "I apologize",
+              "tags": [
+                "reflexive"
+              ]
+            },
+            {
+              "german": "entschuldige mich",
+              "english": "apologize",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "bei Ihnen",
+              "english": "to you",
+              "tags": [
+                "dative",
+                "formal"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Der Zusteller fragt: Soll ich Frau Klein das Paket geben?",
+        "en": "The delivery person asks: Should I give Ms Klein the parcel?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Der": [
+              "article",
+              "nominative"
+            ],
+            "ich": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "Frau": [
+              "proper noun"
+            ],
+            "Klein": [
+              "proper noun"
+            ],
+            "das": [
+              "article",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {
+            "Frau": [
+              "noun",
+              "fem."
+            ],
+            "Klein": [
+              "noun",
+              "masc."
+            ]
+          },
+          "base_forms": {
+            "fragt": "fragen",
+            "Frau": "Frau",
+            "Klein": "Klein"
+          },
+          "word_meanings": {
+            "Frau": "Ms",
+            "Klein": "Klein"
+          },
+          "phrases": [
+            {
+              "german": "Der Zusteller",
+              "english": "the delivery person",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "Frau Klein",
+              "english": "Ms Klein",
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "das Paket",
+              "english": "the parcel",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "Soll ich Frau Klein das Paket geben",
+              "english": "should I give Ms Klein the parcel",
+              "tags": [
+                "modal verb",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Herr Braun antwortet: Ich sehe nach; Frau Klein ist hier. Geben Sie ihr das Paket.",
+        "en": "Mr Braun replies: I will check; Ms Klein is here. Give her the parcel.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Herr": [
+              "proper noun"
+            ],
+            "Braun": [
+              "proper noun"
+            ],
+            "Ich": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "Frau": [
+              "proper noun"
+            ],
+            "Klein": [
+              "proper noun"
+            ],
+            "hier": [
+              "adverb",
+              "place"
+            ],
+            "Geben": [
+              "verb",
+              "imperative"
+            ],
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "subject",
+              "formal"
+            ],
+            "ihr": [
+              "personal pronoun",
+              "dative"
+            ],
+            "das": [
+              "article",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {
+            "Frau": [
+              "noun",
+              "fem."
+            ],
+            "Klein": [
+              "noun",
+              "masc."
+            ]
+          },
+          "base_forms": {
+            "antwortet": "antworten",
+            "sehe": "nachsehen",
+            "Frau": "Frau",
+            "Klein": "Klein",
+            "Geben": "geben",
+            "ihr": "sie"
+          },
+          "verb_components": {
+            "sehe": [
+              "nach"
+            ]
+          },
+          "word_meanings": {
+            "Herr": "Mr",
+            "Braun": "Braun",
+            "Frau": "Ms",
+            "Klein": "Klein",
+            "Sie": "you (formal)",
+            "ihr": "her"
+          },
+          "excluded_phrases": [
+            "nach Frau",
+            "Frau Klein ist hier. Geben Sie ihr das Paket"
+          ],
+          "phrases": [
+            {
+              "german": "Herr Braun",
+              "english": "Mr Braun",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "Ich sehe nach",
+              "english": "I will check",
+              "tags": [
+                "separable"
+              ]
+            },
+            {
+              "german": "Frau Klein",
+              "english": "Ms Klein",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "Geben Sie ihr das Paket",
+              "english": "give her the parcel",
+              "tags": [
+                "imperative",
+                "formal"
+              ]
+            },
+            {
+              "german": "Geben Sie ihr",
+              "english": "give to her",
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "das Paket",
+              "english": "the parcel",
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Frau Klein sagt: Danke für Ihr Verständnis; ich kümmere mich darum, bitte die Kinder um Ruhe und helfe Ihnen mit dem Paket.",
+        "en": "Ms Klein says: Thank you for your understanding; I will take care of it, ask the children to be quiet, and help you with the parcel.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Frau": [
+              "proper noun"
+            ],
+            "Klein": [
+              "proper noun"
+            ],
+            "Danke": [
+              "interjection"
+            ],
+            "für": [
+              "preposition",
+              "accusative"
+            ],
+            "Ihr": [
+              "possessive",
+              "determiner",
+              "accusative",
+              "formal"
+            ],
+            "ich": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "mich": [
+              "reflexive pronoun",
+              "accusative"
+            ],
+            "darum": [
+              "adverb"
+            ],
+            "die": [
+              "article",
+              "accusative"
+            ],
+            "Kinder": [
+              "plural"
+            ],
+            "um": [
+              "preposition",
+              "accusative"
+            ],
+            "Ihnen": [
+              "personal pronoun",
+              "dative",
+              "formal"
+            ],
+            "mit": [
+              "preposition",
+              "dative"
+            ],
+            "dem": [
+              "article",
+              "dative"
+            ]
+          },
+          "excluded_word_tags": {
+            "Frau": [
+              "noun",
+              "fem."
+            ],
+            "Klein": [
+              "noun",
+              "masc."
+            ],
+            "Ihr": [
+              "personal pronoun"
+            ]
+          },
+          "base_forms": {
+            "sagt": "sagen",
+            "Frau": "Frau",
+            "Klein": "Klein",
+            "kümmere": "sich kümmern",
+            "mich": "ich",
+            "bitte": "bitten",
+            "Ihnen": "Sie"
+          },
+          "word_meanings": {
+            "Frau": "Ms",
+            "Klein": "Klein",
+            "Ihr": "your (formal)",
+            "mich": "myself",
+            "darum": "about it",
+            "bitte": "ask",
+            "Kinder": "children",
+            "um": "for",
+            "Ihnen": "you (formal)",
+            "mit": "with"
+          },
+          "excluded_phrases": [
+            "um Ruhe",
+            "Frau Klein sagt: Danke für Ihr Verständnis; ich kümmere mich darum, bitte die Kinder um Ruhe"
+          ],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Frau Klein",
+              "english": "Ms Klein",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "für Ihr Verständnis",
+              "english": "for your understanding",
+              "tags": [
+                "accusative",
+                "formal"
+              ]
+            },
+            {
+              "german": "Danke für Ihr Verständnis",
+              "english": "thank you for your understanding",
+              "tags": [
+                "fixed phrase",
+                "formal"
+              ]
+            },
+            {
+              "german": "ich kümmere mich",
+              "english": "I take care",
+              "tags": [
+                "reflexive"
+              ]
+            },
+            {
+              "german": "kümmere mich",
+              "english": "take care",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "ich kümmere mich darum",
+              "english": "I will take care of it",
+              "tags": [
+                "reflexive",
+                "fixed phrase"
+              ]
+            },
+            {
+              "german": "die Kinder",
+              "english": "the children",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "bitte die Kinder um Ruhe",
+              "english": "ask the children to be quiet",
+              "literal_meaning": "ask the children for quiet",
+              "tags": [
+                "fixed phrase"
+              ]
+            },
+            {
+              "german": "helfe Ihnen",
+              "english": "help you",
+              "tags": [
+                "dative",
+                "formal"
+              ]
+            },
+            {
+              "german": "mit dem Paket",
+              "english": "with the parcel",
+              "tags": [
+                "dative"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What two issues do the three people resolve?",
+      "answer_en": "Noise in the building and Ms Klein's parcel delivery."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 18"
+    ],
+    "speech_alternatives": [],
+    "performance_activity": {
+      "kind": "speaking",
+      "instruction": "Role-play Frau Klein, Herr Braun, and the delivery person for two minutes: make a polite request, apologize, ask an indirect ob question, and offer help.",
+      "prompts": [
+        "Frau Klein: ask politely whether the parcel is coming",
+        "Herr Braun: mention the noise and ask for quiet",
+        "Frau Klein: apologize and offer help with the parcel",
+        "Zusteller: ask whom to give the parcel to"
+      ]
+    }
+  }
+]

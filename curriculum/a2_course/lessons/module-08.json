@@ -1,0 +1,1588 @@
+[
+  {
+    "id": "a2-course-043",
+    "source_draft_id": "a2-draft-043",
+    "sequence": 91,
+    "band": "A2.2",
+    "format": "instructions",
+    "title_de": "Kocht zusammen!",
+    "title_en": "Let’s Cook Together",
+    "topic": "cooking a meal with friends",
+    "communicative_goal": "Understand and give instructions to a group.",
+    "grammar_focus": "ihr imperative forms",
+    "supporting_structures": [
+      "Wascht zuerst",
+      "Gebt ... in die Pfanne",
+      "Kocht alles"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "die Zutat"
+    ],
+    "recycled_targets": [
+      "schneiden",
+      "braten",
+      "kochen",
+      "das Öl",
+      "der Topf",
+      "die Pfanne",
+      "das Gemüse"
+    ],
+    "recycles_from": [
+      31,
+      32,
+      34
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Wascht zuerst das Gemüse und schneidet es in kleine Stücke.",
+        "en": "First wash the vegetables and cut them into small pieces.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Wascht": [
+              "verb",
+              "imperative",
+              "informal"
+            ],
+            "schneidet": [
+              "verb",
+              "imperative",
+              "informal"
+            ],
+            "es": [
+              "personal pronoun",
+              "accusative"
+            ],
+            "kleine": [
+              "adjective",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "Wascht": "waschen",
+            "schneidet": "schneiden",
+            "kleine": "klein"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Wascht zuerst das Gemüse",
+              "english": "first wash the vegetables",
+              "literal_meaning": null,
+              "tags": [
+                "imperative",
+                "informal",
+                "accusative"
+              ]
+            },
+            {
+              "german": "schneidet es in kleine Stücke",
+              "english": "cut it into small pieces",
+              "literal_meaning": null,
+              "tags": [
+                "imperative",
+                "informal",
+                "accusative",
+                "direction"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Gebt etwas Öl in die Pfanne und bratet die Zwiebeln kurz.",
+        "en": "Put some oil in the pan and fry the onions briefly.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Gebt": [
+              "verb",
+              "imperative",
+              "informal"
+            ],
+            "bratet": [
+              "verb",
+              "imperative",
+              "informal"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "Gebt": "geben",
+            "bratet": "braten"
+          },
+          "word_meanings": {
+            "Zwiebeln": "onions"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Gebt etwas Öl in die Pfanne",
+              "english": "put some oil in the pan",
+              "literal_meaning": null,
+              "tags": [
+                "imperative",
+                "informal",
+                "accusative",
+                "direction"
+              ]
+            },
+            {
+              "german": "bratet die Zwiebeln kurz",
+              "english": "fry the onions briefly",
+              "literal_meaning": null,
+              "tags": [
+                "imperative",
+                "informal",
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Dann legt ihr alle Zutaten in einen großen Topf.",
+        "en": "Then put all the ingredients into a large pot.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "ihr": [
+              "personal pronoun",
+              "nominative",
+              "subject",
+              "informal"
+            ],
+            "großen": [
+              "adjective",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "großen": "groß"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "in einen großen Topf",
+              "english": "into a large pot",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "direction"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Kocht alles zwanzig Minuten und rührt regelmäßig um.",
+        "en": "Cook everything for twenty minutes and stir regularly.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Kocht": [
+              "verb",
+              "imperative",
+              "informal"
+            ],
+            "zwanzig": [
+              "numeral"
+            ],
+            "rührt": [
+              "verb",
+              "imperative",
+              "informal"
+            ],
+            "um": [
+              "particle"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "Kocht": "kochen",
+            "rührt": "umrühren"
+          },
+          "word_meanings": {
+            "rührt": "stir"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Kocht alles zwanzig Minuten",
+              "english": "cook everything for twenty minutes",
+              "literal_meaning": null,
+              "tags": [
+                "imperative",
+                "informal",
+                "accusative",
+                "time"
+              ]
+            },
+            {
+              "german": "rührt regelmäßig um",
+              "english": "stir regularly",
+              "literal_meaning": null,
+              "tags": [
+                "imperative",
+                "informal",
+                "separable"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Probiert die Suppe und gebt bei Bedarf noch Salz dazu.",
+        "en": "Taste the soup and add more salt if needed.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Probiert": [
+              "verb",
+              "imperative",
+              "informal"
+            ],
+            "gebt": [
+              "verb",
+              "imperative",
+              "informal"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "Probiert": "probieren",
+            "gebt": "geben"
+          },
+          "word_meanings": {
+            "Bedarf": "needed",
+            "dazu": "to it"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Probiert die Suppe",
+              "english": "taste the soup",
+              "literal_meaning": null,
+              "tags": [
+                "imperative",
+                "informal",
+                "accusative"
+              ]
+            },
+            {
+              "german": "gebt ... noch Salz dazu",
+              "english": "add more salt",
+              "literal_meaning": null,
+              "tags": [
+                "imperative",
+                "informal",
+                "accusative"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "How long should everything cook?",
+      "answer_en": "Twenty minutes."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 43"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-044",
+    "source_draft_id": "a2-draft-044",
+    "sequence": 92,
+    "band": "A2.2",
+    "format": "narrative",
+    "title_de": "Bevor die Gäste kommen",
+    "title_en": "Before the Guests Arrive",
+    "topic": "preparing for guests",
+    "communicative_goal": "Understand the order of preparations for a visit.",
+    "grammar_focus": "bevor clauses with final verb position",
+    "supporting_structures": [
+      "Bevor die Gäste kommen",
+      "bevor er ... stellt",
+      "bevor es klingelt"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "bevor",
+      "den Tisch decken"
+    ],
+    "recycled_targets": [
+      "vorbereiten",
+      "backen",
+      "fertig",
+      "der Gast",
+      "rechtzeitig"
+    ],
+    "recycles_from": [
+      43,
+      33
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Bevor die Gäste kommen, räumt Mina das Wohnzimmer auf.",
+        "en": "Before the guests arrive, Mina tidies the living room.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Bevor": [
+              "conjunction",
+              "subordinating"
+            ],
+            "auf": [
+              "particle"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "räumt": "aufräumen"
+          },
+          "word_meanings": {
+            "räumt": "tidies"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Bevor die Gäste kommen",
+              "english": "before the guests arrive",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            },
+            {
+              "german": "räumt Mina das Wohnzimmer auf",
+              "english": "Mina tidies the living room",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "inversion",
+                "separable",
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Leo deckt den Tisch, bevor er die Getränke kalt stellt.",
+        "en": "Leo sets the table before he chills the drinks.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "bevor": [
+              "conjunction",
+              "subordinating"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "deckt": "den Tisch decken",
+            "stellt": "stellen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "deckt den Tisch",
+              "english": "sets the table",
+              "literal_meaning": null,
+              "tags": [
+                "fixed phrase"
+              ]
+            },
+            {
+              "german": "bevor er die Getränke kalt stellt",
+              "english": "before he chills the drinks",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Mina backt einen Kuchen, bevor sie den Salat vorbereitet.",
+        "en": "Mina bakes a cake before she prepares the salad.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "bevor": [
+              "conjunction",
+              "subordinating"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "backt": "backen",
+            "vorbereitet": "vorbereiten"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "bevor sie den Salat vorbereitet",
+              "english": "before she prepares the salad",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Bevor beide sich umziehen, prüfen sie noch einmal die Küche.",
+        "en": "Before both of them change clothes, they check the kitchen once more.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Bevor": [
+              "conjunction",
+              "subordinating"
+            ],
+            "sich": [
+              "reflexive pronoun",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "umziehen": "umziehen",
+            "prüfen": "prüfen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Bevor beide sich umziehen",
+              "english": "before both of them change clothes",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "reflexive"
+              ]
+            },
+            {
+              "german": "prüfen sie noch einmal die Küche",
+              "english": "they check the kitchen once more",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "inversion",
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Alles ist rechtzeitig fertig, bevor es an der Tür klingelt.",
+        "en": "Everything is ready on time before the doorbell rings.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "bevor": [
+              "conjunction",
+              "subordinating"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "klingelt": "klingeln"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "bevor es an der Tür klingelt",
+              "english": "before the doorbell rings",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "dative"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What does Leo do before chilling the drinks?",
+      "answer_en": "He sets the table."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 44"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-045",
+    "source_draft_id": "a2-draft-045",
+    "sequence": 93,
+    "band": "A2.2",
+    "format": "dialogue",
+    "title_de": "Ein Geschenk für Lina",
+    "title_en": "A Present for Lina",
+    "topic": "choosing and giving a present",
+    "communicative_goal": "Discuss a shared present and its recipient.",
+    "grammar_focus": "dative recipient plus um ... zu purpose clauses",
+    "supporting_structures": [
+      "Lina ein Geschenk geben",
+      "ihr ein Fotobuch auswählen",
+      "um ihr etwas zu schenken"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "auswählen",
+      "einpacken",
+      "überraschen",
+      "persönlich",
+      "die Idee",
+      "gemeinsam bezahlen"
+    ],
+    "recycled_targets": [
+      "das Geschenk",
+      "die Freundin",
+      "geben",
+      "kaufen",
+      "die Karte"
+    ],
+    "recycles_from": [
+      16,
+      17,
+      43
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Wir möchten Lina ein persönliches Geschenk geben.",
+        "en": "We would like to give Lina a personal present.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "persönliches": [
+              "adjective",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "persönliches": "persönlich"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Lina ein persönliches Geschenk geben",
+              "english": "give Lina a personal present",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "dative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ich schlage vor, ihr ein Fotobuch auszuwählen.",
+        "en": "I suggest choosing a photo book for her.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "ihr": [
+              "personal pronoun",
+              "dative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "schlage": "vorschlagen",
+            "auszuwählen": "auswählen"
+          },
+          "word_meanings": {
+            "Fotobuch": "photo book"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "ihr ein Fotobuch auszuwählen",
+              "english": "to choose a photo book for her",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Wir bezahlen gemeinsam, um ihr etwas Besonderes zu schenken.",
+        "en": "We will pay together in order to give her something special.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "ihr": [
+              "personal pronoun",
+              "dative"
+            ],
+            "um": [
+              "conjunction",
+              "subordinating"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "schenken": "schenken"
+          },
+          "word_meanings": {
+            "Besonderes": "something special"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "um ihr etwas Besonderes zu schenken",
+              "english": "in order to give her something special",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "dative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Danach packen wir es ein und schreiben ihr eine Karte.",
+        "en": "Afterwards we wrap it and write her a card.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "es": [
+              "personal pronoun",
+              "accusative"
+            ],
+            "ihr": [
+              "personal pronoun",
+              "dative"
+            ],
+            "eine": [
+              "article",
+              "accusative"
+            ],
+            "ein": [
+              "particle"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "packen": "einpacken",
+            "schreiben": "schreiben"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "packen wir es ein",
+              "english": "we wrap it",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "accusative",
+                "separable"
+              ]
+            },
+            {
+              "german": "schreiben ihr eine Karte",
+              "english": "write her a card",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "So können wir Lina an ihrem Geburtstag überraschen.",
+        "en": "That way we can surprise Lina on her birthday.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "ihrem": [
+              "possessive",
+              "determiner",
+              "dative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "an ihrem Geburtstag",
+              "english": "on her birthday",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "können wir Lina ... überraschen",
+              "english": "we can surprise Lina",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "modal verb",
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What present do they choose?",
+      "answer_en": "A photo book."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 45"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-046",
+    "source_draft_id": "a2-draft-046",
+    "sequence": 94,
+    "band": "A2.2",
+    "format": "dialogue",
+    "title_de": "Können wir die Feier verschieben?",
+    "title_en": "Can We Move the Celebration?",
+    "topic": "changing an event date",
+    "communicative_goal": "Propose, accept, and communicate a changed date.",
+    "grammar_focus": "event-change language with dative pronouns and separable verbs",
+    "supporting_structures": [
+      "als Ersatztermin",
+      "allen Gästen Bescheid geben",
+      "die Feier nachholen"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "der Ersatztermin",
+      "zusagen",
+      "Bescheid geben",
+      "nachholen",
+      "die Terminänderung"
+    ],
+    "recycled_targets": [
+      "verschieben",
+      "einverstanden",
+      "passen",
+      "der Samstag",
+      "die Nachricht"
+    ],
+    "recycles_from": [
+      17,
+      18,
+      44,
+      45
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Lina ist krank, deshalb müssen wir die Feier verschieben.",
+        "en": "Lina is ill, so we have to postpone the celebration.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "deshalb": [
+              "connector"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "deshalb müssen wir die Feier verschieben",
+              "english": "so we have to postpone the celebration",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "modal verb",
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Passt dir der nächste Samstag als Ersatztermin?",
+        "en": "Does next Saturday suit you as an alternative date?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "dir": [
+              "personal pronoun",
+              "dative"
+            ],
+            "nächste": [
+              "adjective",
+              "nominative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "nächste": "nächste"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Passt dir der nächste Samstag",
+              "english": "does next Saturday suit you",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "nominative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ja, ich kann zusagen und bin mit der Terminänderung einverstanden.",
+        "en": "Yes, I can confirm and agree to the change of date.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "kann zusagen",
+              "english": "can confirm",
+              "literal_meaning": null,
+              "tags": [
+                "modal verb",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "mit der Terminänderung einverstanden",
+              "english": "agree to the change of date",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "fixed phrase"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Dann gebe ich allen Gästen sofort Bescheid.",
+        "en": "Then I will let all the guests know immediately.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "allen": [
+              "determiner",
+              "dative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "gebe": "Bescheid geben"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "gebe ich allen Gästen ... Bescheid",
+              "english": "let all the guests know",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "dative",
+                "fixed phrase"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Die Feier holen wir am Ersatztermin nach.",
+        "en": "We will hold the celebration on the alternative date.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "nach": [
+              "particle"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "holen": "nachholen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Die Feier holen wir ... nach",
+              "english": "we will hold the celebration later",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "accusative",
+                "separable"
+              ]
+            },
+            {
+              "german": "am Ersatztermin",
+              "english": "on the alternative date",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What is the alternative date?",
+      "answer_en": "Next Saturday."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 46"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-047",
+    "source_draft_id": "a2-draft-047",
+    "sequence": 95,
+    "band": "A2.2",
+    "format": "announcement",
+    "title_de": "Die Veranstaltung ist drinnen",
+    "title_en": "The Event Will Take Place Indoors",
+    "topic": "announcing a weather-related venue change",
+    "communicative_goal": "Understand a short event announcement and its reason.",
+    "grammar_focus": "wegen plus simple genitive noun phrases",
+    "supporting_structures": [
+      "Wegen des starken Regens",
+      "im Innenraum stattfinden",
+      "Wegen der begrenzten Plätze"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "der Innenraum"
+    ],
+    "recycled_targets": [
+      "die Veranstaltung",
+      "stattfinden",
+      "der Eintritt",
+      "die Anmeldung",
+      "wegen",
+      "beachten"
+    ],
+    "recycles_from": [
+      46,
+      40,
+      32
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Wegen des starken Regens findet die Veranstaltung im Innenraum statt.",
+        "en": "Because of the heavy rain, the event will take place indoors.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "des": [
+              "article",
+              "genitive"
+            ],
+            "starken": [
+              "adjective",
+              "genitive"
+            ],
+            "im": [
+              "preposition",
+              "dative",
+              "place"
+            ],
+            "statt": [
+              "particle"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "starken": "stark",
+            "findet": "stattfinden"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Wegen des starken Regens",
+              "english": "because of the heavy rain",
+              "literal_meaning": null,
+              "tags": [
+                "genitive",
+                "reason"
+              ]
+            },
+            {
+              "german": "findet die Veranstaltung im Innenraum statt",
+              "english": "the event will take place indoors",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "separable",
+                "dative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Der neue Eingang ist auf der Rückseite des Gebäudes.",
+        "en": "The new entrance is at the back of the building.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "neue": [
+              "adjective",
+              "nominative"
+            ],
+            "des": [
+              "article",
+              "genitive"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "neue": "neu"
+          },
+          "word_meanings": {
+            "Eingang": "entrance",
+            "Gebäudes": "building"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "auf der Rückseite des Gebäudes",
+              "english": "at the back of the building",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "genitive",
+                "place"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Bitte beachten Sie die Schilder und zeigen Sie Ihre Anmeldung.",
+        "en": "Please follow the signs and show your registration.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "Ihre": [
+              "possessive",
+              "determiner",
+              "accusative",
+              "formal"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "Schilder": "signs"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "beachten Sie die Schilder",
+              "english": "follow the signs",
+              "literal_meaning": null,
+              "tags": [
+                "imperative",
+                "formal",
+                "accusative"
+              ]
+            },
+            {
+              "german": "zeigen Sie Ihre Anmeldung",
+              "english": "show your registration",
+              "literal_meaning": null,
+              "tags": [
+                "imperative",
+                "formal",
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Der Eintritt bleibt frei, und das Programm beginnt um acht Uhr.",
+        "en": "Admission remains free, and the program begins at eight o'clock.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "acht": [
+              "numeral"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "Programm": "program"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "um acht Uhr",
+              "english": "at eight o'clock",
+              "literal_meaning": null,
+              "tags": [
+                "time"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Wegen der begrenzten Plätze kommen Sie bitte rechtzeitig.",
+        "en": "Because of the limited number of places, please arrive on time.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "der": [
+              "article",
+              "genitive"
+            ],
+            "begrenzten": [
+              "adjective",
+              "genitive"
+            ],
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "begrenzten": "begrenzt"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Wegen der begrenzten Plätze",
+              "english": "because of the limited places",
+              "literal_meaning": null,
+              "tags": [
+                "genitive",
+                "reason"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "Why is the event indoors?",
+      "answer_en": "Because of heavy rain."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 47"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-048",
+    "source_draft_id": "a2-draft-048",
+    "sequence": 96,
+    "band": "A2.2",
+    "format": "dialogue",
+    "title_de": "Ein kleines Fest organisieren",
+    "title_en": "Organise a Small Event",
+    "topic": "organizing a small event",
+    "communicative_goal": "Divide tasks, communicate a change, and keep an event on track.",
+    "grammar_focus": "consolidation of imperatives, bevor, recipient patterns, changes, and wegen",
+    "supporting_structures": [
+      "Wer macht was?",
+      "Bevor die Gäste kommen",
+      "Ich gebe allen Bescheid."
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "Wer macht was",
+      "Das bereiten wir vorher vor",
+      "Ich gebe allen Bescheid",
+      "Der neue Ort ist",
+      "Dann kann es stattfinden"
+    ],
+    "recycled_targets": [
+      "vorbereiten",
+      "der Gast",
+      "Bescheid geben",
+      "die Veranstaltung",
+      "stattfinden"
+    ],
+    "recycles_from": [
+      43,
+      44,
+      45,
+      46,
+      47
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Wer macht was für das Fest am Samstag?",
+        "en": "Who is doing what for the celebration on Saturday?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "für das Fest",
+              "english": "for the celebration",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "am Samstag",
+              "english": "on Saturday",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ihr kauft das Gemüse; das bereiten wir vorher vor.",
+        "en": "You buy the vegetables; we prepare them in advance.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Ihr": [
+              "personal pronoun",
+              "nominative",
+              "subject",
+              "informal"
+            ],
+            "das": [
+              "personal pronoun",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "kauft": "kaufen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "das bereiten wir vorher vor",
+              "english": "we prepare them in advance",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "accusative",
+                "separable"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Bevor die Gäste kommen, decke ich den Tisch und packe das Geschenk ein.",
+        "en": "Before the guests arrive, I set the table and wrap the present.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Bevor": [
+              "conjunction",
+              "subordinating"
+            ],
+            "ein": [
+              "particle"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "decke": "den Tisch decken",
+            "packe": "einpacken"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Bevor die Gäste kommen",
+              "english": "before the guests arrive",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            },
+            {
+              "german": "packe das Geschenk ein",
+              "english": "wrap the present",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "separable"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Wegen des Regens ist der neue Ort das Gemeindehaus; ich gebe allen Bescheid.",
+        "en": "Because of the rain, the new location is the community center; I will let everyone know.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "des": [
+              "article",
+              "genitive"
+            ],
+            "neue": [
+              "adjective",
+              "nominative"
+            ],
+            "allen": [
+              "indefinite pronoun",
+              "dative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "neue": "neu",
+            "gebe": "Bescheid geben"
+          },
+          "word_meanings": {
+            "Gemeindehaus": "community center"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Wegen des Regens",
+              "english": "because of the rain",
+              "literal_meaning": null,
+              "tags": [
+                "genitive",
+                "reason"
+              ]
+            },
+            {
+              "german": "gebe allen Bescheid",
+              "english": "let everyone know",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "fixed phrase"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Alle sind einverstanden, deshalb kann die Veranstaltung dort stattfinden.",
+        "en": "Everyone agrees, so the event can take place there.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "deshalb": [
+              "connector"
+            ],
+            "dort": [
+              "adverb",
+              "place"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "deshalb kann die Veranstaltung dort stattfinden",
+              "english": "so the event can take place there",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "modal verb",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "Where will the event take place?",
+      "answer_en": "At the community center."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 48"
+    ],
+    "speech_alternatives": []
+  }
+]

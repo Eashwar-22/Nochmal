@@ -1,0 +1,3397 @@
+[
+  {
+    "id": "a2-course-019",
+    "source_draft_id": "a2-draft-019",
+    "sequence": 67,
+    "band": "A2.1",
+    "format": "dialogue",
+    "title_de": "Eine interessante Stelle",
+    "title_en": "An Interesting Position",
+    "topic": "reading a hotel job advertisement and deciding whether to apply",
+    "communicative_goal": "Identify requirements, working hours, and application method, then state interest.",
+    "grammar_focus": "reflexive verbs with fixed prepositions: sich für einen Beruf interessieren and sich um eine Stelle bewerben",
+    "supporting_structures": [
+      "sich für den Beruf interessieren",
+      "sich um die Stelle bewerben",
+      "mit der Bewerbung"
+    ],
+    "new_targets": [
+      "die Stelle",
+      "sich bewerben",
+      "die Bewerbung",
+      "der Beruf",
+      "die Voraussetzung",
+      "der Lebenslauf",
+      "die Anzeige"
+    ],
+    "recycled_targets": [
+      "die Arbeit",
+      "interessant",
+      "suchen",
+      "die Erfahrung",
+      "sich interessieren"
+    ],
+    "recycles_from": [
+      3,
+      14,
+      37,
+      38,
+      39
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "In einer Anzeige liest Mina: Ein Hotel sucht Hilfe für die Rezeption am Samstag von neun bis fünf.",
+        "en": "Mina reads in an advertisement: A hotel is looking for help at reception on Saturday from nine to five.",
+        "annotations": {
+          "word_tags": {
+            "In": [
+              "preposition",
+              "dative"
+            ],
+            "einer": [
+              "article",
+              "dative"
+            ],
+            "Ein": [
+              "article",
+              "nominative"
+            ],
+            "für": [
+              "preposition",
+              "accusative"
+            ],
+            "die": [
+              "article",
+              "accusative"
+            ],
+            "Mina": [
+              "proper noun"
+            ],
+            "von": [
+              "preposition",
+              "dative"
+            ],
+            "bis": [
+              "preposition"
+            ]
+          },
+          "base_forms": {
+            "liest": "lesen",
+            "sucht": "suchen"
+          },
+          "word_meanings": {
+            "In": "in",
+            "Anzeige": "advertisement",
+            "Hilfe": "help",
+            "Rezeption": "reception desk",
+            "von": "from"
+          },
+          "phrases": [
+            {
+              "german": "In einer Anzeige",
+              "english": "in an advertisement",
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "Ein Hotel",
+              "english": "a hotel",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "für die Rezeption",
+              "english": "for reception",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "am Samstag",
+              "english": "on Saturday",
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "von neun bis fünf",
+              "english": "from nine to five",
+              "tags": [
+                "time"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Für die Stelle ist Berufserfahrung eine wichtige Voraussetzung; Bewerbungen mit Lebenslauf bitte per E-Mail.",
+        "en": "Professional experience is an important requirement for the position; applications with a CV by email, please.",
+        "annotations": {
+          "word_tags": {
+            "Für": [
+              "preposition",
+              "accusative"
+            ],
+            "die": [
+              "article",
+              "accusative"
+            ],
+            "eine": [
+              "article",
+              "nominative"
+            ],
+            "wichtige": [
+              "adjective",
+              "nominative"
+            ],
+            "Bewerbungen": [
+              "plural"
+            ],
+            "mit": [
+              "preposition",
+              "dative"
+            ],
+            "per": [
+              "preposition",
+              "accusative"
+            ]
+          },
+          "base_forms": {
+            "wichtige": "wichtig",
+            "Bewerbungen": "die Bewerbung"
+          },
+          "word_meanings": {
+            "Stelle": "position",
+            "Berufserfahrung": "professional experience",
+            "Voraussetzung": "requirement",
+            "Bewerbungen": "applications",
+            "Lebenslauf": "CV",
+            "bitte": "please",
+            "mit": "with"
+          },
+          "phrases": [
+            {
+              "german": "Für die Stelle",
+              "english": "for the position",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "eine wichtige Voraussetzung",
+              "english": "an important requirement",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "Bewerbungen mit Lebenslauf",
+              "english": "applications with a CV",
+              "tags": [
+                "plural"
+              ]
+            },
+            {
+              "german": "mit Lebenslauf",
+              "english": "with a CV",
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "per E-Mail",
+              "english": "by email",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "bitte per E-Mail",
+              "english": "by email, please",
+              "tags": []
+            },
+            {
+              "german": "Für die Stelle ist Berufserfahrung eine wichtige Voraussetzung",
+              "english": "Professional experience is an important requirement for the position",
+              "tags": [
+                "inversion"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Mina sagt zu Leo: Das ist interessant, aber ich arbeite am Samstag.",
+        "en": "Mina says to Leo: That is interesting, but I work on Saturday.",
+        "annotations": {
+          "word_tags": {
+            "Mina": [
+              "proper noun"
+            ],
+            "zu": [
+              "preposition",
+              "dative"
+            ],
+            "Leo": [
+              "proper noun"
+            ],
+            "Das": [
+              "demonstrative pronoun",
+              "nominative",
+              "subject"
+            ],
+            "interessant": [
+              "adjective"
+            ]
+          },
+          "word_meanings": {
+            "zu": "to",
+            "Das": "that"
+          },
+          "excluded_phrases": [
+            "Mina sagt zu Leo: Das ist interessant"
+          ],
+          "phrases": [
+            {
+              "german": "Das ist interessant",
+              "english": "that is interesting",
+              "tags": [
+                "main clause"
+              ]
+            },
+            {
+              "german": "am Samstag",
+              "english": "on Saturday",
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "zu Leo",
+              "english": "to Leo",
+              "tags": [
+                "dative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Leo fragt: Interessierst du dich für den Beruf, oder willst du dich um die Stelle bewerben?",
+        "en": "Leo asks: Are you interested in the profession, or do you want to apply for the position?",
+        "annotations": {
+          "word_tags": {
+            "Leo": [
+              "proper noun"
+            ],
+            "du": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "dich": [
+              "reflexive pronoun",
+              "accusative"
+            ],
+            "für": [
+              "preposition",
+              "accusative"
+            ],
+            "um": [
+              "preposition",
+              "accusative"
+            ],
+            "die": [
+              "article",
+              "accusative"
+            ]
+          },
+          "base_forms": {
+            "Interessierst": "sich interessieren",
+            "willst": "wollen",
+            "bewerben": "sich bewerben",
+            "dich": "du"
+          },
+          "verb_forms": {
+            "bewerben": "infinitive"
+          },
+          "word_meanings": {
+            "dich": "yourself",
+            "um": "for",
+            "Stelle": "position"
+          },
+          "excluded_phrases": [
+            "Leo fragt: Interessierst du dich für den Beruf"
+          ],
+          "phrases": [
+            {
+              "german": "Interessierst du dich für den Beruf",
+              "english": "are you interested in the profession",
+              "tags": [
+                "reflexive",
+                "main clause"
+              ]
+            },
+            {
+              "german": "Interessierst du dich",
+              "english": "are you interested",
+              "tags": [
+                "reflexive"
+              ]
+            },
+            {
+              "german": "Interessierst … dich",
+              "english": "be interested",
+              "tags": [
+                "accusative",
+                "reflexive"
+              ]
+            },
+            {
+              "german": "für den Beruf",
+              "english": "in the profession",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "willst du dich um die Stelle bewerben",
+              "english": "do you want to apply for the position",
+              "tags": [
+                "modal verb",
+                "infinitive",
+                "reflexive"
+              ]
+            },
+            {
+              "german": "dich um die Stelle bewerben",
+              "english": "apply for the position",
+              "tags": [
+                "accusative",
+                "reflexive",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "um die Stelle",
+              "english": "for the position",
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Mina antwortet: Ich interessiere mich für den Beruf und schicke heute meine Bewerbung.",
+        "en": "Mina replies: I am interested in the profession and will send my application today.",
+        "annotations": {
+          "word_tags": {
+            "Mina": [
+              "proper noun"
+            ],
+            "mich": [
+              "reflexive pronoun",
+              "accusative"
+            ],
+            "für": [
+              "preposition",
+              "accusative"
+            ],
+            "heute": [
+              "adverb",
+              "time"
+            ],
+            "meine": [
+              "possessive",
+              "determiner",
+              "accusative"
+            ]
+          },
+          "base_forms": {
+            "interessiere": "sich interessieren",
+            "mich": "ich"
+          },
+          "word_meanings": {
+            "mich": "myself"
+          },
+          "excluded_phrases": [
+            "Mina antwortet: Ich interessiere mich für den Beruf"
+          ],
+          "phrases": [
+            {
+              "german": "interessiere mich für den Beruf",
+              "english": "am interested in the profession",
+              "tags": [
+                "reflexive",
+                "accusative"
+              ]
+            },
+            {
+              "german": "für den Beruf",
+              "english": "in the profession",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "meine Bewerbung",
+              "english": "my application",
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Leo antwortet: Dann musst du am Samstag frei haben.",
+        "en": "Leo replies: In that case, you need Saturday off.",
+        "annotations": {
+          "word_tags": {
+            "Leo": [
+              "proper noun"
+            ],
+            "Dann": [
+              "adverb"
+            ],
+            "du": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "frei": [
+              "adjective"
+            ]
+          },
+          "base_forms": {
+            "musst": "müssen",
+            "haben": "haben"
+          },
+          "word_meanings": {
+            "Dann": "in that case",
+            "frei": "off work"
+          },
+          "excluded_phrases": [
+            "Dann musst du … haben"
+          ],
+          "phrases": [
+            {
+              "german": "am Samstag",
+              "english": "on Saturday",
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "Dann musst du am Samstag frei haben",
+              "english": "in that case, you need Saturday off",
+              "tags": [
+                "main clause",
+                "inversion",
+                "modal verb",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What experience and hours does the advertisement require, and how should Mina apply?",
+      "answer_en": "Professional experience, Saturday from nine to five, and an application with a CV by email."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 19"
+    ],
+    "speech_alternatives": [],
+    "performance_activity": {
+      "kind": "reading",
+      "instruction": "Mark the required experience, shift hours, and contact method. Compare this short profile with the advertisement: Alex has one year of hotel reception experience, is free Saturday from nine to five, and can send a CV by email.",
+      "prompts": [
+        "Required experience: ___",
+        "Shift hours: ___",
+        "Application method and document: ___",
+        "Does Alex fit the advertisement? Give two reasons.",
+        "Could Mina work the advertised Saturday shift?"
+      ]
+    }
+  },
+  {
+    "id": "a2-course-020",
+    "source_draft_id": "a2-draft-020",
+    "sequence": 68,
+    "band": "A2.1",
+    "format": "dialogue",
+    "title_de": "Was ich vorher gemacht habe",
+    "title_en": "What I Did Before",
+    "topic": "describing education, practical training, and work experience in order",
+    "communicative_goal": "Give a chronological account of completed education and work stages.",
+    "grammar_focus": "past-time expressions with vor plus dative and a Perfekt sequence",
+    "supporting_structures": [
+      "vor drei Jahren",
+      "vor einem Jahr",
+      "danach habe ich",
+      "seitdem arbeite ich"
+    ],
+    "new_targets": [
+      "die Ausbildung",
+      "das Praktikum",
+      "der Abschluss",
+      "die Tätigkeit",
+      "vor einem Jahr",
+      "die Qualifikation",
+      "Berufserfahrung haben"
+    ],
+    "recycled_targets": [
+      "machen",
+      "arbeiten",
+      "lernen",
+      "Berufserfahrung",
+      "die Stelle"
+    ],
+    "recycles_from": [
+      1,
+      19,
+      37,
+      38
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Die Chefin fragt: Welche Berufserfahrung und Qualifikation haben Sie für diese Stelle?",
+        "en": "The manager asks: What professional experience and qualifications do you have for this position?",
+        "annotations": {
+          "word_tags": {
+            "Die": [
+              "article",
+              "nominative"
+            ],
+            "Welche": [
+              "determiner",
+              "accusative"
+            ],
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "subject",
+              "formal"
+            ],
+            "für": [
+              "preposition",
+              "accusative"
+            ],
+            "diese": [
+              "determiner",
+              "accusative"
+            ]
+          },
+          "word_meanings": {
+            "Chefin": "manager",
+            "Berufserfahrung": "professional experience",
+            "Qualifikation": "qualification",
+            "fragt": "asks",
+            "Sie": "you (formal)",
+            "diese": "this",
+            "Stelle": "position"
+          },
+          "excluded_phrases": [
+            "Die Chefin fragt: Welche Berufserfahrung",
+            "und Qualifikation haben Sie für diese Stelle"
+          ],
+          "phrases": [
+            {
+              "german": "Die Chefin",
+              "english": "the manager",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "Welche Berufserfahrung und Qualifikation",
+              "english": "what professional experience and qualifications",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "für diese Stelle",
+              "english": "for this position",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "Welche Berufserfahrung und Qualifikation haben Sie",
+              "english": "what professional experience and qualifications do you have",
+              "tags": [
+                "main clause",
+                "formal"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Mina antwortet: Vor drei Jahren habe ich meine Ausbildung im Büro begonnen.",
+        "en": "Mina replies: Three years ago I began my office training.",
+        "annotations": {
+          "word_tags": {
+            "Mina": [
+              "proper noun"
+            ],
+            "Vor": [
+              "preposition",
+              "dative"
+            ],
+            "drei": [
+              "numeral"
+            ],
+            "Jahren": [
+              "plural"
+            ],
+            "meine": [
+              "possessive",
+              "determiner",
+              "accusative"
+            ]
+          },
+          "base_forms": {
+            "begonnen": "beginnen"
+          },
+          "word_meanings": {
+            "Vor": "ago",
+            "antwortet": "replies"
+          },
+          "phrases": [
+            {
+              "german": "Vor drei Jahren",
+              "english": "three years ago",
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "meine Ausbildung",
+              "english": "my training",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "im Büro",
+              "english": "in the office",
+              "tags": [
+                "dative",
+                "place"
+              ]
+            },
+            {
+              "german": "habe ich meine Ausbildung im Büro begonnen",
+              "english": "I began my office training",
+              "tags": [
+                "perfect",
+                "inversion"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Danach habe ich sechs Monate ein Praktikum in einem Hotel gemacht und Gäste beraten.",
+        "en": "After that I did a six-month internship in a hotel and advised guests.",
+        "annotations": {
+          "word_tags": {
+            "Danach": [
+              "adverb",
+              "time"
+            ],
+            "sechs": [
+              "numeral"
+            ],
+            "Monate": [
+              "plural"
+            ],
+            "einem": [
+              "article",
+              "dative"
+            ],
+            "in": [
+              "preposition",
+              "dative"
+            ],
+            "Gäste": [
+              "plural"
+            ]
+          },
+          "base_forms": {
+            "gemacht": "machen",
+            "beraten": "beraten"
+          },
+          "word_meanings": {
+            "Monate": "months",
+            "Gäste": "guests"
+          },
+          "phrases": [
+            {
+              "german": "sechs Monate",
+              "english": "six months",
+              "tags": [
+                "accusative",
+                "time"
+              ]
+            },
+            {
+              "german": "ein Praktikum",
+              "english": "an internship",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "in einem Hotel",
+              "english": "in a hotel",
+              "tags": [
+                "dative",
+                "place"
+              ]
+            },
+            {
+              "german": "habe ich sechs Monate ein Praktikum in einem Hotel gemacht",
+              "english": "I did a six-month internship in a hotel",
+              "tags": [
+                "perfect",
+                "inversion"
+              ]
+            },
+            {
+              "german": "Gäste beraten",
+              "english": "advised guests",
+              "tags": [
+                "perfect"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Vor einem Jahr habe ich meinen Abschluss bekommen und eine Tätigkeit an der Rezeption gefunden.",
+        "en": "A year ago I received my qualification and found a job at reception.",
+        "annotations": {
+          "word_tags": {
+            "Vor": [
+              "preposition",
+              "dative"
+            ],
+            "einem": [
+              "article",
+              "dative"
+            ],
+            "meinen": [
+              "possessive",
+              "determiner",
+              "accusative"
+            ],
+            "eine": [
+              "article",
+              "accusative"
+            ],
+            "an": [
+              "preposition",
+              "dative"
+            ],
+            "der": [
+              "article",
+              "dative"
+            ]
+          },
+          "base_forms": {
+            "gefunden": "finden"
+          },
+          "word_meanings": {
+            "Vor": "ago",
+            "Abschluss": "qualification",
+            "Tätigkeit": "job"
+          },
+          "phrases": [
+            {
+              "german": "Vor einem Jahr",
+              "english": "a year ago",
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "meinen Abschluss",
+              "english": "my qualification",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "eine Tätigkeit",
+              "english": "a job",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "an der Rezeption",
+              "english": "at reception",
+              "tags": [
+                "dative",
+                "place"
+              ]
+            },
+            {
+              "german": "habe ich meinen Abschluss bekommen und eine Tätigkeit an der Rezeption gefunden",
+              "english": "I received my qualification and found a job at reception",
+              "tags": [
+                "perfect",
+                "inversion"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Seitdem arbeite ich dort; ich habe am Empfang gearbeitet und E-Mails geschrieben.",
+        "en": "Since then I have worked there; I have worked at reception and written emails.",
+        "annotations": {
+          "word_tags": {
+            "Seitdem": [
+              "adverb",
+              "time"
+            ],
+            "dort": [
+              "adverb",
+              "place"
+            ],
+            "E-Mails": [
+              "plural"
+            ]
+          },
+          "excluded_word_tags": {
+            "Seitdem": [
+              "proper noun"
+            ]
+          },
+          "base_forms": {
+            "gearbeitet": "arbeiten",
+            "geschrieben": "schreiben"
+          },
+          "word_meanings": {
+            "Seitdem": "since then",
+            "Empfang": "reception"
+          },
+          "phrases": [
+            {
+              "german": "Seitdem arbeite ich dort",
+              "english": "since then I have worked there",
+              "literal_meaning": "Since then I work there",
+              "tags": [
+                "inversion",
+                "main clause"
+              ]
+            },
+            {
+              "german": "am Empfang",
+              "english": "at reception",
+              "tags": [
+                "dative",
+                "place"
+              ]
+            },
+            {
+              "german": "ich habe am Empfang gearbeitet und E-Mails geschrieben",
+              "english": "I have worked at reception and written emails",
+              "tags": [
+                "perfect"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Die Chefin fragt: War das Praktikum vor oder nach dem Abschluss?",
+        "en": "The manager asks: Was the internship before or after the qualification?",
+        "annotations": {
+          "word_tags": {
+            "Die": [
+              "article",
+              "nominative"
+            ],
+            "vor": [
+              "preposition",
+              "dative"
+            ],
+            "nach": [
+              "preposition",
+              "dative"
+            ],
+            "dem": [
+              "article",
+              "dative"
+            ]
+          },
+          "base_forms": {
+            "War": "sein"
+          },
+          "word_meanings": {
+            "Chefin": "manager",
+            "fragt": "asks",
+            "vor": "before",
+            "nach": "after",
+            "Abschluss": "qualification"
+          },
+          "phrases": [
+            {
+              "german": "Die Chefin",
+              "english": "the manager",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "das Praktikum",
+              "english": "the internship",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "War das Praktikum vor oder nach dem Abschluss",
+              "english": "was the internship before or after the qualification",
+              "tags": [
+                "main clause"
+              ]
+            },
+            {
+              "german": "nach dem Abschluss",
+              "english": "after the qualification",
+              "tags": [
+                "dative",
+                "time"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "Was Mina's internship before or after she received her qualification?",
+      "answer_en": "Before: she did the internship after starting training three years ago, and received the qualification a year ago."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 20"
+    ],
+    "speech_alternatives": [],
+    "performance_activity": {
+      "kind": "speaking",
+      "instruction": "Use the timeline to give a one-minute account of this applicant's background in chronological order, including vor einem Jahr; then answer the manager's clarification question.",
+      "prompts": [
+        "Three years ago: office training",
+        "Afterward: six-month hotel internship and guest advice",
+        "One year ago: qualification and reception job",
+        "Was the internship before or after the qualification?"
+      ]
+    }
+  },
+  {
+    "id": "a2-course-021",
+    "source_draft_id": "a2-draft-021",
+    "sequence": 69,
+    "band": "A2.1",
+    "format": "narrative",
+    "title_de": "Der erste Arbeitstag",
+    "title_en": "The First Day at Work",
+    "topic": "reporting the steps of workplace orientation",
+    "communicative_goal": "Follow an account of a first day at work and distinguish events from workplace facts.",
+    "grammar_focus": "Perfekt with inseparable be-, er-, ver-, and über- participles without ge-",
+    "supporting_structures": [
+      "hat erklärt",
+      "hat vergessen",
+      "hat bekommen",
+      "hat übernommen"
+    ],
+    "new_targets": [
+      "die Abteilung",
+      "die Firma",
+      "sich vorstellen",
+      "die Arbeitszeit",
+      "bekommen",
+      "die Verantwortung",
+      "die Einführung"
+    ],
+    "recycled_targets": [
+      "die Chefin",
+      "die Aufgabe",
+      "das Projekt",
+      "das Praktikum",
+      "die Erfahrung"
+    ],
+    "recycles_from": [
+      1,
+      14,
+      19,
+      20,
+      37,
+      38
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Am ersten Arbeitstag hat Leo die neue Firma kennengelernt und seine Chefin an der Rezeption getroffen.",
+        "en": "On his first day at work, Leo got to know the new company and met his manager at reception.",
+        "annotations": {
+          "word_tags": {
+            "ersten": [
+              "adjective",
+              "dative"
+            ],
+            "hat": [
+              "auxiliary"
+            ],
+            "Leo": [
+              "proper noun"
+            ],
+            "die": [
+              "article",
+              "accusative"
+            ],
+            "neue": [
+              "adjective",
+              "accusative"
+            ],
+            "kennengelernt": [
+              "separable"
+            ],
+            "seine": [
+              "possessive",
+              "determiner",
+              "accusative"
+            ],
+            "an": [
+              "preposition",
+              "dative"
+            ],
+            "der": [
+              "article",
+              "dative"
+            ]
+          },
+          "base_forms": {
+            "ersten": "erst",
+            "neue": "neu",
+            "kennengelernt": "kennenlernen",
+            "getroffen": "treffen"
+          },
+          "word_meanings": {
+            "hat": "has"
+          },
+          "excluded_phrases": [
+            "ersten Arbeitstag",
+            "Am ersten Arbeitstag hat Leo … kennengelernt und … getroffen"
+          ],
+          "phrases": [
+            {
+              "german": "Am ersten Arbeitstag",
+              "english": "on his first working day",
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "die neue Firma",
+              "english": "the new company",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "seine Chefin",
+              "english": "his manager",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "an der Rezeption",
+              "english": "at reception",
+              "tags": [
+                "dative",
+                "place"
+              ]
+            },
+            {
+              "german": "hat Leo die neue Firma kennengelernt und seine Chefin an der Rezeption getroffen",
+              "english": "Leo got to know the new company and met his manager at reception",
+              "tags": [
+                "perfect",
+                "inversion"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Sie hat ihm bei der Einführung die Abteilung und die Arbeitszeit erklärt.",
+        "en": "She explained the department and working hours to him during orientation.",
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "hat": [
+              "auxiliary"
+            ],
+            "ihm": [
+              "personal pronoun",
+              "dative"
+            ],
+            "bei": [
+              "preposition",
+              "dative"
+            ],
+            "der": [
+              "article",
+              "dative"
+            ],
+            "die": [
+              "article",
+              "accusative"
+            ],
+            "erklärt": [
+              "inseparable"
+            ]
+          },
+          "base_forms": {
+            "ihm": "er",
+            "erklärt": "erklären"
+          },
+          "word_meanings": {
+            "Sie": "she",
+            "hat": "has"
+          },
+          "phrases": [
+            {
+              "german": "ihm ... erklärt",
+              "english": "explained to him",
+              "tags": [
+                "dative",
+                "perfect"
+              ]
+            },
+            {
+              "german": "bei der Einführung",
+              "english": "during orientation",
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "die Abteilung",
+              "english": "the department",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "die Arbeitszeit",
+              "english": "the working hours",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "hat ihm bei der Einführung die Abteilung und die Arbeitszeit erklärt",
+              "english": "explained the department and working hours to him during orientation",
+              "tags": [
+                "perfect"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Danach hat er sich bei seinen Kollegen vorgestellt und ihre Namen sofort vergessen.",
+        "en": "Afterwards, he introduced himself to his colleagues and immediately forgot their names.",
+        "annotations": {
+          "word_tags": {
+            "Danach": [
+              "adverb",
+              "time"
+            ],
+            "hat": [
+              "auxiliary"
+            ],
+            "er": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "sich": [
+              "reflexive pronoun",
+              "accusative"
+            ],
+            "bei": [
+              "preposition",
+              "dative"
+            ],
+            "seinen": [
+              "possessive",
+              "determiner",
+              "dative",
+              "plural"
+            ],
+            "Kollegen": [
+              "plural"
+            ],
+            "vorgestellt": [
+              "separable"
+            ],
+            "ihre": [
+              "possessive",
+              "determiner",
+              "accusative",
+              "plural"
+            ],
+            "Namen": [
+              "plural"
+            ],
+            "sofort": [
+              "adverb",
+              "time"
+            ],
+            "vergessen": [
+              "inseparable"
+            ]
+          },
+          "base_forms": {
+            "vorgestellt": "sich vorstellen",
+            "vergessen": "vergessen"
+          },
+          "word_meanings": {
+            "hat": "has",
+            "sich": "himself",
+            "ihre": "their",
+            "vorgestellt": "introduced himself"
+          },
+          "excluded_phrases": [
+            "Danach hat er … vorgestellt und … vergessen"
+          ],
+          "phrases": [
+            {
+              "german": "bei seinen Kollegen",
+              "english": "to his colleagues",
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "hat er sich bei seinen Kollegen vorgestellt",
+              "english": "he introduced himself to his colleagues",
+              "tags": [
+                "perfect",
+                "reflexive",
+                "inversion"
+              ]
+            },
+            {
+              "german": "ihre Namen",
+              "english": "their names",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "ihre Namen sofort vergessen",
+              "english": "immediately forgot their names",
+              "tags": [
+                "perfect"
+              ]
+            },
+            {
+              "german": "hat er sich bei seinen Kollegen vorgestellt und ihre Namen sofort vergessen",
+              "english": "he introduced himself to his colleagues and immediately forgot their names",
+              "tags": [
+                "perfect",
+                "inversion"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "In der Besprechung hat Leo eine kleine Aufgabe bekommen und einen Gast beraten.",
+        "en": "In the meeting, Leo received a small task and advised a guest.",
+        "annotations": {
+          "word_tags": {
+            "In": [
+              "preposition",
+              "dative"
+            ],
+            "der": [
+              "article",
+              "dative"
+            ],
+            "hat": [
+              "auxiliary"
+            ],
+            "Leo": [
+              "proper noun"
+            ],
+            "eine": [
+              "article",
+              "accusative"
+            ],
+            "kleine": [
+              "adjective",
+              "accusative"
+            ],
+            "bekommen": [
+              "inseparable"
+            ],
+            "einen": [
+              "article",
+              "accusative"
+            ],
+            "beraten": [
+              "inseparable"
+            ]
+          },
+          "base_forms": {
+            "kleine": "klein",
+            "bekommen": "bekommen",
+            "beraten": "beraten"
+          },
+          "word_meanings": {
+            "hat": "has"
+          },
+          "excluded_phrases": [
+            "In der Besprechung hat Leo … bekommen und … beraten"
+          ],
+          "phrases": [
+            {
+              "german": "In der Besprechung",
+              "english": "in the meeting",
+              "tags": [
+                "dative",
+                "place"
+              ]
+            },
+            {
+              "german": "eine kleine Aufgabe",
+              "english": "a small task",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "einen Gast",
+              "english": "a guest",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "hat Leo eine kleine Aufgabe bekommen und einen Gast beraten",
+              "english": "Leo received a small task and advised a guest",
+              "tags": [
+                "perfect",
+                "inversion"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Am Nachmittag hat er Verantwortung für ein Projekt übernommen; das war interessant.",
+        "en": "In the afternoon, he took responsibility for a project; that was interesting.",
+        "annotations": {
+          "word_tags": {
+            "hat": [
+              "auxiliary"
+            ],
+            "er": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "für": [
+              "preposition",
+              "accusative"
+            ],
+            "ein": [
+              "article",
+              "accusative"
+            ],
+            "übernommen": [
+              "inseparable"
+            ],
+            "das": [
+              "demonstrative pronoun",
+              "nominative",
+              "subject"
+            ],
+            "interessant": [
+              "adjective"
+            ]
+          },
+          "base_forms": {
+            "übernommen": "übernehmen",
+            "war": "sein"
+          },
+          "word_meanings": {
+            "hat": "has",
+            "das": "that"
+          },
+          "excluded_phrases": [
+            "Am Nachmittag hat er … übernommen"
+          ],
+          "phrases": [
+            {
+              "german": "Am Nachmittag",
+              "english": "in the afternoon",
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "für ein Projekt",
+              "english": "for a project",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "hat er Verantwortung für ein Projekt übernommen",
+              "english": "he took responsibility for a project",
+              "tags": [
+                "perfect",
+                "inversion"
+              ]
+            },
+            {
+              "german": "Am Nachmittag hat er Verantwortung für ein Projekt übernommen",
+              "english": "In the afternoon, he took responsibility for a project",
+              "tags": [
+                "inversion",
+                "perfect"
+              ]
+            },
+            {
+              "german": "das war interessant",
+              "english": "that was interesting",
+              "tags": [
+                "main clause",
+                "simple past"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Am Abend sagt Leo: Die Firma hat drei Abteilungen, und die Einführung war gut; wo arbeite ich morgen?",
+        "en": "That evening Leo says: The company has three departments, and the orientation was good; where will I work tomorrow?",
+        "annotations": {
+          "word_tags": {
+            "Leo": [
+              "proper noun"
+            ],
+            "die": [
+              "article",
+              "nominative"
+            ],
+            "drei": [
+              "numeral"
+            ],
+            "Abteilungen": [
+              "plural"
+            ],
+            "gut": [
+              "adjective"
+            ],
+            "wo": [
+              "adverb"
+            ],
+            "morgen": [
+              "adverb",
+              "time"
+            ]
+          },
+          "base_forms": {
+            "Abteilungen": "die Abteilung",
+            "war": "sein"
+          },
+          "word_meanings": {
+            "sagt": "says",
+            "hat": "has",
+            "Abteilungen": "departments",
+            "war": "was",
+            "gut": "good",
+            "wo": "where",
+            "arbeite": "will work"
+          },
+          "excluded_phrases": [
+            "Am Abend sagt Leo: Die Firma hat drei Abteilungen, und die Einführung war gut",
+            "Am Abend sagt Leo: Die Firma hat drei Abteilungen",
+            "und die Einführung war gut; wo arbeite ich morgen"
+          ],
+          "phrases": [
+            {
+              "german": "Am Abend",
+              "english": "that evening",
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "Am Abend sagt Leo",
+              "english": "That evening Leo says",
+              "tags": [
+                "main clause",
+                "inversion"
+              ]
+            },
+            {
+              "german": "Die Firma",
+              "english": "the company",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "Die Firma hat drei Abteilungen",
+              "english": "the company has three departments",
+              "tags": [
+                "main clause"
+              ]
+            },
+            {
+              "german": "die Einführung",
+              "english": "the orientation",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "die Einführung war gut",
+              "english": "the orientation was good",
+              "tags": [
+                "main clause"
+              ]
+            },
+            {
+              "german": "wo arbeite ich morgen",
+              "english": "where will I work tomorrow",
+              "tags": [
+                "main clause"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "Which four things happened during Leo's first day?",
+      "answer_en": "He got to know the company, met his manager, introduced himself to colleagues, and received a task."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 21"
+    ],
+    "speech_alternatives": [],
+    "performance_activity": {
+      "kind": "listening",
+      "instruction": "Listen and order four events. Then identify which line states a workplace fact rather than an event Leo experienced.",
+      "prompts": [
+        "Leo meets the manager.",
+        "The manager explains the department and working hours.",
+        "Leo introduces himself to colleagues.",
+        "Leo receives a task.",
+        "The company has three departments."
+      ]
+    }
+  },
+  {
+    "id": "a2-course-022",
+    "source_draft_id": "a2-draft-022",
+    "sequence": 70,
+    "band": "A2.1",
+    "format": "dialogue",
+    "title_de": "Ich glaube, dass das Team freundlich ist",
+    "title_en": "I Think That the Team Is Friendly",
+    "topic": "colleagues discussing the team and working hours",
+    "communicative_goal": "Express an opinion, belief, and hope about a shared workplace situation.",
+    "grammar_focus": "dass complement clauses with the finite verb at the end",
+    "supporting_structures": [
+      "ich glaube, dass",
+      "ich denke, dass",
+      "ich bin nicht sicher, dass",
+      "ich hoffe, dass"
+    ],
+    "new_targets": [
+      "glauben",
+      "denken",
+      "hoffen",
+      "sicher",
+      "das Team",
+      "die Zusammenarbeit",
+      "zuverlässig"
+    ],
+    "recycled_targets": [
+      "die Arbeitszeit",
+      "die Aufgabe",
+      "die Chefin",
+      "helfen",
+      "passen"
+    ],
+    "recycles_from": [
+      3,
+      15,
+      19,
+      20,
+      21
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Mina: Ich glaube, dass das Team sehr freundlich ist; gestern haben mir die Kollegen bei der ersten Aufgabe sofort geholfen.",
+        "en": "Mina: I think the team is very friendly; yesterday the colleagues immediately helped me with my first task.",
+        "annotations": {
+          "word_tags": {
+            "Mina": [
+              "proper noun"
+            ],
+            "dass": [
+              "conjunction",
+              "subordinating"
+            ],
+            "sehr": [
+              "adverb"
+            ],
+            "freundlich": [
+              "adjective"
+            ],
+            "gestern": [
+              "adverb",
+              "time"
+            ],
+            "mir": [
+              "personal pronoun",
+              "dative"
+            ],
+            "die": [
+              "article",
+              "nominative"
+            ],
+            "Kollegen": [
+              "plural"
+            ],
+            "bei": [
+              "preposition",
+              "dative"
+            ],
+            "der": [
+              "article",
+              "dative"
+            ],
+            "ersten": [
+              "adjective",
+              "dative"
+            ],
+            "sofort": [
+              "adverb",
+              "time"
+            ]
+          },
+          "base_forms": {
+            "glaube": "glauben",
+            "mir": "ich",
+            "ersten": "erste",
+            "geholfen": "helfen"
+          },
+          "phrases": [
+            {
+              "german": "dass das Team sehr freundlich ist",
+              "english": "that the team is very friendly",
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            },
+            {
+              "german": "das Team",
+              "english": "the team",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "mir ... geholfen",
+              "english": "helped me",
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "die Kollegen",
+              "english": "the colleagues",
+              "tags": [
+                "nominative",
+                "plural"
+              ]
+            },
+            {
+              "german": "bei der ersten Aufgabe",
+              "english": "with the first task",
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "gestern haben mir die Kollegen bei der ersten Aufgabe sofort geholfen",
+              "english": "yesterday the colleagues immediately helped me with my first task",
+              "tags": [
+                "perfect",
+                "inversion"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Leo: Ja, ich denke, dass die Zusammenarbeit sehr gut klappt, weil die Kollegen zuverlässig sind.",
+        "en": "Leo: Yes, I think cooperation works very well because the colleagues are reliable.",
+        "annotations": {
+          "word_tags": {
+            "Leo": [
+              "proper noun"
+            ],
+            "Ja": [
+              "interjection"
+            ],
+            "dass": [
+              "conjunction",
+              "subordinating"
+            ],
+            "die": [
+              "article",
+              "nominative"
+            ],
+            "sehr": [
+              "adverb"
+            ],
+            "gut": [
+              "adverb"
+            ],
+            "weil": [
+              "conjunction",
+              "subordinating"
+            ],
+            "Kollegen": [
+              "plural"
+            ],
+            "zuverlässig": [
+              "adjective"
+            ]
+          },
+          "base_forms": {
+            "denke": "denken",
+            "klappt": "klappen"
+          },
+          "word_meanings": {
+            "klappt": "works"
+          },
+          "verb_meanings": {
+            "klappt": "to work"
+          },
+          "phrases": [
+            {
+              "german": "die Zusammenarbeit",
+              "english": "cooperation",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "dass die Zusammenarbeit sehr gut klappt",
+              "english": "that cooperation works very well",
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            },
+            {
+              "german": "die Kollegen",
+              "english": "the colleagues",
+              "tags": [
+                "nominative",
+                "plural"
+              ]
+            },
+            {
+              "german": "weil die Kollegen zuverlässig sind",
+              "english": "because the colleagues are reliable",
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Mina: Der Chef findet, dass Leo zuverlässig arbeitet, aber der frühe Beginn ist für ihn schwer.",
+        "en": "Mina: The manager thinks Leo works reliably, but the early start is hard for him.",
+        "annotations": {
+          "word_tags": {
+            "Mina": [
+              "proper noun"
+            ],
+            "Der": [
+              "article",
+              "nominative"
+            ],
+            "dass": [
+              "conjunction",
+              "subordinating"
+            ],
+            "Leo": [
+              "proper noun"
+            ],
+            "zuverlässig": [
+              "adverb"
+            ],
+            "der": [
+              "article",
+              "nominative"
+            ],
+            "frühe": [
+              "adjective",
+              "nominative"
+            ],
+            "für": [
+              "preposition",
+              "accusative"
+            ],
+            "schwer": [
+              "adjective"
+            ],
+            "ihn": [
+              "personal pronoun",
+              "accusative"
+            ]
+          },
+          "base_forms": {
+            "findet": "finden",
+            "frühe": "früh",
+            "Beginn": "der Beginn",
+            "ihn": "er"
+          },
+          "word_meanings": {
+            "Beginn": "start",
+            "findet": "thinks",
+            "zuverlässig": "reliably",
+            "schwer": "difficult"
+          },
+          "verb_meanings": {
+            "findet": "to think"
+          },
+          "phrases": [
+            {
+              "german": "Der Chef",
+              "english": "the manager",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "dass Leo zuverlässig arbeitet",
+              "english": "that Leo works reliably",
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            },
+            {
+              "german": "der frühe Beginn",
+              "english": "the early start",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "für ihn",
+              "english": "for him",
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Leo: Ich bin nicht sicher, dass die Arbeitszeit für das Team passt; wir sprechen morgen mit der Chefin.",
+        "en": "Leo: I am not sure the working hours suit the team; we will speak with the manager tomorrow.",
+        "annotations": {
+          "word_tags": {
+            "Leo": [
+              "proper noun"
+            ],
+            "nicht": [
+              "particle"
+            ],
+            "sicher": [
+              "adjective"
+            ],
+            "dass": [
+              "conjunction",
+              "subordinating"
+            ],
+            "die": [
+              "article",
+              "nominative"
+            ],
+            "für": [
+              "preposition",
+              "accusative"
+            ],
+            "das": [
+              "article",
+              "accusative"
+            ],
+            "morgen": [
+              "adverb",
+              "time"
+            ],
+            "mit": [
+              "preposition",
+              "dative"
+            ],
+            "der": [
+              "article",
+              "dative"
+            ]
+          },
+          "base_forms": {
+            "passt": "passen"
+          },
+          "word_meanings": {
+            "sicher": "sure",
+            "mit": "with"
+          },
+          "phrases": [
+            {
+              "german": "nicht sicher",
+              "english": "not sure",
+              "tags": []
+            },
+            {
+              "german": "die Arbeitszeit",
+              "english": "the working hours",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "dass die Arbeitszeit für das Team passt",
+              "english": "that the working hours suit the team",
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            },
+            {
+              "german": "für das Team",
+              "english": "for the team",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "mit der Chefin",
+              "english": "with the manager",
+              "tags": [
+                "dative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Mina: Ich hoffe sehr, dass wir schon ab morgen etwas später anfangen können.",
+        "en": "Mina: I really hope we can start a little later as soon as tomorrow.",
+        "annotations": {
+          "word_tags": {
+            "Mina": [
+              "proper noun"
+            ],
+            "sehr": [
+              "adverb"
+            ],
+            "dass": [
+              "conjunction",
+              "subordinating"
+            ],
+            "wir": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "schon": [
+              "adverb"
+            ],
+            "ab": [
+              "preposition",
+              "dative"
+            ],
+            "morgen": [
+              "adverb",
+              "time"
+            ],
+            "etwas": [
+              "adverb"
+            ],
+            "später": [
+              "adverb",
+              "time"
+            ]
+          },
+          "base_forms": {
+            "hoffe": "hoffen",
+            "anfangen": "anfangen"
+          },
+          "word_meanings": {
+            "ab": "from",
+            "etwas": "a little"
+          },
+          "phrases": [
+            {
+              "german": "dass wir schon ab morgen etwas später anfangen können",
+              "english": "that we can start a little later as soon as tomorrow",
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "modal verb",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What is Leo unsure about, and what does Mina hope will happen?",
+      "answer_en": "He is unsure the hours suit the team; she hopes they can start later."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 22"
+    ],
+    "speech_alternatives": [],
+    "performance_activity": {
+      "kind": "writing",
+      "instruction": "Complete a workplace message with three dass clauses: one opinion, one belief, and one hope about the team and schedule.",
+      "prompts": [
+        "Ich glaube, dass das Team ___.",
+        "Ich denke, dass die Zusammenarbeit ___.",
+        "Ich hoffe, dass wir morgen ___."
+      ]
+    }
+  },
+  {
+    "id": "a2-course-023",
+    "source_draft_id": "a2-draft-023",
+    "sequence": 71,
+    "band": "A2.1",
+    "format": "message",
+    "title_de": "Ich würde mich gern vorstellen",
+    "title_en": "I Would Like to Introduce Myself",
+    "topic": "writing a polite email to arrange an interview",
+    "communicative_goal": "State interest, offer two available times, and request confirmation in a formal email.",
+    "grammar_focus": "polite conditional ich würde gern plus infinitive",
+    "supporting_structures": [
+      "Sehr geehrte Frau",
+      "ich würde mich gern vorstellen",
+      "zur Verfügung stehen",
+      "Mit freundlichen Grüßen"
+    ],
+    "new_targets": [
+      "ich würde gern",
+      "erreichbar",
+      "die Rückmeldung",
+      "das Gespräch",
+      "zur Verfügung stehen",
+      "Sehr geehrte",
+      "Mit freundlichen Grüßen"
+    ],
+    "recycled_targets": [
+      "die Stelle",
+      "der Lebenslauf",
+      "sich bewerben",
+      "könnten",
+      "der Termin"
+    ],
+    "recycles_from": [
+      13,
+      19,
+      20
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Sehr geehrte Frau Koch, ich würde mich vor dem Gespräch gern persönlich vorstellen.",
+        "en": "Dear Ms Koch, I would like to introduce myself in person before the interview.",
+        "annotations": {
+          "word_tags": {
+            "Sehr": [
+              "adverb"
+            ],
+            "geehrte": [
+              "adjective",
+              "nominative"
+            ],
+            "Frau": [
+              "noun",
+              "fem."
+            ],
+            "Koch": [
+              "proper noun"
+            ],
+            "mich": [
+              "reflexive pronoun",
+              "accusative"
+            ],
+            "vor": [
+              "preposition",
+              "dative"
+            ],
+            "dem": [
+              "article",
+              "dative"
+            ],
+            "gern": [
+              "adverb"
+            ],
+            "persönlich": [
+              "adverb"
+            ]
+          },
+          "excluded_word_tags": {
+            "Koch": [
+              "noun",
+              "masc."
+            ]
+          },
+          "base_forms": {
+            "geehrte": "geehrt",
+            "würde": "werden",
+            "vorstellen": "sich vorstellen",
+            "mich": "ich"
+          },
+          "word_meanings": {
+            "Frau": "Ms",
+            "Koch": "Koch",
+            "vor": "before",
+            "Gespräch": "interview",
+            "gern": "gladly",
+            "persönlich": "in person"
+          },
+          "excluded_phrase_tags": {
+            "Sehr geehrte Frau Koch": [
+              "main clause"
+            ]
+          },
+          "phrases": [
+            {
+              "german": "Sehr geehrte Frau Koch",
+              "english": "Dear Ms Koch",
+              "tags": [
+                "formal",
+                "fixed phrase",
+                "nominative"
+              ]
+            },
+            {
+              "german": "ich würde mich vor dem Gespräch gern persönlich vorstellen",
+              "english": "I would like to introduce myself in person before the interview",
+              "tags": [
+                "subjunctive",
+                "reflexive",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "mich ... vorstellen",
+              "english": "introduce myself",
+              "tags": [
+                "reflexive",
+                "infinitive",
+                "accusative"
+              ]
+            },
+            {
+              "german": "vor dem Gespräch",
+              "english": "before the interview",
+              "tags": [
+                "dative",
+                "time"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ich habe mich um die Stelle beworben und Ihnen meinen Lebenslauf gestern per E-Mail geschickt.",
+        "en": "I applied for the position and sent you my CV by email yesterday.",
+        "annotations": {
+          "word_tags": {
+            "mich": [
+              "reflexive pronoun",
+              "accusative"
+            ],
+            "um": [
+              "preposition",
+              "accusative"
+            ],
+            "die": [
+              "article",
+              "accusative"
+            ],
+            "Ihnen": [
+              "personal pronoun",
+              "dative",
+              "formal"
+            ],
+            "meinen": [
+              "possessive",
+              "determiner",
+              "accusative"
+            ],
+            "gestern": [
+              "adverb",
+              "time"
+            ],
+            "per": [
+              "preposition",
+              "accusative"
+            ]
+          },
+          "base_forms": {
+            "mich": "ich",
+            "beworben": "sich bewerben",
+            "Ihnen": "Sie",
+            "geschickt": "schicken"
+          },
+          "word_meanings": {
+            "Ihnen": "you (formal)",
+            "um": "for",
+            "Stelle": "position",
+            "Lebenslauf": "CV",
+            "per": "by"
+          },
+          "phrases": [
+            {
+              "german": "um die Stelle",
+              "english": "for the position",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "mich um die Stelle beworben",
+              "english": "applied for the position",
+              "tags": [
+                "reflexive",
+                "accusative",
+                "perfect"
+              ]
+            },
+            {
+              "german": "habe mich um die Stelle beworben",
+              "english": "applied for the position",
+              "tags": [
+                "perfect",
+                "reflexive"
+              ]
+            },
+            {
+              "german": "Ihnen ... geschickt",
+              "english": "sent to you",
+              "tags": [
+                "dative",
+                "formal"
+              ]
+            },
+            {
+              "german": "meinen Lebenslauf",
+              "english": "my CV",
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Am Dienstag um zehn Uhr oder am Mittwoch um vierzehn Uhr würde ich für ein Gespräch zur Verfügung stehen.",
+        "en": "I would be available for an interview on Tuesday at ten or Wednesday at 2 p.m.",
+        "annotations": {
+          "word_tags": {
+            "zehn": [
+              "numeral"
+            ],
+            "vierzehn": [
+              "numeral"
+            ],
+            "um": [
+              "preposition"
+            ],
+            "für": [
+              "preposition",
+              "accusative"
+            ],
+            "ein": [
+              "article",
+              "accusative"
+            ]
+          },
+          "base_forms": {
+            "würde": "werden",
+            "stehen": "stehen"
+          },
+          "word_meanings": {
+            "um": "at",
+            "Gespräch": "interview",
+            "Verfügung": "availability",
+            "stehen": "be available"
+          },
+          "verb_meanings": {
+            "stehen": "to be available"
+          },
+          "excluded_phrases": [
+            "Am Dienstag um zehn Uhr oder am Mittwoch um vierzehn Uhr würde ich … stehen",
+            "zur Verfügung"
+          ],
+          "phrases": [
+            {
+              "german": "Am Dienstag",
+              "english": "on Tuesday",
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "Am Dienstag um zehn Uhr",
+              "english": "on Tuesday at ten",
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "am Mittwoch",
+              "english": "on Wednesday",
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "am Mittwoch um vierzehn Uhr",
+              "english": "on Wednesday at 2 p.m.",
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "für ein Gespräch",
+              "english": "for an interview",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "zur Verfügung stehen",
+              "english": "be available",
+              "tags": [
+                "fixed phrase",
+                "dative",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "Am Dienstag um zehn Uhr oder am Mittwoch um vierzehn Uhr würde ich für ein Gespräch zur Verfügung stehen",
+              "english": "I would be available for an interview on Tuesday at ten or Wednesday at 2 p.m.",
+              "tags": [
+                "inversion",
+                "subjunctive"
+              ]
+            },
+            {
+              "german": "würde ich für ein Gespräch zur Verfügung stehen",
+              "english": "I would be available for an interview",
+              "tags": [
+                "subjunctive",
+                "infinitive",
+                "fixed phrase"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ich bin an diesen Tagen jederzeit unter meiner Telefonnummer erreichbar.",
+        "en": "I am reachable at my telephone number at any time on those days.",
+        "annotations": {
+          "word_tags": {
+            "Ich": [
+              "personal pronoun",
+              "nominative",
+              "subject"
+            ],
+            "an": [
+              "preposition",
+              "dative"
+            ],
+            "diesen": [
+              "determiner",
+              "dative",
+              "plural"
+            ],
+            "Tagen": [
+              "plural"
+            ],
+            "jederzeit": [
+              "adverb",
+              "time"
+            ],
+            "unter": [
+              "preposition",
+              "dative"
+            ],
+            "meiner": [
+              "possessive",
+              "determiner",
+              "dative"
+            ],
+            "erreichbar": [
+              "adjective"
+            ]
+          },
+          "base_forms": {
+            "diesen": "dieser"
+          },
+          "word_meanings": {
+            "bin": "am",
+            "an": "on",
+            "diesen": "these",
+            "unter": "at",
+            "erreichbar": "reachable"
+          },
+          "phrases": [
+            {
+              "german": "an diesen Tagen",
+              "english": "on those days",
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "unter meiner Telefonnummer",
+              "english": "at my telephone number",
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "unter meiner Telefonnummer erreichbar",
+              "english": "reachable at my telephone number",
+              "tags": [
+                "dative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Könnten Sie mir bitte einen Termin bestätigen? Über eine kurze Rückmeldung würde ich mich sehr freuen.",
+        "en": "Could you please confirm a time for me? I would be very pleased to receive a brief reply.",
+        "annotations": {
+          "word_tags": {
+            "Könnten": [
+              "modal verb",
+              "subjunctive"
+            ],
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "subject",
+              "formal"
+            ],
+            "mir": [
+              "personal pronoun",
+              "dative"
+            ],
+            "bitte": [
+              "particle"
+            ],
+            "einen": [
+              "article",
+              "accusative"
+            ],
+            "Über": [
+              "preposition",
+              "accusative"
+            ],
+            "eine": [
+              "article",
+              "accusative"
+            ],
+            "kurze": [
+              "adjective",
+              "accusative"
+            ],
+            "mich": [
+              "reflexive pronoun",
+              "accusative"
+            ],
+            "sehr": [
+              "adverb"
+            ]
+          },
+          "base_forms": {
+            "Könnten": "können",
+            "mir": "ich",
+            "bestätigen": "bestätigen",
+            "kurze": "kurz",
+            "würde": "werden",
+            "mich": "ich",
+            "freuen": "sich freuen"
+          },
+          "word_meanings": {
+            "Sie": "you (formal)",
+            "bitte": "please",
+            "Über": "about",
+            "Rückmeldung": "reply"
+          },
+          "phrases": [
+            {
+              "german": "Könnten Sie mir bitte einen Termin bestätigen",
+              "english": "could you please confirm a time for me",
+              "tags": [
+                "subjunctive",
+                "modal verb",
+                "infinitive",
+                "formal"
+              ]
+            },
+            {
+              "german": "mir ... bestätigen",
+              "english": "confirm for me",
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "einen Termin",
+              "english": "a time",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "Über eine kurze Rückmeldung",
+              "english": "about a brief reply",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "würde ich mich sehr freuen",
+              "english": "I would be very pleased",
+              "tags": [
+                "subjunctive",
+                "reflexive"
+              ]
+            },
+            {
+              "german": "mich ... freuen",
+              "english": "be pleased",
+              "tags": [
+                "accusative",
+                "reflexive",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "Über eine kurze Rückmeldung würde ich mich sehr freuen",
+              "english": "I would be very pleased to receive a brief reply",
+              "tags": [
+                "inversion",
+                "subjunctive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Mit freundlichen Grüßen\nMina Roth",
+        "en": "Kind regards,\nMina Roth",
+        "annotations": {
+          "word_tags": {
+            "Mit": [
+              "preposition",
+              "dative"
+            ],
+            "freundlichen": [
+              "adjective",
+              "dative",
+              "plural"
+            ],
+            "Grüßen": [
+              "noun",
+              "masc.",
+              "plural"
+            ],
+            "Mina": [
+              "proper noun"
+            ],
+            "Roth": [
+              "proper noun"
+            ]
+          },
+          "base_forms": {
+            "freundlichen": "freundlich",
+            "Grüßen": "der Gruß"
+          },
+          "word_meanings": {
+            "Grüßen": "greetings",
+            "Mina": "Mina",
+            "Roth": "Roth"
+          },
+          "phrases": [
+            {
+              "german": "Mit freundlichen Grüßen",
+              "english": "Kind regards",
+              "literal_meaning": "with friendly greetings",
+              "tags": [
+                "fixed phrase",
+                "dative"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "Which two interview times does Mina suggest?",
+      "answer_en": "Tuesday at ten and Wednesday at 2 p.m."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 23"
+    ],
+    "speech_alternatives": [],
+    "performance_activity": {
+      "kind": "writing",
+      "instruction": "Draft a 50–60 word formal email: state interest, offer Tuesday at ten and Wednesday at 2 p.m., and ask for confirmation.",
+      "prompts": [
+        "Formal greeting to Frau Koch",
+        "Polite interest using ich würde gern",
+        "Two possible times",
+        "Request for confirmation",
+        "Formal closing"
+      ]
+    }
+  },
+  {
+    "id": "a2-course-024",
+    "source_draft_id": "a2-draft-024",
+    "sequence": 72,
+    "band": "A2.1",
+    "format": "dialogue",
+    "title_de": "Von der Anzeige zum ersten Tag",
+    "title_en": "From Advertisement to First Day",
+    "topic": "reading a job advertisement, answering interview questions, and receiving a follow-up message",
+    "communicative_goal": "Express interest in a job, describe past experience, state availability, and understand the employer's reply.",
+    "grammar_focus": "consolidation of application vocabulary, Perfekt, dass, and polite conditional forms",
+    "supporting_structures": [
+      "Das klingt interessant.",
+      "Welche Erfahrung haben Sie?",
+      "Wann könnten Sie anfangen?",
+      "Willkommen im Team."
+    ],
+    "new_targets": [
+      "Das klingt interessant",
+      "Welche Erfahrung haben Sie",
+      "Wann könnten Sie anfangen",
+      "Ich melde mich",
+      "Willkommen im Team"
+    ],
+    "recycled_targets": [
+      "sich bewerben",
+      "die Stelle",
+      "die Erfahrung",
+      "die Ausbildung",
+      "dass",
+      "ich würde gern"
+    ],
+    "recycles_from": [
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Anzeige: Das Hotel sucht ab Montag Hilfe an der Rezeption; Erfahrung mit Gästen ist wichtig.",
+        "en": "Advertisement: The hotel is looking for help at reception from Monday; experience with guests is important.",
+        "annotations": {
+          "word_tags": {
+            "Das": [
+              "article",
+              "nominative"
+            ],
+            "ab": [
+              "preposition",
+              "dative"
+            ],
+            "an": [
+              "preposition",
+              "dative"
+            ],
+            "der": [
+              "article",
+              "dative"
+            ],
+            "mit": [
+              "preposition",
+              "dative"
+            ],
+            "Gästen": [
+              "plural",
+              "dative"
+            ],
+            "wichtig": [
+              "adjective"
+            ]
+          },
+          "base_forms": {
+            "Gästen": "der Gast"
+          },
+          "word_meanings": {
+            "Anzeige": "advertisement",
+            "sucht": "is looking for",
+            "Hilfe": "help",
+            "ab": "from",
+            "an": "at",
+            "mit": "with",
+            "ist": "is"
+          },
+          "phrases": [
+            {
+              "german": "Das Hotel",
+              "english": "the hotel",
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "ab Montag",
+              "english": "from Monday",
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "an der Rezeption",
+              "english": "at reception",
+              "tags": [
+                "dative",
+                "place"
+              ]
+            },
+            {
+              "german": "mit Gästen",
+              "english": "with guests",
+              "tags": [
+                "dative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Mina: Das klingt interessant; ich würde mich gern um die Stelle bewerben.",
+        "en": "Mina: That sounds interesting; I would like to apply for the position.",
+        "annotations": {
+          "word_tags": {
+            "Mina": [
+              "proper noun"
+            ],
+            "Das": [
+              "demonstrative pronoun",
+              "nominative",
+              "subject"
+            ],
+            "interessant": [
+              "adjective"
+            ],
+            "gern": [
+              "adverb"
+            ],
+            "mich": [
+              "reflexive pronoun",
+              "accusative"
+            ],
+            "um": [
+              "preposition",
+              "accusative"
+            ],
+            "die": [
+              "article",
+              "accusative"
+            ]
+          },
+          "base_forms": {
+            "klingt": "klingen",
+            "würde": "werden",
+            "mich": "ich",
+            "bewerben": "sich bewerben"
+          },
+          "verb_forms": {
+            "bewerben": "infinitive"
+          },
+          "word_meanings": {
+            "Das": "that",
+            "klingt": "sounds",
+            "mich": "myself",
+            "gern": "gladly",
+            "um": "for",
+            "Stelle": "position"
+          },
+          "phrases": [
+            {
+              "german": "Das klingt interessant",
+              "english": "that sounds interesting",
+              "tags": [
+                "fixed phrase"
+              ]
+            },
+            {
+              "german": "um die Stelle",
+              "english": "for the position",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "ich würde mich gern um die Stelle bewerben",
+              "english": "I would like to apply for the position",
+              "literal_meaning": "I would gladly apply for the position",
+              "tags": [
+                "subjunctive",
+                "reflexive",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "mich gern um die Stelle bewerben",
+              "english": "gladly apply for the position",
+              "tags": [
+                "accusative",
+                "reflexive",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Frau Koch: Welche Erfahrung haben Sie, und wann könnten Sie bei uns anfangen?",
+        "en": "Ms Koch: What experience do you have, and when could you start with us?",
+        "annotations": {
+          "word_tags": {
+            "Frau": [
+              "noun",
+              "fem."
+            ],
+            "Koch": [
+              "proper noun"
+            ],
+            "Welche": [
+              "determiner",
+              "accusative"
+            ],
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "wann": [
+              "adverb",
+              "time"
+            ],
+            "könnten": [
+              "modal verb",
+              "subjunctive"
+            ],
+            "bei": [
+              "preposition",
+              "dative"
+            ],
+            "uns": [
+              "personal pronoun",
+              "dative"
+            ]
+          },
+          "excluded_word_tags": {
+            "Koch": [
+              "noun",
+              "masc."
+            ]
+          },
+          "base_forms": {
+            "könnten": "können",
+            "uns": "wir"
+          },
+          "word_meanings": {
+            "Frau": "Ms",
+            "Koch": "Koch",
+            "Welche": "what",
+            "Erfahrung": "experience",
+            "Sie": "you (formal)",
+            "bei": "with"
+          },
+          "excluded_phrases": [
+            "Frau Koch",
+            "Frau Koch: Welche Erfahrung haben Sie",
+            "wann könnten Sie … anfangen"
+          ],
+          "phrases": [
+            {
+              "german": "Welche Erfahrung",
+              "english": "what experience",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "Welche Erfahrung haben Sie",
+              "english": "what experience do you have",
+              "tags": [
+                "formal"
+              ]
+            },
+            {
+              "german": "wann könnten Sie bei uns anfangen",
+              "english": "when could you start with us",
+              "tags": [
+                "subjunctive",
+                "formal",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "bei uns",
+              "english": "with us",
+              "tags": [
+                "dative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Mina: Vor einem Jahr habe ich meine Ausbildung beendet; danach habe ich in einem Hotel gearbeitet.",
+        "en": "Mina: A year ago I finished my training; after that I worked in a hotel.",
+        "annotations": {
+          "word_tags": {
+            "Mina": [
+              "proper noun"
+            ],
+            "Vor": [
+              "preposition",
+              "dative"
+            ],
+            "einem": [
+              "article",
+              "dative"
+            ],
+            "meine": [
+              "possessive",
+              "determiner",
+              "accusative"
+            ],
+            "danach": [
+              "adverb",
+              "time"
+            ],
+            "in": [
+              "preposition",
+              "dative"
+            ]
+          },
+          "base_forms": {
+            "beendet": "beenden",
+            "gearbeitet": "arbeiten"
+          },
+          "word_meanings": {
+            "Vor": "ago",
+            "in": "in"
+          },
+          "excluded_phrases": [
+            "Vor einem Jahr habe ich … beendet",
+            "danach habe ich … gearbeitet"
+          ],
+          "phrases": [
+            {
+              "german": "Vor einem Jahr",
+              "english": "a year ago",
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "meine Ausbildung",
+              "english": "my training",
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "habe ich meine Ausbildung beendet",
+              "english": "I finished my training",
+              "tags": [
+                "perfect"
+              ]
+            },
+            {
+              "german": "danach habe ich in einem Hotel gearbeitet",
+              "english": "after that I worked in a hotel",
+              "tags": [
+                "inversion",
+                "perfect"
+              ]
+            },
+            {
+              "german": "in einem Hotel",
+              "english": "in a hotel",
+              "tags": [
+                "dative",
+                "place"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Mina: Ich glaube, dass ich gut zu Ihrem Team passe; ab Montag hätte ich Zeit.",
+        "en": "Mina: I think I fit well with your team; I would be available from Monday.",
+        "annotations": {
+          "word_tags": {
+            "Mina": [
+              "proper noun"
+            ],
+            "dass": [
+              "conjunction",
+              "subordinating"
+            ],
+            "gut": [
+              "adverb"
+            ],
+            "zu": [
+              "preposition",
+              "dative"
+            ],
+            "Ihrem": [
+              "possessive",
+              "determiner",
+              "dative",
+              "formal"
+            ],
+            "ab": [
+              "preposition",
+              "dative"
+            ]
+          },
+          "base_forms": {
+            "Ihrem": "Ihr",
+            "hätte": "haben"
+          },
+          "word_meanings": {
+            "gut": "well",
+            "zu": "with",
+            "Ihrem": "your (formal)",
+            "ab": "from",
+            "passe": "fit"
+          },
+          "verb_meanings": {
+            "passe": "to fit"
+          },
+          "phrases": [
+            {
+              "german": "dass ich gut zu Ihrem Team passe",
+              "english": "that I fit well with your team",
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            },
+            {
+              "german": "zu Ihrem Team",
+              "english": "with your team",
+              "tags": [
+                "dative",
+                "formal"
+              ]
+            },
+            {
+              "german": "ab Montag",
+              "english": "from Monday",
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "ab Montag hätte ich Zeit",
+              "english": "I would be available from Monday",
+              "literal_meaning": "From Monday I would have time",
+              "tags": [
+                "subjunctive",
+                "inversion"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Nachricht von Frau Koch: Willkommen im Team. Ich melde mich morgen mit dem Vertrag.",
+        "en": "Message from Ms Koch: Welcome to the team. I will contact you tomorrow with the contract.",
+        "annotations": {
+          "word_tags": {
+            "von": [
+              "preposition",
+              "dative"
+            ],
+            "Frau": [
+              "noun",
+              "fem."
+            ],
+            "Koch": [
+              "proper noun"
+            ],
+            "Willkommen": [
+              "interjection"
+            ],
+            "mich": [
+              "reflexive pronoun",
+              "accusative"
+            ],
+            "morgen": [
+              "adverb",
+              "time"
+            ],
+            "mit": [
+              "preposition",
+              "dative"
+            ],
+            "dem": [
+              "article",
+              "dative"
+            ]
+          },
+          "excluded_word_tags": {
+            "Koch": [
+              "noun",
+              "masc."
+            ]
+          },
+          "base_forms": {
+            "mich": "ich",
+            "melde": "sich melden"
+          },
+          "word_meanings": {
+            "Frau": "Ms",
+            "Koch": "Koch",
+            "von": "from",
+            "melde": "get in touch",
+            "mit": "with"
+          },
+          "excluded_phrases": [
+            "von Frau",
+            "Nachricht von Frau Koch",
+            "Willkommen im Team. Ich melde mich morgen mit dem Vertrag"
+          ],
+          "phrases": [
+            {
+              "german": "von Frau Koch",
+              "english": "from Ms Koch",
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "im Team",
+              "english": "on the team",
+              "tags": [
+                "dative",
+                "contraction"
+              ]
+            },
+            {
+              "german": "Willkommen im Team",
+              "english": "welcome to the team",
+              "tags": [
+                "fixed phrase",
+                "dative",
+                "contraction"
+              ]
+            },
+            {
+              "german": "melde mich morgen",
+              "english": "will get in touch tomorrow",
+              "tags": [
+                "reflexive",
+                "accusative"
+              ]
+            },
+            {
+              "german": "mit dem Vertrag",
+              "english": "with the contract",
+              "tags": [
+                "dative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Am Montag hat Mina an der Rezeption gearbeitet und ihre Kollegen kennengelernt.",
+        "en": "On Monday Mina worked at reception and got to know her colleagues.",
+        "annotations": {
+          "word_tags": {
+            "Mina": [
+              "proper noun"
+            ],
+            "hat": [
+              "auxiliary"
+            ],
+            "an": [
+              "preposition",
+              "dative"
+            ],
+            "der": [
+              "article",
+              "dative"
+            ],
+            "ihre": [
+              "possessive",
+              "determiner",
+              "accusative",
+              "plural"
+            ],
+            "Kollegen": [
+              "plural"
+            ],
+            "kennengelernt": [
+              "separable"
+            ]
+          },
+          "base_forms": {
+            "gearbeitet": "arbeiten",
+            "kennengelernt": "kennenlernen"
+          },
+          "word_meanings": {
+            "hat": "has",
+            "ihre": "her"
+          },
+          "excluded_phrases": [
+            "Am Montag hat Mina … gearbeitet und … kennengelernt"
+          ],
+          "phrases": [
+            {
+              "german": "Am Montag",
+              "english": "on Monday",
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "an der Rezeption",
+              "english": "at reception",
+              "tags": [
+                "dative",
+                "place"
+              ]
+            },
+            {
+              "german": "ihre Kollegen",
+              "english": "her colleagues",
+              "tags": [
+                "accusative",
+                "plural"
+              ]
+            },
+            {
+              "german": "Am Montag hat Mina an der Rezeption gearbeitet und ihre Kollegen kennengelernt",
+              "english": "On Monday Mina worked at reception and got to know her colleagues",
+              "tags": [
+                "perfect",
+                "inversion"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "When did Mina start, and whom did she meet on her first day?",
+      "answer_en": "She started on Monday and got to know her colleagues."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 24"
+    ],
+    "speech_alternatives": [],
+    "performance_activity": {
+      "kind": "speaking",
+      "instruction": "Role-play a short job interview: respond to the advertisement, describe past experience, say when you can start, ask a polite question, and report the first-day outcome.",
+      "prompts": [
+        "Say why the job interests you",
+        "Answer Welche Erfahrung haben Sie? using Perfekt",
+        "Answer Wann könnten Sie anfangen?",
+        "Use one dass clause",
+        "Ask your own polite question with Könnten Sie ...?",
+        "Respond to Willkommen im Team and report the first day"
+      ]
+    }
+  }
+]

@@ -1,0 +1,301 @@
+{
+  "id": "a1-course-010",
+  "source_draft_id": "a1-draft-010",
+  "sequence": 10,
+  "band": "A1.1",
+  "format": "dialogue",
+  "title_de": "Wie viel Uhr?",
+  "title_en": "What Time?",
+  "topic": "checking class and appointment times",
+  "communicative_goal": "Ask for and understand a time.",
+  "grammar_focus": "clock-time phrases with um and time-first verb-second order",
+  "supporting_structures": [
+    "Um wie viel Uhr",
+    "Viertel nach sechs",
+    "vor dem Kurs",
+    "pünktlich losfahren"
+  ],
+  "grammar_notes": [
+    "Um introduces a clock time, while vor and nach govern dative in these time phrases.",
+    "After sentence-initial Nach dem Termin, the finite verb fährt stays in second position and the separable prefix los closes the clause."
+  ],
+  "new_targets": [
+    "die Uhr",
+    "halb",
+    "Viertel nach",
+    "der Termin",
+    "pünktlich",
+    "losfahren"
+  ],
+  "recycled_targets": [
+    "der Deutschkurs",
+    "beginnen",
+    "sechs",
+    "fahren"
+  ],
+  "recycles_from": [
+    8,
+    9
+  ],
+  "audio_path": "assets/audio/a1_published/a1-course-010/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Mina fragt: „Um wie viel Uhr beginnt heute der Deutschkurs?“",
+      "en": "Mina asks, “What time does the German course begin today?”",
+      "audio_path": "assets/audio/a1_published/a1-course-010/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "um": [
+            "preposition",
+            "accusative"
+          ],
+          "uhr": [
+            "accusative"
+          ],
+          "der": [
+            "nominative"
+          ],
+          "deutschkurs": [
+            "nominative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "um": "at"
+        },
+        "spoken_forms": {},
+        "excluded_phrases": [
+          "viel Uhr"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Um wie viel Uhr",
+            "english": "what time",
+            "literal_meaning": "at what clock time",
+            "tags": [
+              "fixed phrase",
+              "accusative",
+              "time"
+            ]
+          },
+          {
+            "german": "der Deutschkurs",
+            "english": "the German course",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "Um wie viel Uhr beginnt heute der Deutschkurs",
+            "english": "What time does the German course begin today?",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Leo antwortet: „Um Viertel nach sechs, nicht um halb sieben.“",
+      "en": "Leo answers, “At quarter past six, not at half past six.”",
+      "audio_path": "assets/audio/a1_published/a1-course-010/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "um": [
+            "preposition",
+            "accusative"
+          ],
+          "viertel": [
+            "accusative"
+          ],
+          "nach": [
+            "preposition"
+          ],
+          "nicht": [
+            "negation"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "um": "at",
+          "viertel": "quarter",
+          "nach": "past"
+        },
+        "spoken_forms": {},
+        "excluded_phrases": [
+          "Um Viertel"
+        ],
+        "excluded_phrase_tags": {
+          "Um Viertel nach sechs": [
+            "main clause"
+          ],
+          "nicht um halb sieben": [
+            "main clause"
+          ]
+        },
+        "phrases": [
+          {
+            "german": "Um Viertel nach sechs",
+            "english": "At quarter past six",
+            "literal_meaning": "at a quarter after six",
+            "tags": [
+              "fixed phrase",
+              "accusative",
+              "time"
+            ]
+          },
+          {
+            "german": "nicht um halb sieben",
+            "english": "not at half past six",
+            "literal_meaning": "not at half seven",
+            "tags": [
+              "fixed phrase",
+              "accusative",
+              "negation",
+              "time"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Vor dem Kurs hat Mina noch einen Termin.",
+      "en": "Before the course, Mina still has an appointment.",
+      "audio_path": "assets/audio/a1_published/a1-course-010/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "vor": [
+            "preposition",
+            "dative"
+          ],
+          "dem": [
+            "dative"
+          ],
+          "kurs": [
+            "dative"
+          ],
+          "einen": [
+            "accusative"
+          ],
+          "termin": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Vor dem Kurs",
+            "english": "before the course",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "einen Termin",
+            "english": "an appointment",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Nach dem Termin fährt sie um sechs Uhr pünktlich los.",
+      "en": "After the appointment, she leaves punctually at six o’clock.",
+      "audio_path": "assets/audio/a1_published/a1-course-010/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "nach": [
+            "preposition",
+            "dative"
+          ],
+          "dem": [
+            "dative"
+          ],
+          "termin": [
+            "dative"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "um": [
+            "preposition",
+            "accusative"
+          ],
+          "uhr": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "sie": "she",
+          "um": "at",
+          "los": "off"
+        },
+        "spoken_forms": {},
+        "excluded_phrases": [
+          "Nach dem Termin fährt sie … los"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Nach dem Termin",
+            "english": "after the appointment",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "um sechs Uhr",
+            "english": "at six o’clock",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "time"
+            ]
+          },
+          {
+            "german": "Nach dem Termin fährt sie um sechs Uhr pünktlich los",
+            "english": "After the appointment, she leaves punctually at six o’clock",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "inversion",
+              "separable"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "What time does the German course begin?",
+    "answer_en": "At quarter past six."
+  },
+  "source_basis": [
+    "a1-blueprint",
+    "a1-draft-010",
+    "grammar-breakdown-rulebook"
+  ],
+  "speech_alternatives": []
+}

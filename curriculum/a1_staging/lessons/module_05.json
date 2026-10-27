@@ -9,7 +9,7 @@
     "sentences": [
       {"de": "Am Bahnhof möchte Mina eine Fahrkarte nach Köln kaufen.", "en": "At the station, Mina would like to buy a ticket to Cologne."},
       {"de": "Sie fragt: „Kann ich heute mit dem Zug um zehn Uhr fahren?“", "en": "She asks, “Can I travel on the ten o’clock train today?”"},
-      {"de": "Der Mitarbeiter antwortet: „Ja, der Zug fährt pünktlich.“", "en": "The employee answers, “Yes, the train leaves on time.”"},
+      {"de": "Der Mitarbeiter antwortet: „Ja, der Zug fährt pünktlich.“", "en": "The employee answers, “Yes, the train is on time.”"},
       {"de": "Dann nennt er den Preis und zeigt Mina die Fahrkarte.", "en": "Then he states the price and shows Mina the ticket."},
       {"de": "Mina nimmt die Fahrkarte nach Köln und bezahlt mit Karte.", "en": "Mina takes the ticket to Cologne and pays by card."}
     ],
@@ -55,9 +55,9 @@
     "status": "draft_unpublished",
     "sentences": [
       {"de": "Hallo Leo, hier ist Mina mit einer kurzen Nachricht.", "en": "Hello Leo, this is Mina with a short message."},
-      {"de": "Ich muss morgen länger arbeiten und kann nicht um fünf Uhr kommen.", "en": "I have to work longer tomorrow and cannot come at five o’clock."},
-      {"de": "Können wir uns bitte später um halb sieben treffen?", "en": "Can we please meet later at half past six?"},
-      {"de": "Bitte ruf an und sag kurz: Geht das?", "en": "Please call and say briefly whether that works."},
+      {"de": "Leider muss ich morgen länger arbeiten und kann nicht um fünf Uhr kommen.", "en": "Unfortunately, I have to work longer tomorrow and cannot come at five o’clock."},
+      {"de": "Aber können wir uns bitte später um halb sieben treffen?", "en": "But can we please meet later at half past six?"},
+      {"de": "Bitte ruf an. Geht das?", "en": "Please call. Does that work?"},
       {"de": "Leo hört die Nachricht und antwortet kurz: „Ja, das geht.“", "en": "Leo hears the message and replies briefly, “Yes, that works.”"}
     ],
     "first_listen_check": {"prompt": "What new meeting time does Mina suggest?", "answer": "Half past six."}
@@ -74,7 +74,7 @@
       {"de": "Sie fahren am Samstag zusammen mit dem Zug in die Stadt.", "en": "They travel into the city together by train on Saturday."},
       {"de": "Dort möchten sie zuerst ein Museum besuchen und später Kaffee trinken.", "en": "There they would first like to visit a museum and later drink coffee."},
       {"de": "Am Abend fahren sie zurück nach Bonn und schlafen zu Hause.", "en": "In the evening, they travel back to Bonn and sleep at home."},
-      {"de": "Mina antwortet: „Gern, im Urlaub reise ich auch sehr gern.“", "en": "Mina replies, “Gladly, I also really enjoy travelling on holiday.”"}
+      {"de": "Mina antwortet: „Ja, im Urlaub reise ich auch sehr gern.“", "en": "Mina replies, “Yes, I also really enjoy travelling on holiday.”"}
     ],
     "first_listen_check": {"prompt": "What do Mina and Leo want to visit first?", "answer": "A museum."}
   },

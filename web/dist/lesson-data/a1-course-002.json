@@ -1,0 +1,1610 @@
+{
+  "schema_version": 1,
+  "source_sha256": "978ac1d64fe8f762aa91a06d471c813ead8eb7f75a3810eb46a50d094071b002",
+  "lesson": {
+    "id": "a1-course-002",
+    "title": "Woher kommst du?",
+    "english_title": "Where Are You From?",
+    "level": "A1.1",
+    "sentences": [
+      {
+        "text": "Woher kommst du, Mina, und wo wohnst du jetzt?",
+        "natural_meaning": "Where are you from, Mina, and where do you live now?",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "woher",
+                "english": "where from",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Woher"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "kommst",
+                "english": "come",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "kommen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "komme"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kommst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kommt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "kommen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "kommt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "kommen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to come",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "komme"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kommst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kommt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "kommen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "kommt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "kommen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I come",
+                    "you come",
+                    "he/she/it comes",
+                    "we come",
+                    "you come",
+                    "they/you come"
+                  ],
+                  "current_english_forms": [
+                    "I come",
+                    "you come",
+                    "he/she/it comes",
+                    "we come",
+                    "you come",
+                    "they/you come"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "kommst"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "du",
+                "english": "you",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "du"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Mina",
+                "english": "Mina",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Mina"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "wo",
+                "english": "where",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "wo"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "wohnst",
+                "english": "live",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "wohnen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "wohne"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "wohnst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "wohnt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "wohnen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "wohnt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "wohnen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to live / reside",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "wohne"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "wohnst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "wohnt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "wohnen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "wohnt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "wohnen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I live",
+                    "you live",
+                    "he/she/it lives",
+                    "we live",
+                    "you live",
+                    "they/you live"
+                  ],
+                  "current_english_forms": [
+                    "I live",
+                    "you live",
+                    "he/she/it lives",
+                    "we live",
+                    "you live",
+                    "they/you live"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "wohnst"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "du",
+                "english": "you",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "du"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "jetzt",
+                "english": "now",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "jetzt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "wo wohnst du jetzt",
+                "english": "where do you live now?",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Woher kommst du",
+                "english": "Where are you from?",
+                "literal_meaning": "Where from do you come?",
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_candidates/a1-course-002/sentence-01.wav"
+      },
+      {
+        "text": "Ich komme aus Spanien und wohne jetzt in Bonn.",
+        "natural_meaning": "I come from Spain and now live in Bonn.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Ich",
+                "english": "I",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Ich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "komme",
+                "english": "come",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "kommen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "komme"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kommst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kommt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "kommen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "kommt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "kommen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to come",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "komme"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kommst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kommt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "kommen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "kommt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "kommen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I come",
+                    "you come",
+                    "he/she/it comes",
+                    "we come",
+                    "you come",
+                    "they/you come"
+                  ],
+                  "current_english_forms": [
+                    "I come",
+                    "you come",
+                    "he/she/it comes",
+                    "we come",
+                    "you come",
+                    "they/you come"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "komme"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "aus",
+                "english": "from",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "aus"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Spanien",
+                "english": "Spain",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Spanien"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "wohne",
+                "english": "live",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "wohnen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "wohne"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "wohnst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "wohnt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "wohnen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "wohnt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "wohnen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to live / reside",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "wohne"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "wohnst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "wohnt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "wohnen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "wohnt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "wohnen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I live",
+                    "you live",
+                    "he/she/it lives",
+                    "we live",
+                    "you live",
+                    "they/you live"
+                  ],
+                  "current_english_forms": [
+                    "I live",
+                    "you live",
+                    "he/she/it lives",
+                    "we live",
+                    "you live",
+                    "they/you live"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "wohne"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "jetzt",
+                "english": "now",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "jetzt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "in",
+                "english": "in",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "in"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Bonn",
+                "english": "Bonn",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Bonn"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "aus Spanien",
+                "english": "from Spain",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "in Bonn",
+                "english": "in Bonn",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Ich komme aus Spanien",
+                "english": "I come from Spain",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Ich komme aus Spanien und wohne jetzt in Bonn",
+                "english": "I come from Spain and now live in Bonn",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_candidates/a1-course-002/sentence-02.wav"
+      },
+      {
+        "text": "Und du, Leo, woher kommst du?",
+        "natural_meaning": "And you, Leo, where are you from?",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "du",
+                "english": "you",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "du"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Leo",
+                "english": "Leo",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Leo"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "woher",
+                "english": "where from",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "woher"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "kommst",
+                "english": "come",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "kommen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "komme"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kommst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kommt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "kommen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "kommt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "kommen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to come",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "komme"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kommst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kommt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "kommen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "kommt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "kommen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I come",
+                    "you come",
+                    "he/she/it comes",
+                    "we come",
+                    "you come",
+                    "they/you come"
+                  ],
+                  "current_english_forms": [
+                    "I come",
+                    "you come",
+                    "he/she/it comes",
+                    "we come",
+                    "you come",
+                    "they/you come"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "kommst"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "du",
+                "english": "you",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "du"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "woher kommst du",
+                "english": "where are you from?",
+                "literal_meaning": "where from do you come?",
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Und du",
+                "english": "And you?",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "fixed phrase",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "ellipsis",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_candidates/a1-course-002/sentence-03.wav"
+      },
+      {
+        "text": "Ich komme aus Italien und wohne hier in der Stadt.",
+        "natural_meaning": "I come from Italy and live here in the city.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Ich",
+                "english": "I",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Ich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "komme",
+                "english": "come",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "kommen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "komme"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kommst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kommt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "kommen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "kommt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "kommen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to come",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "komme"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kommst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kommt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "kommen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "kommt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "kommen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I come",
+                    "you come",
+                    "he/she/it comes",
+                    "we come",
+                    "you come",
+                    "they/you come"
+                  ],
+                  "current_english_forms": [
+                    "I come",
+                    "you come",
+                    "he/she/it comes",
+                    "we come",
+                    "you come",
+                    "they/you come"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "komme"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "aus",
+                "english": "from",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "aus"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Italien",
+                "english": "Italy",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Italien"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "wohne",
+                "english": "live",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "wohnen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "wohne"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "wohnst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "wohnt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "wohnen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "wohnt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "wohnen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to live / reside",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "wohne"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "wohnst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "wohnt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "wohnen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "wohnt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "wohnen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I live",
+                    "you live",
+                    "he/she/it lives",
+                    "we live",
+                    "you live",
+                    "they/you live"
+                  ],
+                  "current_english_forms": [
+                    "I live",
+                    "you live",
+                    "he/she/it lives",
+                    "we live",
+                    "you live",
+                    "they/you live"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "wohne"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "hier",
+                "english": "here",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "hier"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "in",
+                "english": "in",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "in"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Stadt",
+                "english": "city",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "der",
+                  "Stadt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "aus Italien",
+                "english": "from Italy",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "in der Stadt",
+                "english": "in the city",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "der",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Ich komme aus Italien",
+                "english": "I come from Italy",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "und wohne hier in der Stadt",
+                "english": "and live here in the city",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Ich komme aus Italien und wohne hier in der Stadt",
+                "english": "I come from Italy and live here in the city",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_candidates/a1-course-002/sentence-04.wav"
+      }
+    ],
+    "audio_path": "assets/audio/a1_candidates/a1-course-002/paragraph.wav",
+    "initial_question": "Where does Mina live now?",
+    "initial_answer": "In Bonn.",
+    "audio_status": "ready",
+    "sequence": 2,
+    "lesson_format": "dialogue",
+    "topic": "origin and place of residence",
+    "new_targets": [
+      "woher",
+      "kommen",
+      "wohnen",
+      "die Stadt"
+    ],
+    "recycled_targets": [
+      "ich",
+      "du",
+      "und"
+    ],
+    "speech_alternatives": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "draft_id": "a2-draft-023",
+  "status": "release_ready",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav",
+    "sentence-05.wav",
+    "sentence-06.wav"
+  ],
+  "sentence_texts": [
+    "Sehr geehrte Frau Koch, ich w\u00fcrde mich vor dem Gespr\u00e4ch gern pers\u00f6nlich vorstellen.",
+    "Ich habe mich um die Stelle beworben und Ihnen meinen Lebenslauf gestern per E-Mail geschickt.",
+    "Am Dienstag um zehn Uhr oder am Mittwoch um vierzehn Uhr w\u00fcrde ich f\u00fcr ein Gespr\u00e4ch zur Verf\u00fcgung stehen.",
+    "Ich bin an diesen Tagen jederzeit unter meiner Telefonnummer erreichbar.",
+    "K\u00f6nnten Sie mir bitte einen Termin best\u00e4tigen? \u00dcber eine kurze R\u00fcckmeldung w\u00fcrde ich mich sehr freuen.",
+    "Mit freundlichen Gr\u00fc\u00dfen\nMina Roth"
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "58a310b80cf4b3d86e54b6f573177fb66ecc5034a4ddbbbde6db8a1b1c16beba",
+    "sentence-02.wav": "432013445aa51f2e97a701ec65d912beea2ebe39a05e243ba4693a8cce20fc0b",
+    "sentence-03.wav": "34aa8c8d5143e5feb8e38e6f4468cdee7bd4dff02c25b50c8dfc3ee29b3ac3b7",
+    "sentence-04.wav": "b3e7138d65b4199046c411861f213c41822f0ad796e44ec5d380dd69451d9b4f",
+    "sentence-05.wav": "fd6dfd9816afb10f52002ac8c242f86c02e4ff8d59c1f8ea0d213e89d7d76709",
+    "sentence-06.wav": "4147f7011c14827a9b1090981c9860d5de04ea144ea3d248f82acb3104cd37ea"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "8665640634342dc85cc759fcf678cbe6ba37cdc10678e75204e7f914e1502df7",
+  "paragraph_assembled_from_sentence_files": true
+}

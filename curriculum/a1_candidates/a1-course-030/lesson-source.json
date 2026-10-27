@@ -1,0 +1,518 @@
+{
+  "id": "a1-course-030",
+  "source_draft_id": "a1-draft-030",
+  "sequence": 30,
+  "band": "A1.1",
+  "format": "announcement",
+  "title_de": "Checkpunkt: Ein Tag unterwegs",
+  "title_en": "Checkpoint: One Day Out",
+  "topic": "following a linked day-out plan",
+  "communicative_goal": "Follow the main sequence and relay essential time and place details.",
+  "grammar_focus": "review of scheduled present, transport chunks, modal verbs, and time-first verb-second order",
+  "supporting_structures": [
+    "von Gleis sechs abfahren",
+    "hin und zurück",
+    "muss noch arbeiten",
+    "sich um elf Uhr treffen"
+  ],
+  "grammar_notes": [
+    "The checkpoint consolidates earlier forms; it introduces no substantial new grammar.",
+    "Abfahren and anrufen remain separable verbs, and müssen sends arbeiten to the end of its clause."
+  ],
+  "new_targets": [
+    "zuerst",
+    "danach",
+    "hin und zurück",
+    "zum Schluss"
+  ],
+  "recycled_targets": [
+    "hören",
+    "der Bahnhof",
+    "die Durchsage",
+    "der Zug",
+    "heute",
+    "das Gleis",
+    "kaufen",
+    "die Fahrkarte",
+    "warten",
+    "müssen",
+    "arbeiten",
+    "anrufen",
+    "später",
+    "sich treffen",
+    "die Uhr",
+    "das Museum",
+    "fahren",
+    "abfahren",
+    "müde",
+    "nach Hause"
+  ],
+  "recycles_from": [
+    10,
+    11,
+    25,
+    26,
+    28,
+    29
+  ],
+  "audio_path": "assets/audio/a1_candidates/a1-course-030/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Zuerst hört Mina am Bahnhof eine Durchsage: Der Zug fährt heute von Gleis sechs ab.",
+      "en": "First Mina hears an announcement at the station: the train leaves from platform six today.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-030/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "zuerst": [
+            "adverb",
+            "time"
+          ],
+          "mina": [
+            "nominative"
+          ],
+          "am": [
+            "preposition",
+            "dative"
+          ],
+          "bahnhof": [
+            "dative"
+          ],
+          "eine": [
+            "determiner",
+            "accusative"
+          ],
+          "durchsage": [
+            "accusative"
+          ],
+          "der": [
+            "nominative"
+          ],
+          "zug": [
+            "nominative"
+          ],
+          "heute": [
+            "adverb",
+            "time"
+          ],
+          "von": [
+            "preposition",
+            "dative"
+          ],
+          "gleis": [
+            "dative"
+          ],
+          "sechs": [
+            "numeral"
+          ],
+          "ab": [
+            "particle"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "ab": "separable prefix of abfahren"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "von Gleis"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Zuerst hört Mina am Bahnhof eine Durchsage",
+            "english": "First Mina hears an announcement at the station",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "am Bahnhof",
+            "english": "at the station",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          },
+          {
+            "german": "Der Zug fährt heute von Gleis sechs ab",
+            "english": "the train leaves from platform six today",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "separable"
+            ]
+          },
+          {
+            "german": "von Gleis sechs",
+            "english": "from platform six",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Danach kauft sie eine Fahrkarte hin und zurück und wartet am Gleis.",
+      "en": "Afterwards she buys a return ticket and waits at the platform.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-030/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "danach": [
+            "adverb",
+            "time"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "eine": [
+            "determiner",
+            "accusative"
+          ],
+          "fahrkarte": [
+            "accusative"
+          ],
+          "hin": [
+            "adverb",
+            "direction"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "zurück": [
+            "adverb",
+            "direction"
+          ],
+          "am": [
+            "preposition",
+            "dative"
+          ],
+          "gleis": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Danach kauft sie eine Fahrkarte hin und zurück",
+            "english": "Afterwards she buys a return ticket",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "eine Fahrkarte hin und zurück",
+            "english": "a return ticket",
+            "literal_meaning": "a ticket there and back",
+            "tags": [
+              "accusative",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "und wartet am Gleis",
+            "english": "and waits at the platform",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "main clause"
+            ]
+          },
+          {
+            "german": "am Gleis",
+            "english": "at the platform",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Leo muss noch arbeiten, ruft Mina an und kommt später.",
+      "en": "Leo still has to work, calls Mina, and arrives later.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-030/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "leo": [
+            "nominative"
+          ],
+          "noch": [
+            "adverb"
+          ],
+          "arbeiten": [
+            "verb",
+            "infinitive"
+          ],
+          "mina": [
+            "accusative"
+          ],
+          "an": [
+            "particle"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "später": [
+            "adverb",
+            "time"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "an": "separable prefix of anrufen"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Leo muss noch arbeiten, ruft Mina an"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Leo muss noch arbeiten",
+            "english": "Leo still has to work",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "modal verb"
+            ]
+          },
+          {
+            "german": "ruft Mina an",
+            "english": "calls Mina",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "separable"
+            ]
+          },
+          {
+            "german": "und kommt später",
+            "english": "and arrives later",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "main clause"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Sie treffen sich deshalb erst um elf Uhr am Museum.",
+      "en": "They therefore do not meet at the museum until eleven o’clock.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-030/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "treffen": [
+            "reflexive"
+          ],
+          "sich": [
+            "reflexive pronoun",
+            "accusative"
+          ],
+          "deshalb": [
+            "adverb",
+            "reason"
+          ],
+          "erst": [
+            "adverb",
+            "time"
+          ],
+          "um": [
+            "preposition",
+            "time"
+          ],
+          "elf": [
+            "numeral",
+            "time"
+          ],
+          "uhr": [
+            "time"
+          ],
+          "am": [
+            "preposition",
+            "dative"
+          ],
+          "museum": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "erst": "not until / only"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Sie treffen sich deshalb erst um elf Uhr am Museum",
+            "english": "They therefore do not meet at the museum until eleven o’clock",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "reflexive"
+            ]
+          },
+          {
+            "german": "treffen sich",
+            "english": "meet each other",
+            "literal_meaning": null,
+            "tags": [
+              "reflexive",
+              "accusative",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "um elf Uhr",
+            "english": "at eleven o’clock",
+            "literal_meaning": null,
+            "tags": [
+              "time"
+            ]
+          },
+          {
+            "german": "am Museum",
+            "english": "at the museum",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Zum Schluss fahren beide am Abend müde nach Hause.",
+      "en": "At the end, they both travel home tired in the evening.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-030/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "zum": [
+            "preposition",
+            "dative"
+          ],
+          "schluss": [
+            "dative"
+          ],
+          "beide": [
+            "indefinite pronoun",
+            "nominative"
+          ],
+          "am": [
+            "preposition",
+            "dative"
+          ],
+          "abend": [
+            "dative"
+          ],
+          "müde": [
+            "adjective"
+          ],
+          "nach": [
+            "preposition",
+            "direction"
+          ],
+          "hause": [
+            "direction"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "hause": "home"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Zum Schluss fahren beide am Abend müde nach Hause",
+            "english": "At the end, they both travel home tired in the evening",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "Zum Schluss",
+            "english": "At the end",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "am Abend",
+            "english": "in the evening",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "nach Hause",
+            "english": "home",
+            "literal_meaning": null,
+            "tags": [
+              "direction",
+              "fixed phrase"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Why do Mina and Leo meet later?",
+    "answer_en": "Leo still has to work."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_05.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

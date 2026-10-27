@@ -1,0 +1,452 @@
+{
+  "id": "a1-course-025",
+  "source_draft_id": "a1-draft-025",
+  "sequence": 25,
+  "band": "A1.1",
+  "format": "dialogue",
+  "title_de": "Eine Fahrkarte, bitte",
+  "title_en": "A Ticket, Please",
+  "topic": "buying a train ticket at a station",
+  "communicative_goal": "Ask for a ticket and understand the transport type and destination.",
+  "grammar_focus": "fixed transport phrases with mit plus dative",
+  "supporting_structures": [
+    "mit dem Zug",
+    "nach Köln",
+    "um zehn Uhr fahren"
+  ],
+  "grammar_notes": [
+    "Mit takes dative in mit dem Zug.",
+    "Nach plus a city name expresses a destination without a visible case ending."
+  ],
+  "new_targets": [
+    "die Fahrkarte",
+    "der Zug",
+    "der Bahnhof",
+    "fahren",
+    "mit dem Zug"
+  ],
+  "recycled_targets": [
+    "möchten",
+    "kaufen",
+    "heute",
+    "fragen",
+    "antworten",
+    "pünktlich",
+    "der Preis",
+    "zeigen",
+    "nehmen",
+    "bezahlen",
+    "die Karte",
+    "die Uhr"
+  ],
+  "recycles_from": [
+    10,
+    11,
+    13,
+    14,
+    17,
+    24
+  ],
+  "audio_path": "assets/audio/a1_candidates/a1-course-025/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Am Bahnhof möchte Mina eine Fahrkarte nach Köln kaufen.",
+      "en": "At the station, Mina would like to buy a ticket to Cologne.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-025/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "am": [
+            "preposition",
+            "dative"
+          ],
+          "bahnhof": [
+            "dative"
+          ],
+          "mina": [
+            "nominative"
+          ],
+          "eine": [
+            "determiner",
+            "accusative"
+          ],
+          "fahrkarte": [
+            "accusative"
+          ],
+          "nach": [
+            "preposition",
+            "direction"
+          ],
+          "köln": [
+            "direction"
+          ],
+          "kaufen": [
+            "verb",
+            "infinitive"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am Bahnhof",
+            "english": "At the station",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          },
+          {
+            "german": "eine Fahrkarte",
+            "english": "a ticket",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "nach Köln",
+            "english": "to Cologne",
+            "literal_meaning": null,
+            "tags": [
+              "direction"
+            ]
+          },
+          {
+            "german": "möchte Mina eine Fahrkarte nach Köln kaufen",
+            "english": "Mina would like to buy a ticket to Cologne",
+            "literal_meaning": "would like Mina a ticket to Cologne to buy",
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Sie fragt: „Kann ich heute mit dem Zug um zehn Uhr fahren?“",
+      "en": "She asks, “Can I travel on the ten o’clock train today?”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-025/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "heute": [
+            "adverb",
+            "time"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "dem": [
+            "dative"
+          ],
+          "zug": [
+            "dative"
+          ],
+          "um": [
+            "preposition",
+            "time"
+          ],
+          "zehn": [
+            "numeral",
+            "time"
+          ],
+          "uhr": [
+            "time"
+          ],
+          "fahren": [
+            "verb",
+            "infinitive"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Kann ich heute mit dem Zug um zehn Uhr fahren",
+            "english": "Can I travel by train today at ten o’clock?",
+            "literal_meaning": "Can I today by the train at ten o’clock travel?",
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "mit dem Zug",
+            "english": "by train",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "um zehn Uhr",
+            "english": "at ten o’clock",
+            "literal_meaning": null,
+            "tags": [
+              "time"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Der Mitarbeiter antwortet: „Ja, der Zug fährt pünktlich.“",
+      "en": "The employee answers, “Yes, the train is on time.”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-025/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "der": [
+            "nominative"
+          ],
+          "mitarbeiter": [
+            "nominative"
+          ],
+          "ja": [
+            "particle"
+          ],
+          "zug": [
+            "nominative"
+          ],
+          "pünktlich": [
+            "adverb",
+            "manner"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "fährt": "runs"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "der Zug fährt pünktlich"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Der Mitarbeiter antwortet",
+            "english": "The employee answers",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "Ja, der Zug fährt pünktlich",
+            "english": "Yes, the train is on time",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Dann nennt er den Preis und zeigt Mina die Fahrkarte.",
+      "en": "Then he states the price and shows Mina the ticket.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-025/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "dann": [
+            "adverb",
+            "time"
+          ],
+          "er": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "den": [
+            "accusative"
+          ],
+          "preis": [
+            "accusative"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "mina": [
+            "dative"
+          ],
+          "die": [
+            "accusative"
+          ],
+          "fahrkarte": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "nennt": "states"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Dann nennt er den Preis",
+            "english": "Then he states the price",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "den Preis",
+            "english": "the price",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "zeigt Mina die Fahrkarte",
+            "english": "shows Mina the ticket",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "die Fahrkarte",
+            "english": "the ticket",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina nimmt die Fahrkarte nach Köln und bezahlt mit Karte.",
+      "en": "Mina takes the ticket to Cologne and pays by card.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-025/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "mina": [
+            "nominative"
+          ],
+          "die": [
+            "accusative"
+          ],
+          "fahrkarte": [
+            "accusative"
+          ],
+          "nach": [
+            "preposition",
+            "direction"
+          ],
+          "köln": [
+            "direction"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "karte": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "karte": "card"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "die Fahrkarte nach Köln",
+            "english": "the ticket to Cologne",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction"
+            ]
+          },
+          {
+            "german": "nach Köln",
+            "english": "to Cologne",
+            "literal_meaning": null,
+            "tags": [
+              "direction"
+            ]
+          },
+          {
+            "german": "mit Karte",
+            "english": "by card",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "Mina nimmt die Fahrkarte nach Köln",
+            "english": "Mina takes the ticket to Cologne",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "und bezahlt mit Karte",
+            "english": "and pays by card",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "main clause"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Where is Mina travelling?",
+    "answer_en": "To Cologne."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_05.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

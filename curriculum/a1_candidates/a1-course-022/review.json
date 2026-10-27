@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-022",
+  "source_sha256": "b4a1e85887ea83e834474b6877bbf611a4f16a0df29a727fa0046233f4528b3a",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "impersonal es and inverted gibt es",
+        "modal-final infinitive",
+        "dative source and accusative destination cards",
+        "deshalb inversion"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "weather-report wording",
+        "dog and plant scenario cohesion",
+        "fixed phrase nach drau\u00dfen",
+        "two-way preposition destination"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "natural weather translations",
+        "contextual stellen meaning",
+        "cause-and-result progression",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

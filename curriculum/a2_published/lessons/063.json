@@ -1,0 +1,375 @@
+{
+  "id": "a2-course-015",
+  "source_draft_id": "a2-draft-015",
+  "sequence": 63,
+  "band": "A2.1",
+  "format": "dialogue",
+  "title_de": "Ist die Waschküche frei?",
+  "title_en": "Is the Laundry Room Free?",
+  "topic": "asking a neighbor for uncertain information",
+  "communicative_goal": "Ask indirectly whether a simple fact is true.",
+  "grammar_focus": "indirect yes/no questions with ob and final verb position",
+  "supporting_structures": [
+    "wissen, ob",
+    "nachsehen, ob",
+    "fragen, ob"
+  ],
+  "grammar_notes": [],
+  "new_targets": [
+    "ob",
+    "wissen",
+    "die Waschküche",
+    "frei sein",
+    "die Hausordnung",
+    "der Hausmeister",
+    "nachsehen"
+  ],
+  "recycled_targets": [
+    "wissen",
+    "frei",
+    "waschen",
+    "morgen",
+    "der Schlüssel"
+  ],
+  "recycles_from": [
+    13,
+    14,
+    21
+  ],
+  "audio_path": "assets/audio/a2_published/a2-course-015/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Wissen Sie vielleicht, ob die Waschküche heute Abend nach acht Uhr frei ist?",
+      "en": "Do you perhaps know whether the laundry room is free after eight this evening?",
+      "audio_path": "assets/audio/a2_published/a2-course-015/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Sie": [
+            "personal pronoun",
+            "nominative",
+            "formal"
+          ],
+          "nach": [
+            "preposition",
+            "dative"
+          ],
+          "ob": [
+            "conjunction",
+            "subordinating"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "Sie": "you"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "nach acht Uhr",
+            "english": "after eight o'clock",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "ob die Waschküche heute Abend nach acht Uhr frei ist",
+            "english": "whether the laundry room is free after eight this evening",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Ich weiß leider nicht, ob Herr Roth gerade noch dort wäscht.",
+      "en": "Unfortunately, I do not know whether Mr Roth is still doing laundry there right now.",
+      "audio_path": "assets/audio/a2_published/a2-course-015/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "ob": [
+            "conjunction",
+            "subordinating"
+          ],
+          "dort": [
+            "adverb",
+            "place"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "wäscht": "waschen"
+        },
+        "word_meanings": {
+          "Herr": "Mr",
+          "gerade": "right now",
+          "wäscht": "does laundry"
+        },
+        "verb_meanings": {
+          "wäscht": "to do laundry"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "ob Herr Roth gerade noch dort wäscht",
+            "english": "whether Mr Roth is still doing laundry there right now",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "In der Hausordnung steht, dass man die Waschküche bis zehn Uhr benutzen darf, aber sie sagt nichts über die genaue Uhrzeit.",
+      "en": "The building rules say that the laundry room may be used until ten o'clock, but they do not say exactly when.",
+      "audio_path": "assets/audio/a2_published/a2-course-015/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "In": [
+            "preposition",
+            "dative"
+          ],
+          "der": [
+            "article",
+            "dative"
+          ],
+          "dass": [
+            "conjunction",
+            "subordinating"
+          ],
+          "man": [
+            "indefinite pronoun",
+            "nominative",
+            "subject"
+          ],
+          "zehn": [
+            "numeral"
+          ],
+          "über": [
+            "preposition",
+            "accusative"
+          ],
+          "genaue": [
+            "adjective"
+          ],
+          "Uhrzeit": [
+            "noun",
+            "fem."
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "genaue": "genau",
+          "Uhrzeit": "die Uhrzeit"
+        },
+        "word_meanings": {
+          "Waschküche": "laundry room",
+          "steht": "states",
+          "genaue": "exact",
+          "Uhrzeit": "time",
+          "sie": "it"
+        },
+        "verb_meanings": {
+          "steht": "to state"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "In der Hausordnung",
+            "english": "in the building rules",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "dass man die Waschküche bis zehn Uhr benutzen darf",
+            "english": "that the room may be used until ten o'clock",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final",
+              "modal verb"
+            ]
+          },
+          {
+            "german": "über die genaue Uhrzeit",
+            "english": "about the exact time",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Der Hausmeister kann im Büro nachsehen, ob der Schlüssel für die Waschküche noch da ist.",
+      "en": "The caretaker can check in the office whether the key to the laundry room is still there.",
+      "audio_path": "assets/audio/a2_published/a2-course-015/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "im": [
+            "preposition",
+            "dative"
+          ],
+          "ob": [
+            "conjunction",
+            "subordinating"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "im Büro",
+            "english": "in the office",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "kann im Büro nachsehen",
+            "english": "can check",
+            "literal_meaning": null,
+            "tags": [
+              "modal verb",
+              "infinitive"
+            ]
+          },
+          {
+            "german": "für die Waschküche",
+            "english": "for the laundry room",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "ob der Schlüssel für die Waschküche noch da ist",
+            "english": "whether the key to the laundry room is still there",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Dann frage ich ihn gleich, ob ich morgen um sieben Uhr waschen kann oder lieber später kommen soll.",
+      "en": "Then I will ask him right away whether I can do laundry tomorrow at seven or should come later instead.",
+      "audio_path": "assets/audio/a2_published/a2-course-015/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Dann": [
+            "adverb",
+            "time"
+          ],
+          "ihn": [
+            "personal pronoun",
+            "accusative"
+          ],
+          "ob": [
+            "conjunction",
+            "subordinating"
+          ],
+          "sieben": [
+            "numeral"
+          ],
+          "um": [
+            "preposition",
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "frage": "fragen"
+        },
+        "word_meanings": {
+          "um": "at",
+          "gleich": "right away"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Dann frage ich ihn",
+            "english": "I will ask him",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "accusative"
+            ]
+          },
+          {
+            "german": "um sieben Uhr",
+            "english": "at seven o'clock",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "time"
+            ]
+          },
+          {
+            "german": "ob ich morgen um sieben Uhr waschen kann oder lieber später kommen soll",
+            "english": "whether I can do laundry tomorrow at seven or should come later instead",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final",
+              "modal verb"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Who can check whether the key is there?",
+    "answer_en": "The caretaker."
+  },
+  "source_basis": [
+    "curriculum/a2_blueprint.md",
+    "A2 Lesson 15"
+  ],
+  "speech_alternatives": [],
+  "performance_activity": {
+    "kind": "writing",
+    "instruction": "Turn each direct yes/no question into a short indirect enquiry beginning with Wissen Sie …?",
+    "prompts": [
+      "Ist die Waschküche frei?",
+      "Ist der Schlüssel da?",
+      "Kann ich morgen um sieben waschen?"
+    ]
+  }
+}

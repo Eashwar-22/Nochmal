@@ -1,10 +1,10 @@
 # A1 staged lesson drafts
 
-> **UNPUBLISHED. DO NOT IMPORT INTO THE APP.**
+> **SOURCE DRAFTS. DO NOT IMPORT DIRECTLY INTO THE APP.**
 
 This directory holds passage drafts derived from `curriculum/a1_blueprint.md`.
-It is deliberately outside `curriculum/a1_a2/lessons/` and is not consumed by
-the production lesson compiler.
+It is deliberately separate from the reviewed lesson and candidate directories
+and is not consumed by the production lesson compiler.
 
 Each draft contains only:
 
@@ -13,7 +13,8 @@ Each draft contains only:
 - German sentences with natural English meanings; and
 - one first-listen comprehension check.
 
-The following publication blockers intentionally remain:
+These draft records alone do not establish publication readiness. A published
+lesson also requires:
 
 - sentence-by-sentence grammar audit;
 - authored word and phrase cards;

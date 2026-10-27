@@ -1,0 +1,31 @@
+{
+  "draft_id": "a1-draft-011",
+  "status": "draft_unpublished",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav"
+  ],
+  "sentence_texts": [
+    "Leo fragt Mina: \u201eHast du morgen Zeit f\u00fcr einen Kaffee?\u201c",
+    "Mina sagt: \u201eAm Montag arbeite ich lange, aber am Dienstag bin ich frei.\u201c",
+    "Leo fragt: \u201eK\u00f6nnen wir uns am Dienstag um f\u00fcnf Uhr treffen?\u201c",
+    "Mina antwortet kurz: \u201eJa, das kann ich.\u201c"
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "5fd4be5ffc3a8728d023da4ef2411339e3733d03276fd1bae4923e0f85922db5",
+    "sentence-02.wav": "b74a9d4abbea6e7e64f0af47d829167c87afd0855efef5e554578d9fbc193813",
+    "sentence-03.wav": "46e54e8c2a64316494647a33d8bf727fdc6861008a7c7eb0ee675d99c8fb830a",
+    "sentence-04.wav": "7486adc82f7e8d81196ae8b87c64d696aea43a0a2dcb45b9de3450459ba45cfc"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "6a90009ba64bfec6a956af6386c5009af136ea691fd41bdb832174421e6c45d7",
+  "paragraph_assembled_from_sentence_files": true
+}

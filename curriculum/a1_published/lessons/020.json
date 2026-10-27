@@ -1,0 +1,401 @@
+{
+  "id": "a1-course-020",
+  "source_draft_id": "a1-draft-020",
+  "sequence": 20,
+  "band": "A1.1",
+  "format": "dialogue",
+  "title_de": "Wo ist der Tisch?",
+  "title_en": "Where Is the Table?",
+  "topic": "locating furniture in a room",
+  "communicative_goal": "Say where common objects are in a room.",
+  "grammar_focus": "fixed-location phrases with two-way prepositions plus dative",
+  "supporting_structures": [
+    "in ihrem neuen Zimmer",
+    "am Fenster",
+    "neben dem Bett",
+    "auf dem Tisch"
+  ],
+  "grammar_notes": [
+    "The two-way prepositions an, neben, and auf use dative here because each phrase answers where something is.",
+    "The masculine forms dem and einem make the dative visible."
+  ],
+  "new_targets": [
+    "der Tisch",
+    "das Bett",
+    "der Schrank",
+    "das Fenster",
+    "die Wand",
+    "die Lampe",
+    "das Buch",
+    "dort",
+    "stehen"
+  ],
+  "recycled_targets": [
+    "helfen",
+    "neu",
+    "das Zimmer",
+    "fragen",
+    "antworten",
+    "an",
+    "neben",
+    "auf",
+    "aber"
+  ],
+  "recycles_from": [
+    7,
+    11,
+    19
+  ],
+  "audio_path": "assets/audio/a1_published/a1-course-020/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Leo hilft Mina in ihrem neuen Zimmer und fragt: „Wo ist der Tisch?“",
+      "en": "Leo helps Mina in her new room and asks, “Where is the table?”",
+      "audio_path": "assets/audio/a1_published/a1-course-020/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "mina": [
+            "dative"
+          ],
+          "in": [
+            "preposition",
+            "dative"
+          ],
+          "ihrem": [
+            "possessive",
+            "determiner",
+            "dative"
+          ],
+          "neuen": [
+            "adjective",
+            "dative"
+          ],
+          "zimmer": [
+            "dative"
+          ],
+          "wo": [
+            "interrogative pronoun"
+          ],
+          "der": [
+            "nominative"
+          ],
+          "tisch": [
+            "nominative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "neuen": "neu"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "und fragt: „Wo ist der Tisch"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "hilft Mina",
+            "english": "helps Mina",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "in ihrem neuen Zimmer",
+            "english": "in her new room",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "Leo hilft Mina in ihrem neuen Zimmer und fragt",
+            "english": "Leo helps Mina in her new room and asks",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "Wo ist der Tisch",
+            "english": "Where is the table?",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina antwortet: „Er steht dort am Fenster, neben dem Bett.“",
+      "en": "Mina answers, “It is over there by the window, next to the bed.”",
+      "audio_path": "assets/audio/a1_published/a1-course-020/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "er": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "dort": [
+            "adverb"
+          ],
+          "am": [
+            "preposition",
+            "dative"
+          ],
+          "fenster": [
+            "dative"
+          ],
+          "neben": [
+            "preposition",
+            "dative"
+          ],
+          "dem": [
+            "dative"
+          ],
+          "bett": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "er": "it",
+          "steht": "is standing"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {
+          "neben dem Bett": [
+            "main clause"
+          ]
+        },
+        "phrases": [
+          {
+            "german": "am Fenster",
+            "english": "by the window",
+            "literal_meaning": "at the window",
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "neben dem Bett",
+            "english": "next to the bed",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "Er steht dort am Fenster",
+            "english": "It is over there by the window",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Der Schrank steht an der Wand, aber vor der Tür steht nichts.",
+      "en": "The wardrobe stands against the wall, but there is nothing in front of the door.",
+      "audio_path": "assets/audio/a1_published/a1-course-020/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "schrank": [
+            "nominative"
+          ],
+          "an": [
+            "preposition",
+            "dative"
+          ],
+          "der": [
+            "dative"
+          ],
+          "wand": [
+            "dative"
+          ],
+          "aber": [
+            "conjunction",
+            "coordinating"
+          ],
+          "vor": [
+            "preposition",
+            "dative"
+          ],
+          "tür": [
+            "dative"
+          ],
+          "nichts": [
+            "indefinite pronoun",
+            "nominative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [
+          {
+            "surface": "steht",
+            "occurrence": 1,
+            "tags": [],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": "stands",
+            "spoken_form": null
+          },
+          {
+            "surface": "steht",
+            "occurrence": 2,
+            "tags": [],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": "is standing",
+            "spoken_form": null
+          }
+        ],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "an der Wand",
+            "english": "against the wall",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "vor der Tür",
+            "english": "in front of the door",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "Der Schrank steht an der Wand",
+            "english": "The wardrobe stands against the wall",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "aber vor der Tür steht nichts",
+            "english": "but there is nothing in front of the door",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "main clause",
+              "verb-second",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Auf dem Tisch steht eine Lampe neben einem Buch.",
+      "en": "A lamp stands on the table next to a book.",
+      "audio_path": "assets/audio/a1_published/a1-course-020/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "auf": [
+            "preposition",
+            "dative"
+          ],
+          "dem": [
+            "dative"
+          ],
+          "tisch": [
+            "dative"
+          ],
+          "eine": [
+            "determiner",
+            "nominative"
+          ],
+          "lampe": [
+            "nominative"
+          ],
+          "neben": [
+            "preposition",
+            "dative"
+          ],
+          "einem": [
+            "determiner",
+            "dative"
+          ],
+          "buch": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "steht": "stands"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Auf dem Tisch",
+            "english": "on the table",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "neben einem Buch",
+            "english": "next to a book",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "Auf dem Tisch steht eine Lampe neben einem Buch",
+            "english": "A lamp stands on the table next to a book",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Where is the table?",
+    "answer_en": "By the window, next to the bed."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_04.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

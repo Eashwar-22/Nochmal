@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a2-course-013",
+  "source_sha256": "0a47e5ccbf3fc780cd413a9fff3c9920f1d6a2462c29bda5809a3378ff1ba437",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "Read both governing documents in full and the exact Lesson 13 blueprint entry; independently reviewed source, compiled artifact and preview without consulting review.json.",
+        "All 73 source tokens have exactly one owner across 67 word cards. Reviewed all 29 phrase cards, source order, repeated forms and the supported ordered-ellipsis construction.",
+        "Strict source/artifact validation and deterministic compilation pass; source hash, generated preview and preserved authored record match.",
+        "All 14 verb references contain complete six-row bilingual present tables and appropriate current-form or additional-tense data.",
+        "All 13 inflection references provide complete four-case tables with correct selected cells, including Guten, Ihrer, einer, mein, mir, formal Sie, feminine sie and im = in + dem.",
+        "Case-bearing article+noun phrases add reference information; clause-level cards avoid indiscriminate case tagging. No unsupported analysis or lesson-specific shared-code branch found.",
+        "16 focused repository tests passed: lesson contract, grammar rulebook and A2 course tests.",
+        "Lesson remains absent from both the A2 publication manifest and mobile catalog."
+      ],
+      "findings": [
+        {
+          "severity": "warning",
+          "location": "lesson-source.json and compiled-lesson.json: lesson audio and sentences 1–6; preview.md: Audio",
+          "rule": "Rulebook §§11–12: audio agreement",
+          "message": "Audio is pending and all audio paths are null, as expected for this pre-audio audit. Generate and verify exact German/audio agreement before release; this does not block candidate-content approval."
+        },
+        {
+          "severity": "warning",
+          "location": "Release verification: complete unit suite and live desktop/mobile lesson inspection",
+          "rule": "Rulebook §§11–13: release verification",
+          "message": "Live reference accessibility, clipping, responsive layout and playback remain later release checks. Run the complete unit suite and inspect the finished lesson at both widths before publication. These outstanding release gates do not block this audit."
+        }
+      ]
+    },
+    {
+      "kind": "language",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "Sentence 1: audited every token; Guten is strong accusative masculine in the greeting, Frau/Klein are correctly distinguished, dürfen governs stören, and formal Sie is the accusative object.",
+        "Sentence 2: Natürlich is a standalone response; was is interrogative, denn a conversational particle, and los predicative. The sein reference is correct.",
+        "Sentence 3: Musik/Wohnung/Stunde are feminine and Kind neuter; aus and seit govern dative; Ihrer/einer and nominative Die/mein have correct references. Laut is undeclined predicative; kann governs schlafen.",
+        "Sentence 4: leidtun correctly owns tut and separated leid; mir is its dative experiencer. Die Zeit is accusative under vergessen, and habe ... vergessen has correct perfect and present reference forms.",
+        "Sentence 5: Könnten is Konjunktiv II governing coordinated infinitives machen/nehmen; Sie is the formal subject. Both die occurrences are correctly accusative, auf is governed by Rücksicht nehmen, and im Haus expresses dative location. Leiser is comparative without attributive declension.",
+        "Sentence 6: Natürlich introduces verb-second inversion; sie refers to feminine singular Musik and is accusative. Nehme is present, ab jetzt is temporal, and mehr is the uninflected comparative quantifier modifying Rücksicht."
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "Reviewed every sentence translation and word/phrase gloss; contextual meanings preserve formal address, requests, apology, negation, degree and commitments.",
+        "Sentence 3 correctly translates German present plus seit with English 'has been ... for an hour'; sentence 4 naturally renders die Zeit vergessen as losing track of time.",
+        "Fixed-expression cards support was ist denn los, tut mir leid and Rücksicht nehmen; literal fields expose useful structure without replacing natural translations.",
+        "Blueprint fit passes: six coherent dialogue turns and 73 words; greeting, stated noise problem, polite könnten-plus-infinitive request, response and concrete agreement are present. All seven target items occur.",
+        "The typed speaking activity supplies two neighbour-problem prompts and explicitly requests constructive responses, matching the blueprint performance task."
+      ],
+      "findings": []
+    }
+  ]
+}

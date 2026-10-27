@@ -1,0 +1,496 @@
+{
+  "id": "a1-course-027",
+  "source_draft_id": "a1-draft-027",
+  "sequence": 27,
+  "band": "A1.1",
+  "format": "dialogue",
+  "title_de": "An der Hotelrezeption",
+  "title_en": "At Hotel Reception",
+  "topic": "checking into a hotel with a reservation",
+  "communicative_goal": "Give a name, show a document, and understand a room number at check-in.",
+  "grammar_focus": "formal possessive Ihr/Ihre in hotel-reception questions",
+  "supporting_structures": [
+    "Ihr Name",
+    "Ihren Pass dabei haben",
+    "ein Einzelzimmer bestellt haben"
+  ],
+  "grammar_notes": [
+    "Ihr is a formal possessive determiner; the ending changes with the noun phrase.",
+    "The perfect form habe ... bestellt places the participle at the end."
+  ],
+  "new_targets": [
+    "das Hotel",
+    "die Rezeption",
+    "das Einzelzimmer",
+    "das Doppelzimmer",
+    "der Pass",
+    "der Schlüssel",
+    "der Koffer"
+  ],
+  "recycled_targets": [
+    "ankommen",
+    "der Abend",
+    "sagen",
+    "haben",
+    "bestellen",
+    "der Name",
+    "zeigen",
+    "bekommen",
+    "heute",
+    "die Uhr"
+  ],
+  "recycles_from": [
+    4,
+    8,
+    10,
+    17,
+    26
+  ],
+  "audio_path": "assets/audio/a1_candidates/a1-course-027/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Mina kommt am Abend mit ihrem Koffer im Hotel an.",
+      "en": "Mina arrives at the hotel in the evening with her suitcase.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-027/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "mina": [
+            "nominative"
+          ],
+          "am": [
+            "preposition",
+            "dative"
+          ],
+          "abend": [
+            "dative"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "ihrem": [
+            "possessive",
+            "dative"
+          ],
+          "koffer": [
+            "dative"
+          ],
+          "im": [
+            "preposition",
+            "dative"
+          ],
+          "hotel": [
+            "dative"
+          ],
+          "an": [
+            "particle"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "an": "separable prefix of ankommen"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "am Abend",
+            "english": "in the evening",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "mit ihrem Koffer",
+            "english": "with her suitcase",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "im Hotel",
+            "english": "at the hotel",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          },
+          {
+            "german": "Mina kommt am Abend mit ihrem Koffer im Hotel an",
+            "english": "Mina arrives at the hotel in the evening with her suitcase",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "separable"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "An der Rezeption sagt sie: „Guten Abend, ich habe ein Einzelzimmer bestellt.“",
+      "en": "At reception she says, “Good evening, I booked a single room.”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-027/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "an": [
+            "preposition",
+            "dative"
+          ],
+          "der": [
+            "dative"
+          ],
+          "rezeption": [
+            "dative"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "guten": [
+            "adjective",
+            "accusative"
+          ],
+          "abend": [
+            "accusative"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "ein": [
+            "determiner",
+            "accusative"
+          ],
+          "einzelzimmer": [
+            "accusative"
+          ],
+          "bestellt": [
+            "verb",
+            "past participle"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "guten": "gut"
+        },
+        "word_meanings": {
+          "bestellt": "booked"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "ich habe ein Einzelzimmer bestellt"
+        ],
+        "excluded_phrase_tags": {
+          "Guten Abend": [
+            "main clause"
+          ]
+        },
+        "phrases": [
+          {
+            "german": "An der Rezeption",
+            "english": "At reception",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "Guten Abend",
+            "english": "Good evening",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "habe ein Einzelzimmer bestellt",
+            "english": "booked a single room",
+            "literal_meaning": "have a single room booked",
+            "tags": [
+              "main clause",
+              "perfect"
+            ]
+          },
+          {
+            "german": "ein Einzelzimmer",
+            "english": "a single room",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Der Mitarbeiter fragt: „Wie ist Ihr Name, und haben Sie Ihren Pass dabei?“",
+      "en": "The employee asks, “What is your name, and do you have your passport with you?”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-027/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "der": [
+            "nominative"
+          ],
+          "mitarbeiter": [
+            "nominative"
+          ],
+          "wie": [
+            "interrogative pronoun"
+          ],
+          "ihr": [
+            "possessive",
+            "nominative",
+            "formal"
+          ],
+          "name": [
+            "nominative"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative",
+            "formal"
+          ],
+          "ihren": [
+            "possessive",
+            "accusative",
+            "formal"
+          ],
+          "pass": [
+            "accusative"
+          ],
+          "dabei": [
+            "adverb"
+          ]
+        },
+        "excluded_word_tags": {
+          "ihr": [
+            "personal pronoun"
+          ]
+        },
+        "base_forms": {},
+        "word_meanings": {
+          "ihr": "your",
+          "sie": "you (formal)",
+          "ihren": "your"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Der Mitarbeiter fragt: „Wie ist Ihr Name",
+          "und haben Sie Ihren Pass dabei"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Wie ist Ihr Name",
+            "english": "What is your name?",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "formal"
+            ]
+          },
+          {
+            "german": "Ihr Name",
+            "english": "your name",
+            "literal_meaning": null,
+            "tags": [
+              "nominative",
+              "formal"
+            ]
+          },
+          {
+            "german": "haben Sie Ihren Pass dabei",
+            "english": "do you have your passport with you?",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "formal"
+            ]
+          },
+          {
+            "german": "Ihren Pass",
+            "english": "your passport",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "formal"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina zeigt den Pass und bekommt den Schlüssel für Zimmer zwölf.",
+      "en": "Mina shows her passport and receives the key to room twelve.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-027/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "mina": [
+            "nominative"
+          ],
+          "den": [
+            "accusative"
+          ],
+          "pass": [
+            "accusative"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "schlüssel": [
+            "accusative"
+          ],
+          "für": [
+            "preposition",
+            "accusative"
+          ],
+          "zimmer": [
+            "accusative"
+          ],
+          "zwölf": [
+            "numeral"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "für Zimmer"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "den Pass",
+            "english": "the passport",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "den Schlüssel",
+            "english": "the key",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "für Zimmer zwölf",
+            "english": "for room twelve",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "Mina zeigt den Pass",
+            "english": "Mina shows her passport",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "und bekommt den Schlüssel für Zimmer zwölf",
+            "english": "and receives the key to room twelve",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "main clause"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Ein Doppelzimmer braucht sie heute nicht.",
+      "en": "She does not need a double room today.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-027/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "ein": [
+            "determiner",
+            "accusative"
+          ],
+          "doppelzimmer": [
+            "accusative"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "heute": [
+            "adverb",
+            "time"
+          ],
+          "nicht": [
+            "particle",
+            "negation"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Ein Doppelzimmer braucht sie heute nicht",
+            "english": "She does not need a double room today",
+            "literal_meaning": "A double room needs she today not",
+            "tags": [
+              "main clause",
+              "inversion",
+              "negation"
+            ]
+          },
+          {
+            "german": "Ein Doppelzimmer",
+            "english": "a double room",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "What is Mina’s room number?",
+    "answer_en": "Room twelve."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_05.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

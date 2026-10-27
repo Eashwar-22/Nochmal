@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a2-course-014",
+  "source_sha256": "9c1e6bcee73f212de831f763b4b83df61613a54ab5c7bd124fa99951e18e11ec",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "gpt-6.1-sol high, focused combined audit-and-fix",
+      "verdict": "pass",
+      "checks": [
+        "Read both required documents, all four candidate files, and the exact Lesson 14 blueprint entry.",
+        "Audited all six sentences: 80 tokens covered exactly once by 74 word cards; 27 phrase cards checked.",
+        "Verified 19 verb references and 12 inflection references, including complete paradigms and correct selected cells.",
+        "Moved sentence 6\u2019s accusative tag and pronoun reference to \u2018mich wieder beruhigen\u2019.",
+        "Rebuilt once; Pydantic validation, candidate validation, source hash, and preview agreement pass.",
+        "Unit tests, audio generation, and release actions were not run."
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "gpt-6.1-sol high, focused combined audit-and-fix",
+      "verdict": "pass",
+      "checks": [
+        "Checked German, noun genders and plurals, case triggers, verb identities and tables, clause order, and adjective functions throughout.",
+        "All visible case forms have correct structured references."
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "gpt-6.1-sol high, focused combined audit-and-fix",
+      "verdict": "pass",
+      "checks": [
+        "Checked every sentence translation, word gloss, phrase meaning, and literal meaning.",
+        "Changed the listening prompt to \u2018What happened yesterday?\u2019 to match \u2018gestern\u2019.",
+        "Confirmed blueprint fit: six turns, 80 words, target reflexive constructions, required chunks, and listening activity."
+      ],
+      "findings": []
+    }
+  ]
+}

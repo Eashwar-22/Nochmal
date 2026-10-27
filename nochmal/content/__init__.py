@@ -1,12 +1,23 @@
 """Published lesson content and its validation contract."""
 
-from .a1_a2_lessons import A1_A2_LESSONS
-from .a1_course_lessons import A1_COURSE_LESSONS
-from .core_lessons import LESSONS as PREPARED_LESSONS
+import re
+
+from .course_library import all_course_lessons, course_lessons, published_lessons
 
 
-# The sequenced foundation course comes first.  The original audio lessons
-# remain available afterwards as additional A2-B2 practice.
-LESSONS = [*A1_COURSE_LESSONS, *A1_A2_LESSONS, *PREPARED_LESSONS]
+# The course corpus is the lesson library. Publication manifests select which
+# reviewed records replace their authored counterparts in the app.
+LESSONS = all_course_lessons()
 
-__all__ = ["A1_COURSE_LESSONS", "A1_A2_LESSONS", "PREPARED_LESSONS", "LESSONS"]
+
+def __getattr__(name: str):
+    """Preserve older per-level imports while allowing every future level."""
+
+    match = re.fullmatch(r"([A-Z]+\d+)_(PUBLISHED|COURSE)_LESSONS", name)
+    if match is None:
+        raise AttributeError(name)
+    level, collection = match.groups()
+    return published_lessons(level.lower()) if collection == "PUBLISHED" else course_lessons(level.lower())
+
+
+__all__ = ["LESSONS"]

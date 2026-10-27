@@ -1,0 +1,380 @@
+{
+  "id": "a1-course-012",
+  "source_draft_id": "a1-draft-012",
+  "sequence": 12,
+  "band": "A1.1",
+  "format": "narrative",
+  "title_de": "Checkpunkt: Eine Woche im Überblick",
+  "title_en": "Checkpoint: A Week at a Glance",
+  "topic": "a weekly routine and a meeting plan",
+  "communicative_goal": "Give a short account of a week and make one arrangement.",
+  "grammar_focus": "review of present tense, separable verbs, time-first order, and können",
+  "supporting_structures": [
+    "am Morgen",
+    "jeden Tag",
+    "am Wochenende",
+    "sich treffen"
+  ],
+  "grammar_notes": [
+    "Am contracts an dem and is used with both masculine and neuter dative time nouns.",
+    "Time-first phrases put the finite verb in second position; auf stands at the end of the separable-verb clause."
+  ],
+  "new_targets": [
+    "der Abend",
+    "jeden Tag",
+    "oft",
+    "das Wochenende"
+  ],
+  "recycled_targets": [
+    "der Morgen",
+    "aufstehen",
+    "gehen",
+    "lernen",
+    "frei",
+    "arbeiten",
+    "sich treffen",
+    "die Stadt"
+  ],
+  "recycles_from": [
+    7,
+    9,
+    10,
+    11
+  ],
+  "audio_path": "assets/audio/a1_published/a1-course-012/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Am Morgen steht Mina jeden Tag früh auf und geht zur Arbeit.",
+      "en": "In the morning, Mina gets up early every day and goes to work.",
+      "audio_path": "assets/audio/a1_published/a1-course-012/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "am": [
+            "preposition",
+            "dative"
+          ],
+          "morgen": [
+            "dative"
+          ],
+          "jeden": [
+            "determiner",
+            "accusative"
+          ],
+          "tag": [
+            "accusative"
+          ],
+          "zur": [
+            "preposition",
+            "dative"
+          ],
+          "arbeit": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "am": "in",
+          "auf": "up"
+        },
+        "spoken_forms": {},
+        "excluded_phrases": [
+          "Am Morgen steht Mina … auf"
+        ],
+        "excluded_phrase_tags": {
+          "und geht zur Arbeit": [
+            "main clause"
+          ]
+        },
+        "phrases": [
+          {
+            "german": "Am Morgen",
+            "english": "in the morning",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "jeden Tag",
+            "english": "every day",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "time",
+              "frequency"
+            ]
+          },
+          {
+            "german": "zur Arbeit",
+            "english": "to work",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "direction"
+            ]
+          },
+          {
+            "german": "Am Morgen steht Mina jeden Tag früh auf",
+            "english": "In the morning, Mina gets up early every day",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "inversion",
+              "separable"
+            ]
+          },
+          {
+            "german": "und geht zur Arbeit",
+            "english": "and goes to work",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "ellipsis"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Am Montag und Dienstag lernt sie am Abend oft Deutsch.",
+      "en": "On Monday and Tuesday, she often studies German in the evening.",
+      "audio_path": "assets/audio/a1_published/a1-course-012/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "am": [
+            "preposition",
+            "dative"
+          ],
+          "montag": [
+            "dative"
+          ],
+          "dienstag": [
+            "dative"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "abend": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "am": "on / in",
+          "sie": "she"
+        },
+        "spoken_forms": {},
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am Montag",
+            "english": "on Monday",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "Am Montag und Dienstag",
+            "english": "on Monday and Tuesday",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "am Abend",
+            "english": "in the evening",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "Am Montag und Dienstag lernt sie am Abend oft Deutsch",
+            "english": "On Monday and Tuesday, she often studies German in the evening",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Am Wochenende ist sie frei, aber Leo arbeitet am Samstag.",
+      "en": "At the weekend, she is free, but Leo works on Saturday.",
+      "audio_path": "assets/audio/a1_published/a1-course-012/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "am": [
+            "preposition",
+            "dative"
+          ],
+          "wochenende": [
+            "dative"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "samstag": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "am": "at / on",
+          "sie": "she"
+        },
+        "spoken_forms": {},
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am Wochenende",
+            "english": "at the weekend",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "am Samstag",
+            "english": "on Saturday",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "Am Wochenende ist sie frei",
+            "english": "At the weekend, she is free",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Am Sonntag treffen sie sich um drei Uhr in der Stadt.",
+      "en": "On Sunday, they meet in the city at three o’clock.",
+      "audio_path": "assets/audio/a1_published/a1-course-012/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "am": [
+            "preposition",
+            "dative"
+          ],
+          "sonntag": [
+            "dative"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "sich": [
+            "reflexive pronoun",
+            "accusative"
+          ],
+          "um": [
+            "preposition",
+            "accusative"
+          ],
+          "uhr": [
+            "accusative"
+          ],
+          "in": [
+            "preposition",
+            "dative"
+          ],
+          "der": [
+            "dative"
+          ],
+          "stadt": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "am": "on",
+          "sie": "they",
+          "sich": "themselves / each other",
+          "um": "at"
+        },
+        "spoken_forms": {},
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am Sonntag",
+            "english": "on Sunday",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "um drei Uhr",
+            "english": "at three o’clock",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "time"
+            ]
+          },
+          {
+            "german": "in der Stadt",
+            "english": "in the city",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "Am Sonntag treffen sie sich um drei Uhr in der Stadt",
+            "english": "On Sunday, they meet in the city at three o’clock",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "inversion",
+              "reflexive"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "When do Mina and Leo meet?",
+    "answer_en": "On Sunday at three o’clock."
+  },
+  "source_basis": [
+    "a1-blueprint",
+    "a1-draft-012",
+    "grammar-breakdown-rulebook"
+  ],
+  "speech_alternatives": []
+}

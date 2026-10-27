@@ -1,0 +1,31 @@
+{
+  "draft_id": "a1-draft-014",
+  "status": "release_ready",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav"
+  ],
+  "sentence_texts": [
+    "Auf dem Markt m\u00f6chte Leo \u00c4pfel und Wasser kaufen.",
+    "Er fragt: \u201eWie viel kostet ein Kilo \u00c4pfel?\u201c",
+    "Die Verk\u00e4uferin antwortet: \u201eDrei Euro, und eine Flasche Wasser kostet einen Euro.\u201c",
+    "Leo findet den Preis billig und nimmt ein Kilo und zwei Flaschen."
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "4e5a96ed7c37d4e2657b89799e972d0fd7da89a230e9c847b238d35a6b005172",
+    "sentence-02.wav": "42dd10695b71503f42defa4c4d3fcaba7419d506f1d5e5cc347f85b17cbf6c9d",
+    "sentence-03.wav": "2a017401348600cf473c55a9bcf8195d83c9e87b0890421be94ea2bb7d386671",
+    "sentence-04.wav": "2934f2c6dd962bccae42d8d64d325b47453ed20e696d1fa77d32c579a80f9931"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "542c61243abda5f2accf175572d1e68b1b79380add54a9c12b4c050698f3e244",
+  "paragraph_assembled_from_sentence_files": true
+}

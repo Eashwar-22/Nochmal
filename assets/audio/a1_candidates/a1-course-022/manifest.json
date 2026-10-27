@@ -1,0 +1,31 @@
+{
+  "draft_id": "a1-draft-022",
+  "status": "draft_unpublished",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav"
+  ],
+  "sentence_texts": [
+    "Heute ist es kalt, und drau\u00dfen gibt es viel Wind und Regen.",
+    "Mina m\u00f6chte mit dem Hund nach drau\u00dfen gehen, aber die Sonne scheint nicht.",
+    "Deshalb wartet sie heute noch kurz in der Wohnung.",
+    "Sp\u00e4ter stellt sie die Blume vom Balkon an das Fenster."
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "0692f328d06991f7a6050fb9930e963472ff490c48cabf568e30a46513ec7c2b",
+    "sentence-02.wav": "7494184a22286c8b6d3b1fd57dc793abf7707beef093c9d9eff2bcf77f324098",
+    "sentence-03.wav": "b17eea3929d90ee7c57c3773095af1b1aa75c4822bce1bc5002a247d7167f4eb",
+    "sentence-04.wav": "247dfea09634334adac0fd3c59c7c502d15f832a3dc56b516d1eb928a7cefd0d"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "52dd2e2e0d0cf0ce70ed85dc3dc8c41c90798109dad40dda1a9b74c80f9bc308",
+  "paragraph_assembled_from_sentence_files": true
+}

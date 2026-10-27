@@ -1,0 +1,486 @@
+{
+  "id": "a1-course-036",
+  "source_draft_id": "a1-draft-036",
+  "sequence": 36,
+  "band": "A1.2",
+  "format": "dialogue",
+  "title_de": "Checkpunkt: Drei Erledigungen",
+  "title_en": "Checkpoint: Three Errands",
+  "topic": "solving a simple problem at a pharmacy, post office, or bank",
+  "communicative_goal": "State an immediate need, ask for help, and act on one short instruction.",
+  "grammar_focus": "review of service questions, imperatives, accusative choices, and problem statements",
+  "supporting_structures": [
+    "Wo muss ich dieses Rezept abgeben",
+    "Ist das richtig",
+    "Die Karte geht nicht"
+  ],
+  "grammar_notes": [
+    "This checkpoint consolidates Module 6 forms and introduces no substantial grammar."
+  ],
+  "new_targets": [
+    "Ich brauche Hilfe",
+    "Wo muss ich …",
+    "Das geht nicht",
+    "Ist das richtig",
+    "Vielen Dank für Ihre Hilfe"
+  ],
+  "recycled_targets": [
+    "das Rezept",
+    "die Apotheke",
+    "das Formular",
+    "ausfüllen",
+    "die Post",
+    "der Brief",
+    "annehmen",
+    "die Karte",
+    "der Automat",
+    "die Bank"
+  ],
+  "recycles_from": [
+    23,
+    24,
+    31,
+    32,
+    33,
+    34,
+    35
+  ],
+  "audio_path": "assets/audio/a1_candidates/a1-course-036/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Zuerst fragt Leo in der Apotheke: „Wo muss ich dieses Rezept abgeben?“",
+      "en": "First Leo asks at the pharmacy, “Where do I have to hand in this prescription?”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-036/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Zuerst": [
+            "adverb",
+            "time"
+          ],
+          "Leo": [
+            "nominative"
+          ],
+          "in": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "der": [
+            "dative"
+          ],
+          "Apotheke": [
+            "dative"
+          ],
+          "Wo": [
+            "interrogative pronoun",
+            "place"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "dieses": [
+            "determiner",
+            "accusative"
+          ],
+          "Rezept": [
+            "accusative"
+          ],
+          "abgeben": [
+            "verb",
+            "infinitive"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Zuerst fragt Leo in der Apotheke",
+            "english": "First Leo asks at the pharmacy",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "in der Apotheke",
+            "english": "at the pharmacy",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "Wo muss ich dieses Rezept abgeben",
+            "english": "Where do I have to hand in this prescription?",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "dieses Rezept",
+            "english": "this prescription",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Danach füllt er bei der Post ein Formular aus und fragt: „Ist das richtig?“",
+      "en": "Afterwards he fills in a form at the post office and asks, “Is that correct?”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-036/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Danach": [
+            "adverb",
+            "time"
+          ],
+          "er": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "bei": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "der": [
+            "dative"
+          ],
+          "Post": [
+            "dative"
+          ],
+          "ein": [
+            "determiner",
+            "accusative"
+          ],
+          "Formular": [
+            "accusative"
+          ],
+          "aus": [
+            "particle"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "das": [
+            "demonstrative pronoun",
+            "nominative"
+          ],
+          "richtig": [
+            "adjective",
+            "predicate"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "füllt": "ausfüllen"
+        },
+        "word_meanings": {
+          "füllt": "fills out",
+          "aus": "separable prefix of ausfüllen",
+          "das": "that"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Danach füllt er bei der Post ein Formular aus",
+            "english": "Afterwards he fills in a form at the post office",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "separable"
+            ]
+          },
+          {
+            "german": "bei der Post",
+            "english": "at the post office",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "ein Formular",
+            "english": "a form",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "Ist das richtig",
+            "english": "Is that correct?",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Die Mitarbeiterin hilft ihm und nimmt den Brief an.",
+      "en": "The employee helps him and accepts the letter.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-036/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Die": [
+            "nominative"
+          ],
+          "Mitarbeiterin": [
+            "nominative"
+          ],
+          "ihm": [
+            "personal pronoun",
+            "dative"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "den": [
+            "article",
+            "accusative"
+          ],
+          "Brief": [
+            "accusative"
+          ],
+          "an": [
+            "particle"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "ihm": "er",
+          "nimmt": "annehmen"
+        },
+        "word_meanings": {
+          "ihm": "him",
+          "nimmt": "accepts",
+          "an": "separable prefix of annehmen"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "hilft ihm",
+            "english": "helps him",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "nimmt den Brief an",
+            "english": "accepts the letter",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "separable"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Später funktioniert seine Karte am Automaten nicht, und Leo geht in die Bank.",
+      "en": "Later his card does not work at the cash machine, and Leo goes into the bank.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-036/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Später": [
+            "adverb",
+            "time"
+          ],
+          "seine": [
+            "possessive",
+            "determiner",
+            "nominative"
+          ],
+          "Karte": [
+            "nominative"
+          ],
+          "am": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Automaten": [
+            "dative"
+          ],
+          "nicht": [
+            "negation"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "Leo": [
+            "nominative"
+          ],
+          "in": [
+            "preposition",
+            "accusative",
+            "direction"
+          ],
+          "die": [
+            "accusative"
+          ],
+          "Bank": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "seine Karte",
+            "english": "his card",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "am Automaten",
+            "english": "at the cash machine",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          },
+          {
+            "german": "Später funktioniert seine Karte am Automaten nicht",
+            "english": "Later his card does not work at the cash machine",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "negation"
+            ]
+          },
+          {
+            "german": "in die Bank",
+            "english": "into the bank",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Dort sagt er: „Ich brauche Hilfe; die Karte geht nicht.“",
+      "en": "There he says, “I need help; the card does not work.”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-036/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Dort": [
+            "adverb",
+            "place"
+          ],
+          "er": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "Ich": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "Hilfe": [
+            "accusative"
+          ],
+          "die": [
+            "nominative"
+          ],
+          "Karte": [
+            "nominative"
+          ],
+          "nicht": [
+            "negation"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "geht": "works"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Dort sagt er",
+            "english": "There he says",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "Ich brauche Hilfe",
+            "english": "I need help",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "die Karte geht nicht",
+            "english": "the card does not work",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "negation"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "At which errand does Leo’s card fail?",
+    "answer_en": "At the cash machine before he goes into the bank."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_06.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

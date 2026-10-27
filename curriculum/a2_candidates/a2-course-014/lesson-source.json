@@ -1,0 +1,637 @@
+{
+  "id": "a2-course-014",
+  "source_draft_id": "a2-draft-014",
+  "sequence": 62,
+  "band": "A2.1",
+  "format": "dialogue",
+  "title_de": "Entschuldigung wegen des Lärms",
+  "title_en": "I’m Sorry About the Noise",
+  "topic": "apologizing for a noisy evening",
+  "communicative_goal": "Apologize for a specific action and respond to the apology.",
+  "grammar_focus": "accusative reflexive pronouns with common reflexive verbs",
+  "supporting_structures": [
+    "mich entschuldigen",
+    "mich geärgert",
+    "mich beruhigen"
+  ],
+  "grammar_notes": [],
+  "new_targets": [
+    "sich entschuldigen",
+    "sich ärgern",
+    "der Lärm",
+    "sich beruhigen",
+    "versprechen",
+    "unangenehm"
+  ],
+  "recycled_targets": [
+    "die Musik",
+    "gestern",
+    "weil",
+    "leise",
+    "kein Problem"
+  ],
+  "recycles_from": [
+    13,
+    1,
+    3
+  ],
+  "audio_path": "assets/audio/a2_candidates/a2-course-014/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Es tut mir leid; ich möchte mich für den Lärm entschuldigen.",
+      "en": "I am sorry; I would like to apologize for the noise.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-014/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Es": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "mir": [
+            "personal pronoun",
+            "dative",
+            "singular"
+          ],
+          "mich": [
+            "reflexive pronoun",
+            "personal pronoun",
+            "accusative",
+            "singular"
+          ],
+          "für": [
+            "preposition",
+            "accusative"
+          ],
+          "den": [
+            "article",
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "tut": "leidtun",
+          "entschuldigen": "sich entschuldigen",
+          "möchte": "mögen"
+        },
+        "word_meanings": {
+          "tut": "causes regret",
+          "leid": "regret (part of leidtun)",
+          "für": "for"
+        },
+        "verb_components": {
+          "tut": [
+            "leid"
+          ]
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "tut mir leid",
+            "english": "am sorry",
+            "literal_meaning": "causes regret to me",
+            "tags": [
+              "dative",
+              "fixed phrase",
+              "separable"
+            ]
+          },
+          {
+            "german": "möchte mich ... entschuldigen",
+            "english": "would like to apologize",
+            "literal_meaning": null,
+            "tags": [
+              "modal verb",
+              "reflexive",
+              "accusative",
+              "infinitive"
+            ]
+          },
+          {
+            "german": "für den Lärm",
+            "english": "for the noise",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Ich habe mich darüber geärgert, dass du nicht früher an die Nachbarn gedacht hast.",
+      "en": "I was annoyed that you hadn’t thought of the neighbours earlier.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-014/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Ich": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "mich": [
+            "reflexive pronoun",
+            "personal pronoun",
+            "accusative",
+            "singular"
+          ],
+          "darüber": [
+            "adverb"
+          ],
+          "dass": [
+            "conjunction",
+            "subordinating"
+          ],
+          "nicht": [
+            "negation"
+          ],
+          "früher": [
+            "adverb",
+            "time"
+          ],
+          "an": [
+            "preposition",
+            "accusative"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "du": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "Nachbarn": [
+            "noun",
+            "plural"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "geärgert": "sich ärgern",
+          "gedacht": "denken"
+        },
+        "word_meanings": {
+          "darüber": "about it",
+          "gedacht": "thought",
+          "früher": "earlier",
+          "an": "of / about",
+          "Nachbarn": "neighbours"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "habe mich darüber geärgert",
+            "english": "was annoyed about it",
+            "literal_meaning": null,
+            "tags": [
+              "reflexive",
+              "perfect",
+              "accusative"
+            ]
+          },
+          {
+            "german": "dass du nicht früher an die Nachbarn gedacht hast",
+            "english": "that you hadn’t thought of the neighbours earlier",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final",
+              "perfect",
+              "negation"
+            ]
+          },
+          {
+            "german": "an die Nachbarn",
+            "english": "of the neighbours",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Ich habe gestern mit Freundinnen gefeiert, weil wir den Geburtstag meiner Schwester nachgeholt haben.",
+      "en": "I celebrated with friends yesterday because we were celebrating my sister’s birthday belatedly.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-014/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Ich": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "weil": [
+            "conjunction",
+            "subordinating"
+          ],
+          "den": [
+            "article",
+            "accusative"
+          ],
+          "meiner": [
+            "possessive",
+            "genitive"
+          ],
+          "Schwester": [
+            "noun"
+          ],
+          "gestern": [
+            "adverb",
+            "time"
+          ],
+          "Freundinnen": [
+            "noun",
+            "plural"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "gefeiert": "feiern",
+          "nachgeholt": "nachholen",
+          "Freundinnen": "die Freundin"
+        },
+        "word_meanings": {
+          "nachgeholt": "celebrated belatedly",
+          "mit": "with",
+          "Freundinnen": "friends"
+        },
+        "verb_meanings": {
+          "nachgeholt": "to celebrate belatedly"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "mit Freundinnen gefeiert",
+            "english": "celebrated with friends",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "perfect"
+            ]
+          },
+          {
+            "german": "weil wir den Geburtstag meiner Schwester nachgeholt haben",
+            "english": "because we were celebrating my sister’s birthday belatedly",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final",
+              "perfect"
+            ]
+          },
+          {
+            "german": "meiner Schwester",
+            "english": "of my sister",
+            "literal_meaning": null,
+            "tags": [
+              "genitive"
+            ]
+          },
+          {
+            "german": "den Geburtstag",
+            "english": "the birthday",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "mit Freundinnen",
+            "english": "with friends",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Das verstehe ich, und die Situation war mir selbst unangenehm.",
+      "en": "I understand that, and I felt uncomfortable about the situation myself.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-014/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Das": [
+            "demonstrative pronoun",
+            "accusative"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "die": [
+            "article",
+            "nominative"
+          ],
+          "mir": [
+            "personal pronoun",
+            "dative",
+            "singular"
+          ],
+          "selbst": [
+            "particle"
+          ],
+          "unangenehm": [
+            "adjective",
+            "predicate"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "Das": "that",
+          "selbst": "myself"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Das verstehe ich",
+            "english": "I understand that",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "die Situation",
+            "english": "the situation",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "war mir selbst unangenehm",
+            "english": "was uncomfortable for me personally",
+            "literal_meaning": null,
+            "tags": [
+              "simple past",
+              "dative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Ich verspreche, dass es heute Abend ruhig bleibt und die Musik um zehn Uhr leiser ist.",
+      "en": "I promise that it will stay quiet this evening and that the music will be quieter at ten o’clock.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-014/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Ich": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "dass": [
+            "conjunction",
+            "subordinating"
+          ],
+          "es": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "heute": [
+            "adverb",
+            "time"
+          ],
+          "ruhig": [
+            "adjective",
+            "predicate"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "die": [
+            "article",
+            "nominative"
+          ],
+          "um": [
+            "preposition",
+            "time",
+            "accusative"
+          ],
+          "zehn": [
+            "numeral"
+          ],
+          "leiser": [
+            "adjective",
+            "comparative",
+            "predicate"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "verspreche": "versprechen"
+        },
+        "word_meanings": {
+          "um": "at",
+          "bleibt": "stays / will stay",
+          "ist": "is / will be"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {
+          "und die Musik um zehn Uhr leiser ist": [
+            "main clause"
+          ]
+        },
+        "phrases": [
+          {
+            "german": "dass es heute Abend ruhig bleibt und die Musik um zehn Uhr leiser ist",
+            "english": "that it will stay quiet this evening and that the music will be quieter at ten o’clock",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final"
+            ]
+          },
+          {
+            "german": "die Musik",
+            "english": "the music",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "und die Musik um zehn Uhr leiser ist",
+            "english": "and that the music will be quieter at ten o’clock",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final"
+            ]
+          },
+          {
+            "german": "um zehn Uhr",
+            "english": "at ten o’clock",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Danke, dann kann ich mich wieder beruhigen; kein Problem, wenn es heute Abend leise bleibt.",
+      "en": "Thank you, then I can calm down again; no problem if it stays quiet this evening.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-014/sentence-06.wav",
+      "annotations": {
+        "word_tags": {
+          "Danke": [
+            "interjection"
+          ],
+          "dann": [
+            "adverb",
+            "time"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "mich": [
+            "reflexive pronoun",
+            "personal pronoun",
+            "accusative",
+            "singular"
+          ],
+          "wieder": [
+            "adverb",
+            "time"
+          ],
+          "kein": [
+            "determiner",
+            "nominative"
+          ],
+          "wenn": [
+            "conjunction",
+            "subordinating"
+          ],
+          "es": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "heute": [
+            "adverb",
+            "time"
+          ],
+          "leise": [
+            "adjective",
+            "predicate"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "beruhigen": "sich beruhigen"
+        },
+        "word_meanings": {
+          "wenn": "if",
+          "leise": "quiet",
+          "bleibt": "stays"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "dann kann ich … beruhigen",
+          "Danke, dann kann ich mich wieder beruhigen; kein Problem"
+        ],
+        "excluded_phrase_tags": {
+          "wenn es heute Abend leise bleibt": [
+            "main clause"
+          ]
+        },
+        "phrases": [
+          {
+            "german": "dann kann ich mich wieder beruhigen",
+            "english": "then I can calm down again",
+            "literal_meaning": null,
+            "tags": [
+              "inversion",
+              "modal verb",
+              "reflexive",
+              "infinitive"
+            ]
+          },
+          {
+            "german": "mich wieder beruhigen",
+            "english": "calm down again",
+            "literal_meaning": null,
+            "tags": [
+              "reflexive",
+              "accusative",
+              "infinitive"
+            ]
+          },
+          {
+            "german": "kein Problem",
+            "english": "no problem",
+            "literal_meaning": null,
+            "tags": [
+              "nominative",
+              "ellipsis",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "wenn es heute Abend leise bleibt",
+            "english": "if it stays quiet this evening",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Why does the speaker apologize?",
+    "answer_en": "Because the music was too loud during a delayed birthday celebration."
+  },
+  "source_basis": [
+    "curriculum/a2_blueprint.md",
+    "A2 Lesson 14"
+  ],
+  "speech_alternatives": [],
+  "performance_activity": {
+    "kind": "listening",
+    "instruction": "Listen to the neighbour conversation, then identify the event, both people’s feelings, and the promised change.",
+    "prompts": [
+      "What happened yesterday?",
+      "How did the neighbour feel about the noise, and how did the speaker feel about the situation?",
+      "What does the speaker promise to change?"
+    ]
+  }
+}

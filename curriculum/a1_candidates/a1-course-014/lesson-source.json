@@ -1,0 +1,362 @@
+{
+  "id": "a1-course-014",
+  "source_draft_id": "a1-draft-014",
+  "sequence": 14,
+  "band": "A1.1",
+  "format": "dialogue",
+  "title_de": "Wie viel kostet das?",
+  "title_en": "How Much Is It?",
+  "topic": "asking about prices at a market",
+  "communicative_goal": "Ask how much an item costs and understand a simple price.",
+  "grammar_focus": "wie viel questions and quantity noun phrases",
+  "supporting_structures": [
+    "auf dem Markt",
+    "wie viel kostet",
+    "ein Kilo Äpfel",
+    "eine Flasche Wasser"
+  ],
+  "grammar_notes": [
+    "Auf dem Markt is a fixed location phrase with dative.",
+    "Wie viel introduces a question; the finite verb kostet stays in second position."
+  ],
+  "new_targets": [
+    "der Markt",
+    "kaufen",
+    "kosten",
+    "das Kilo",
+    "der Euro",
+    "die Flasche",
+    "billig"
+  ],
+  "recycled_targets": [
+    "der Apfel",
+    "das Wasser",
+    "möchten",
+    "nehmen",
+    "fragen",
+    "die Verkäuferin",
+    "ein",
+    "zwei",
+    "drei"
+  ],
+  "recycles_from": [
+    8,
+    13
+  ],
+  "audio_path": "assets/audio/a1_candidates/a1-course-014/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Auf dem Markt möchte Leo Äpfel und Wasser kaufen.",
+      "en": "At the market, Leo would like to buy apples and water.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-014/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "auf": [
+            "preposition",
+            "dative"
+          ],
+          "dem": [
+            "dative"
+          ],
+          "markt": [
+            "dative"
+          ],
+          "äpfel": [
+            "accusative",
+            "plural"
+          ],
+          "wasser": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Auf dem Markt möchte Leo Äpfel",
+          "und Wasser kaufen"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Auf dem Markt",
+            "english": "at the market",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "Äpfel und Wasser kaufen",
+            "english": "buy apples and water",
+            "literal_meaning": null,
+            "tags": [
+              "modal verb"
+            ]
+          },
+          {
+            "german": "Auf dem Markt möchte Leo Äpfel und Wasser kaufen",
+            "english": "At the market, Leo would like to buy apples and water",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "inversion",
+              "modal verb"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Er fragt: „Wie viel kostet ein Kilo Äpfel?“",
+      "en": "He asks, “How much does a kilo of apples cost?”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-014/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "er": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "wie": [
+            "adverb"
+          ],
+          "viel": [
+            "numeral"
+          ],
+          "ein": [
+            "determiner",
+            "nominative"
+          ],
+          "kilo": [
+            "nominative"
+          ],
+          "äpfel": [
+            "plural"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "wie": "how",
+          "viel": "much"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "ein Kilo Äpfel",
+            "english": "a kilo of apples",
+            "literal_meaning": "a kilo apples",
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "Wie viel kostet ein Kilo Äpfel",
+            "english": "How much does a kilo of apples cost?",
+            "literal_meaning": "How much costs a kilo apples?",
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Die Verkäuferin antwortet: „Drei Euro, und eine Flasche Wasser kostet einen Euro.“",
+      "en": "The saleswoman answers, “Three euros, and a bottle of water costs one euro.”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-014/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "die": [
+            "nominative"
+          ],
+          "verkäuferin": [
+            "nominative"
+          ],
+          "eine": [
+            "nominative"
+          ],
+          "flasche": [
+            "nominative"
+          ],
+          "wasser": [
+            "nominative"
+          ],
+          "einen": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [
+          {
+            "surface": "Euro",
+            "occurrence": 1,
+            "tags": [
+              "plural"
+            ],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": null,
+            "spoken_form": null
+          },
+          {
+            "surface": "Euro",
+            "occurrence": 2,
+            "tags": [
+              "accusative"
+            ],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": null,
+            "spoken_form": null
+          }
+        ],
+        "excluded_phrases": [
+          "Die Verkäuferin antwortet: „Drei Euro"
+        ],
+        "excluded_phrase_tags": {
+          "Drei Euro": [
+            "main clause"
+          ]
+        },
+        "phrases": [
+          {
+            "german": "Die Verkäuferin",
+            "english": "the sales assistant",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "Drei Euro",
+            "english": "three euros",
+            "literal_meaning": null,
+            "tags": [
+              "plural"
+            ]
+          },
+          {
+            "german": "eine Flasche Wasser",
+            "english": "a bottle of water",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "einen Euro",
+            "english": "one euro",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "und eine Flasche Wasser kostet einen Euro",
+            "english": "and a bottle of water costs one euro",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "main clause"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Leo findet den Preis billig und nimmt ein Kilo und zwei Flaschen.",
+      "en": "Leo finds the price cheap and takes one kilo and two bottles.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-014/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "den": [
+            "accusative"
+          ],
+          "preis": [
+            "accusative"
+          ],
+          "billig": [
+            "adjective"
+          ],
+          "ein": [
+            "accusative"
+          ],
+          "kilo": [
+            "accusative"
+          ],
+          "flaschen": [
+            "accusative",
+            "plural"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "zwei Flaschen"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "den Preis",
+            "english": "the price",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "ein Kilo und zwei Flaschen",
+            "english": "one kilo and two bottles",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "Leo findet den Preis billig",
+            "english": "Leo finds the price cheap",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "und nimmt ein Kilo und zwei Flaschen",
+            "english": "and takes one kilo and two bottles",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "main clause",
+              "ellipsis"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "How much does one bottle of water cost?",
+    "answer_en": "One euro."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_03.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

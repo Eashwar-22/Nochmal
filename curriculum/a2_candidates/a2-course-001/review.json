@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a2-course-001",
+  "source_sha256": "a489a439a10c719e7d030195a09a1d82fa29303a2518498dfcf185058e7c6e52",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token coverage",
+        "verb and inflection reference coverage",
+        "exact phrase-source linkage",
+        "controlled tag and glossary contract"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "past-event narrative flow",
+        "natural result phrasing",
+        "consistent appointment storyline"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "natural past-event translations",
+        "A2.1 narrative scope",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

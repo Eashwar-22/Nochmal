@@ -43,6 +43,7 @@ do not pass unstructured dictionaries into the renderer.
 | `VerbHelp` | the fixed verb-reference data |
 | `InflectionHelp` | the fixed case/declension-reference data |
 | `SpeechAlternative` | one deliberately accepted speaking alternative |
+| `PerformanceActivity` | one typed retrieval task with concrete prompts |
 
 ### 2.1 No free-form hover fields
 
@@ -70,7 +71,8 @@ using an adjective paradigm or a plural slot marked singular.
 Keep each fact in one place:
 
 - curriculum JSON: passage text, translation, sequence, audio paths,
-  `SentenceAnnotations` inputs (including concise contextual word meanings)
+  `SentenceAnnotations` inputs (including concise contextual word meanings
+  and numbered context for repeated surface forms, including contextual verb senses)
   and deliberate speaking alternatives;
 - Pydantic models: allowed fields and combinations;
 - `grammar_reference.py`: complete reusable paradigms;
@@ -207,6 +209,8 @@ Supported shared tables are:
 - definite articles;
 - indefinite articles;
 - possessive determiners;
+- der-word determiners such as `jeder`;
+- negative determiners such as `kein`;
 - weak adjective endings;
 - mixed adjective endings;
 - strong adjective endings; and
@@ -379,7 +383,7 @@ A lesson may enter the published lesson list only when all of these pass.
 - [ ] Curriculum validation passes.
 - [ ] The complete unit-test suite passes.
 - [ ] New paradigms have model, table and rendering tests.
-- [ ] The lesson has been inspected in the running app.
+- [ ] The generated mobile package and installed files pass their integrity checks.
 - [ ] The lesson remains hidden until every blocking item passes.
 
 ## 13. Required integration sequence
@@ -392,9 +396,10 @@ For every new lesson:
 4. Add `VerbHelp` and `InflectionHelp`; do not write tooltip prose.
 5. Validate the Pydantic objects.
 6. Run curriculum and unit tests.
-7. Inspect the running app at desktop and mobile widths.
-8. Run the release validator, then add the lesson ID to
-   `curriculum/a1_course/publication.json` only after all checks pass.
+7. Build and verify the mobile package.
+8. Run the release validator, then use the publish command to add the lesson
+   ID to its level's `curriculum/a1_published/publication.json` or
+   `curriculum/a2_published/publication.json` only after all checks pass.
 
 This sequence is the reusable learning-content system. Do not replace it with
 lesson-specific UI, sentence-string branches in shared code, or generated

@@ -1,0 +1,388 @@
+{
+  "id": "a1-course-017",
+  "source_draft_id": "a1-draft-017",
+  "sequence": 17,
+  "band": "A1.1",
+  "format": "dialogue",
+  "title_de": "Im Café",
+  "title_en": "At the Café",
+  "topic": "ordering and paying at a café",
+  "communicative_goal": "Order a drink or meal and ask for the bill.",
+  "grammar_focus": "können in a polite service question",
+  "supporting_structures": [
+    "im Café",
+    "ein kleines Essen",
+    "Kann ich ... haben?",
+    "die Rechnung, bitte",
+    "mit Karte"
+  ],
+  "grammar_notes": [
+    "Im contracts in dem and marks a location with dative.",
+    "Kann is first in the polite yes/no question, while haben remains infinitive at the end."
+  ],
+  "new_targets": [
+    "das Café",
+    "die Speisekarte",
+    "bestellen",
+    "das Essen",
+    "die Rechnung",
+    "zahlen",
+    "bar",
+    "die Karte"
+  ],
+  "recycled_targets": [
+    "lesen",
+    "der Tee",
+    "der Kaffee",
+    "die Milch",
+    "können",
+    "bitte",
+    "fragen",
+    "sagen"
+  ],
+  "recycles_from": [
+    9,
+    11,
+    13,
+    15
+  ],
+  "audio_path": "assets/audio/a1_published/a1-course-017/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Im Café lesen Mina und Leo zuerst die Speisekarte.",
+      "en": "At the café, Mina and Leo first read the menu.",
+      "audio_path": "assets/audio/a1_published/a1-course-017/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "im": [
+            "preposition",
+            "dative"
+          ],
+          "café": [
+            "dative"
+          ],
+          "zuerst": [
+            "adverb"
+          ],
+          "die": [
+            "accusative"
+          ],
+          "speisekarte": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Im Café",
+            "english": "at the café",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "die Speisekarte",
+            "english": "the menu",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "Im Café lesen Mina und Leo zuerst die Speisekarte",
+            "english": "At the café, Mina and Leo first read the menu",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina bestellt ein kleines Essen und einen Tee.",
+      "en": "Mina orders a small meal and a tea.",
+      "audio_path": "assets/audio/a1_published/a1-course-017/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "ein": [
+            "determiner",
+            "accusative"
+          ],
+          "kleines": [
+            "adjective",
+            "accusative"
+          ],
+          "essen": [
+            "accusative"
+          ],
+          "einen": [
+            "determiner",
+            "accusative"
+          ],
+          "tee": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "kleines": "klein"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "ein kleines Essen",
+            "english": "a small meal",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "einen Tee",
+            "english": "a tea",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Leo fragt: „Kann ich bitte einen Kaffee mit Milch haben?“",
+      "en": "Leo asks, “Can I please have a coffee with milk?”",
+      "audio_path": "assets/audio/a1_published/a1-course-017/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "ich": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "bitte": [
+            "particle"
+          ],
+          "einen": [
+            "determiner",
+            "accusative"
+          ],
+          "kaffee": [
+            "accusative"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "milch": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "mit Milch",
+            "english": "with milk",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "einen Kaffee mit Milch",
+            "english": "a coffee with milk",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "Kann ich bitte einen Kaffee mit Milch haben",
+            "english": "Can I please have a coffee with milk?",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "modal verb"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Nach dem Essen sagt Mina: „Die Rechnung, bitte.“",
+      "en": "After the meal, Mina says, “The bill, please.”",
+      "audio_path": "assets/audio/a1_published/a1-course-017/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "nach": [
+            "preposition",
+            "dative"
+          ],
+          "dem": [
+            "dative"
+          ],
+          "essen": [
+            "dative"
+          ],
+          "die": [
+            "accusative"
+          ],
+          "rechnung": [
+            "accusative"
+          ],
+          "bitte": [
+            "particle"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Nach dem Essen sagt Mina"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Nach dem Essen",
+            "english": "after the meal",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "Nach dem Essen sagt Mina",
+            "english": "After the meal, Mina says",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "inversion"
+            ]
+          },
+          {
+            "german": "Die Rechnung, bitte",
+            "english": "The bill, please.",
+            "literal_meaning": "The bill, please",
+            "tags": [
+              "accusative",
+              "fixed phrase",
+              "ellipsis"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Sie zahlt mit Karte, und Leo bezahlt seinen Kaffee bar.",
+      "en": "She pays by card, and Leo pays cash for his coffee.",
+      "audio_path": "assets/audio/a1_published/a1-course-017/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "karte": [
+            "dative"
+          ],
+          "seinen": [
+            "possessive",
+            "determiner",
+            "accusative"
+          ],
+          "kaffee": [
+            "accusative"
+          ],
+          "bar": [
+            "adverb"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "sie": "she",
+          "bar": "in cash"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "mit Karte",
+            "english": "by card",
+            "literal_meaning": "with card",
+            "tags": [
+              "dative",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "seinen Kaffee",
+            "english": "his coffee",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "Sie zahlt mit Karte",
+            "english": "She pays by card",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "und Leo bezahlt seinen Kaffee bar",
+            "english": "and Leo pays cash for his coffee",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "main clause",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "How does Mina pay?",
+    "answer_en": "By card."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_03.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

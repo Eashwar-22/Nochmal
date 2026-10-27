@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-033",
+  "source_sha256": "cfb14cd9bff841e7df96667759b23998cee1a0cdbd6d271e63ee47f126242525",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token coverage",
+        "accusative determiner references",
+        "adjective declension references",
+        "anprobieren separable analysis"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "clothing-choice dialogue",
+        "fit and price wording",
+        "demonstrative die reference",
+        "masculine den example"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "take-versus-wear correction",
+        "size pronunciation",
+        "colour comparison",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

@@ -1,0 +1,1627 @@
+[
+  {
+    "id": "a2-course-067",
+    "source_draft_id": "a2-draft-067",
+    "sequence": 115,
+    "band": "A2.2",
+    "format": "narrative",
+    "title_de": "Damals in unserem Viertel",
+    "title_en": "Back Then in Our Neighbourhood",
+    "topic": "remembering a childhood neighborhood",
+    "communicative_goal": "Give a connected description of familiar life in the past.",
+    "grammar_focus": "connected past with war, hatte, and Perfekt",
+    "supporting_structures": [
+      "In meiner Kindheit",
+      "wir hatten",
+      "Damals gab es"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "die Kindheit",
+      "die Vergangenheit"
+    ],
+    "recycled_targets": [
+      "die Heimat",
+      "das Dorf",
+      "die Ferien",
+      "sich erinnern",
+      "damals",
+      "die Geschichte"
+    ],
+    "recycles_from": [
+      2,
+      58
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "In meiner Kindheit wohnte ich mit meiner Familie in einem kleinen Dorf.",
+        "en": "In my childhood I lived with my family in a small village.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "meiner": [
+              "possessive",
+              "determiner",
+              "dative"
+            ],
+            "einem": [
+              "article",
+              "dative"
+            ],
+            "kleinen": [
+              "adjective",
+              "dative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "wohnte": "wohnen",
+            "kleinen": "klein"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "In meiner Kindheit",
+              "english": "in my childhood",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "in einem kleinen Dorf",
+              "english": "in a small village",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Unser Haus war alt, aber wir hatten einen großen Garten.",
+        "en": "Our house was old, but we had a large garden.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Unser": [
+              "possessive",
+              "determiner",
+              "nominative"
+            ],
+            "großen": [
+              "adjective",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "war": "sein",
+            "hatten": "haben",
+            "großen": "groß"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "wir hatten einen großen Garten",
+              "english": "we had a large garden",
+              "literal_meaning": null,
+              "tags": [
+                "simple past",
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "In den Ferien habe ich oft mit den Nachbarskindern gespielt.",
+        "en": "During the holidays I often played with the neighborhood children.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {
+            "gespielt": "spielen"
+          },
+          "word_meanings": {
+            "Nachbarskindern": "neighborhood children"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "In den Ferien",
+              "english": "during the holidays",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "mit den Nachbarskindern",
+              "english": "with the neighborhood children",
+              "literal_meaning": null,
+              "tags": [
+                "dative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Damals gab es wenig Verkehr, deshalb konnten wir draußen Rad fahren.",
+        "en": "Back then there was little traffic, so we could cycle outside.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Damals": [
+              "adverb",
+              "time"
+            ],
+            "deshalb": [
+              "connector"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "gab": "geben",
+            "konnten": "können"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Damals gab es wenig Verkehr",
+              "english": "back then there was little traffic",
+              "literal_meaning": null,
+              "tags": [
+                "simple past"
+              ]
+            },
+            {
+              "german": "deshalb konnten wir draußen Rad fahren",
+              "english": "so we could cycle outside",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "modal verb",
+                "simple past",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "An diese Zeit erinnere ich mich noch gern.",
+        "en": "I still remember that time fondly.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "diese": [
+              "determiner",
+              "accusative"
+            ],
+            "mich": [
+              "reflexive pronoun",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "erinnere": "sich erinnern"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "An diese Zeit",
+              "english": "of that time",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "erinnere ich mich",
+              "english": "I remember",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "reflexive"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "Where did the speaker live as a child?",
+      "answer_en": "In a small village."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 67"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-068",
+    "source_draft_id": "a2-draft-068",
+    "sequence": 116,
+    "band": "A2.2",
+    "format": "description",
+    "title_de": "Als ich ein Kind war",
+    "title_en": "When I Was a Child",
+    "topic": "contrasting a one-time memory with repeated habits",
+    "communicative_goal": "Distinguish one past event from repeated situations.",
+    "grammar_focus": "als for one past time and wenn for repeated past situations",
+    "supporting_structures": [
+      "Als ich ein Kind war",
+      "Immer wenn",
+      "Jedes Mal"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "jedes Mal",
+      "selten",
+      "zu dieser Zeit",
+      "die Gewohnheit",
+      "die Veränderung"
+    ],
+    "recycled_targets": [
+      "als",
+      "wenn",
+      "damals",
+      "immer",
+      "einmal"
+    ],
+    "recycles_from": [
+      67,
+      58
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Als ich ein Kind war, besuchte ich jedes Jahr meine Großeltern.",
+        "en": "When I was a child, I visited my grandparents every year.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Als": [
+              "conjunction",
+              "subordinating"
+            ],
+            "meine": [
+              "possessive",
+              "determiner",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "war": "sein",
+            "besuchte": "besuchen"
+          },
+          "word_meanings": {
+            "Großeltern": "grandparents"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Als ich ein Kind war",
+              "english": "when I was a child",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "simple past"
+              ]
+            },
+            {
+              "german": "jedes Jahr",
+              "english": "every year",
+              "literal_meaning": null,
+              "tags": [
+                "frequency",
+                "time"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Immer wenn wir dort waren, half ich im Garten.",
+        "en": "Whenever we were there, I helped in the garden.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "wenn": [
+              "conjunction",
+              "subordinating"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "waren": "sein",
+            "half": "helfen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Immer wenn wir dort waren",
+              "english": "whenever we were there",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "frequency",
+                "simple past"
+              ]
+            },
+            {
+              "german": "half ich im Garten",
+              "english": "I helped in the garden",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "inversion",
+                "simple past"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Jedes Mal bekam ich danach ein Stück Kuchen.",
+        "en": "Every time, I received a piece of cake afterwards.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {
+            "bekam": "bekommen"
+          },
+          "word_meanings": {
+            "Stück": "piece"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Jedes Mal",
+              "english": "every time",
+              "literal_meaning": null,
+              "tags": [
+                "frequency",
+                "time"
+              ]
+            },
+            {
+              "german": "bekam ich danach ein Stück Kuchen",
+              "english": "I then received a piece of cake",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "simple past",
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Einmal sind wir im Winter mit dem Zug gefahren.",
+        "en": "Once, we traveled by train in winter.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Einmal": [
+              "adverb",
+              "frequency"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "gefahren": "fahren"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "sind wir ... mit dem Zug gefahren",
+              "english": "we traveled by train",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "perfect",
+                "dative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Zu dieser Zeit war das selten, aber später wurde es zur Gewohnheit.",
+        "en": "At that time it was rare, but later it became a habit.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "dieser": [
+              "determiner",
+              "dative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "war": "sein",
+            "wurde": "werden"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Zu dieser Zeit",
+              "english": "at that time",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "wurde es zur Gewohnheit",
+              "english": "it became a habit",
+              "literal_meaning": null,
+              "tags": [
+                "simple past",
+                "dative"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What did the speaker receive every time?",
+      "answer_en": "A piece of cake."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 68"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-069",
+    "source_draft_id": "a2-draft-069",
+    "sequence": 117,
+    "band": "A2.2",
+    "format": "description",
+    "title_de": "Nächstes Jahr beginne ich eine Weiterbildung",
+    "title_en": "Next Year I Will Start Training",
+    "topic": "describing a realistic future plan",
+    "communicative_goal": "Describe future plans and likely outcomes.",
+    "grammar_focus": "future with werden plus infinitive",
+    "supporting_structures": [
+      "werde ich beginnen",
+      "wird stattfinden",
+      "werde ich finden"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "die Zukunft",
+      "die Weiterbildung",
+      "sich entscheiden",
+      "langfristig",
+      "einen Plan umsetzen"
+    ],
+    "recycled_targets": [
+      "wahrscheinlich",
+      "beginnen",
+      "der Beruf",
+      "lernen",
+      "der Plan"
+    ],
+    "recycles_from": [
+      23,
+      40,
+      67,
+      68
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Ich habe mich für eine Weiterbildung im technischen Bereich entschieden.",
+        "en": "I decided on further training in the technical field.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "mich": [
+              "reflexive pronoun",
+              "accusative"
+            ],
+            "technischen": [
+              "adjective",
+              "dative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "entschieden": "sich entscheiden"
+          },
+          "word_meanings": {
+            "Bereich": "field"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "habe mich für eine Weiterbildung ... entschieden",
+              "english": "decided on further training",
+              "literal_meaning": null,
+              "tags": [
+                "perfect",
+                "reflexive",
+                "accusative"
+              ]
+            },
+            {
+              "german": "im technischen Bereich",
+              "english": "in the technical field",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Nächstes Jahr werde ich den Kurs beginnen.",
+        "en": "Next year I will begin the course.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Nächstes": [
+              "adjective",
+              "accusative"
+            ],
+            "werde": [
+              "auxiliary",
+              "future"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "Nächstes": "nächste",
+            "werde": "werden"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Nächstes Jahr",
+              "english": "next year",
+              "literal_meaning": null,
+              "tags": [
+                "time"
+              ]
+            },
+            {
+              "german": "werde ich den Kurs beginnen",
+              "english": "I will begin the course",
+              "literal_meaning": null,
+              "tags": [
+                "future",
+                "inversion",
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Der Unterricht wird zweimal pro Woche stattfinden.",
+        "en": "Classes will take place twice a week.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "wird": [
+              "auxiliary",
+              "future"
+            ],
+            "zweimal": [
+              "adverb",
+              "frequency"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "wird": "werden"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "wird zweimal pro Woche stattfinden",
+              "english": "will take place twice a week",
+              "literal_meaning": null,
+              "tags": [
+                "future",
+                "frequency",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Wahrscheinlich werde ich danach eine bessere Stelle finden.",
+        "en": "I will probably find a better position afterwards.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Wahrscheinlich": [
+              "adverb"
+            ],
+            "werde": [
+              "auxiliary",
+              "future"
+            ],
+            "bessere": [
+              "adjective",
+              "accusative",
+              "comparative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "werde": "werden",
+            "bessere": "gut"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "werde ich danach eine bessere Stelle finden",
+              "english": "I will then find a better position",
+              "literal_meaning": null,
+              "tags": [
+                "future",
+                "inversion",
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Langfristig möchte ich diesen Plan Schritt für Schritt umsetzen.",
+        "en": "In the long term, I want to put this plan into action step by step.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Langfristig": [
+              "adverb",
+              "time"
+            ],
+            "diesen": [
+              "determiner",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "umsetzen": "einen Plan umsetzen"
+          },
+          "word_meanings": {
+            "Schritt": "step"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "diesen Plan Schritt für Schritt umsetzen",
+              "english": "put this plan into action step by step",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "When will the course begin?",
+      "answer_en": "Next year."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 69"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-070",
+    "source_draft_id": "a2-draft-070",
+    "sequence": 118,
+    "band": "A2.2",
+    "format": "message",
+    "title_de": "Mein nächster Schritt in Deutsch",
+    "title_en": "My Next Step in German",
+    "topic": "planning continued independent study",
+    "communicative_goal": "Describe a concrete plan for continued language learning.",
+    "grammar_focus": "learning plan with zu-infinitives and future reference",
+    "supporting_structures": [
+      "weiterzulernen",
+      "mich vorzubereiten",
+      "Um ... zu verbessern"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "selbstständig",
+      "weiterlernen",
+      "sich vorbereiten",
+      "das Niveau",
+      "die Fähigkeit",
+      "der nächste Schritt"
+    ],
+    "recycled_targets": [
+      "die Prüfung",
+      "üben",
+      "das Ziel",
+      "verbessern",
+      "der Fortschritt"
+    ],
+    "recycles_from": [
+      49,
+      50,
+      69
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Mein nächster Schritt ist, selbstständig auf dem Niveau B1 weiterzulernen.",
+        "en": "My next step is to continue learning independently at B1 level.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Mein": [
+              "possessive",
+              "determiner",
+              "nominative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "weiterzulernen": "weiterlernen"
+          },
+          "word_meanings": {
+            "B1": "B1"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Mein nächster Schritt",
+              "english": "my next step",
+              "literal_meaning": null,
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "selbstständig auf dem Niveau B1 weiterzulernen",
+              "english": "to continue learning independently at B1 level",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ich plane, mich im Winter auf eine Prüfung vorzubereiten.",
+        "en": "I plan to prepare for an exam in winter.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "mich": [
+              "reflexive pronoun",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "plane": "planen",
+            "vorzubereiten": "sich vorbereiten"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "mich ... auf eine Prüfung vorzubereiten",
+              "english": "to prepare for an exam",
+              "literal_meaning": null,
+              "tags": [
+                "reflexive",
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Dafür werde ich jeden Tag zwanzig Minuten hören und sprechen.",
+        "en": "For that, I will listen and speak for twenty minutes every day.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Dafür": [
+              "connector"
+            ],
+            "werde": [
+              "auxiliary",
+              "future"
+            ],
+            "zwanzig": [
+              "numeral"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "werde": "werden"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "werde ich jeden Tag zwanzig Minuten hören und sprechen",
+              "english": "I will listen and speak for twenty minutes every day",
+              "literal_meaning": null,
+              "tags": [
+                "future",
+                "inversion",
+                "time",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Um meine Fähigkeiten beim Schreiben zu verbessern, führe ich ein Lerntagebuch.",
+        "en": "To improve my writing skills, I will keep a learning journal.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Um": [
+              "conjunction",
+              "subordinating"
+            ],
+            "meine": [
+              "possessive",
+              "determiner",
+              "accusative"
+            ],
+            "Fähigkeiten": [
+              "noun",
+              "plural",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "führe": "führen"
+          },
+          "word_meanings": {
+            "Lerntagebuch": "learning journal"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Um meine Fähigkeiten beim Schreiben zu verbessern",
+              "english": "to improve my writing skills",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "accusative",
+                "dative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Einmal im Monat kontrolliere ich meinen Fortschritt und ändere meinen Plan.",
+        "en": "Once a month, I check my progress and adjust my plan.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Einmal": [
+              "adverb",
+              "frequency"
+            ],
+            "meinen": [
+              "possessive",
+              "determiner",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Einmal im Monat",
+              "english": "once a month",
+              "literal_meaning": null,
+              "tags": [
+                "frequency",
+                "time"
+              ]
+            },
+            {
+              "german": "meinen Fortschritt",
+              "english": "my progress",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What will the learner keep to improve writing?",
+      "answer_en": "A learning journal."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 70"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-071",
+    "source_draft_id": "a2-draft-071",
+    "sequence": 119,
+    "band": "A2.2",
+    "format": "narrative",
+    "title_de": "Eine unerwartete Woche",
+    "title_en": "Rehearsal: One Unexpected Week",
+    "topic": "handling several connected everyday changes",
+    "communicative_goal": "Follow a longer connected account across work, travel, and administration.",
+    "grammar_focus": "integrated rehearsal of A2 linking and problem-solving language",
+    "supporting_structures": [
+      "deshalb bin ich gekommen",
+      "obwohl ich wenig Zeit hatte",
+      "doch noch reisen"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "eins nach dem anderen",
+      "unterwegs",
+      "inzwischen",
+      "am nächsten Morgen",
+      "am Ende der Woche",
+      "doch noch"
+    ],
+    "recycled_targets": [
+      "weil",
+      "deshalb",
+      "trotzdem",
+      "wenn",
+      "die Frist",
+      "die Buchung"
+    ],
+    "recycles_from": [
+      1,
+      6,
+      31,
+      36,
+      65,
+      66
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Am Montag ist mein Zug ausgefallen, deshalb bin ich zu spät zur Arbeit gekommen.",
+        "en": "On Monday my train was cancelled, so I arrived late for work.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "deshalb": [
+              "connector"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "ausgefallen": "ausfallen",
+            "gekommen": "kommen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "ist mein Zug ausgefallen",
+              "english": "my train was cancelled",
+              "literal_meaning": null,
+              "tags": [
+                "perfect"
+              ]
+            },
+            {
+              "german": "deshalb bin ich zu spät zur Arbeit gekommen",
+              "english": "so I arrived late for work",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "perfect",
+                "direction"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Unterwegs habe ich erfahren, dass meine Hotelbuchung geändert wurde.",
+        "en": "While traveling, I learned that my hotel booking had been changed.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "dass": [
+              "conjunction",
+              "subordinating"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "erfahren": "erfahren",
+            "geändert": "ändern",
+            "wurde": "werden"
+          },
+          "word_meanings": {
+            "erfahren": "learned",
+            "Hotelbuchung": "hotel booking"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "dass meine Hotelbuchung geändert wurde",
+              "english": "that my hotel booking had been changed",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "perfect"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Am nächsten Morgen musste ich außerdem fehlende Unterlagen einreichen.",
+        "en": "The next morning I also had to submit missing documents.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "fehlende": [
+              "adjective",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "musste": "müssen",
+            "fehlende": "fehlende"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Am nächsten Morgen",
+              "english": "the next morning",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "musste ich ... fehlende Unterlagen einreichen",
+              "english": "I had to submit missing documents",
+              "literal_meaning": null,
+              "tags": [
+                "modal verb",
+                "simple past",
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ich erledigte eins nach dem anderen, obwohl ich wenig Zeit hatte.",
+        "en": "I dealt with one thing after another although I had little time.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "obwohl": [
+              "conjunction",
+              "subordinating"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "erledigte": "erledigen",
+            "hatte": "haben"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "eins nach dem anderen",
+              "english": "one thing after another",
+              "literal_meaning": null,
+              "tags": [
+                "fixed phrase"
+              ]
+            },
+            {
+              "german": "obwohl ich wenig Zeit hatte",
+              "english": "although I had little time",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "simple past"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Am Ende der Woche war alles geklärt, und ich konnte doch noch reisen.",
+        "en": "At the end of the week everything was resolved, and I was able to travel after all.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {
+            "war": "sein",
+            "geklärt": "klären",
+            "konnte": "können"
+          },
+          "word_meanings": {
+            "geklärt": "resolved"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Am Ende der Woche",
+              "english": "at the end of the week",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "konnte doch noch reisen",
+              "english": "was able to travel after all",
+              "literal_meaning": null,
+              "tags": [
+                "modal verb",
+                "simple past",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What had to be submitted on Tuesday morning?",
+      "answer_en": "Missing documents."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 71"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-072",
+    "source_draft_id": "a2-draft-072",
+    "sequence": 120,
+    "band": "A2.2",
+    "format": "dialogue",
+    "title_de": "Ein Alltagsproblem selbstständig lösen",
+    "title_en": "Final A2 Checkpoint: Handle an Everyday Problem",
+    "topic": "solving a changed booking and payment problem",
+    "communicative_goal": "Clarify a multi-step everyday problem and agree on a solution.",
+    "grammar_focus": "final consolidation of A2 reasons, conditions, polite requests, and responsibility",
+    "supporting_structures": [
+      "Was würden Sie empfehlen?",
+      "Wenn ich Sie richtig verstehe",
+      "Jetzt ist alles geklärt."
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "Was würden Sie empfehlen",
+      "Wenn ich Sie richtig verstehe",
+      "Dann machen wir es so",
+      "Ich übernehme das",
+      "Jetzt ist alles geklärt"
+    ],
+    "recycled_targets": [
+      "die Buchung",
+      "die Überweisung",
+      "die Frist",
+      "bestätigen",
+      "die Lösung"
+    ],
+    "recycles_from": [
+      66,
+      69,
+      70,
+      71
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Meine Buchung wurde geändert, und die Überweisung ist noch nicht angekommen.",
+        "en": "My booking was changed, and the bank transfer has not arrived yet.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Meine": [
+              "possessive",
+              "determiner",
+              "nominative"
+            ],
+            "nicht": [
+              "particle",
+              "negation"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "wurde": "werden",
+            "geändert": "ändern",
+            "angekommen": "ankommen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Meine Buchung wurde geändert",
+              "english": "my booking was changed",
+              "literal_meaning": null,
+              "tags": [
+                "simple past"
+              ]
+            },
+            {
+              "german": "ist noch nicht angekommen",
+              "english": "has not arrived yet",
+              "literal_meaning": null,
+              "tags": [
+                "perfect",
+                "negation"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Was würden Sie empfehlen, damit ich die Frist nicht verpasse?",
+        "en": "What would you recommend so that I do not miss the deadline?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "würden": [
+              "auxiliary",
+              "subjunctive"
+            ],
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "damit": [
+              "conjunction",
+              "subordinating"
+            ],
+            "nicht": [
+              "particle",
+              "negation"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "würden": "werden"
+          },
+          "word_meanings": {
+            "damit": "so that"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Was würden Sie empfehlen",
+              "english": "what would you recommend",
+              "literal_meaning": null,
+              "tags": [
+                "subjunctive",
+                "formal",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "damit ich die Frist nicht verpasse",
+              "english": "so that I do not miss the deadline",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "accusative",
+                "negation"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Wenn ich Sie richtig verstehe, soll ich den Nachweis heute schicken.",
+        "en": "If I understand you correctly, I should send the proof today.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Wenn": [
+              "conjunction",
+              "subordinating"
+            ],
+            "Sie": [
+              "personal pronoun",
+              "accusative",
+              "formal"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Wenn ich Sie richtig verstehe",
+              "english": "if I understand you correctly",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "formal"
+              ]
+            },
+            {
+              "german": "soll ich den Nachweis heute schicken",
+              "english": "I should send the proof today",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "inversion",
+                "modal verb",
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Genau; ich übernehme die Änderung und bestätige Ihnen den Eingang.",
+        "en": "Exactly; I will handle the change and confirm receipt to you.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Ihnen": [
+              "personal pronoun",
+              "dative",
+              "formal"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "Eingang": "receipt"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "übernehme die Änderung",
+              "english": "will handle the change",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "bestätige Ihnen den Eingang",
+              "english": "confirm receipt to you",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "accusative",
+                "formal"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Dann machen wir es so; jetzt ist alles geklärt.",
+        "en": "Then we will do it that way; now everything is settled.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Dann": [
+              "adverb",
+              "time"
+            ],
+            "es": [
+              "personal pronoun",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "machen": "machen",
+            "geklärt": "klären"
+          },
+          "word_meanings": {
+            "geklärt": "settled"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Dann machen wir es so",
+              "english": "then we will do it that way",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "accusative",
+                "fixed phrase"
+              ]
+            },
+            {
+              "german": "jetzt ist alles geklärt",
+              "english": "now everything is settled",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "fixed phrase"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What should the customer send today?",
+      "answer_en": "The proof."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 72"
+    ],
+    "speech_alternatives": []
+  }
+]

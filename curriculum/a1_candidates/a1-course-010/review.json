@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-010",
+  "source_sha256": "62f694988aa577ca04d46b61c70c753341e032011d925a6cec48a3adca12a113",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "invalid automatic phrases excluded",
+        "fragment tags corrected",
+        "exact separable phrase"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "Viertel means quarter",
+        "halb sieben means half past six",
+        "f\u00e4hrt ... los resolves to losfahren"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "clock-time meanings",
+        "literal time structure",
+        "schedule translations"
+      ],
+      "findings": []
+    }
+  ]
+}

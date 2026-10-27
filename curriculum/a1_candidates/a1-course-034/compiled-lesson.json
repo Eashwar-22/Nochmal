@@ -1,0 +1,2558 @@
+{
+  "schema_version": 1,
+  "source_sha256": "684450a189b0063828ee08e616f5efb9764539ca703db670d78bf6deb783d14d",
+  "lesson": {
+    "id": "a1-course-034",
+    "title": "Bei der Post",
+    "english_title": "At the Post Office",
+    "level": "A1.2",
+    "sentences": [
+      {
+        "text": "Bei der Post möchte Leo einen Brief nach Spanien schicken.",
+        "natural_meaning": "At the post office, Leo wants to send a letter to Spain.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Bei",
+                "english": "at / with",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Bei"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Post",
+                "english": "post office / mail",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "der",
+                  "Post"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "möchte",
+                "english": "would like",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "möchten",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "möchte"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "möchtest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "möchte"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "möchten"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "möchtet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "möchten"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "would like",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "möchte"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "möchtest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "möchte"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "möchten"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "möchtet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "möchten"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I would like",
+                    "you would like",
+                    "he/she/it would like",
+                    "we would like",
+                    "you would like",
+                    "they/you would like"
+                  ],
+                  "current_english_forms": [
+                    "I would like",
+                    "you would like",
+                    "he/she/it would like",
+                    "we would like",
+                    "you would like",
+                    "they/you would like"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "möchte"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Leo",
+                "english": "Leo",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Leo"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Brief",
+                "english": "letter",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "einen",
+                  "Brief"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "nach",
+                "english": "after / to",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "nach"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Spanien",
+                "english": "Spanien",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Spanien"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "schicken",
+                "english": "send",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "infinitive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "schicken",
+                  "tense": "Infinitiv (infinitive in this construction)",
+                  "forms": [
+                    {
+                      "pronoun": "—",
+                      "verb": "schicken"
+                    }
+                  ],
+                  "usage": "This non-finite form follows a modal verb or zu, so it does not change for person in this sentence.",
+                  "english": "to send",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "schicke"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "schickst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "schickt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "schicken"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "schickt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "schicken"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I send",
+                    "you send",
+                    "he/she/it sends",
+                    "we send",
+                    "you send",
+                    "they/you send"
+                  ],
+                  "current_english_forms": [
+                    "to send"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "schicken"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Bei der Post möchte Leo … schicken",
+                "english": "At the post office, Leo wants to send a letter to Spain",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Bei der Post",
+                "english": "At the post office",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "der",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "nach Spanien",
+                "english": "to Spain",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "einen Brief",
+                "english": "a letter",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "einen",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "möchte Leo einen Brief nach Spanien schicken",
+                "english": "Leo would like to send a letter to Spain",
+                "literal_meaning": "would like Leo a letter to Spain to send",
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_candidates/a1-course-034/sentence-01.wav"
+      },
+      {
+        "text": "Die Mitarbeiterin sagt: „Schreiben Sie zuerst den Empfänger auf den Umschlag.“",
+        "natural_meaning": "The employee says, “First write the recipient on the envelope.”",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "die Mitarbeiterin",
+                "english": "female employee",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Die",
+                  "Mitarbeiterin"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sagt",
+                "english": "say",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sagen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "sage"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "sagst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "sagt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sagen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "sagt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sagen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to say",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "sage"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "sagst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "sagt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sagen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "sagt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sagen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I say",
+                    "you say",
+                    "he/she/it says",
+                    "we say",
+                    "you say",
+                    "they/you say"
+                  ],
+                  "current_english_forms": [
+                    "I say",
+                    "you say",
+                    "he/she/it says",
+                    "we say",
+                    "you say",
+                    "they/you say"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "sagt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Schreiben",
+                "english": "write",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "imperative",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "schreiben",
+                  "tense": "Imperativ (command/request)",
+                  "forms": [
+                    {
+                      "pronoun": "du",
+                      "verb": "schreib"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "schreibt"
+                    },
+                    {
+                      "pronoun": "Sie",
+                      "verb": "schreiben Sie"
+                    }
+                  ],
+                  "usage": "The sentence uses a command or instruction; the rows show du, ihr, and formal Sie.",
+                  "english": "to write",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "schreibe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "schreibst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "schreibt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "schreiben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "schreibt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "schreiben"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I write",
+                    "you write",
+                    "he/she/it writes",
+                    "we write",
+                    "you write",
+                    "they/you write"
+                  ],
+                  "current_english_forms": [
+                    "you write",
+                    "you all write",
+                    "you write (formal)"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "Schreiben"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Sie",
+                "english": "you (formal)",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "zuerst",
+                "english": "first",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "zuerst"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Empfänger",
+                "english": "recipient",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "den",
+                  "Empfänger"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "auf",
+                "english": "on / onto",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "auf"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Umschlag",
+                "english": "envelope",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "den",
+                  "Umschlag"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "auf den Umschlag",
+                "english": "on the envelope",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "den",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Die Mitarbeiterin sagt",
+                "english": "The employee says",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Schreiben Sie zuerst den Empfänger auf den Umschlag",
+                "english": "First write the recipient on the envelope",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "den Empfänger",
+                "english": "the recipient",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "den",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_candidates/a1-course-034/sentence-02.wav"
+      },
+      {
+        "text": "Dann schreiben Sie den Absender auf die Rückseite und kleben Sie die Briefmarke oben rechts auf den Umschlag.",
+        "natural_meaning": "Then write the sender on the back and stick the stamp at the top right of the envelope.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Dann",
+                "english": "then",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Dann"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "schreiben",
+                "english": "write",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "imperative",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "schreiben",
+                  "tense": "Imperativ (command/request)",
+                  "forms": [
+                    {
+                      "pronoun": "du",
+                      "verb": "schreib"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "schreibt"
+                    },
+                    {
+                      "pronoun": "Sie",
+                      "verb": "schreiben Sie"
+                    }
+                  ],
+                  "usage": "The sentence uses a command or instruction; the rows show du, ihr, and formal Sie.",
+                  "english": "to write",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "schreibe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "schreibst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "schreibt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "schreiben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "schreibt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "schreiben"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I write",
+                    "you write",
+                    "he/she/it writes",
+                    "we write",
+                    "you write",
+                    "they/you write"
+                  ],
+                  "current_english_forms": [
+                    "you write",
+                    "you all write",
+                    "you write (formal)"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "schreiben"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Sie",
+                "english": "you (formal)",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Absender",
+                "english": "sender",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "den",
+                  "Absender"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "auf",
+                "english": "on / onto",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "auf"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Rückseite",
+                "english": "back / reverse side",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "die",
+                  "Rückseite"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "kleben",
+                "english": "stick",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "imperative",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "kleben",
+                  "tense": "Imperativ (command/request)",
+                  "forms": [
+                    {
+                      "pronoun": "du",
+                      "verb": "kleb"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "klebt"
+                    },
+                    {
+                      "pronoun": "Sie",
+                      "verb": "kleben Sie"
+                    }
+                  ],
+                  "usage": "The sentence uses a command or instruction; the rows show du, ihr, and formal Sie.",
+                  "english": "to stick",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "klebe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "klebst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "klebt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "kleben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "klebt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "kleben"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I stick",
+                    "you stick",
+                    "he/she/it sticks",
+                    "we stick",
+                    "you stick",
+                    "they/you stick"
+                  ],
+                  "current_english_forms": [
+                    "you stick",
+                    "you all stick",
+                    "you stick (formal)"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "kleben"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Sie",
+                "english": "you (formal)",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Briefmarke",
+                "english": "postage stamp",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "die",
+                  "Briefmarke"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "oben",
+                "english": "upstairs / above",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "oben"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "rechts",
+                "english": "right / on the right",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "rechts"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "auf",
+                "english": "on / onto",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "auf"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Umschlag",
+                "english": "envelope",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "den",
+                  "Umschlag"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "auf die Rückseite",
+                "english": "on the back",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "die",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "auf den Umschlag",
+                "english": "on the envelope",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "direction",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "den",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Dann schreiben Sie den Absender auf die Rückseite",
+                "english": "Then write the sender on the back",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "und kleben Sie die Briefmarke oben rechts auf den Umschlag",
+                "english": "and stick the stamp at the top right of the envelope",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "connector",
+                    "category": "connector"
+                  },
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "den Absender",
+                "english": "the sender",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "den",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "die Briefmarke",
+                "english": "the stamp",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "die",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_candidates/a1-course-034/sentence-03.wav"
+      },
+      {
+        "text": "Leo muss auch ein kurzes Formular ausfüllen und zwei Stellen ankreuzen.",
+        "natural_meaning": "Leo also has to fill in a short form and tick two places.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Leo",
+                "english": "Leo",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Leo"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "muss",
+                "english": "must",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "müssen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "muss"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "musst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "muss"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "müssen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "müsst"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "müssen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "must / to have to",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "muss"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "musst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "muss"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "müssen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "müsst"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "müssen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I must",
+                    "you must",
+                    "he/she/it must",
+                    "we must",
+                    "you must",
+                    "they/you must"
+                  ],
+                  "current_english_forms": [
+                    "I must",
+                    "you must",
+                    "he/she/it must",
+                    "we must",
+                    "you must",
+                    "they/you must"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "muss"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "auch",
+                "english": "also",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "auch"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "kurz",
+                "english": "short",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "kurzes"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Formular",
+                "english": "form",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ein",
+                  "Formular"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ausfüllen",
+                "english": "fill out",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "infinitive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "ausfüllen",
+                  "tense": "Infinitiv (infinitive in this construction)",
+                  "forms": [
+                    {
+                      "pronoun": "—",
+                      "verb": "ausfüllen"
+                    }
+                  ],
+                  "usage": "This non-finite form follows a modal verb or zu, so it does not change for person in this sentence.",
+                  "english": "to fill out",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "fülle aus"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "füllst aus"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "füllt aus"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "füllen aus"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "füllt aus"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "füllen aus"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I fill out",
+                    "you fill out",
+                    "he/she/it fills out",
+                    "we fill out",
+                    "you fill out",
+                    "they/you fill out"
+                  ],
+                  "current_english_forms": [
+                    "to fill out"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "ausfüllen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "zwei",
+                "english": "two",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "numeral",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "zwei"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Stelle",
+                "english": "place / field / position",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "plural",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Stellen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ankreuzen",
+                "english": "tick",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  },
+                  {
+                    "label": "infinitive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "ankreuzen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "ankreuze"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "ankreuzt"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ankreuzt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "ankreuzen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "ankreuzt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "ankreuzen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to tick / check",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "ankreuze"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "ankreuzt"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ankreuzt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "ankreuzen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "ankreuzt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "ankreuzen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I tick",
+                    "you tick",
+                    "he/she/it ticks",
+                    "we tick",
+                    "you tick",
+                    "they/you tick"
+                  ],
+                  "current_english_forms": [
+                    "I tick",
+                    "you tick",
+                    "he/she/it ticks",
+                    "we tick",
+                    "you tick",
+                    "they/you tick"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "ankreuzen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "zwei Stellen",
+                "english": "two places",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Leo muss auch ein kurzes Formular ausfüllen",
+                "english": "Leo also has to fill in a short form",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "und zwei Stellen ankreuzen",
+                "english": "and tick two fields",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "connector",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "muss auch ein kurzes Formular ausfüllen",
+                "english": "also has to fill in a short form",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "ein kurzes Formular",
+                "english": "a short form",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "ein",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "accusative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  },
+                  {
+                    "surface": "kurzes",
+                    "base": "kurz",
+                    "kind": "adjective",
+                    "paradigm": "mixed-adjective",
+                    "case": "accusative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_candidates/a1-course-034/sentence-04.wav"
+      },
+      {
+        "text": "Zum Schluss bezahlt er und gibt den Brief ab.",
+        "natural_meaning": "Finally he pays and hands over the letter.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "zu",
+                "english": "to",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Zum"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Schluss",
+                "english": "end",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Schluss"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "bezahlt",
+                "english": "pay",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "bezahlen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bezahle"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bezahlst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "bezahlt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "bezahlen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "bezahlt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "bezahlen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to pay",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bezahle"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bezahlst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "bezahlt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "bezahlen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "bezahlt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "bezahlen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I pay",
+                    "you pay",
+                    "he/she/it pays",
+                    "we pay",
+                    "you pay",
+                    "they/you pay"
+                  ],
+                  "current_english_forms": [
+                    "I pay",
+                    "you pay",
+                    "he/she/it pays",
+                    "we pay",
+                    "you pay",
+                    "they/you pay"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "bezahlt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "er",
+                "english": "he",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "er"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "gibt",
+                "english": "hands over",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "abgeben",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "gebe ab"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "gibst ab"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "gibt ab"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "geben ab"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "gebt ab"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "geben ab"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to hand in / hand over",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "gebe ab"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "gibst ab"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "gibt ab"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "geben ab"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "gebt ab"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "geben ab"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I hand in",
+                    "you hand in",
+                    "he/she/it hands in",
+                    "we hand in",
+                    "you hand in",
+                    "they/you hand in"
+                  ],
+                  "current_english_forms": [
+                    "I hand in",
+                    "you hand in",
+                    "he/she/it hands in",
+                    "we hand in",
+                    "you hand in",
+                    "they/you hand in"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "gibt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Brief",
+                "english": "letter",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "den",
+                  "Brief"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ab",
+                "english": "separable prefix of abgeben",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "particle",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ab"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Zum Schluss bezahlt er",
+                "english": "Finally he pays",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Zum Schluss",
+                "english": "Finally",
+                "literal_meaning": "At the end",
+                "tags": [
+                  {
+                    "label": "contraction",
+                    "category": "form"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  },
+                  {
+                    "label": "fixed phrase",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Zum",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": "dem",
+                    "contraction": "zu + dem"
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "und gibt den Brief ab",
+                "english": "and hands over the letter",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "gibt den Brief ab",
+                "english": "hands over the letter",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "separable",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "den",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a1_candidates/a1-course-034/sentence-05.wav"
+      }
+    ],
+    "audio_path": "assets/audio/a1_candidates/a1-course-034/paragraph.wav",
+    "initial_question": "Where does Leo write the sender?",
+    "initial_answer": "On the back of the envelope.",
+    "audio_status": "ready",
+    "sequence": 34,
+    "lesson_format": "instructions",
+    "topic": "following short written steps to send a letter",
+    "new_targets": [
+      "der Brief",
+      "die Briefmarke",
+      "der Absender",
+      "der Empfänger",
+      "das Formular",
+      "ausfüllen",
+      "ankreuzen"
+    ],
+    "recycled_targets": [
+      "die Post",
+      "die Stelle",
+      "abgeben",
+      "bitte",
+      "zuerst",
+      "dann",
+      "zum Schluss"
+    ],
+    "speech_alternatives": []
+  }
+}

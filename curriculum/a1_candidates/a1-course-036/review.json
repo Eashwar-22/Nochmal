@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-036",
+  "source_sha256": "f4a65fdd0fc8d39de019b01109d447b5e4c3b052247a32173761034d72a346c6",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token coverage",
+        "dieses der-word reference",
+        "ihm pronoun disambiguation",
+        "ausf\u00fcllen and annehmen analysis"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "three-service sequence",
+        "help requests",
+        "cash-machine problem",
+        "checkpoint consolidation"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "service translations",
+        "instruction-response progression",
+        "problem wording",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

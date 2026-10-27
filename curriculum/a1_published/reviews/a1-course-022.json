@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-022",
+  "source_sha256": "558495c698b9535456da1588d859325b2cc0cd7bc714f942fa96e0395025f79b",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "impersonal es and inverted gibt es",
+        "modal-final infinitive",
+        "dative source and accusative destination cards",
+        "deshalb inversion"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "weather-report wording",
+        "dog and plant scenario cohesion",
+        "fixed phrase nach draußen",
+        "two-way preposition destination"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "natural weather translations",
+        "contextual stellen meaning",
+        "cause-and-result progression",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

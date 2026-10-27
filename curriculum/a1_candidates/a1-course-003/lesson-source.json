@@ -1,0 +1,301 @@
+{
+  "id": "a1-course-003",
+  "source_draft_id": "a1-draft-003",
+  "sequence": 3,
+  "band": "A1.1",
+  "format": "dialogue",
+  "title_de": "Noch einmal, bitte",
+  "title_en": "Please Say It Again",
+  "topic": "communication repair and polite repetition",
+  "communicative_goal": "Signal a misunderstanding and ask someone to repeat more slowly.",
+  "grammar_focus": "fixed polite repair chunks with bitte and elliptical requests",
+  "supporting_structures": [
+    "Wie bitte?",
+    "Noch einmal, bitte.",
+    "langsam sprechen",
+    "Danke."
+  ],
+  "grammar_notes": [
+    "Wie bitte? is a polite fixed expression used when something was not understood.",
+    "Noch einmal, bitte. is an elliptical request: the action to repeat is understood from context.",
+    "Sentence-initial jetzt is followed by the finite verb before the subject."
+  ],
+  "new_targets": [
+    "Wie bitte",
+    "noch einmal",
+    "langsam",
+    "verstehen",
+    "Danke"
+  ],
+  "recycled_targets": [
+    "woher",
+    "kommen"
+  ],
+  "recycles_from": [
+    2
+  ],
+  "audio_path": "assets/audio/a1_candidates/a1-course-003/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Leo fragt: „Woher kommst du, Mina?“",
+      "en": "Leo asks, “Where are you from, Mina?”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-003/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "leo": [
+            "nominative",
+            "subject"
+          ],
+          "woher": [
+            "adverb",
+            "place"
+          ],
+          "du": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ]
+        },
+        "base_forms": {},
+        "word_meanings": {
+          "fragt": "asks",
+          "woher": "where from",
+          "kommst": "come"
+        },
+        "excluded_phrases": [
+          "Woher kommst du, Mina"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Leo fragt",
+            "english": "Leo asks",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "Woher kommst du",
+            "english": "Where are you from?",
+            "literal_meaning": "Where from do you come?",
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina sagt: „Wie bitte? Noch einmal, bitte.“",
+      "en": "Mina says, “Pardon? Once again, please.”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-003/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "mina": [
+            "nominative",
+            "subject"
+          ],
+          "wie": [
+            "adverb"
+          ],
+          "bitte": [
+            "particle"
+          ],
+          "noch": [
+            "adverb",
+            "frequency"
+          ],
+          "einmal": [
+            "adverb",
+            "frequency"
+          ]
+        },
+        "base_forms": {},
+        "word_meanings": {
+          "sagt": "says",
+          "wie": "how",
+          "bitte": "please / pardon",
+          "noch": "again",
+          "einmal": "once"
+        },
+        "excluded_phrases": [
+          "Wie bitte? Noch einmal"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Mina sagt",
+            "english": "Mina says",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "Wie bitte",
+            "english": "Pardon?",
+            "literal_meaning": "How, please?",
+            "tags": [
+              "fixed phrase",
+              "ellipsis"
+            ]
+          },
+          {
+            "german": "Noch einmal, bitte",
+            "english": "Please say that again.",
+            "literal_meaning": "Once again, please.",
+            "tags": [
+              "fixed phrase",
+              "ellipsis"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Leo spricht langsam und fragt noch einmal.",
+      "en": "Leo speaks slowly and asks again.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-003/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "leo": [
+            "nominative",
+            "subject"
+          ],
+          "langsam": [
+            "adverb",
+            "manner"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "noch": [
+            "adverb",
+            "frequency"
+          ],
+          "einmal": [
+            "adverb",
+            "frequency"
+          ]
+        },
+        "base_forms": {},
+        "word_meanings": {
+          "spricht": "speaks",
+          "langsam": "slowly",
+          "fragt": "asks",
+          "noch": "again",
+          "einmal": "once"
+        },
+        "excluded_phrases": [
+          "und fragt noch einmal"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Leo spricht langsam",
+            "english": "Leo speaks slowly",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "noch einmal",
+            "english": "again",
+            "literal_meaning": "one more time",
+            "tags": [
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "Leo spricht langsam und fragt noch einmal",
+            "english": "Leo speaks slowly and asks again",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Jetzt versteht Mina alles und sagt: „Danke.“",
+      "en": "Now Mina understands everything and says, “Thank you.”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-003/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "jetzt": [
+            "adverb",
+            "time"
+          ],
+          "mina": [
+            "nominative",
+            "subject"
+          ],
+          "alles": [
+            "indefinite pronoun",
+            "accusative"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "danke": [
+            "interjection"
+          ]
+        },
+        "base_forms": {},
+        "word_meanings": {
+          "versteht": "understands",
+          "alles": "everything",
+          "sagt": "says",
+          "danke": "thank you"
+        },
+        "excluded_phrases": [
+          "und sagt Danke",
+          "Jetzt versteht Mina alles und sagt"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Jetzt versteht Mina alles",
+            "english": "Now Mina understands everything",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "Jetzt versteht Mina alles und sagt Danke",
+            "english": "Now Mina understands everything and says thank you",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "What does Mina ask Leo to do?",
+    "answer_en": "Repeat the question slowly."
+  },
+  "source_basis": [
+    "a1-blueprint",
+    "a1-draft-003",
+    "grammar-breakdown-rulebook"
+  ],
+  "speech_alternatives": []
+}

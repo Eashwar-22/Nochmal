@@ -1,0 +1,410 @@
+{
+  "id": "a1-course-019",
+  "source_draft_id": "a1-draft-019",
+  "sequence": 19,
+  "band": "A1.1",
+  "format": "description",
+  "title_de": "Mein Zuhause",
+  "title_en": "My Home",
+  "topic": "describing the rooms in Mina's home",
+  "communicative_goal": "Name the main rooms and say what a home has.",
+  "grammar_focus": "es gibt with accusative noun phrases",
+  "supporting_structures": [
+    "mit ihrer Schwester",
+    "in einer Wohnung",
+    "Es gibt",
+    "drei Zimmer"
+  ],
+  "grammar_notes": [
+    "Es gibt uses es as an impersonal subject; the things named after gibt are accusative.",
+    "In einer Wohnung and in einem kleinen Haus describe fixed locations, so they use dative."
+  ],
+  "new_targets": [
+    "die Wohnung",
+    "das Haus",
+    "das Zimmer",
+    "die Küche",
+    "das Bad",
+    "das Schlafzimmer",
+    "geben",
+    "groß"
+  ],
+  "recycled_targets": [
+    "wohnen",
+    "haben",
+    "die Schwester",
+    "mit",
+    "in",
+    "jetzt",
+    "drei",
+    "klein",
+    "aber"
+  ],
+  "recycles_from": [
+    2,
+    7,
+    12,
+    16
+  ],
+  "audio_path": "assets/audio/a1_published/a1-course-019/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Mina wohnt jetzt mit ihrer Schwester in einer Wohnung in Bonn.",
+      "en": "Mina now lives with her sister in an apartment in Bonn.",
+      "audio_path": "assets/audio/a1_published/a1-course-019/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "ihrer": [
+            "possessive",
+            "determiner",
+            "dative"
+          ],
+          "schwester": [
+            "dative"
+          ],
+          "in": [
+            "preposition",
+            "dative"
+          ],
+          "einer": [
+            "determiner",
+            "dative"
+          ],
+          "wohnung": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "mit ihrer Schwester",
+            "english": "with her sister",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "in einer Wohnung",
+            "english": "in an apartment",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "in Bonn",
+            "english": "in Bonn",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "Mina wohnt jetzt mit ihrer Schwester in einer Wohnung in Bonn",
+            "english": "Mina now lives with her sister in an apartment in Bonn",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Die Wohnung ist in einem kleinen Haus und hat drei Zimmer.",
+      "en": "The apartment is in a small building and has three rooms.",
+      "audio_path": "assets/audio/a1_published/a1-course-019/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "wohnung": [
+            "nominative"
+          ],
+          "in": [
+            "preposition",
+            "dative"
+          ],
+          "einem": [
+            "determiner",
+            "dative"
+          ],
+          "kleinen": [
+            "adjective",
+            "dative"
+          ],
+          "haus": [
+            "dative"
+          ],
+          "drei": [
+            "numeral"
+          ],
+          "zimmer": [
+            "accusative",
+            "plural"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "kleinen": "klein"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [
+          {
+            "surface": "die",
+            "occurrence": 1,
+            "tags": [
+              "nominative"
+            ],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": null,
+            "spoken_form": null
+          }
+        ],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "in einem kleinen Haus",
+            "english": "in a small building",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "drei Zimmer",
+            "english": "three rooms",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "plural"
+            ]
+          },
+          {
+            "german": "Die Wohnung ist in einem kleinen Haus",
+            "english": "The apartment is in a small building",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "und hat drei Zimmer",
+            "english": "and has three rooms",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "main clause",
+              "ellipsis"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Es gibt eine Küche, ein Bad und zwei Schlafzimmer.",
+      "en": "There is a kitchen, a bathroom, and two bedrooms.",
+      "audio_path": "assets/audio/a1_published/a1-course-019/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "es": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "eine": [
+            "determiner",
+            "accusative"
+          ],
+          "küche": [
+            "accusative"
+          ],
+          "ein": [
+            "determiner",
+            "accusative"
+          ],
+          "bad": [
+            "accusative"
+          ],
+          "zwei": [
+            "numeral"
+          ],
+          "schlafzimmer": [
+            "accusative",
+            "plural"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "zwei Schlafzimmer"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "eine Küche, ein Bad und zwei Schlafzimmer",
+            "english": "a kitchen, a bathroom, and two bedrooms",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "Es gibt eine Küche, ein Bad und zwei Schlafzimmer",
+            "english": "There is a kitchen, a bathroom, and two bedrooms",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Minas Zimmer ist klein, aber das Zimmer ihrer Schwester ist groß.",
+      "en": "Mina’s room is small, but her sister’s room is large.",
+      "audio_path": "assets/audio/a1_published/a1-course-019/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "klein": [
+            "adjective"
+          ],
+          "das": [
+            "nominative"
+          ],
+          "ihrer": [
+            "possessive",
+            "determiner",
+            "genitive"
+          ],
+          "schwester": [
+            "genitive"
+          ],
+          "groß": [
+            "adjective"
+          ],
+          "aber": [
+            "conjunction",
+            "coordinating"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "minas": "Mina's",
+          "ihrer": "her"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [
+          {
+            "surface": "zimmer",
+            "occurrence": 1,
+            "tags": [
+              "nominative"
+            ],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": null,
+            "spoken_form": null
+          },
+          {
+            "surface": "zimmer",
+            "occurrence": 2,
+            "tags": [
+              "nominative"
+            ],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": null,
+            "spoken_form": null
+          },
+          {
+            "surface": "ist",
+            "occurrence": 1,
+            "tags": [],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": null,
+            "spoken_form": null
+          }
+        ],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Minas Zimmer",
+            "english": "Mina's room",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "das Zimmer ihrer Schwester",
+            "english": "her sister's room",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "ihrer Schwester",
+            "english": "of her sister",
+            "literal_meaning": null,
+            "tags": [
+              "genitive"
+            ]
+          },
+          {
+            "german": "Minas Zimmer ist klein",
+            "english": "Mina's room is small",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "aber das Zimmer ihrer Schwester ist groß",
+            "english": "but her sister's room is large",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "main clause",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "How many bedrooms are there?",
+    "answer_en": "Two."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_04.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

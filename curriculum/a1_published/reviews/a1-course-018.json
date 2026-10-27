@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-018",
+  "source_sha256": "89e7f5d587e6d231769ab141ac33a11926c94e1c29fb8bd60c7d9a6942a12676",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "market and café phrase cards",
+        "zum contraction card",
+        "elliptical service formulae"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "quantity question",
+        "zum Mitnehmen nominalization",
+        "Sonst noch etwas and das ist alles"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "linked transaction meanings",
+        "take-away expression",
+        "service-formula translations"
+      ],
+      "findings": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a2-course-004",
+  "source_sha256": "0b0560c7c84beb0a5682036beae647c6c775d93a4d4e4dfb960923e6a9fd29b8",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token coverage",
+        "verb and inflection reference coverage",
+        "exact phrase-source linkage",
+        "controlled tag and glossary contract"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "deshalb inversion",
+        "practical travel message",
+        "natural informal request"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "natural result-connector translations",
+        "A2.1 message scope",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "id": "a2-course-007",
+  "source_draft_id": "a2-draft-007",
+  "sequence": 55,
+  "band": "A2.1",
+  "format": "dialogue",
+  "title_de": "Welche Wohnung ist besser?",
+  "title_en": "Which Apartment Is Better?",
+  "topic": "comparing two apartments",
+  "communicative_goal": "Compare familiar housing features and choose the more suitable option.",
+  "grammar_focus": "comparative adjectives and adverbs with als",
+  "supporting_structures": [
+    "größer als",
+    "näher am Bahnhof",
+    "wichtiger für mich"
+  ],
+  "grammar_notes": [],
+  "new_targets": [
+    "größer",
+    "kleiner",
+    "ruhiger",
+    "näher",
+    "höher",
+    "die Nebenkosten",
+    "vergleichen"
+  ],
+  "recycled_targets": [
+    "die Wohnung",
+    "die Miete",
+    "der Markt",
+    "der Bahnhof",
+    "der Balkon",
+    "weil",
+    "trotzdem"
+  ],
+  "recycles_from": [
+    19,
+    20,
+    23,
+    26,
+    3,
+    5
+  ],
+  "audio_path": "assets/audio/a2_candidates/a2-course-007/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Die Wohnung in der Gartenstraße ist größer als die Wohnung am Markt.",
+      "en": "The apartment on Gartenstraße is larger than the apartment at the market.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-007/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "größer": [
+            "comparative"
+          ],
+          "als": [
+            "conjunction"
+          ],
+          "in": [
+            "preposition",
+            "dative"
+          ],
+          "Gartenstraße": [
+            "proper noun"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "Gartenstraße": "die Gartenstraße"
+        },
+        "word_meanings": {
+          "in": "on",
+          "als": "than",
+          "größer": "larger"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "größer als die Wohnung am Markt",
+            "english": "larger than the apartment at the market",
+            "literal_meaning": null,
+            "tags": [
+              "comparative"
+            ]
+          },
+          {
+            "german": "in der Gartenstraße",
+            "english": "on Gartenstraße",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "am Markt",
+            "english": "at the market",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Sie ist auch ruhiger, aber die Miete ist hundert Euro höher.",
+      "en": "It is also quieter, but the rent is one hundred euros higher.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-007/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "ruhiger": [
+            "comparative"
+          ],
+          "höher": [
+            "comparative"
+          ],
+          "hundert": [
+            "numeral"
+          ],
+          "Sie": [
+            "personal pronoun",
+            "nominative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "hundert": "one hundred",
+          "Sie": "it",
+          "ruhiger": "quieter",
+          "höher": "higher"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "hundert Euro höher",
+            "english": "one hundred euros higher",
+            "literal_meaning": null,
+            "tags": [
+              "comparative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Die Wohnung am Markt liegt näher am Bahnhof und hat einen Balkon.",
+      "en": "The apartment at the market is closer to the station and has a balcony.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-007/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "näher": [
+            "comparative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "liegt": "liegen"
+        },
+        "word_meanings": {
+          "liegt": "is located",
+          "näher": "closer"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "näher am Bahnhof",
+            "english": "closer to the station",
+            "literal_meaning": null,
+            "tags": [
+              "comparative",
+              "dative"
+            ]
+          },
+          {
+            "german": "am Markt",
+            "english": "at the market",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "am Bahnhof",
+            "english": "at the station",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "einen Balkon",
+            "english": "a balcony",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Weil ich jeden Tag mit dem Zug fahre, ist der kurze Weg für mich wichtiger.",
+      "en": "Because I travel by train every day, the short walk is more important to me.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-007/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Weil": [
+            "conjunction",
+            "subordinating"
+          ],
+          "wichtiger": [
+            "comparative"
+          ],
+          "kurze": [
+            "adjective",
+            "nominative"
+          ],
+          "jeden": [
+            "determiner",
+            "accusative"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "für": [
+            "preposition",
+            "accusative"
+          ],
+          "mich": [
+            "personal pronoun",
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "fahre": "fahren",
+          "kurze": "kurz"
+        },
+        "word_meanings": {
+          "wichtiger": "more important",
+          "fahre": "travel",
+          "kurze": "short",
+          "mich": "me"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Weil ich jeden Tag mit dem Zug fahre",
+            "english": "because I travel by train every day",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final"
+            ]
+          },
+          {
+            "german": "ist der kurze Weg für mich wichtiger",
+            "english": "the short walk is more important to me",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "comparative"
+            ]
+          },
+          {
+            "german": "jeden Tag",
+            "english": "every day",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "time"
+            ]
+          },
+          {
+            "german": "mit dem Zug",
+            "english": "by train",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "der kurze Weg",
+            "english": "the short walk",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "für mich",
+            "english": "for me",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Trotzdem möchte ich die zwei Wohnungen noch einmal vergleichen.",
+      "en": "Nevertheless, I would like to compare the two apartments once more.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-007/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Trotzdem": [
+            "connector"
+          ],
+          "zwei": [
+            "numeral"
+          ],
+          "Wohnungen": [
+            "plural"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "zwei": "two"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "zwei Wohnungen"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Trotzdem möchte ich",
+            "english": "nevertheless, I would like",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "die zwei Wohnungen",
+            "english": "the two apartments",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "noch einmal",
+            "english": "once more",
+            "literal_meaning": null,
+            "tags": []
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Which apartment is closer to the station?",
+    "answer_en": "The apartment at the market."
+  },
+  "source_basis": [
+    "curriculum/a2_blueprint.md",
+    "A2 Lesson 7"
+  ],
+  "speech_alternatives": []
+}

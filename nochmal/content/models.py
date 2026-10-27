@@ -61,14 +61,18 @@ GrammarGender = Literal["masculine", "feminine", "neuter", "plural"]
 InflectionKind = Literal[
     "definite-article",
     "indefinite-article",
+    "negative-determiner",
     "possessive-determiner",
+    "der-word-determiner",
     "adjective",
     "personal-pronoun",
 ]
 InflectionParadigm = Literal[
     "definite",
     "indefinite",
+    "negative",
     "possessive",
+    "der-word",
     "weak-adjective",
     "mixed-adjective",
     "strong-adjective",
@@ -112,7 +116,9 @@ class InflectionHelp(StrictModel):
         expected_paradigms = {
             "definite-article": {"definite"},
             "indefinite-article": {"indefinite"},
+            "negative-determiner": {"negative"},
             "possessive-determiner": {"possessive"},
+            "der-word-determiner": {"der-word"},
             "adjective": {
                 "weak-adjective",
                 "mixed-adjective",
@@ -196,8 +202,11 @@ TAG_KEYWORDS: dict[str, TagCategory] = {
     "article": "word-class",
     "determiner": "word-class",
     "personal pronoun": "word-class",
+    "interrogative pronoun": "word-class",
+    "demonstrative pronoun": "word-class",
     "reflexive pronoun": "word-class",
     "relative pronoun": "word-class",
+    "indefinite pronoun": "word-class",
     "possessive": "word-class",
     "preposition": "word-class",
     "conjunction": "word-class",
@@ -270,8 +279,11 @@ TAG_DESCRIPTIONS: dict[str, str] = {
     "article": "A noun companion that can show gender, number, and case.",
     "determiner": "A word that specifies quantity or reference before a noun.",
     "personal pronoun": "A word such as ich or mir that refers to a participant.",
+    "interrogative pronoun": "A pronoun used to ask about a person, thing, or idea.",
+    "demonstrative pronoun": "A pronoun that points to a specific person, thing, or idea.",
     "reflexive pronoun": "A pronoun that refers back to the subject of its clause.",
     "relative pronoun": "A pronoun that introduces a relative clause and refers back to a noun.",
+    "indefinite pronoun": "A pronoun referring to a non-specific person, thing, amount, or totality.",
     "possessive": "A form expressing ownership or another close relationship.",
     "preposition": "A word showing a relationship and governing a case.",
     "conjunction": "A word joining words, phrases, or clauses.",
@@ -350,6 +362,7 @@ class BreakdownItem(StrictModel):
     verb_help: VerbHelp | None = None
     inflection_help: list[InflectionHelp] = Field(default_factory=list)
     source_forms: list[str] = Field(default_factory=list)
+    spoken_form: str | None = None
 
     @model_validator(mode="after")
     def require_dictionary_article_for_nouns(self) -> "BreakdownItem":
@@ -403,6 +416,14 @@ class BreakdownItem(StrictModel):
                 )
         return self
 
+    @model_validator(mode="after")
+    def validate_spoken_form(self) -> "BreakdownItem":
+        if self.spoken_form and (
+            self.kind != "word" or "numeral" not in {tag.label for tag in self.tags}
+        ):
+            raise ValueError("A spoken form is only supported for a numeral word card")
+        return self
+
 
 class BreakdownGroup(StrictModel):
     items: list[BreakdownItem]
@@ -422,12 +443,47 @@ class AuthoredPhrase(StrictModel):
         return self
 
 
+class WordOccurrenceAnnotation(StrictModel):
+    """Context for one numbered occurrence of a repeated source token."""
+
+    surface: str
+    occurrence: int = Field(ge=1)
+    tags: list[str] = Field(default_factory=list)
+    excluded_tags: list[str] = Field(default_factory=list)
+    base_form: str | None = None
+    meaning: str | None = None
+    spoken_form: str | None = None
+
+    @model_validator(mode="after")
+    def require_controlled_tags(self) -> "WordOccurrenceAnnotation":
+        unknown = (set(self.tags) | set(self.excluded_tags)) - TAG_KEYWORDS.keys()
+        if unknown:
+            raise ValueError(
+                f"Unknown occurrence-specific word tags: {sorted(unknown)}"
+            )
+        if not self.surface.strip():
+            raise ValueError("Occurrence-specific word context requires a surface")
+        return self
+
+
 class SentenceAnnotations(StrictModel):
     """Structured, sentence-owned inputs consumed by the generic compiler."""
 
     word_tags: dict[str, list[str]] = Field(default_factory=dict)
+    excluded_word_tags: dict[str, list[str]] = Field(default_factory=dict)
     base_forms: dict[str, str] = Field(default_factory=dict)
     word_meanings: dict[str, str] = Field(default_factory=dict)
+    verb_meanings: dict[str, str] = Field(
+        default_factory=dict, exclude_if=lambda value: not value
+    )
+    verb_forms: dict[str, Literal["infinitive"]] = Field(
+        default_factory=dict, exclude_if=lambda value: not value
+    )
+    verb_components: dict[str, list[str]] = Field(
+        default_factory=dict, exclude_if=lambda value: not value
+    )
+    spoken_forms: dict[str, str] = Field(default_factory=dict)
+    word_occurrences: list[WordOccurrenceAnnotation] = Field(default_factory=list)
     excluded_phrases: list[str] = Field(default_factory=list)
     excluded_phrase_tags: dict[str, list[str]] = Field(default_factory=dict)
     phrases: list[AuthoredPhrase] = Field(default_factory=list)
@@ -444,6 +500,11 @@ class SentenceAnnotations(StrictModel):
             raise ValueError(f"Unknown authored word tags: {sorted(unknown)}")
         unknown_excluded = {
             label
+            for labels in self.excluded_word_tags.values()
+            for label in labels
+            if label not in TAG_KEYWORDS
+        } | {
+            label
             for labels in self.excluded_phrase_tags.values()
             for label in labels
             if label not in TAG_KEYWORDS
@@ -452,6 +513,12 @@ class SentenceAnnotations(StrictModel):
             raise ValueError(
                 f"Unknown excluded phrase tags: {sorted(unknown_excluded)}"
             )
+        occurrence_keys = [
+            (item.surface.casefold(), item.occurrence)
+            for item in self.word_occurrences
+        ]
+        if len(occurrence_keys) != len(set(occurrence_keys)):
+            raise ValueError("Occurrence-specific word annotations must be unique")
         return self
 
 
@@ -501,11 +568,26 @@ class SpeechAlternative(StrictModel):
     explanation: str
 
 
+class PerformanceActivity(StrictModel):
+    """One concrete retrieval task defined by the curriculum blueprint."""
+
+    kind: Literal[
+        "listening",
+        "speaking",
+        "writing",
+        "reading",
+        "listening checkpoint",
+        "speaking checkpoint",
+    ]
+    instruction: str
+    prompts: list[str] = Field(default_factory=list)
+
+
 class Lesson(StrictModel):
     id: str
     title: str
     english_title: str
-    level: Literal["A1.1", "A1.2", "A1", "A2.1", "A2.2", "A2", "A2-B1", "B1", "B1-B2", "B2"]
+    level: str = Field(pattern=r"^[A-C][1-2](?:\.[1-2])?(?:-[A-C][1-2])?$")
     sentences: list[Sentence]
     audio_path: str | None
     initial_question: str
@@ -524,3 +606,6 @@ class Lesson(StrictModel):
     new_targets: list[str] = Field(default_factory=list)
     recycled_targets: list[str] = Field(default_factory=list)
     speech_alternatives: list[SpeechAlternative] = Field(default_factory=list)
+    performance_activity: PerformanceActivity | None = Field(
+        default=None, exclude_if=lambda value: value is None
+    )

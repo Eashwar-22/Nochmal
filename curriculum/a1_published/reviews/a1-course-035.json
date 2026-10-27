@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-035",
+  "source_sha256": "d34dedd8a7c05414b4de47c98f9746bfae68f58c30b21347d74ebede4ceada47",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token coverage",
+        "possessive determiner references",
+        "direction and location cases",
+        "angeben separable analysis"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "missing-card report",
+        "bank-to-police sequence",
+        "weg predicate use",
+        "contact-detail wording"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "problem-state translation",
+        "service vocabulary",
+        "clear police motivation",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

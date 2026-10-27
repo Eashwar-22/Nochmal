@@ -1,0 +1,34 @@
+{
+  "draft_id": "a1-draft-043",
+  "status": "release_ready",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav",
+    "sentence-05.wav"
+  ],
+  "sentence_texts": [
+    "Gestern ist Mina fr\u00fch aufgestanden und mit dem Bus in die Stadt gefahren.",
+    "Dort hat sie im Supermarkt f\u00fcr das Wochenende eingekauft und ihre Schwester besucht.",
+    "Am Nachmittag hat sie zu Hause Deutsch gelernt und das Abendessen gemacht.",
+    "Danach hat sie lange mit Leo \u00fcber den Kurs telefoniert.",
+    "Am Abend ist Mina m\u00fcde zu Hause geblieben und hat einen Film gesehen."
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "562708449d5beb1f9e453ac3ced19f9eb057e3df61331fa7b35d0db11727f0cf",
+    "sentence-02.wav": "eb9333e3209ff95ae3254d00f3349e0690cae6ed37577f3549c232947836afd0",
+    "sentence-03.wav": "1b0707198458a35ca1ba2d13d38e7f63435aaf47bbb25305627bee0c3636a3e5",
+    "sentence-04.wav": "e4cc2cab4b2817811d69918aad21d439f25cd4a26b32a40e7068495b953e4d88",
+    "sentence-05.wav": "398ccd5a29eef77b2a402ee207ff3d9ea358c2d503277c321ec96903390a8c7b"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "8fe4d00456225db808c8c6687f724c77f9e351e4e68571f09dcb21d9362b620e",
+  "paragraph_assembled_from_sentence_files": true
+}

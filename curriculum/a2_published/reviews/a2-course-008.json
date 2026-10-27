@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a2-course-008",
+  "source_sha256": "1355ebd29101012c9854b242f2dd253e0ce0ff7bce5dd435bd008dcdf5f74729",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token and phrase coverage",
+        "superlative and verb-form reference coverage",
+        "controlled tags and source linkage"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "natural district comparison",
+        "correct superlative forms",
+        "coherent moving context"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "natural English renderings",
+        "A2 location and comparison practice",
+        "sentence-level meaning agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

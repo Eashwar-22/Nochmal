@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-046",
+  "source_sha256": "2f091f4e1e9b9922e064190b9fff252d5a935ba5915e16efa791c29971c419a7",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token coverage",
+        "accusative dich",
+        "dative gratulieren",
+        "separable invitation verbs"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "invitation conventions",
+        "natural acceptance",
+        "birthday vocabulary"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "pronoun agreement",
+        "natural invitation translation",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

@@ -6,13 +6,12 @@ The pedagogical audit and release gate are in
 
 ## Fixed lesson page
 
-The lesson page is always rendered in this order:
+The mobile lesson page is rendered in this order:
 
-1. title, German title, level and audio state;
-2. complete paragraph and full audio;
-3. sentence-by-sentence study cards;
-4. speaking practice when enabled; and
-5. completion controls.
+1. course and lesson selectors;
+2. first listen with the complete audio;
+3. complete German paragraph and full audio; and
+4. sentence-by-sentence breakdown with replay and reference cards.
 
 There is no lesson-specific “goals and grammar” panel. Explanations appear only
 on the word, phrase or form they describe.
@@ -36,15 +35,23 @@ even when that produces a small nested flow.
 | Object | Required shape |
 |---|---|
 | `Sentence` | `text`, `natural_meaning`, `breakdown_groups`, `audio_path` |
-| `SentenceAnnotations` | controlled `word_tags`, `base_forms`, contextual `word_meanings`, audited phrase/tag exclusions, and authored `phrases` |
+| `SentenceAnnotations` | controlled `word_tags`, numbered `word_occurrences` for repeated surfaces, `base_forms`, contextual `word_meanings` and `verb_meanings`, explicit ambiguous `verb_forms`, discontinuous `verb_components`, numeral `spoken_forms`, audited phrase/tag exclusions, and authored `phrases` |
 | `BreakdownGroup` | ordered `items` |
-| `BreakdownItem` | `german`, natural/contextual `english`, optional `literal_meaning`, `kind`, `tags`, `source_forms`, optional typed help |
+| `BreakdownItem` | `german`, natural/contextual `english`, optional numeral `spoken_form`, optional `literal_meaning`, `kind`, `tags`, `source_forms`, optional typed help |
 | `GrammarTag` | controlled `label` and matching `category` |
 | `VerbHelp` | infinitive, meaning, tense and complete conjugation data |
 | `InflectionHelp` | surface, base, kind, paradigm, case and grammatical slot |
+| `PerformanceActivity` | controlled task kind, actionable instruction and concrete prompts |
 
 Use `kind="word"` for reusable vocabulary and `kind="phrase"` for a
 composed result.
+
+## Performance activities
+
+When the blueprint defines an additional retrieval task, store it as typed
+`performance_activity` metadata with its controlled `kind`, one actionable
+instruction, and any concrete prompts or cards needed to perform it. Candidate
+previews expose this metadata for audit before audio and release.
 
 ## Word items
 
@@ -61,6 +68,8 @@ composed result.
 - English: exact contextual meaning.
 - Tags: only controlled verb/tense facts.
 - `verb_help`: mandatory complete `VerbHelp`.
+- `verb_components`: map the finite or nonfinite surface to any separated source
+  tokens owned by the same verb card, such as `{"tut": ["leid"]}`.
 
 ### Adjectives
 
@@ -78,6 +87,25 @@ When a reusable dictionary gloss would be misleading for the exact surface in
 context, author the concise visible meaning in `SentenceAnnotations.word_meanings`.
 This field changes only the word card's contextual English; it does not replace
 the shared dictionary form, verb table, or grammar metadata.
+
+When the current sentence uses a different verb sense from the shared dictionary
+entry, author that sense in `SentenceAnnotations.verb_meanings`. It updates only
+the bilingual rows for the current sentence form; the shared dictionary meaning
+and simple-present reference remain reusable.
+
+When coordination or punctuation makes a verb form structurally ambiguous, use
+`SentenceAnnotations.verb_forms` to mark the exact surface as an infinitive.
+Do not use it to override an unambiguous form.
+
+When the same surface occurs more than once with different grammar or meaning,
+use a numbered `word_occurrences` entry. Its `surface` and one-based
+`occurrence` select exactly one token; it may supply controlled tags, tag
+exclusions, a base form, a meaning, or a spoken form. Do not apply one
+surface-wide annotation to occurrences with different number, case, or sense.
+
+For a numeric source form pronounced digit by digit, add its German pronunciation
+to `SentenceAnnotations.spoken_forms`. The numeral card keeps the written source
+form, displays the German spoken form, and gives its English digit meaning.
 
 ## Phrase items
 
@@ -152,7 +180,9 @@ Allowed `kind` and `paradigm` combinations are enforced by
 |---|---|
 | definite article | definite |
 | indefinite article | indefinite |
+| negative determiner (`kein`) | negative |
 | possessive determiner | possessive |
+| der-word determiner | der-word |
 | adjective | weak, mixed or strong adjective |
 | personal pronoun | personal pronoun |
 
@@ -189,7 +219,7 @@ Shared code must not contain:
 - generated lesson-description prose.
 
 Sentence-specific tags, base-form corrections, contextual word meanings,
-audited exclusions of invalid automatic phrases or tags, and extra phrases belong in the
+audited exclusions of invalid automatic word or phrase tags, and extra phrases belong in the
 sentence's `annotations` object in curriculum JSON. The compiler consumes that
 same schema for every lesson; it must not keep a parallel sentence lookup
 table in Python.
@@ -226,11 +256,11 @@ Before publishing a lesson, test:
 Run:
 
 ```bash
-python -m unittest discover -s tests -q
+.venv/bin/python scripts/lesson_flow.py preflight LESSON_ID
 ```
 
-Then run `python scripts/validate_release.py LESSON_ID` and inspect the running
-app before adding the lesson ID to `curriculum/a1_course/publication.json`.
+Then use `.venv/bin/python scripts/lesson_flow.py publish LESSON_ID`. The release
+workflow verifies the generated mobile package before installation.
 
 ## Deterministic candidate preview
 

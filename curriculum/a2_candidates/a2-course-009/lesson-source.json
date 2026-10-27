@@ -1,0 +1,375 @@
+{
+  "id": "a2-course-009",
+  "source_draft_id": "a2-draft-009",
+  "sequence": 57,
+  "band": "A2.1",
+  "format": "message",
+  "title_de": "Eine helle Wohnung mit Balkon",
+  "title_en": "A Bright Apartment with a Balcony",
+  "topic": "describing housing requirements to an agent",
+  "communicative_goal": "Describe desired housing features in simple noun phrases.",
+  "grammar_focus": "mixed adjective endings after ein, kein, and possessive determiners",
+  "supporting_structures": [
+    "eine helle Wohnung",
+    "keinen dunklen Keller",
+    "eine möblierte Wohnung"
+  ],
+  "grammar_notes": [],
+  "new_targets": [
+    "hell",
+    "dunkel",
+    "modern",
+    "möbliert",
+    "die Fläche",
+    "der Keller"
+  ],
+  "recycled_targets": [
+    "die Wohnung",
+    "die Familie",
+    "das Wohnzimmer",
+    "die Küche",
+    "der Balkon",
+    "das Zimmer",
+    "die Gegend",
+    "suchen"
+  ],
+  "recycles_from": [
+    19,
+    20,
+    7,
+    8
+  ],
+  "audio_path": "assets/audio/a2_candidates/a2-course-009/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Guten Tag, ich suche eine helle Wohnung für meine Familie.",
+      "en": "Hello, I am looking for a bright apartment for my family.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-009/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "helle": [
+            "adjective",
+            "accusative"
+          ],
+          "für": [
+            "preposition",
+            "accusative"
+          ],
+          "Guten": [
+            "adjective",
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "helle": "hell",
+          "Guten": "gut"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {
+          "Guten Tag": [
+            "main clause"
+          ]
+        },
+        "phrases": [
+          {
+            "german": "eine helle Wohnung",
+            "english": "a bright apartment",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "für meine Familie",
+            "english": "for my family",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "Guten Tag",
+            "english": "hello",
+            "literal_meaning": null,
+            "tags": [
+              "fixed phrase",
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Sie soll ein großes Wohnzimmer haben; eine moderne Küche ist auch wichtig.",
+      "en": "It should have a large living room; a modern kitchen is also important.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-009/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "großes": [
+            "adjective",
+            "accusative"
+          ],
+          "moderne": [
+            "adjective",
+            "nominative"
+          ],
+          "soll": [
+            "modal verb"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "großes": "groß",
+          "moderne": "modern"
+        },
+        "word_meanings": {
+          "Sie": "it"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "ein großes Wohnzimmer",
+            "english": "a large living room",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "eine moderne Küche",
+            "english": "a modern kitchen",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "soll ein großes Wohnzimmer haben",
+            "english": "should have a large living room",
+            "literal_meaning": null,
+            "tags": [
+              "infinitive"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Wir brauchen auch einen kleinen Balkon, aber keinen dunklen Keller.",
+      "en": "We also need a small balcony, but no dark basement.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-009/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "kleinen": [
+            "adjective",
+            "accusative"
+          ],
+          "dunklen": [
+            "adjective",
+            "accusative"
+          ],
+          "keinen": [
+            "determiner",
+            "negation",
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "kleinen": "klein",
+          "dunklen": "dunkel"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "einen kleinen Balkon",
+            "english": "a small balcony",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "keinen dunklen Keller",
+            "english": "no dark basement",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "negation"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Ist in Ihrem Haus eine möblierte Wohnung mit einem kleinen Balkon frei?",
+      "en": "Is a furnished apartment with a small balcony available in your building?",
+      "audio_path": "assets/audio/a2_candidates/a2-course-009/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Ihrem": [
+            "possessive",
+            "determiner",
+            "dative",
+            "formal"
+          ],
+          "möblierte": [
+            "adjective",
+            "nominative"
+          ],
+          "kleinen": [
+            "adjective",
+            "dative"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "in": [
+            "preposition",
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "möblierte": "möbliert",
+          "kleinen": "klein"
+        },
+        "word_meanings": {
+          "Ihrem": "your"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "in Ihrem Haus",
+            "english": "in your building",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "formal"
+            ]
+          },
+          {
+            "german": "eine möblierte Wohnung",
+            "english": "a furnished apartment",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "mit einem kleinen Balkon",
+            "english": "with a small balcony",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "Ist in Ihrem Haus ... frei",
+            "english": "Is a furnished apartment with a small balcony available in your building?",
+            "literal_meaning": null,
+            "tags": [
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Eine ruhige Gegend ist für uns wichtiger als eine große Fläche.",
+      "en": "A quiet area is more important to us than a large floor area.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-009/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "ruhige": [
+            "adjective",
+            "nominative"
+          ],
+          "wichtiger": [
+            "comparative"
+          ],
+          "große": [
+            "adjective",
+            "nominative"
+          ],
+          "für": [
+            "preposition",
+            "accusative"
+          ],
+          "als": [
+            "conjunction"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "ruhige": "ruhig",
+          "große": "groß"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Eine ruhige Gegend",
+            "english": "a quiet area",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "wichtiger als eine große Fläche",
+            "english": "more important than a large floor area",
+            "literal_meaning": null,
+            "tags": [
+              "comparative"
+            ]
+          },
+          {
+            "german": "für uns",
+            "english": "for us",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "eine große Fläche",
+            "english": "a large floor area",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Which feature do the speakers not want?",
+    "answer_en": "A dark basement."
+  },
+  "source_basis": [
+    "curriculum/a2_blueprint.md",
+    "A2 Lesson 9"
+  ],
+  "speech_alternatives": []
+}

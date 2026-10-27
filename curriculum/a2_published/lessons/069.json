@@ -1,0 +1,685 @@
+{
+  "id": "a2-course-021",
+  "source_draft_id": "a2-draft-021",
+  "sequence": 69,
+  "band": "A2.1",
+  "format": "narrative",
+  "title_de": "Der erste Arbeitstag",
+  "title_en": "The First Day at Work",
+  "topic": "reporting the steps of workplace orientation",
+  "communicative_goal": "Follow an account of a first day at work and distinguish events from workplace facts.",
+  "grammar_focus": "Perfekt with inseparable be-, er-, ver-, and über- participles without ge-",
+  "supporting_structures": [
+    "hat erklärt",
+    "hat vergessen",
+    "hat bekommen",
+    "hat übernommen"
+  ],
+  "grammar_notes": [],
+  "new_targets": [
+    "die Abteilung",
+    "die Firma",
+    "sich vorstellen",
+    "die Arbeitszeit",
+    "bekommen",
+    "die Verantwortung",
+    "die Einführung"
+  ],
+  "recycled_targets": [
+    "die Chefin",
+    "die Aufgabe",
+    "das Projekt",
+    "das Praktikum",
+    "die Erfahrung"
+  ],
+  "recycles_from": [
+    1,
+    14,
+    19,
+    20,
+    37,
+    38
+  ],
+  "audio_path": "assets/audio/a2_published/a2-course-021/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Am ersten Arbeitstag hat Leo die neue Firma kennengelernt und seine Chefin an der Rezeption getroffen.",
+      "en": "On his first day at work, Leo got to know the new company and met his manager at reception.",
+      "audio_path": "assets/audio/a2_published/a2-course-021/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "ersten": [
+            "adjective",
+            "dative"
+          ],
+          "hat": [
+            "auxiliary"
+          ],
+          "Leo": [
+            "proper noun"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "neue": [
+            "adjective",
+            "accusative"
+          ],
+          "kennengelernt": [
+            "separable"
+          ],
+          "seine": [
+            "possessive",
+            "determiner",
+            "accusative"
+          ],
+          "an": [
+            "preposition",
+            "dative"
+          ],
+          "der": [
+            "article",
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "ersten": "erst",
+          "neue": "neu",
+          "kennengelernt": "kennenlernen",
+          "getroffen": "treffen"
+        },
+        "word_meanings": {
+          "hat": "has"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "ersten Arbeitstag",
+          "Am ersten Arbeitstag hat Leo … kennengelernt und … getroffen"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am ersten Arbeitstag",
+            "english": "on his first working day",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "die neue Firma",
+            "english": "the new company",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "seine Chefin",
+            "english": "his manager",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "an der Rezeption",
+            "english": "at reception",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "hat Leo die neue Firma kennengelernt und seine Chefin an der Rezeption getroffen",
+            "english": "Leo got to know the new company and met his manager at reception",
+            "literal_meaning": null,
+            "tags": [
+              "perfect",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Sie hat ihm bei der Einführung die Abteilung und die Arbeitszeit erklärt.",
+      "en": "She explained the department and working hours to him during orientation.",
+      "audio_path": "assets/audio/a2_published/a2-course-021/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Sie": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "hat": [
+            "auxiliary"
+          ],
+          "ihm": [
+            "personal pronoun",
+            "dative"
+          ],
+          "bei": [
+            "preposition",
+            "dative"
+          ],
+          "der": [
+            "article",
+            "dative"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "erklärt": [
+            "inseparable"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "ihm": "er",
+          "erklärt": "erklären"
+        },
+        "word_meanings": {
+          "Sie": "she",
+          "hat": "has"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "ihm ... erklärt",
+            "english": "explained to him",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "perfect"
+            ]
+          },
+          {
+            "german": "bei der Einführung",
+            "english": "during orientation",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "die Abteilung",
+            "english": "the department",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "die Arbeitszeit",
+            "english": "the working hours",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "hat ihm bei der Einführung die Abteilung und die Arbeitszeit erklärt",
+            "english": "explained the department and working hours to him during orientation",
+            "literal_meaning": null,
+            "tags": [
+              "perfect"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Danach hat er sich bei seinen Kollegen vorgestellt und ihre Namen sofort vergessen.",
+      "en": "Afterwards, he introduced himself to his colleagues and immediately forgot their names.",
+      "audio_path": "assets/audio/a2_published/a2-course-021/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Danach": [
+            "adverb",
+            "time"
+          ],
+          "hat": [
+            "auxiliary"
+          ],
+          "er": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "sich": [
+            "reflexive pronoun",
+            "accusative"
+          ],
+          "bei": [
+            "preposition",
+            "dative"
+          ],
+          "seinen": [
+            "possessive",
+            "determiner",
+            "dative",
+            "plural"
+          ],
+          "Kollegen": [
+            "plural"
+          ],
+          "vorgestellt": [
+            "separable"
+          ],
+          "ihre": [
+            "possessive",
+            "determiner",
+            "accusative",
+            "plural"
+          ],
+          "Namen": [
+            "plural"
+          ],
+          "sofort": [
+            "adverb",
+            "time"
+          ],
+          "vergessen": [
+            "inseparable"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "vorgestellt": "sich vorstellen",
+          "vergessen": "vergessen"
+        },
+        "word_meanings": {
+          "hat": "has",
+          "sich": "himself",
+          "ihre": "their",
+          "vorgestellt": "introduced himself"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Danach hat er … vorgestellt und … vergessen"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "bei seinen Kollegen",
+            "english": "to his colleagues",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "hat er sich bei seinen Kollegen vorgestellt",
+            "english": "he introduced himself to his colleagues",
+            "literal_meaning": null,
+            "tags": [
+              "perfect",
+              "reflexive",
+              "inversion"
+            ]
+          },
+          {
+            "german": "ihre Namen",
+            "english": "their names",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "ihre Namen sofort vergessen",
+            "english": "immediately forgot their names",
+            "literal_meaning": null,
+            "tags": [
+              "perfect"
+            ]
+          },
+          {
+            "german": "hat er sich bei seinen Kollegen vorgestellt und ihre Namen sofort vergessen",
+            "english": "he introduced himself to his colleagues and immediately forgot their names",
+            "literal_meaning": null,
+            "tags": [
+              "perfect",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "In der Besprechung hat Leo eine kleine Aufgabe bekommen und einen Gast beraten.",
+      "en": "In the meeting, Leo received a small task and advised a guest.",
+      "audio_path": "assets/audio/a2_published/a2-course-021/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "In": [
+            "preposition",
+            "dative"
+          ],
+          "der": [
+            "article",
+            "dative"
+          ],
+          "hat": [
+            "auxiliary"
+          ],
+          "Leo": [
+            "proper noun"
+          ],
+          "eine": [
+            "article",
+            "accusative"
+          ],
+          "kleine": [
+            "adjective",
+            "accusative"
+          ],
+          "bekommen": [
+            "inseparable"
+          ],
+          "einen": [
+            "article",
+            "accusative"
+          ],
+          "beraten": [
+            "inseparable"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "kleine": "klein",
+          "bekommen": "bekommen",
+          "beraten": "beraten"
+        },
+        "word_meanings": {
+          "hat": "has"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "In der Besprechung hat Leo … bekommen und … beraten"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "In der Besprechung",
+            "english": "in the meeting",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "eine kleine Aufgabe",
+            "english": "a small task",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "einen Gast",
+            "english": "a guest",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "hat Leo eine kleine Aufgabe bekommen und einen Gast beraten",
+            "english": "Leo received a small task and advised a guest",
+            "literal_meaning": null,
+            "tags": [
+              "perfect",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Am Nachmittag hat er Verantwortung für ein Projekt übernommen; das war interessant.",
+      "en": "In the afternoon, he took responsibility for a project; that was interesting.",
+      "audio_path": "assets/audio/a2_published/a2-course-021/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "hat": [
+            "auxiliary"
+          ],
+          "er": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "für": [
+            "preposition",
+            "accusative"
+          ],
+          "ein": [
+            "article",
+            "accusative"
+          ],
+          "übernommen": [
+            "inseparable"
+          ],
+          "das": [
+            "demonstrative pronoun",
+            "nominative",
+            "subject"
+          ],
+          "interessant": [
+            "adjective"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "übernommen": "übernehmen",
+          "war": "sein"
+        },
+        "word_meanings": {
+          "hat": "has",
+          "das": "that"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Am Nachmittag hat er … übernommen"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am Nachmittag",
+            "english": "in the afternoon",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "für ein Projekt",
+            "english": "for a project",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "hat er Verantwortung für ein Projekt übernommen",
+            "english": "he took responsibility for a project",
+            "literal_meaning": null,
+            "tags": [
+              "perfect",
+              "inversion"
+            ]
+          },
+          {
+            "german": "Am Nachmittag hat er Verantwortung für ein Projekt übernommen",
+            "english": "In the afternoon, he took responsibility for a project",
+            "literal_meaning": null,
+            "tags": [
+              "inversion",
+              "perfect"
+            ]
+          },
+          {
+            "german": "das war interessant",
+            "english": "that was interesting",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "simple past"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Am Abend sagt Leo: Die Firma hat drei Abteilungen, und die Einführung war gut; wo arbeite ich morgen?",
+      "en": "That evening Leo says: The company has three departments, and the orientation was good; where will I work tomorrow?",
+      "audio_path": "assets/audio/a2_published/a2-course-021/sentence-06.wav",
+      "annotations": {
+        "word_tags": {
+          "Leo": [
+            "proper noun"
+          ],
+          "die": [
+            "article",
+            "nominative"
+          ],
+          "drei": [
+            "numeral"
+          ],
+          "Abteilungen": [
+            "plural"
+          ],
+          "gut": [
+            "adjective"
+          ],
+          "wo": [
+            "adverb"
+          ],
+          "morgen": [
+            "adverb",
+            "time"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "Abteilungen": "die Abteilung",
+          "war": "sein"
+        },
+        "word_meanings": {
+          "sagt": "says",
+          "hat": "has",
+          "Abteilungen": "departments",
+          "war": "was",
+          "gut": "good",
+          "wo": "where",
+          "arbeite": "will work"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Am Abend sagt Leo: Die Firma hat drei Abteilungen, und die Einführung war gut",
+          "Am Abend sagt Leo: Die Firma hat drei Abteilungen",
+          "und die Einführung war gut; wo arbeite ich morgen"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am Abend",
+            "english": "that evening",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "Am Abend sagt Leo",
+            "english": "That evening Leo says",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "Die Firma",
+            "english": "the company",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "Die Firma hat drei Abteilungen",
+            "english": "the company has three departments",
+            "literal_meaning": null,
+            "tags": [
+              "main clause"
+            ]
+          },
+          {
+            "german": "die Einführung",
+            "english": "the orientation",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "die Einführung war gut",
+            "english": "the orientation was good",
+            "literal_meaning": null,
+            "tags": [
+              "main clause"
+            ]
+          },
+          {
+            "german": "wo arbeite ich morgen",
+            "english": "where will I work tomorrow",
+            "literal_meaning": null,
+            "tags": [
+              "main clause"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Which four things happened during Leo's first day?",
+    "answer_en": "He got to know the company, met his manager, introduced himself to colleagues, and received a task."
+  },
+  "source_basis": [
+    "curriculum/a2_blueprint.md",
+    "A2 Lesson 21"
+  ],
+  "speech_alternatives": [],
+  "performance_activity": {
+    "kind": "listening",
+    "instruction": "Listen and order four events. Then identify which line states a workplace fact rather than an event Leo experienced.",
+    "prompts": [
+      "Leo meets the manager.",
+      "The manager explains the department and working hours.",
+      "Leo introduces himself to colleagues.",
+      "Leo receives a task.",
+      "The company has three departments."
+    ]
+  }
+}

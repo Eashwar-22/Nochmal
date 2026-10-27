@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-041",
+  "source_sha256": "43d628c36479292da24dac8553713a47cd5e231392e54b26c3f7d27cc3dae188",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token coverage",
+        "denn main-clause order",
+        "mitkommen separable analysis",
+        "negative and possessive references"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "why question",
+        "work reason",
+        "home preference",
+        "Friday alternative"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "reason-link translation",
+        "refusal wording",
+        "schedule contrast",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

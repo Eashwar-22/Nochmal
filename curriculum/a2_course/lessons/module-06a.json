@@ -1,0 +1,759 @@
+[
+  {
+    "id": "a2-course-031",
+    "source_draft_id": "a2-draft-031",
+    "sequence": 79,
+    "band": "A2.1",
+    "format": "narrative",
+    "title_de": "Umsteigen in Köln",
+    "title_en": "Changing Trains in Cologne",
+    "topic": "following a connected train journey",
+    "communicative_goal": "Follow and recount the stages of a journey with a transfer.",
+    "grammar_focus": "connected Perfekt with movement verbs",
+    "supporting_structures": [
+      "in den Zug steigen",
+      "zum Bahnsteig gehen",
+      "direkt weiterfahren"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "die Strecke"
+    ],
+    "recycled_targets": [
+      "umsteigen",
+      "aussteigen",
+      "der Bahnsteig",
+      "der Fahrplan",
+      "sich beeilen",
+      "direkt",
+      "der Zug"
+    ],
+    "recycles_from": [
+      25,
+      26,
+      30,
+      1
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Mina ist morgens in Bonn in den Zug gestiegen.",
+        "en": "Mina boarded the train in Bonn in the morning.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "gestiegen": [
+              "verb",
+              "past participle",
+              "perfect"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "gestiegen": "steigen"
+          },
+          "word_meanings": {
+            "gestiegen": "boarded"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "ist ... in den Zug gestiegen",
+              "english": "boarded the train",
+              "literal_meaning": null,
+              "tags": [
+                "perfect",
+                "accusative",
+                "direction"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "In Köln ist sie ausgestiegen und schnell zum anderen Bahnsteig gegangen.",
+        "en": "In Cologne she got off and quickly went to the other platform.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {
+            "ausgestiegen": "aussteigen",
+            "gegangen": "gehen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "ist sie ausgestiegen",
+              "english": "she got off",
+              "literal_meaning": null,
+              "tags": [
+                "perfect",
+                "separable"
+              ]
+            },
+            {
+              "german": "zum anderen Bahnsteig gegangen",
+              "english": "went to the other platform",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "perfect"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Weil die Strecke lang war, musste sie sich beeilen.",
+        "en": "Because the route was long, she had to hurry.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Weil": [
+              "conjunction",
+              "subordinating"
+            ],
+            "sich": [
+              "reflexive pronoun",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "musste": "müssen",
+            "beeilen": "sich beeilen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Weil die Strecke lang war",
+              "english": "because the route was long",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            },
+            {
+              "german": "musste sie sich beeilen",
+              "english": "she had to hurry",
+              "literal_meaning": null,
+              "tags": [
+                "modal verb",
+                "simple past",
+                "reflexive",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Sie hat den Anschluss erreicht und ist direkt nach Hamburg weitergefahren.",
+        "en": "She made the connection and continued directly to Hamburg.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {
+            "erreicht": "erreichen",
+            "weitergefahren": "weiterfahren"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "hat den Anschluss erreicht",
+              "english": "made the connection",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "perfect"
+              ]
+            },
+            {
+              "german": "ist direkt nach Hamburg weitergefahren",
+              "english": "continued directly to Hamburg",
+              "literal_meaning": null,
+              "tags": [
+                "perfect",
+                "direction"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Am Abend hat sie im Fahrplan die Verbindung für die Rückfahrt kontrolliert.",
+        "en": "In the evening she checked the connection for the return journey in the timetable.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {
+            "kontrolliert": "kontrollieren"
+          },
+          "word_meanings": {
+            "Rückfahrt": "return journey"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "die Verbindung für die Rückfahrt",
+              "english": "the connection for the return journey",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "im Fahrplan",
+              "english": "in the timetable",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place",
+                "contraction"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "Where did Mina change trains?",
+      "answer_en": "In Cologne."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 31"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-032",
+    "source_draft_id": "a2-draft-032",
+    "sequence": 80,
+    "band": "A2.1",
+    "format": "announcement",
+    "title_de": "Der verpasste Anschluss",
+    "title_en": "The Missed Connection",
+    "topic": "dealing with a missed train connection",
+    "communicative_goal": "Understand available options after a disrupted journey.",
+    "grammar_focus": "wenn clauses for travel contingencies",
+    "supporting_structures": [
+      "Wenn Sie den Anschluss verpassen",
+      "eine Alternative",
+      "bleibt gültig"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "die Alternative",
+      "die Weiterfahrt",
+      "ausfallen"
+    ],
+    "recycled_targets": [
+      "der Ersatz",
+      "gültig",
+      "die Information",
+      "die Bahn",
+      "verpassen",
+      "der Anschluss"
+    ],
+    "recycles_from": [
+      31,
+      25,
+      26
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Der Zug nach Köln fällt heute wegen einer Störung aus.",
+        "en": "The train to Cologne is cancelled today because of a disruption.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "einer": [
+              "article",
+              "genitive"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "fällt": "ausfallen"
+          },
+          "word_meanings": {
+            "Störung": "disruption"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "wegen einer Störung",
+              "english": "because of a disruption",
+              "literal_meaning": null,
+              "tags": [
+                "genitive",
+                "reason"
+              ]
+            },
+            {
+              "german": "fällt ... aus",
+              "english": "is cancelled",
+              "literal_meaning": null,
+              "tags": [
+                "separable"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Wenn Sie den Anschluss verpassen, gehen Sie bitte zur Information.",
+        "en": "If you miss the connection, please go to the information desk.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Wenn": [
+              "conjunction",
+              "subordinating"
+            ],
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Wenn Sie den Anschluss verpassen",
+              "english": "if you miss the connection",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "formal"
+              ]
+            },
+            {
+              "german": "gehen Sie bitte zur Information",
+              "english": "please go to the information desk",
+              "literal_meaning": null,
+              "tags": [
+                "imperative",
+                "formal",
+                "dative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Dort bekommen Sie eine Alternative für die Weiterfahrt.",
+        "en": "There you will receive an alternative for the onward journey.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Dort": [
+              "adverb",
+              "place"
+            ],
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "eine Alternative für die Weiterfahrt",
+              "english": "an alternative for the onward journey",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ihre Fahrkarte bleibt auch im Ersatzbus gültig.",
+        "en": "Your ticket remains valid on the replacement bus too.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Ihre": [
+              "possessive",
+              "determiner",
+              "nominative",
+              "formal"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "Ersatzbus": "replacement bus"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "im Ersatzbus",
+              "english": "on the replacement bus",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place",
+                "contraction"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Wenn der Bus pünktlich kommt, erreichen Sie Hamburg noch heute.",
+        "en": "If the bus arrives on time, you will still reach Hamburg today.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Wenn": [
+              "conjunction",
+              "subordinating"
+            ],
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Wenn der Bus pünktlich kommt",
+              "english": "if the bus arrives on time",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            },
+            {
+              "german": "erreichen Sie Hamburg noch heute",
+              "english": "you will reach Hamburg today",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "inversion",
+                "formal"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What remains valid on the replacement bus?",
+      "answer_en": "The train ticket."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 32"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-033",
+    "source_draft_id": "a2-draft-033",
+    "sequence": 81,
+    "band": "A2.1",
+    "format": "dialogue",
+    "title_de": "Wann fährt der Zug ab?",
+    "title_en": "Can You Tell Me When It Leaves?",
+    "topic": "asking for detailed travel information",
+    "communicative_goal": "Ask and understand indirect questions about a journey.",
+    "grammar_focus": "indirect W-questions with final verb position",
+    "supporting_structures": [
+      "wann ... abfährt",
+      "wie lange ... ist",
+      "welcher Zug ... hat"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "die Reisedauer",
+      "der Umstieg",
+      "der Zwischenhalt"
+    ],
+    "recycled_targets": [
+      "die Auskunft",
+      "der Schalter",
+      "abfahren",
+      "der Zug",
+      "wissen",
+      "der Fahrplan"
+    ],
+    "recycles_from": [
+      31,
+      32,
+      15
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Können Sie mir sagen, wann der nächste Zug nach Berlin abfährt?",
+        "en": "Can you tell me when the next train to Berlin leaves?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "mir": [
+              "personal pronoun",
+              "dative"
+            ],
+            "wann": [
+              "interrogative pronoun",
+              "time"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "abfährt": "abfahren"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Können Sie mir sagen",
+              "english": "can you tell me",
+              "literal_meaning": null,
+              "tags": [
+                "formal",
+                "dative",
+                "modal verb"
+              ]
+            },
+            {
+              "german": "wann der nächste Zug nach Berlin abfährt",
+              "english": "when the next train to Berlin leaves",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Er fährt um elf Uhr von Gleis vier ab.",
+        "en": "It leaves from platform four at eleven o'clock.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "elf": [
+              "numeral"
+            ],
+            "vier": [
+              "numeral"
+            ],
+            "ab": [
+              "particle"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "fährt": "abfahren"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "fährt ... von Gleis vier ab",
+              "english": "leaves from platform four",
+              "literal_meaning": null,
+              "tags": [
+                "separable",
+                "place"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Wissen Sie auch, wie lange die Reisedauer ist?",
+        "en": "Do you also know how long the journey takes?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "wie lange die Reisedauer ist",
+              "english": "how long the journey takes",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Die Fahrt dauert drei Stunden mit einem Umstieg in Hannover.",
+        "en": "The journey takes three hours with one change in Hanover.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "drei": [
+              "numeral"
+            ],
+            "einem": [
+              "article",
+              "dative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "Hannover": "Hanover"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "mit einem Umstieg in Hannover",
+              "english": "with one change in Hanover",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Am Schalter erfahren Sie, welcher Zug einen Zwischenhalt hat.",
+        "en": "At the counter you can find out which train has an intermediate stop.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "welcher": [
+              "interrogative pronoun",
+              "nominative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "erfahren": "find out"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Am Schalter",
+              "english": "at the counter",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place"
+              ]
+            },
+            {
+              "german": "welcher Zug einen Zwischenhalt hat",
+              "english": "which train has an intermediate stop",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "How long does the journey take?",
+      "answer_en": "Three hours."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 33"
+    ],
+    "speech_alternatives": []
+  }
+]

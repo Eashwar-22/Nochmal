@@ -1,0 +1,455 @@
+{
+  "id": "a2-course-004",
+  "source_draft_id": "a2-draft-004",
+  "sequence": 52,
+  "band": "A2.1",
+  "format": "message",
+  "title_de": "Deshalb ändere ich den Plan",
+  "title_en": "That Is Why I’m Changing the Plan",
+  "topic": "a message explaining a practical consequence",
+  "communicative_goal": "Connect a familiar cause to a practical result.",
+  "grammar_focus": "main-clause result connector deshalb with inversion",
+  "supporting_structures": [],
+  "grammar_notes": [],
+  "new_targets": [
+    "absagen",
+    "verschieben",
+    "die Lösung",
+    "rechtzeitig"
+  ],
+  "recycled_targets": [
+    "der Termin",
+    "der Bus",
+    "der Plan",
+    "die Verspätung"
+  ],
+  "recycles_from": [
+    3,
+    10,
+    28,
+    40
+  ],
+  "audio_path": "assets/audio/a2_published/a2-course-004/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Der Zug nach Bonn hat heute eine große Verspätung.",
+      "en": "The train to Bonn has a major delay today.",
+      "audio_path": "assets/audio/a2_published/a2-course-004/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Der": [
+            "article",
+            "nominative"
+          ],
+          "Zug": [
+            "nominative",
+            "subject"
+          ],
+          "nach": [
+            "preposition",
+            "dative",
+            "direction"
+          ],
+          "Bonn": [
+            "proper noun",
+            "dative"
+          ],
+          "hat": [
+            "verb",
+            "present"
+          ],
+          "heute": [
+            "adverb",
+            "time"
+          ],
+          "eine": [
+            "article",
+            "accusative"
+          ],
+          "große": [
+            "adjective",
+            "accusative"
+          ],
+          "Verspätung": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "hat": "haben",
+          "große": "groß"
+        },
+        "word_meanings": {
+          "große": "major"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Der Zug nach Bonn",
+            "english": "the train to Bonn",
+            "literal_meaning": null,
+            "tags": [
+              "nominative",
+              "direction"
+            ]
+          },
+          {
+            "german": "eine große Verspätung",
+            "english": "a major delay",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Deshalb komme ich nicht rechtzeitig zu unserem Termin.",
+      "en": "That is why I will not arrive at our appointment on time.",
+      "audio_path": "assets/audio/a2_published/a2-course-004/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Deshalb": [
+            "adverb",
+            "connector",
+            "reason"
+          ],
+          "komme": [
+            "verb",
+            "present"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "nicht": [
+            "adverb",
+            "negation"
+          ],
+          "rechtzeitig": [
+            "adverb",
+            "time"
+          ],
+          "zu": [
+            "preposition",
+            "dative",
+            "direction"
+          ],
+          "unserem": [
+            "possessive",
+            "determiner",
+            "dative"
+          ],
+          "Termin": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "komme": "kommen"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Deshalb komme ich nicht rechtzeitig",
+            "english": "That is why I will not arrive on time",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "negation"
+            ]
+          },
+          {
+            "german": "zu unserem Termin",
+            "english": "for our appointment",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "direction"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Ich möchte das Gespräch aber nicht ganz absagen.",
+      "en": "However, I do not want to cancel the meeting completely.",
+      "audio_path": "assets/audio/a2_published/a2-course-004/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Ich": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "möchte": [
+            "modal verb",
+            "present",
+            "subjunctive"
+          ],
+          "das": [
+            "article",
+            "accusative"
+          ],
+          "Gespräch": [
+            "accusative"
+          ],
+          "aber": [
+            "conjunction",
+            "coordinating"
+          ],
+          "nicht": [
+            "adverb",
+            "negation"
+          ],
+          "ganz": [
+            "adverb"
+          ],
+          "absagen": [
+            "verb",
+            "infinitive",
+            "separable"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "möchte": "möchten",
+          "absagen": "absagen"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "das Gespräch",
+            "english": "the meeting",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "möchte ... nicht ganz absagen",
+            "english": "do not want to cancel completely",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "negation"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Wir können den Termin auf morgen verschieben oder heute telefonieren.",
+      "en": "We can move the appointment to tomorrow or speak on the phone today.",
+      "audio_path": "assets/audio/a2_published/a2-course-004/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Wir": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "können": [
+            "modal verb",
+            "present"
+          ],
+          "den": [
+            "article",
+            "accusative"
+          ],
+          "Termin": [
+            "accusative"
+          ],
+          "auf": [
+            "preposition",
+            "accusative",
+            "time"
+          ],
+          "morgen": [
+            "adverb",
+            "time"
+          ],
+          "verschieben": [
+            "verb",
+            "infinitive"
+          ],
+          "oder": [
+            "conjunction",
+            "coordinating"
+          ],
+          "heute": [
+            "adverb",
+            "time"
+          ],
+          "telefonieren": [
+            "verb",
+            "infinitive"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "können": "können",
+          "verschieben": "verschieben",
+          "telefonieren": "telefonieren"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "den Termin",
+            "english": "the appointment",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "auf morgen",
+            "english": "to tomorrow",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "time"
+            ]
+          },
+          {
+            "german": "können den Termin auf morgen verschieben",
+            "english": "can move the appointment to tomorrow",
+            "literal_meaning": null,
+            "tags": [
+              "main clause"
+            ]
+          },
+          {
+            "german": "oder heute telefonieren",
+            "english": "or speak on the phone today",
+            "literal_meaning": null,
+            "tags": [
+              "coordinating"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Bitte schreib mir kurz, welche Lösung für dich besser passt.",
+      "en": "Please write to me briefly which solution suits you better.",
+      "audio_path": "assets/audio/a2_published/a2-course-004/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Bitte": [
+            "interjection"
+          ],
+          "schreib": [
+            "verb",
+            "imperative"
+          ],
+          "mir": [
+            "personal pronoun",
+            "dative"
+          ],
+          "kurz": [
+            "adverb",
+            "manner"
+          ],
+          "welche": [
+            "determiner",
+            "nominative"
+          ],
+          "Lösung": [
+            "nominative",
+            "subject"
+          ],
+          "für": [
+            "preposition",
+            "accusative"
+          ],
+          "dich": [
+            "personal pronoun",
+            "accusative"
+          ],
+          "besser": [
+            "adverb",
+            "comparative"
+          ],
+          "passt": [
+            "verb",
+            "present"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "schreib": "schreiben",
+          "passt": "passen"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "welche Lösung",
+            "english": "which solution",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "schreib mir kurz",
+            "english": "write to me briefly",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "imperative"
+            ]
+          },
+          {
+            "german": "welche Lösung für dich besser passt",
+            "english": "which solution suits you better",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final"
+            ]
+          },
+          {
+            "german": "für dich",
+            "english": "for you",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "What two alternatives does the message offer?",
+    "answer_en": "Move the appointment to tomorrow or speak on the phone today."
+  },
+  "source_basis": [
+    "curriculum/a2_blueprint.md",
+    "A2 blueprint lesson 4"
+  ],
+  "speech_alternatives": []
+}

@@ -1,0 +1,3246 @@
+{
+  "schema_version": 1,
+  "source_sha256": "a35df70997023f5a2437aeedf0546d7d2113e669943b716eaeedb6f1a3798c6a",
+  "lesson": {
+    "id": "a2-course-013",
+    "title": "Könnten Sie leiser sein?",
+    "english_title": "Could You Be Quieter?",
+    "level": "A2.1",
+    "sentences": [
+      {
+        "text": "Guten Abend, Frau Klein; darf ich Sie kurz stören?",
+        "natural_meaning": "Good evening, Ms Klein; may I bother you briefly?",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "gut",
+                "english": "good",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Guten"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Abend",
+                "english": "evening",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Abend"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Frau",
+                "english": "woman / Ms",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Frau"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Klein",
+                "english": "Klein (surname)",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Klein"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "darf",
+                "english": "may",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "dürfen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "darf"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "darfst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "darf"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "dürfen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "dürft"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "dürfen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "may / to be allowed to",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "darf"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "darfst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "darf"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "dürfen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "dürft"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "dürfen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I may",
+                    "you may",
+                    "he/she/it may",
+                    "we may",
+                    "you may",
+                    "they/you may"
+                  ],
+                  "current_english_forms": [
+                    "I may",
+                    "you may",
+                    "he/she/it may",
+                    "we may",
+                    "you may",
+                    "they/you may"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "darf"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ich",
+                "english": "I",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Sie",
+                "english": "you",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  },
+                  {
+                    "label": "singular",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "kurz",
+                "english": "brief / briefly",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "kurz"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "stören",
+                "english": "disturb",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "infinitive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "stören",
+                  "tense": "Infinitiv (infinitive in this construction)",
+                  "forms": [
+                    {
+                      "pronoun": "—",
+                      "verb": "stören"
+                    }
+                  ],
+                  "usage": "This non-finite form follows a modal verb or zu, so it does not change for person in this sentence.",
+                  "english": "to disturb / bother",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "störe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "störst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "stört"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "stören"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "stört"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "stören"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I disturb",
+                    "you disturb",
+                    "he/she/it disturbs",
+                    "we disturb",
+                    "you disturb",
+                    "they/you disturb"
+                  ],
+                  "current_english_forms": [
+                    "to disturb"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "stören"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Guten Abend",
+                "english": "good evening",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "fixed phrase",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Guten",
+                    "base": "gut",
+                    "kind": "adjective",
+                    "paradigm": "strong-adjective",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Frau Klein",
+                "english": "Ms Klein",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "darf ich Sie kurz stören",
+                "english": "may I bother you briefly",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  },
+                  {
+                    "label": "modal verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "infinitive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Sie kurz stören",
+                "english": "bother you briefly",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "infinitive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Sie",
+                    "base": "Sie",
+                    "kind": "personal-pronoun",
+                    "paradigm": "personal-pronoun",
+                    "case": "accusative",
+                    "gender": null,
+                    "number": "plural",
+                    "pronoun_slot": "third-plural-formal",
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-013/sentence-01.wav"
+      },
+      {
+        "text": "Natürlich, was ist denn los?",
+        "natural_meaning": "Of course, what is the matter?",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Natürlich",
+                "english": "of course",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "interjection",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Natürlich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "was",
+                "english": "what",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "interrogative pronoun",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "was"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ist",
+                "english": "is",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "ist"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "denn",
+                "english": "then / adds conversational emphasis",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "particle",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "denn"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "los",
+                "english": "the matter / going on",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "los"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "was ist denn los",
+                "english": "what is the matter",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "fixed phrase",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-013/sentence-02.wav"
+      },
+      {
+        "text": "Die Musik aus Ihrer Wohnung ist seit einer Stunde sehr laut, und mein Kind kann deshalb nicht schlafen.",
+        "natural_meaning": "The music from your apartment has been very loud for an hour, and my child therefore cannot sleep.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "die Musik",
+                "english": "music",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Die",
+                  "Musik"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "aus",
+                "english": "from / out of",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "aus"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Ihr",
+                "english": "your",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "possessive",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "determiner",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Ihrer"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Wohnung",
+                "english": "apartment / flat",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Wohnung"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ist",
+                "english": "is",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "ist"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "seit",
+                "english": "since / for",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "seit"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Stunde",
+                "english": "hour",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "einer",
+                  "Stunde"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sehr",
+                "english": "very",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sehr"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "laut",
+                "english": "loud",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "laut"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "mein",
+                "english": "my",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "possessive",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "determiner",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "mein"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Kind",
+                "english": "child",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Kind"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "kann",
+                "english": "can",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "können",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kannst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "können"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "könnt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "können"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "can / to be able to",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kannst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "können"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "könnt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "können"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I can",
+                    "you can",
+                    "he/she/it can",
+                    "we can",
+                    "you can",
+                    "they/you can"
+                  ],
+                  "current_english_forms": [
+                    "I can",
+                    "you can",
+                    "he/she/it can",
+                    "we can",
+                    "you can",
+                    "they/you can"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "kann"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "deshalb",
+                "english": "therefore / that is why",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "connector",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "deshalb"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "nicht",
+                "english": "not",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "particle",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "negation",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "nicht"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "schlafen",
+                "english": "sleep",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "infinitive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "schlafen",
+                  "tense": "Infinitiv (infinitive in this construction)",
+                  "forms": [
+                    {
+                      "pronoun": "—",
+                      "verb": "schlafen"
+                    }
+                  ],
+                  "usage": "This non-finite form follows a modal verb or zu, so it does not change for person in this sentence.",
+                  "english": "to sleep",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "schlafe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "schläfst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "schläft"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "schlafen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "schlaft"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "schlafen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I sleep",
+                    "you sleep",
+                    "he/she/it sleeps",
+                    "we sleep",
+                    "you sleep",
+                    "they/you sleep"
+                  ],
+                  "current_english_forms": [
+                    "to sleep"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "schlafen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "aus Ihrer Wohnung",
+                "english": "from your apartment",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Ihrer",
+                    "base": "Ihr",
+                    "kind": "possessive-determiner",
+                    "paradigm": "possessive",
+                    "case": "dative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "seit einer Stunde",
+                "english": "for an hour",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "einer",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "dative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "mein Kind",
+                "english": "my child",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "mein",
+                    "base": "mein",
+                    "kind": "possessive-determiner",
+                    "paradigm": "possessive",
+                    "case": "nominative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Die Musik aus Ihrer Wohnung ist seit einer Stunde sehr laut",
+                "english": "The music from your apartment has been very loud for an hour",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "und mein Kind kann deshalb nicht schlafen",
+                "english": "and my child therefore cannot sleep",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Die Musik",
+                "english": "the music",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Die",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "nominative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "kann deshalb nicht schlafen",
+                "english": "therefore cannot sleep",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "modal verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "negation",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "infinitive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-013/sentence-03.wav"
+      },
+      {
+        "text": "Oh, das tut mir leid; ich habe die Zeit ganz vergessen.",
+        "natural_meaning": "Oh, I am sorry; I completely lost track of the time.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "oh",
+                "english": "Oh",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "interjection",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Oh"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das",
+                "english": "that / it",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "demonstrative pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "das"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "tut",
+                "english": "causes regret",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "leidtun",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "tue leid"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "tust leid"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "tut leid"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "tun leid"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "tut leid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "tun leid"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to cause regret / make someone feel sorry",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "tue leid"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "tust leid"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "tut leid"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "tun leid"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "tut leid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "tun leid"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I cause regret",
+                    "you cause regret",
+                    "he/she/it causes regret",
+                    "we cause regret",
+                    "you cause regret",
+                    "they/you cause regret"
+                  ],
+                  "current_english_forms": [
+                    "I cause regret",
+                    "you cause regret",
+                    "he/she/it causes regret",
+                    "we cause regret",
+                    "you cause regret",
+                    "they/you cause regret"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "tut",
+                  "leid"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "mir",
+                "english": "me",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "singular",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "mir"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ich",
+                "english": "I",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "habe",
+                "english": "have",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "haben",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to have",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I have",
+                    "you have",
+                    "he/she/it has",
+                    "we have",
+                    "you have",
+                    "they/you have"
+                  ],
+                  "current_english_forms": [
+                    "I have",
+                    "you have",
+                    "he/she/it has",
+                    "we have",
+                    "you have",
+                    "they/you have"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "habe"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Zeit",
+                "english": "time",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "die",
+                  "Zeit"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ganz",
+                "english": "completely",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ganz"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "vergessen",
+                "english": "forgotten",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "past participle",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "vergessen",
+                  "tense": "Perfekt (conversational past)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe vergessen"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast vergessen"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat vergessen"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben vergessen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt vergessen"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben vergessen"
+                    }
+                  ],
+                  "usage": "vergessen is the past participle of vergessen; it combines with haben to form the conversational past.",
+                  "english": "to forget",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "vergesse"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "vergisst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "vergisst"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "vergessen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "vergesst"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "vergessen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I forget",
+                    "you forget",
+                    "he/she/it forgets",
+                    "we forget",
+                    "you forget",
+                    "they/you forget"
+                  ],
+                  "current_english_forms": [
+                    "I have forgotten",
+                    "you have forgotten",
+                    "he/she/it has forgotten",
+                    "we have forgotten",
+                    "you have forgotten",
+                    "they/you have forgotten"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "vergessen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das tut mir leid",
+                "english": "I am sorry",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "ich habe die Zeit ganz vergessen",
+                "english": "I completely lost track of the time",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "tut mir leid",
+                "english": "am sorry",
+                "literal_meaning": "causes regret to me",
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "fixed phrase",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "separable",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "mir",
+                    "base": "ich",
+                    "kind": "personal-pronoun",
+                    "paradigm": "personal-pronoun",
+                    "case": "dative",
+                    "gender": null,
+                    "number": "singular",
+                    "pronoun_slot": "first-singular",
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "die Zeit",
+                "english": "the time",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "die",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "habe die Zeit ganz vergessen",
+                "english": "completely lost track of the time",
+                "literal_meaning": "completely forgot the time",
+                "tags": [
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-013/sentence-04.wav"
+      },
+      {
+        "text": "Könnten Sie die Musik bitte leiser machen und heute Abend auf die Ruhe im Haus Rücksicht nehmen?",
+        "natural_meaning": "Could you please make the music quieter and be considerate of the peace in the building this evening?",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Könnten",
+                "english": "could",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "subjunctive",
+                    "category": "form"
+                  },
+                  {
+                    "label": "modal verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "können",
+                  "tense": "Konjunktiv II (polite/conditional)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "könnte"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "könntest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "könnte"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "könnten"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "könntet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "könnten"
+                    }
+                  ],
+                  "usage": "This form makes a request or possibility polite or hypothetical.",
+                  "english": "can / to be able to",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kannst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "können"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "könnt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "können"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I can",
+                    "you can",
+                    "he/she/it can",
+                    "we can",
+                    "you can",
+                    "they/you can"
+                  ],
+                  "current_english_forms": [
+                    "I could",
+                    "you could",
+                    "he/she/it could",
+                    "we could",
+                    "you could",
+                    "they/you could"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "Könnten"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Sie",
+                "english": "you",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  },
+                  {
+                    "label": "singular",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Musik",
+                "english": "music",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "die",
+                  "Musik"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "bitte",
+                "english": "please",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "particle",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "bitte"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "leise",
+                "english": "quieter",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "comparative",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "leiser"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "machen",
+                "english": "make",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "infinitive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "machen",
+                  "tense": "Infinitiv (infinitive in this construction)",
+                  "forms": [
+                    {
+                      "pronoun": "—",
+                      "verb": "machen"
+                    }
+                  ],
+                  "usage": "This non-finite form follows a modal verb or zu, so it does not change for person in this sentence.",
+                  "english": "to do / make",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "mache"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "machst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "macht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "machen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "macht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "machen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I do",
+                    "you do",
+                    "he/she/it does",
+                    "we do",
+                    "you do",
+                    "they/you do"
+                  ],
+                  "current_english_forms": [
+                    "to make"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "machen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "heute",
+                "english": "today",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "heute"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Abend",
+                "english": "evening",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Abend"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "auf",
+                "english": "of / toward (with Rücksicht nehmen)",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "auf"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Ruhe",
+                "english": "rest / quiet",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "die",
+                  "Ruhe"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "in",
+                "english": "in",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "contraction",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "im"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Haus",
+                "english": "house / building",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Haus"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Rücksicht",
+                "english": "consideration",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Rücksicht"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "nehmen",
+                "english": "take",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "infinitive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "nehmen",
+                  "tense": "Infinitiv (infinitive in this construction)",
+                  "forms": [
+                    {
+                      "pronoun": "—",
+                      "verb": "nehmen"
+                    }
+                  ],
+                  "usage": "This non-finite form follows a modal verb or zu, so it does not change for person in this sentence.",
+                  "english": "to take",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "nehme"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "nimmst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "nimmt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "nehmen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "nehmt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "nehmen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I take",
+                    "you take",
+                    "he/she/it takes",
+                    "we take",
+                    "you take",
+                    "they/you take"
+                  ],
+                  "current_english_forms": [
+                    "to take"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "nehmen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "im Haus",
+                "english": "in the building",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "contraction",
+                    "category": "form"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "im",
+                    "base": "das",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": "dem",
+                    "contraction": "in + dem"
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "auf die Ruhe",
+                "english": "of the peace and quiet",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "die",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Könnten Sie die Musik bitte leiser machen",
+                "english": "Could you please make the music quieter",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Könnten Sie ... machen",
+                "english": "could you make",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "subjunctive",
+                    "category": "form"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  },
+                  {
+                    "label": "infinitive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Könnten Sie",
+                "english": "could you",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "subjunctive",
+                    "category": "form"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Sie",
+                    "base": "Sie",
+                    "kind": "personal-pronoun",
+                    "paradigm": "personal-pronoun",
+                    "case": "nominative",
+                    "gender": null,
+                    "number": "plural",
+                    "pronoun_slot": "third-plural-formal",
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "die Musik bitte leiser machen",
+                "english": "please make the music quieter",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "infinitive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "die",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "heute Abend",
+                "english": "this evening",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Rücksicht nehmen",
+                "english": "be considerate",
+                "literal_meaning": "take consideration",
+                "tags": [
+                  {
+                    "label": "fixed phrase",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-013/sentence-05.wav"
+      },
+      {
+        "text": "Natürlich mache ich sie sofort leiser und nehme ab jetzt wirklich mehr Rücksicht.",
+        "natural_meaning": "Of course, I will make it quieter immediately and really be more considerate from now on.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Natürlich",
+                "english": "of course",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Natürlich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "mache",
+                "english": "make / will make",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "machen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "mache"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "machst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "macht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "machen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "macht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "machen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to do / make",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "mache"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "machst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "macht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "machen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "macht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "machen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I do",
+                    "you do",
+                    "he/she/it does",
+                    "we do",
+                    "you do",
+                    "they/you do"
+                  ],
+                  "current_english_forms": [
+                    "I make",
+                    "you make",
+                    "he/she/it makes",
+                    "we make",
+                    "you make",
+                    "they/you make"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "mache"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ich",
+                "english": "I",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sie",
+                "english": "it",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "singular",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sie"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sofort",
+                "english": "immediately",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sofort"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "leise",
+                "english": "quieter",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "comparative",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "leiser"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "nehme",
+                "english": "take",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "nehmen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "nehme"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "nimmst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "nimmt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "nehmen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "nehmt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "nehmen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to take",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "nehme"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "nimmst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "nimmt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "nehmen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "nehmt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "nehmen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I take",
+                    "you take",
+                    "he/she/it takes",
+                    "we take",
+                    "you take",
+                    "they/you take"
+                  ],
+                  "current_english_forms": [
+                    "I take",
+                    "you take",
+                    "he/she/it takes",
+                    "we take",
+                    "you take",
+                    "they/you take"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "nehme"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ab",
+                "english": "from",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ab"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "jetzt",
+                "english": "now",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "jetzt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "wirklich",
+                "english": "really",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "wirklich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "viel",
+                "english": "more",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "determiner",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "comparative",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "mehr"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Rücksicht",
+                "english": "consideration",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Rücksicht"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Natürlich mache ich sie sofort leiser",
+                "english": "of course I will make it quieter immediately",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-second",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "und nehme ab jetzt wirklich mehr Rücksicht",
+                "english": "and really be more considerate from now on",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "sie",
+                "english": "it",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "sie",
+                    "base": "sie",
+                    "kind": "personal-pronoun",
+                    "paradigm": "personal-pronoun",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": "third-feminine",
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "ab jetzt",
+                "english": "from now on",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "nehme ab jetzt wirklich mehr Rücksicht",
+                "english": "will really be more considerate from now on",
+                "literal_meaning": "really take more consideration from now on",
+                "tags": [
+                  {
+                    "label": "fixed phrase",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-013/sentence-06.wav"
+      }
+    ],
+    "audio_path": "assets/audio/a2_candidates/a2-course-013/paragraph.wav",
+    "initial_question": "What does the neighbor agree to do?",
+    "initial_answer": "Make the music quieter and be more considerate.",
+    "audio_status": "ready",
+    "sequence": 61,
+    "lesson_format": "dialogue",
+    "topic": "a polite request about noise",
+    "new_targets": [
+      "könnten",
+      "stören",
+      "laut",
+      "leise",
+      "die Ruhe",
+      "die Musik",
+      "Rücksicht nehmen"
+    ],
+    "recycled_targets": [
+      "das Kind",
+      "schlafen",
+      "deshalb"
+    ],
+    "speech_alternatives": [],
+    "performance_activity": {
+      "kind": "speaking",
+      "instruction": "Make a polite request for each neighbour problem, then respond constructively to both requests.",
+      "prompts": [
+        "The music next door is too loud and your child cannot sleep.",
+        "A neighbour is drilling during the building's quiet hours."
+      ]
+    }
+  }
+}

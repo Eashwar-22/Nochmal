@@ -1,0 +1,375 @@
+{
+  "id": "a1-course-005",
+  "source_draft_id": "a1-draft-005",
+  "sequence": 5,
+  "band": "A1.1",
+  "format": "dialogue",
+  "title_de": "Das ist meine Freundin",
+  "title_en": "This Is My Friend",
+  "topic": "introducing friends from a course",
+  "communicative_goal": "Introduce a friend and identify another person nearby.",
+  "grammar_focus": "nominative noun phrases after sein and who-questions",
+  "supporting_structures": [
+    "Das ist Sara.",
+    "eine Freundin aus dem Kurs",
+    "Wer ist der Mann dort?",
+    "Er heißt Amir."
+  ],
+  "grammar_notes": [
+    "Das ist Sara and Wer ist der Mann dort use sein before a nominative predicate or subject phrase.",
+    "Eine Freundin is a feminine nominative apposition to Sara.",
+    "Aus always governs dative; dem Kurs is masculine dative.",
+    "Er is the masculine nominative personal pronoun referring to der Mann."
+  ],
+  "new_targets": [
+    "die Freundin",
+    "der Mann",
+    "wer",
+    "dort",
+    "alle",
+    "zusammen"
+  ],
+  "recycled_targets": [
+    "der Kurs",
+    "heißen",
+    "wohnen",
+    "auch",
+    "Bonn",
+    "sprechen"
+  ],
+  "recycles_from": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "audio_path": "assets/audio/a1_candidates/a1-course-005/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Mina sagt: „Leo, das ist Sara, eine Freundin aus dem Kurs.“",
+      "en": "Mina says, “Leo, this is Sara, a friend from the course.”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-005/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "mina": [
+            "nominative",
+            "subject"
+          ],
+          "das": [
+            "nominative",
+            "subject"
+          ],
+          "eine": [
+            "determiner",
+            "nominative"
+          ],
+          "freundin": [
+            "nominative"
+          ],
+          "aus": [
+            "preposition",
+            "dative"
+          ],
+          "dem": [
+            "dative"
+          ],
+          "kurs": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "sagt": "says",
+          "das": "this",
+          "eine": "a",
+          "freundin": "friend",
+          "aus": "from",
+          "dem": "the"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "eine Freundin aus dem Kurs"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Mina sagt",
+            "english": "Mina says",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "das ist Sara",
+            "english": "this is Sara",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "eine Freundin aus dem Kurs",
+            "english": "a friend from the course",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "aus dem Kurs",
+            "english": "from the course",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Leo fragt: „Wer ist der Mann dort?“",
+      "en": "Leo asks, “Who is the man over there?”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-005/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "leo": [
+            "nominative",
+            "subject"
+          ],
+          "wer": [
+            "nominative",
+            "subject"
+          ],
+          "der": [
+            "nominative"
+          ],
+          "mann": [
+            "nominative",
+            "predicate"
+          ],
+          "dort": [
+            "adverb",
+            "place"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "fragt": "asks",
+          "wer": "who",
+          "ist": "is",
+          "dort": "over there"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Leo fragt",
+            "english": "Leo asks",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "der Mann",
+            "english": "the man",
+            "literal_meaning": null,
+            "tags": [
+              "nominative",
+              "predicate"
+            ]
+          },
+          {
+            "german": "Wer ist der Mann dort",
+            "english": "Who is the man over there?",
+            "literal_meaning": "Who is the man there?",
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Sara antwortet: „Er heißt Amir und wohnt auch in Bonn.“",
+      "en": "Sara answers, “His name is Amir and he also lives in Bonn.”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-005/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "sara": [
+            "nominative",
+            "subject"
+          ],
+          "er": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "auch": [
+            "adverb"
+          ],
+          "in": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "bonn": [
+            "dative",
+            "place"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "antwortet": "answers",
+          "er": "he",
+          "heißt": "is called",
+          "wohnt": "lives",
+          "auch": "also",
+          "in": "in"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Sara antwortet: „Er heißt Amir",
+          "und wohnt auch in Bonn",
+          "Er heißt Amir und wohnt auch in Bonn"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Sara antwortet",
+            "english": "Sara answers",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "Er heißt Amir",
+            "english": "His name is Amir",
+            "literal_meaning": "He is called Amir",
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "Er heißt Amir und wohnt auch in Bonn",
+            "english": "His name is Amir and he also lives in Bonn.",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "in Bonn",
+            "english": "in Bonn",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Dann sagen alle Hallo und sprechen kurz zusammen.",
+      "en": "Then everyone says hello and they talk together briefly.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-005/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "dann": [
+            "adverb",
+            "time"
+          ],
+          "alle": [
+            "indefinite pronoun",
+            "nominative",
+            "subject"
+          ],
+          "hallo": [
+            "interjection"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "kurz": [
+            "adverb",
+            "manner"
+          ],
+          "zusammen": [
+            "adverb",
+            "manner"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "dann": "then",
+          "sagen": "say",
+          "alle": "everyone",
+          "hallo": "hello",
+          "sprechen": "talk",
+          "kurz": "briefly",
+          "zusammen": "together"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "und sprechen kurz zusammen"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Dann sagen alle Hallo",
+            "english": "Then everyone says hello",
+            "literal_meaning": "Then say all hello",
+            "tags": [
+              "main clause",
+              "inversion",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "und sprechen kurz zusammen",
+            "english": "and they talk together briefly",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "ellipsis"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Who is Amir?",
+    "answer_en": "The man Sara identifies; he also lives in Bonn."
+  },
+  "source_basis": [
+    "a1-blueprint",
+    "a1-draft-005",
+    "grammar-breakdown-rulebook"
+  ],
+  "speech_alternatives": []
+}

@@ -1,0 +1,462 @@
+{
+  "id": "a1-course-040",
+  "source_draft_id": "a1-draft-040",
+  "sequence": 40,
+  "band": "A1.2",
+  "format": "dialogue",
+  "title_de": "Wollen wir uns treffen?",
+  "title_en": "Shall We Meet?",
+  "topic": "suggesting a leisure activity and agreeing where and when to meet",
+  "communicative_goal": "Make a simple plan, accept it, or offer one alternative.",
+  "grammar_focus": "modal wollen plus sentence-final infinitive in suggestion questions",
+  "supporting_structures": [
+    "Wollen wir zusammen ins Kino gehen",
+    "sich am Abend treffen",
+    "um acht Uhr beginnen"
+  ],
+  "grammar_notes": [
+    "Wollen is finite in second position and gehen stays at the end; the reflexive pronoun uns stays before the time phrase."
+  ],
+  "new_targets": [
+    "wollen",
+    "der Plan",
+    "das Kino",
+    "der Film",
+    "Lust haben",
+    "gemeinsam",
+    "vielleicht"
+  ],
+  "recycled_targets": [
+    "haben",
+    "der Samstag",
+    "frei",
+    "sich treffen",
+    "leider",
+    "können"
+  ],
+  "recycles_from": [
+    6,
+    10,
+    11,
+    39
+  ],
+  "audio_path": "assets/audio/a1_candidates/a1-course-040/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Paul fragt Mina: „Wollen wir am Samstag zusammen ins Kino gehen?“",
+      "en": "Paul asks Mina, “Shall we go to the cinema together on Saturday?”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-040/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Paul": [
+            "nominative"
+          ],
+          "Mina": [
+            "accusative"
+          ],
+          "Wollen": [
+            "modal verb",
+            "present"
+          ],
+          "wir": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Samstag": [
+            "dative",
+            "time"
+          ],
+          "zusammen": [
+            "adverb",
+            "manner"
+          ],
+          "ins": [
+            "preposition",
+            "accusative",
+            "direction"
+          ],
+          "Kino": [
+            "accusative"
+          ],
+          "gehen": [
+            "verb",
+            "infinitive"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "Wollen": "shall / want to"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Wollen wir am Samstag zusammen ins Kino gehen",
+            "english": "Shall we go to the cinema together on Saturday?",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "am Samstag",
+            "english": "on Saturday",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "ins Kino",
+            "english": "to the cinema",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction",
+              "contraction"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina hat Lust auf einen Film, aber am Nachmittag muss sie arbeiten.",
+      "en": "Mina feels like seeing a film, but she has to work in the afternoon.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-040/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Mina": [
+            "nominative"
+          ],
+          "Lust": [
+            "accusative"
+          ],
+          "auf": [
+            "preposition",
+            "accusative"
+          ],
+          "einen": [
+            "determiner",
+            "accusative"
+          ],
+          "Film": [
+            "accusative"
+          ],
+          "aber": [
+            "conjunction",
+            "coordinating"
+          ],
+          "am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Nachmittag": [
+            "dative",
+            "time"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "arbeiten": [
+            "verb",
+            "infinitive"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "hat": "haben"
+        },
+        "word_meanings": {
+          "hat": "has"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "hat Lust auf einen Film",
+            "english": "feels like seeing a film",
+            "literal_meaning": "has desire for a film",
+            "tags": [
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "auf einen Film",
+            "english": "for a film",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "aber am Nachmittag muss sie arbeiten",
+            "english": "but she has to work in the afternoon",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "am Nachmittag",
+            "english": "in the afternoon",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Sie fragt: „Können wir uns vielleicht erst am Abend treffen?“",
+      "en": "She asks, “Could we perhaps meet in the evening instead?”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-040/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "Können": [
+            "modal verb",
+            "present"
+          ],
+          "wir": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "uns": [
+            "reflexive pronoun",
+            "accusative"
+          ],
+          "vielleicht": [
+            "adverb"
+          ],
+          "erst": [
+            "adverb",
+            "time"
+          ],
+          "am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Abend": [
+            "dative",
+            "time"
+          ],
+          "treffen": [
+            "verb",
+            "infinitive",
+            "reflexive"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "Sie": "she",
+          "erst": "instead / not until"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Können wir uns vielleicht erst am Abend treffen",
+            "english": "Could we perhaps meet in the evening instead?",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "reflexive"
+            ]
+          },
+          {
+            "german": "am Abend",
+            "english": "in the evening",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Paul findet den Plan gut; der neue Film beginnt dort um acht Uhr.",
+      "en": "Paul likes the plan; the new film starts there at eight o’clock.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-040/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Paul": [
+            "nominative"
+          ],
+          "den": [
+            "article",
+            "accusative"
+          ],
+          "Plan": [
+            "accusative"
+          ],
+          "gut": [
+            "adjective",
+            "predicate"
+          ],
+          "der": [
+            "article",
+            "nominative"
+          ],
+          "neue": [
+            "adjective",
+            "nominative"
+          ],
+          "Film": [
+            "nominative"
+          ],
+          "dort": [
+            "adverb",
+            "place"
+          ],
+          "um": [
+            "preposition",
+            "time"
+          ],
+          "acht": [
+            "numeral",
+            "time"
+          ],
+          "Uhr": [
+            "time"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "neue": "neu"
+        },
+        "word_meanings": {
+          "findet": "likes"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "den Plan",
+            "english": "the plan",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "der neue Film",
+            "english": "the new film",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "um acht Uhr",
+            "english": "at eight o’clock",
+            "literal_meaning": null,
+            "tags": [
+              "time",
+              "fixed phrase"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Beide bestätigen Zeit und Ort und sagen: „Bis Samstag!“",
+      "en": "They both confirm the time and place and say, “See you Saturday!”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-040/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Beide": [
+            "indefinite pronoun",
+            "nominative"
+          ],
+          "Zeit": [
+            "accusative"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "Ort": [
+            "accusative"
+          ],
+          "Bis": [
+            "preposition",
+            "time"
+          ],
+          "Samstag": [
+            "time"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "Beide": "both of them"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Zeit und Ort",
+            "english": "time and place",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "Bis Samstag",
+            "english": "See you Saturday!",
+            "literal_meaning": "Until Saturday",
+            "tags": [
+              "fixed phrase",
+              "time"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Why can Mina not meet in the afternoon?",
+    "answer_en": "She has to work."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_07.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

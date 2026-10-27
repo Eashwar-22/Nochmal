@@ -1,0 +1,734 @@
+{
+  "id": "a2-course-024",
+  "source_draft_id": "a2-draft-024",
+  "sequence": 72,
+  "band": "A2.1",
+  "format": "dialogue",
+  "title_de": "Von der Anzeige zum ersten Tag",
+  "title_en": "From Advertisement to First Day",
+  "topic": "reading a job advertisement, answering interview questions, and receiving a follow-up message",
+  "communicative_goal": "Express interest in a job, describe past experience, state availability, and understand the employer's reply.",
+  "grammar_focus": "consolidation of application vocabulary, Perfekt, dass, and polite conditional forms",
+  "supporting_structures": [
+    "Das klingt interessant.",
+    "Welche Erfahrung haben Sie?",
+    "Wann könnten Sie anfangen?",
+    "Willkommen im Team."
+  ],
+  "grammar_notes": [],
+  "new_targets": [
+    "Das klingt interessant",
+    "Welche Erfahrung haben Sie",
+    "Wann könnten Sie anfangen",
+    "Ich melde mich",
+    "Willkommen im Team"
+  ],
+  "recycled_targets": [
+    "sich bewerben",
+    "die Stelle",
+    "die Erfahrung",
+    "die Ausbildung",
+    "dass",
+    "ich würde gern"
+  ],
+  "recycles_from": [
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "audio_path": "assets/audio/a2_candidates/a2-course-024/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Anzeige: Das Hotel sucht ab Montag Hilfe an der Rezeption; Erfahrung mit Gästen ist wichtig.",
+      "en": "Advertisement: The hotel is looking for help at reception from Monday; experience with guests is important.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-024/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Das": [
+            "article",
+            "nominative"
+          ],
+          "ab": [
+            "preposition",
+            "dative"
+          ],
+          "an": [
+            "preposition",
+            "dative"
+          ],
+          "der": [
+            "article",
+            "dative"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "Gästen": [
+            "plural",
+            "dative"
+          ],
+          "wichtig": [
+            "adjective"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "Gästen": "der Gast"
+        },
+        "word_meanings": {
+          "Anzeige": "advertisement",
+          "sucht": "is looking for",
+          "Hilfe": "help",
+          "ab": "from",
+          "an": "at",
+          "mit": "with",
+          "ist": "is"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Das Hotel",
+            "english": "the hotel",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "ab Montag",
+            "english": "from Monday",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "an der Rezeption",
+            "english": "at reception",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "mit Gästen",
+            "english": "with guests",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina: Das klingt interessant; ich würde mich gern um die Stelle bewerben.",
+      "en": "Mina: That sounds interesting; I would like to apply for the position.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-024/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Mina": [
+            "proper noun"
+          ],
+          "Das": [
+            "demonstrative pronoun",
+            "nominative",
+            "subject"
+          ],
+          "interessant": [
+            "adjective"
+          ],
+          "gern": [
+            "adverb"
+          ],
+          "mich": [
+            "reflexive pronoun",
+            "accusative"
+          ],
+          "um": [
+            "preposition",
+            "accusative"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "klingt": "klingen",
+          "würde": "werden",
+          "mich": "ich",
+          "bewerben": "sich bewerben"
+        },
+        "word_meanings": {
+          "Das": "that",
+          "klingt": "sounds",
+          "mich": "myself",
+          "gern": "gladly",
+          "um": "for",
+          "Stelle": "position"
+        },
+        "verb_forms": {
+          "bewerben": "infinitive"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Das klingt interessant",
+            "english": "that sounds interesting",
+            "literal_meaning": null,
+            "tags": [
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "um die Stelle",
+            "english": "for the position",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "ich würde mich gern um die Stelle bewerben",
+            "english": "I would like to apply for the position",
+            "literal_meaning": "I would gladly apply for the position",
+            "tags": [
+              "subjunctive",
+              "reflexive",
+              "infinitive"
+            ]
+          },
+          {
+            "german": "mich gern um die Stelle bewerben",
+            "english": "gladly apply for the position",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "reflexive",
+              "infinitive"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Frau Koch: Welche Erfahrung haben Sie, und wann könnten Sie bei uns anfangen?",
+      "en": "Ms Koch: What experience do you have, and when could you start with us?",
+      "audio_path": "assets/audio/a2_candidates/a2-course-024/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Frau": [
+            "noun",
+            "fem."
+          ],
+          "Koch": [
+            "proper noun"
+          ],
+          "Welche": [
+            "determiner",
+            "accusative"
+          ],
+          "Sie": [
+            "personal pronoun",
+            "nominative",
+            "formal"
+          ],
+          "wann": [
+            "adverb",
+            "time"
+          ],
+          "könnten": [
+            "modal verb",
+            "subjunctive"
+          ],
+          "bei": [
+            "preposition",
+            "dative"
+          ],
+          "uns": [
+            "personal pronoun",
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {
+          "Koch": [
+            "noun",
+            "masc."
+          ]
+        },
+        "base_forms": {
+          "könnten": "können",
+          "uns": "wir"
+        },
+        "word_meanings": {
+          "Frau": "Ms",
+          "Koch": "Koch",
+          "Welche": "what",
+          "Erfahrung": "experience",
+          "Sie": "you (formal)",
+          "bei": "with"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Frau Koch",
+          "Frau Koch: Welche Erfahrung haben Sie",
+          "wann könnten Sie … anfangen"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Welche Erfahrung",
+            "english": "what experience",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "Welche Erfahrung haben Sie",
+            "english": "what experience do you have",
+            "literal_meaning": null,
+            "tags": [
+              "formal"
+            ]
+          },
+          {
+            "german": "wann könnten Sie bei uns anfangen",
+            "english": "when could you start with us",
+            "literal_meaning": null,
+            "tags": [
+              "subjunctive",
+              "formal",
+              "infinitive"
+            ]
+          },
+          {
+            "german": "bei uns",
+            "english": "with us",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina: Vor einem Jahr habe ich meine Ausbildung beendet; danach habe ich in einem Hotel gearbeitet.",
+      "en": "Mina: A year ago I finished my training; after that I worked in a hotel.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-024/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Mina": [
+            "proper noun"
+          ],
+          "Vor": [
+            "preposition",
+            "dative"
+          ],
+          "einem": [
+            "article",
+            "dative"
+          ],
+          "meine": [
+            "possessive",
+            "determiner",
+            "accusative"
+          ],
+          "danach": [
+            "adverb",
+            "time"
+          ],
+          "in": [
+            "preposition",
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "beendet": "beenden",
+          "gearbeitet": "arbeiten"
+        },
+        "word_meanings": {
+          "Vor": "ago",
+          "in": "in"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Vor einem Jahr habe ich … beendet",
+          "danach habe ich … gearbeitet"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Vor einem Jahr",
+            "english": "a year ago",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "meine Ausbildung",
+            "english": "my training",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "habe ich meine Ausbildung beendet",
+            "english": "I finished my training",
+            "literal_meaning": null,
+            "tags": [
+              "perfect"
+            ]
+          },
+          {
+            "german": "danach habe ich in einem Hotel gearbeitet",
+            "english": "after that I worked in a hotel",
+            "literal_meaning": null,
+            "tags": [
+              "inversion",
+              "perfect"
+            ]
+          },
+          {
+            "german": "in einem Hotel",
+            "english": "in a hotel",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina: Ich glaube, dass ich gut zu Ihrem Team passe; ab Montag hätte ich Zeit.",
+      "en": "Mina: I think I fit well with your team; I would be available from Monday.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-024/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Mina": [
+            "proper noun"
+          ],
+          "dass": [
+            "conjunction",
+            "subordinating"
+          ],
+          "gut": [
+            "adverb"
+          ],
+          "zu": [
+            "preposition",
+            "dative"
+          ],
+          "Ihrem": [
+            "possessive",
+            "determiner",
+            "dative",
+            "formal"
+          ],
+          "ab": [
+            "preposition",
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "Ihrem": "Ihr",
+          "hätte": "haben"
+        },
+        "word_meanings": {
+          "gut": "well",
+          "zu": "with",
+          "Ihrem": "your (formal)",
+          "ab": "from",
+          "passe": "fit"
+        },
+        "verb_meanings": {
+          "passe": "to fit"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "dass ich gut zu Ihrem Team passe",
+            "english": "that I fit well with your team",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final"
+            ]
+          },
+          {
+            "german": "zu Ihrem Team",
+            "english": "with your team",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "formal"
+            ]
+          },
+          {
+            "german": "ab Montag",
+            "english": "from Monday",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "ab Montag hätte ich Zeit",
+            "english": "I would be available from Monday",
+            "literal_meaning": "From Monday I would have time",
+            "tags": [
+              "subjunctive",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Nachricht von Frau Koch: Willkommen im Team. Ich melde mich morgen mit dem Vertrag.",
+      "en": "Message from Ms Koch: Welcome to the team. I will contact you tomorrow with the contract.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-024/sentence-06.wav",
+      "annotations": {
+        "word_tags": {
+          "von": [
+            "preposition",
+            "dative"
+          ],
+          "Frau": [
+            "noun",
+            "fem."
+          ],
+          "Koch": [
+            "proper noun"
+          ],
+          "Willkommen": [
+            "interjection"
+          ],
+          "mich": [
+            "reflexive pronoun",
+            "accusative"
+          ],
+          "morgen": [
+            "adverb",
+            "time"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "dem": [
+            "article",
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {
+          "Koch": [
+            "noun",
+            "masc."
+          ]
+        },
+        "base_forms": {
+          "mich": "ich",
+          "melde": "sich melden"
+        },
+        "word_meanings": {
+          "Frau": "Ms",
+          "Koch": "Koch",
+          "von": "from",
+          "melde": "get in touch",
+          "mit": "with"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "von Frau",
+          "Nachricht von Frau Koch",
+          "Willkommen im Team. Ich melde mich morgen mit dem Vertrag"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "von Frau Koch",
+            "english": "from Ms Koch",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "im Team",
+            "english": "on the team",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "contraction"
+            ]
+          },
+          {
+            "german": "Willkommen im Team",
+            "english": "welcome to the team",
+            "literal_meaning": null,
+            "tags": [
+              "fixed phrase",
+              "dative",
+              "contraction"
+            ]
+          },
+          {
+            "german": "melde mich morgen",
+            "english": "will get in touch tomorrow",
+            "literal_meaning": null,
+            "tags": [
+              "reflexive",
+              "accusative"
+            ]
+          },
+          {
+            "german": "mit dem Vertrag",
+            "english": "with the contract",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Am Montag hat Mina an der Rezeption gearbeitet und ihre Kollegen kennengelernt.",
+      "en": "On Monday Mina worked at reception and got to know her colleagues.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-024/sentence-07.wav",
+      "annotations": {
+        "word_tags": {
+          "Mina": [
+            "proper noun"
+          ],
+          "hat": [
+            "auxiliary"
+          ],
+          "an": [
+            "preposition",
+            "dative"
+          ],
+          "der": [
+            "article",
+            "dative"
+          ],
+          "ihre": [
+            "possessive",
+            "determiner",
+            "accusative",
+            "plural"
+          ],
+          "Kollegen": [
+            "plural"
+          ],
+          "kennengelernt": [
+            "separable"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "gearbeitet": "arbeiten",
+          "kennengelernt": "kennenlernen"
+        },
+        "word_meanings": {
+          "hat": "has",
+          "ihre": "her"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Am Montag hat Mina … gearbeitet und … kennengelernt"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am Montag",
+            "english": "on Monday",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "an der Rezeption",
+            "english": "at reception",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "ihre Kollegen",
+            "english": "her colleagues",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "plural"
+            ]
+          },
+          {
+            "german": "Am Montag hat Mina an der Rezeption gearbeitet und ihre Kollegen kennengelernt",
+            "english": "On Monday Mina worked at reception and got to know her colleagues",
+            "literal_meaning": null,
+            "tags": [
+              "perfect",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "When did Mina start, and whom did she meet on her first day?",
+    "answer_en": "She started on Monday and got to know her colleagues."
+  },
+  "source_basis": [
+    "curriculum/a2_blueprint.md",
+    "A2 Lesson 24"
+  ],
+  "speech_alternatives": [],
+  "performance_activity": {
+    "kind": "speaking",
+    "instruction": "Role-play a short job interview: respond to the advertisement, describe past experience, say when you can start, ask a polite question, and report the first-day outcome.",
+    "prompts": [
+      "Say why the job interests you",
+      "Answer Welche Erfahrung haben Sie? using Perfekt",
+      "Answer Wann könnten Sie anfangen?",
+      "Use one dass clause",
+      "Ask your own polite question with Könnten Sie ...?",
+      "Respond to Willkommen im Team and report the first day"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "draft_id": "a1-draft-010",
+  "status": "draft_unpublished",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav"
+  ],
+  "sentence_texts": [
+    "Mina fragt: \u201eUm wie viel Uhr beginnt heute der Deutschkurs?\u201c",
+    "Leo antwortet: \u201eUm Viertel nach sechs, nicht um halb sieben.\u201c",
+    "Vor dem Kurs hat Mina noch einen Termin.",
+    "Nach dem Termin f\u00e4hrt sie um sechs Uhr p\u00fcnktlich los."
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "5d30ad8676ce5c9e50d87b3bd04cdfd6411b7e40538cf3df0d58b46534efb36b",
+    "sentence-02.wav": "1453d88db497dc97ba5fda77f0703acfa76236d3d753cc0d033e73441732a291",
+    "sentence-03.wav": "c500801e468ab5676de0dc59a1e989571cd6cef5d27cb55776287d400db62182",
+    "sentence-04.wav": "4a6b72bcb409eb1f984748e2897b7f8c2281e58fc693208f315e368be472cc7e"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "5b8d4f76363ec760b21b17ebb2e400875f476ca64cdbdca80257674a97517131",
+  "paragraph_assembled_from_sentence_files": true
+}

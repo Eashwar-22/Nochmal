@@ -1,0 +1,37 @@
+{
+  "draft_id": "a1-draft-048",
+  "status": "release_ready",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav",
+    "sentence-05.wav",
+    "sentence-06.wav"
+  ],
+  "sentence_texts": [
+    "Sara stellt sich im Deutschkurs vor: \u201eIch hei\u00dfe Sara und wohne jetzt in Bonn.\u201c",
+    "Sie h\u00f6rt Minas Nachricht: \u201eTreffen wir uns um f\u00fcnf Uhr am Bahnhof?\u201c",
+    "Sara f\u00e4hrt mit dem Bus in die Stadt und kauft unterwegs zwei Br\u00f6tchen.",
+    "In der B\u00e4ckerei fragt sie: \u201eWas kosten die Br\u00f6tchen, und kann ich mit Karte zahlen?\u201c",
+    "Sp\u00e4ter versteht sie eine Durchsage nicht und sagt: \u201eWie bitte? Bitte langsamer.\u201c",
+    "Am richtigen Gleis findet sie Mina und fragt: \u201eF\u00e4hrt unser Zug heute p\u00fcnktlich?\u201c"
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "d9e34f4fe295d598e382d880ae0871f964b587cd1c0a5f9aa0595da2681b91d1",
+    "sentence-02.wav": "0171fd34efdeb00dd04a25af6344d1e96b20dcf220fe9dff56813fc627bcfcdb",
+    "sentence-03.wav": "2d1f329e81f541d3fe08c6ccba9673b0191b92532107fc27dd17aadb5855c2a9",
+    "sentence-04.wav": "7e9defaa4d7992846bd72f375807a22feb05a90fa6a9c5b475304aa2bb7c596e",
+    "sentence-05.wav": "5e90fb7ada576b85263686fee132ed70b53b902eb5c043b2cf09a664797532d9",
+    "sentence-06.wav": "17f6042e483879bccbd8fc2b99ae263d1910ebb4e39072681ec9c31c3bf1c51a"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "8fbe2e34554b8a1278995a3ff5d117a22d172389a5b703e9a594aac64600c419",
+  "paragraph_assembled_from_sentence_files": true
+}

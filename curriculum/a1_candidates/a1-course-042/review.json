@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-042",
+  "source_sha256": "09b7c705671dc48862ce0e1fd814dd68e645b8dc8c3a753f629914a4d378909a",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token coverage",
+        "modal and reflexive structures",
+        "denn reason link",
+        "calendar possessive reference"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "six-turn negotiation",
+        "refusal with reason",
+        "Sunday alternative",
+        "final time agreement"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "planning translations",
+        "checkpoint recycling",
+        "agreement formulae",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

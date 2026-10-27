@@ -1,0 +1,31 @@
+{
+  "draft_id": "a1-draft-003",
+  "status": "release_ready",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav"
+  ],
+  "sentence_texts": [
+    "Leo fragt: \u201eWoher kommst du, Mina?\u201c",
+    "Mina sagt: \u201eWie bitte? Noch einmal, bitte.\u201c",
+    "Leo spricht langsam und fragt noch einmal.",
+    "Jetzt versteht Mina alles und sagt: \u201eDanke.\u201c"
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "2aea8cbfecdb7f9c50f06ac6a8df76db8a6757b13fd0a092f19a50ccae493f4f",
+    "sentence-02.wav": "b0268f3861bdcc1a036f9f39232d76149a12ccd2f5359225d9a136328500545e",
+    "sentence-03.wav": "582ae36a81152856e43346e1575d1b7b022ee1b607d1f12106e34a5a5a98a7d4",
+    "sentence-04.wav": "7d0279ecefd672c204ae75233544c9e21d23f70ce6fcb81fe7ff3c2737a7807c"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "84d9949ec9252a5df2465583eb5ab8f09f0f33d9453bedbdb9551f6b448e7e7e",
+  "paragraph_assembled_from_sentence_files": true
+}

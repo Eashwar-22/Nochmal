@@ -1,0 +1,31 @@
+{
+  "draft_id": "a1-draft-012",
+  "status": "release_ready",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav"
+  ],
+  "sentence_texts": [
+    "Am Morgen steht Mina jeden Tag fr\u00fch auf und geht zur Arbeit.",
+    "Am Montag und Dienstag lernt sie am Abend oft Deutsch.",
+    "Am Wochenende ist sie frei, aber Leo arbeitet am Samstag.",
+    "Am Sonntag treffen sie sich um drei Uhr in der Stadt."
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "d2eaa24d414ac497c177439ea91c5823d680535952d3350f93aec86210d3b542",
+    "sentence-02.wav": "513bacec2b4677946915cde742370349d2100a76f0a964539a8c37b1c74c1df8",
+    "sentence-03.wav": "61d14eedb18c04f91ba50ce47b6c8e4b9dbcbe3aee6e28c7e2acdd7a18e21124",
+    "sentence-04.wav": "5425c5d2e98f721f7154b3fedc5bd4973caed3be26f258ea18be614781f79912"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "34b8a1bd00719bd4b11833fd8ae1cd08b4121316dd6fdc504e5b13454e404cc3",
+  "paragraph_assembled_from_sentence_files": true
+}

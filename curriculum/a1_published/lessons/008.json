@@ -1,0 +1,294 @@
+{
+  "id": "a1-course-008",
+  "source_draft_id": "a1-draft-008",
+  "sequence": 8,
+  "band": "A1.1",
+  "format": "dialogue",
+  "title_de": "Persönliche Angaben",
+  "title_en": "Personal Details",
+  "topic": "giving basic details on a course form",
+  "communicative_goal": "Give an address, age, and date of birth.",
+  "grammar_focus": "numbers and date chunks as personal information",
+  "supporting_structures": [
+    "Ihre Adresse ist Gartenstraße 14.",
+    "Wie alt sind Sie?",
+    "am 6. Mai geboren"
+  ],
+  "grammar_notes": [
+    "Ihre is a possessive determiner in the nominative subject phrase Ihre Adresse.",
+    "Am contracts an dem and introduces the date; geboren is the past participle in the birth expression geboren sein."
+  ],
+  "new_targets": [
+    "die Adresse",
+    "die Postleitzahl",
+    "das Formular",
+    "ausfüllen",
+    "der Geburtstag",
+    "das Jahr",
+    "alt",
+    "geboren"
+  ],
+  "recycled_targets": [
+    "die Lehrerin",
+    "fragen",
+    "antworten",
+    "Sie"
+  ],
+  "recycles_from": [
+    4,
+    7
+  ],
+  "audio_path": "assets/audio/a1_published/a1-course-008/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Im Kurs füllt Mina ein Formular aus.",
+      "en": "In the course, Mina fills in a form.",
+      "audio_path": "assets/audio/a1_published/a1-course-008/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "im": [
+            "preposition",
+            "dative"
+          ],
+          "kurs": [
+            "dative"
+          ],
+          "ein": [
+            "accusative"
+          ],
+          "formular": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "aus": "out"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Im Kurs füllt Mina … aus"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Im Kurs",
+            "english": "in the course",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "ein Formular",
+            "english": "a form",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "Im Kurs füllt Mina ein Formular aus",
+            "english": "In the course, Mina fills in a form",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "inversion",
+              "separable"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Ihre Adresse ist Gartenstraße 14, und ihre Postleitzahl ist 53111.",
+      "en": "Her address is 14 Gartenstraße, and her postcode is 53111.",
+      "audio_path": "assets/audio/a1_published/a1-course-008/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "ihre": [
+            "possessive",
+            "determiner",
+            "nominative"
+          ],
+          "adresse": [
+            "nominative"
+          ],
+          "postleitzahl": [
+            "nominative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "ihre": "her"
+        },
+        "spoken_forms": {
+          "14": "vierzehn",
+          "53111": "fünf drei eins eins eins"
+        },
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Ihre Adresse",
+            "english": "her address",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "ihre Postleitzahl",
+            "english": "her postcode",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Die Lehrerin fragt: „Wie alt sind Sie, und wann haben Sie Geburtstag?“",
+      "en": "The teacher asks, “How old are you, and when is your birthday?”",
+      "audio_path": "assets/audio/a1_published/a1-course-008/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "die": [
+            "nominative"
+          ],
+          "lehrerin": [
+            "nominative"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative",
+            "formal"
+          ],
+          "geburtstag": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "wie": "how",
+          "sie": "you (formal)"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Die Lehrerin",
+            "english": "the teacher",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "Wie alt sind Sie",
+            "english": "How old are you?",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "wann haben Sie Geburtstag",
+            "english": "when is your birthday?",
+            "literal_meaning": "when do you have your birthday?",
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina antwortet: „Ich bin 28 Jahre alt und am 6. Mai geboren.“",
+      "en": "Mina answers, “I am 28 years old and was born on 6 May.”",
+      "audio_path": "assets/audio/a1_published/a1-course-008/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "ich": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "bin": [
+            "auxiliary"
+          ],
+          "jahre": [
+            "plural"
+          ],
+          "am": [
+            "preposition",
+            "dative"
+          ],
+          "mai": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "am": "on"
+        },
+        "spoken_forms": {
+          "28": "achtundzwanzig",
+          "6": "sechsten"
+        },
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "28 Jahre",
+            "english": "28 years",
+            "literal_meaning": null,
+            "tags": [
+              "time"
+            ]
+          },
+          {
+            "german": "am 6. Mai",
+            "english": "on 6 May",
+            "literal_meaning": "on the sixth of May",
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "Ich bin 28 Jahre alt und am 6. Mai geboren",
+            "english": "I am 28 years old and was born on 6 May",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "past participle"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "When is Mina’s birthday?",
+    "answer_en": "On 6 May."
+  },
+  "source_basis": [
+    "a1-blueprint",
+    "a1-draft-008",
+    "grammar-breakdown-rulebook"
+  ],
+  "speech_alternatives": []
+}

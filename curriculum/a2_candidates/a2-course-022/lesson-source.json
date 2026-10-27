@@ -1,0 +1,539 @@
+{
+  "id": "a2-course-022",
+  "source_draft_id": "a2-draft-022",
+  "sequence": 70,
+  "band": "A2.1",
+  "format": "dialogue",
+  "title_de": "Ich glaube, dass das Team freundlich ist",
+  "title_en": "I Think That the Team Is Friendly",
+  "topic": "colleagues discussing the team and working hours",
+  "communicative_goal": "Express an opinion, belief, and hope about a shared workplace situation.",
+  "grammar_focus": "dass complement clauses with the finite verb at the end",
+  "supporting_structures": [
+    "ich glaube, dass",
+    "ich denke, dass",
+    "ich bin nicht sicher, dass",
+    "ich hoffe, dass"
+  ],
+  "grammar_notes": [],
+  "new_targets": [
+    "glauben",
+    "denken",
+    "hoffen",
+    "sicher",
+    "das Team",
+    "die Zusammenarbeit",
+    "zuverlässig"
+  ],
+  "recycled_targets": [
+    "die Arbeitszeit",
+    "die Aufgabe",
+    "die Chefin",
+    "helfen",
+    "passen"
+  ],
+  "recycles_from": [
+    3,
+    15,
+    19,
+    20,
+    21
+  ],
+  "audio_path": "assets/audio/a2_candidates/a2-course-022/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Mina: Ich glaube, dass das Team sehr freundlich ist; gestern haben mir die Kollegen bei der ersten Aufgabe sofort geholfen.",
+      "en": "Mina: I think the team is very friendly; yesterday the colleagues immediately helped me with my first task.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-022/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Mina": [
+            "proper noun"
+          ],
+          "dass": [
+            "conjunction",
+            "subordinating"
+          ],
+          "sehr": [
+            "adverb"
+          ],
+          "freundlich": [
+            "adjective"
+          ],
+          "gestern": [
+            "adverb",
+            "time"
+          ],
+          "mir": [
+            "personal pronoun",
+            "dative"
+          ],
+          "die": [
+            "article",
+            "nominative"
+          ],
+          "Kollegen": [
+            "plural"
+          ],
+          "bei": [
+            "preposition",
+            "dative"
+          ],
+          "der": [
+            "article",
+            "dative"
+          ],
+          "ersten": [
+            "adjective",
+            "dative"
+          ],
+          "sofort": [
+            "adverb",
+            "time"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "glaube": "glauben",
+          "mir": "ich",
+          "ersten": "erste",
+          "geholfen": "helfen"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "dass das Team sehr freundlich ist",
+            "english": "that the team is very friendly",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final"
+            ]
+          },
+          {
+            "german": "das Team",
+            "english": "the team",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "mir ... geholfen",
+            "english": "helped me",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "die Kollegen",
+            "english": "the colleagues",
+            "literal_meaning": null,
+            "tags": [
+              "nominative",
+              "plural"
+            ]
+          },
+          {
+            "german": "bei der ersten Aufgabe",
+            "english": "with the first task",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "gestern haben mir die Kollegen bei der ersten Aufgabe sofort geholfen",
+            "english": "yesterday the colleagues immediately helped me with my first task",
+            "literal_meaning": null,
+            "tags": [
+              "perfect",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Leo: Ja, ich denke, dass die Zusammenarbeit sehr gut klappt, weil die Kollegen zuverlässig sind.",
+      "en": "Leo: Yes, I think cooperation works very well because the colleagues are reliable.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-022/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Leo": [
+            "proper noun"
+          ],
+          "Ja": [
+            "interjection"
+          ],
+          "dass": [
+            "conjunction",
+            "subordinating"
+          ],
+          "die": [
+            "article",
+            "nominative"
+          ],
+          "sehr": [
+            "adverb"
+          ],
+          "gut": [
+            "adverb"
+          ],
+          "weil": [
+            "conjunction",
+            "subordinating"
+          ],
+          "Kollegen": [
+            "plural"
+          ],
+          "zuverlässig": [
+            "adjective"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "denke": "denken",
+          "klappt": "klappen"
+        },
+        "word_meanings": {
+          "klappt": "works"
+        },
+        "verb_meanings": {
+          "klappt": "to work"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "die Zusammenarbeit",
+            "english": "cooperation",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "dass die Zusammenarbeit sehr gut klappt",
+            "english": "that cooperation works very well",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final"
+            ]
+          },
+          {
+            "german": "die Kollegen",
+            "english": "the colleagues",
+            "literal_meaning": null,
+            "tags": [
+              "nominative",
+              "plural"
+            ]
+          },
+          {
+            "german": "weil die Kollegen zuverlässig sind",
+            "english": "because the colleagues are reliable",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina: Der Chef findet, dass Leo zuverlässig arbeitet, aber der frühe Beginn ist für ihn schwer.",
+      "en": "Mina: The manager thinks Leo works reliably, but the early start is hard for him.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-022/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Mina": [
+            "proper noun"
+          ],
+          "Der": [
+            "article",
+            "nominative"
+          ],
+          "dass": [
+            "conjunction",
+            "subordinating"
+          ],
+          "Leo": [
+            "proper noun"
+          ],
+          "zuverlässig": [
+            "adverb"
+          ],
+          "der": [
+            "article",
+            "nominative"
+          ],
+          "frühe": [
+            "adjective",
+            "nominative"
+          ],
+          "für": [
+            "preposition",
+            "accusative"
+          ],
+          "schwer": [
+            "adjective"
+          ],
+          "ihn": [
+            "personal pronoun",
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "findet": "finden",
+          "frühe": "früh",
+          "Beginn": "der Beginn",
+          "ihn": "er"
+        },
+        "word_meanings": {
+          "Beginn": "start",
+          "findet": "thinks",
+          "zuverlässig": "reliably",
+          "schwer": "difficult"
+        },
+        "verb_meanings": {
+          "findet": "to think"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Der Chef",
+            "english": "the manager",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "dass Leo zuverlässig arbeitet",
+            "english": "that Leo works reliably",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final"
+            ]
+          },
+          {
+            "german": "der frühe Beginn",
+            "english": "the early start",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "für ihn",
+            "english": "for him",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Leo: Ich bin nicht sicher, dass die Arbeitszeit für das Team passt; wir sprechen morgen mit der Chefin.",
+      "en": "Leo: I am not sure the working hours suit the team; we will speak with the manager tomorrow.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-022/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Leo": [
+            "proper noun"
+          ],
+          "nicht": [
+            "particle"
+          ],
+          "sicher": [
+            "adjective"
+          ],
+          "dass": [
+            "conjunction",
+            "subordinating"
+          ],
+          "die": [
+            "article",
+            "nominative"
+          ],
+          "für": [
+            "preposition",
+            "accusative"
+          ],
+          "das": [
+            "article",
+            "accusative"
+          ],
+          "morgen": [
+            "adverb",
+            "time"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "der": [
+            "article",
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "passt": "passen"
+        },
+        "word_meanings": {
+          "sicher": "sure",
+          "mit": "with"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "nicht sicher",
+            "english": "not sure",
+            "literal_meaning": null,
+            "tags": []
+          },
+          {
+            "german": "die Arbeitszeit",
+            "english": "the working hours",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "dass die Arbeitszeit für das Team passt",
+            "english": "that the working hours suit the team",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final"
+            ]
+          },
+          {
+            "german": "für das Team",
+            "english": "for the team",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "mit der Chefin",
+            "english": "with the manager",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina: Ich hoffe sehr, dass wir schon ab morgen etwas später anfangen können.",
+      "en": "Mina: I really hope we can start a little later as soon as tomorrow.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-022/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Mina": [
+            "proper noun"
+          ],
+          "sehr": [
+            "adverb"
+          ],
+          "dass": [
+            "conjunction",
+            "subordinating"
+          ],
+          "wir": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "schon": [
+            "adverb"
+          ],
+          "ab": [
+            "preposition",
+            "dative"
+          ],
+          "morgen": [
+            "adverb",
+            "time"
+          ],
+          "etwas": [
+            "adverb"
+          ],
+          "später": [
+            "adverb",
+            "time"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "hoffe": "hoffen",
+          "anfangen": "anfangen"
+        },
+        "word_meanings": {
+          "ab": "from",
+          "etwas": "a little"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "dass wir schon ab morgen etwas später anfangen können",
+            "english": "that we can start a little later as soon as tomorrow",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final",
+              "modal verb",
+              "infinitive"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "What is Leo unsure about, and what does Mina hope will happen?",
+    "answer_en": "He is unsure the hours suit the team; she hopes they can start later."
+  },
+  "source_basis": [
+    "curriculum/a2_blueprint.md",
+    "A2 Lesson 22"
+  ],
+  "speech_alternatives": [],
+  "performance_activity": {
+    "kind": "writing",
+    "instruction": "Complete a workplace message with three dass clauses: one opinion, one belief, and one hope about the team and schedule.",
+    "prompts": [
+      "Ich glaube, dass das Team ___.",
+      "Ich denke, dass die Zusammenarbeit ___.",
+      "Ich hoffe, dass wir morgen ___."
+    ]
+  }
+}

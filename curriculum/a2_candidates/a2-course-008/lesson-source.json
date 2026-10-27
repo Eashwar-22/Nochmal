@@ -1,0 +1,378 @@
+{
+  "id": "a2-course-008",
+  "source_draft_id": "a2-draft-008",
+  "sequence": 56,
+  "band": "A2.1",
+  "format": "dialogue",
+  "title_de": "Der beste Stadtteil für uns",
+  "title_en": "The Best Area for Us",
+  "topic": "ranking three neighborhoods before a move",
+  "communicative_goal": "Rank familiar options and explain the decisive criterion.",
+  "grammar_focus": "predicative and adverbial superlatives with am ...sten",
+  "supporting_structures": [
+    "am günstigsten",
+    "am ruhigsten",
+    "am wichtigsten"
+  ],
+  "grammar_notes": [],
+  "new_targets": [
+    "am wichtigsten",
+    "am günstigsten",
+    "am ruhigsten",
+    "zentral",
+    "der Stadtteil",
+    "die Gegend",
+    "die Verbindung"
+  ],
+  "recycled_targets": [
+    "vergleichen",
+    "umziehen",
+    "die Arbeit",
+    "der Weg",
+    "der Park",
+    "deshalb"
+  ],
+  "recycles_from": [
+    7,
+    23,
+    26,
+    4
+  ],
+  "audio_path": "assets/audio/a2_candidates/a2-course-008/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Wir vergleichen drei Stadtteile, weil wir bald umziehen.",
+      "en": "We are comparing three districts because we are moving soon.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-008/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "weil": [
+            "conjunction",
+            "subordinating"
+          ],
+          "Stadtteile": [
+            "plural"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "drei": "three"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "weil wir bald umziehen",
+            "english": "because we are moving soon",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Nord ist am günstigsten, aber dort ist die Verbindung zur Arbeit schlecht.",
+      "en": "North is the least expensive, but the connection to work is poor.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-008/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "günstigsten": [
+            "superlative"
+          ],
+          "am": [
+            "particle"
+          ]
+        },
+        "excluded_word_tags": {
+          "am": [
+            "preposition",
+            "dative"
+          ]
+        },
+        "base_forms": {
+          "günstigsten": "günstig",
+          "am": "am"
+        },
+        "word_meanings": {
+          "am": "superlative marker",
+          "günstigsten": "least expensive"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "am günstigsten",
+            "english": "the least expensive",
+            "literal_meaning": null,
+            "tags": [
+              "superlative"
+            ]
+          },
+          {
+            "german": "die Verbindung zur Arbeit",
+            "english": "the connection to work",
+            "literal_meaning": null,
+            "tags": []
+          },
+          {
+            "german": "zur Arbeit",
+            "english": "to work",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "dort ist die Verbindung zur Arbeit schlecht",
+            "english": "there the connection to work is poor",
+            "literal_meaning": null,
+            "tags": [
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Im Zentrum ist der Weg am kürzesten und die Gegend am lebhaftesten.",
+      "en": "In the center, the route is the shortest and the area is the liveliest.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-008/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "kürzesten": [
+            "superlative"
+          ],
+          "lebhaftesten": [
+            "superlative"
+          ],
+          "am": [
+            "particle"
+          ]
+        },
+        "excluded_word_tags": {
+          "am": [
+            "preposition",
+            "dative"
+          ]
+        },
+        "base_forms": {
+          "kürzesten": "kurz",
+          "lebhaftesten": "lebhaft",
+          "am": "am"
+        },
+        "word_meanings": {
+          "Zentrum": "center",
+          "am": "superlative marker",
+          "kürzesten": "shortest",
+          "lebhaftesten": "liveliest"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Im Zentrum",
+            "english": "in the center",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          },
+          {
+            "german": "am kürzesten",
+            "english": "the shortest",
+            "literal_meaning": null,
+            "tags": [
+              "superlative"
+            ]
+          },
+          {
+            "german": "am lebhaftesten",
+            "english": "the liveliest",
+            "literal_meaning": null,
+            "tags": [
+              "superlative"
+            ]
+          },
+          {
+            "german": "Im Zentrum ist der Weg am kürzesten und die Gegend am lebhaftesten",
+            "english": "In the center, the route is the shortest and the area is the liveliest",
+            "literal_meaning": null,
+            "tags": [
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "West ist am ruhigsten, und dort gibt es den größten Park.",
+      "en": "West is the quietest, and it has the largest park.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-008/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "ruhigsten": [
+            "superlative"
+          ],
+          "größten": [
+            "adjective",
+            "accusative",
+            "superlative"
+          ],
+          "am": [
+            "particle"
+          ]
+        },
+        "excluded_word_tags": {
+          "am": [
+            "preposition",
+            "dative"
+          ]
+        },
+        "base_forms": {
+          "ruhigsten": "ruhig",
+          "größten": "groß",
+          "am": "am"
+        },
+        "word_meanings": {
+          "am": "superlative marker",
+          "ruhigsten": "quietest",
+          "größten": "largest",
+          "es": "there"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "am ruhigsten",
+            "english": "the quietest",
+            "literal_meaning": null,
+            "tags": [
+              "superlative"
+            ]
+          },
+          {
+            "german": "den größten Park",
+            "english": "the largest park",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "superlative"
+            ]
+          },
+          {
+            "german": "dort gibt es den größten Park",
+            "english": "that area has the largest park",
+            "literal_meaning": null,
+            "tags": [
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Für uns ist eine gute Verbindung am wichtigsten, deshalb wählen wir das Zentrum.",
+      "en": "For us, a good transport connection is most important, so we choose the center.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-008/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "wichtigsten": [
+            "superlative"
+          ],
+          "deshalb": [
+            "connector"
+          ],
+          "am": [
+            "particle"
+          ],
+          "gute": [
+            "adjective",
+            "nominative"
+          ],
+          "Für": [
+            "preposition",
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {
+          "am": [
+            "preposition",
+            "dative"
+          ]
+        },
+        "base_forms": {
+          "wichtigsten": "wichtig",
+          "am": "am",
+          "gute": "gut"
+        },
+        "word_meanings": {
+          "Zentrum": "center",
+          "am": "superlative marker",
+          "wichtigsten": "most important"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "eine gute Verbindung",
+            "english": "a good transport connection",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "am wichtigsten",
+            "english": "most important",
+            "literal_meaning": null,
+            "tags": [
+              "superlative"
+            ]
+          },
+          {
+            "german": "deshalb wählen wir das Zentrum",
+            "english": "so we choose the center",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "Für uns",
+            "english": "for us",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Which criterion is most important to the speakers?",
+    "answer_en": "A good transport connection."
+  },
+  "source_basis": [
+    "curriculum/a2_blueprint.md",
+    "A2 Lesson 8"
+  ],
+  "speech_alternatives": []
+}

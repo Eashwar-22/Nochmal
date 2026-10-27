@@ -1,0 +1,562 @@
+{
+  "id": "a1-course-044",
+  "source_draft_id": "a1-draft-044",
+  "sequence": 44,
+  "band": "A1.2",
+  "format": "message",
+  "title_de": "Eine Nachricht über gestern",
+  "title_en": "A Message About Yesterday",
+  "topic": "an informal message about a completed day",
+  "communicative_goal": "Write a short supported message about familiar completed activities.",
+  "grammar_focus": "recycled Perfekt with dann and aber",
+  "supporting_structures": [
+    "spät nach Hause gekommen",
+    "eine Nachricht auf den Anrufbeantworter gesprochen",
+    "Viele Grüße"
+  ],
+  "grammar_notes": [
+    "This message recycles the perfect tense and familiar message conventions."
+  ],
+  "new_targets": [
+    "schicken",
+    "antworten",
+    "der Anruf",
+    "der Anrufbeantworter",
+    "das Telefon",
+    "später am Tag",
+    "Viele Grüße"
+  ],
+  "recycled_targets": [
+    "arbeiten",
+    "einkaufen",
+    "kochen",
+    "anrufen",
+    "die E-Mail"
+  ],
+  "recycles_from": [
+    4,
+    12,
+    13,
+    28,
+    43
+  ],
+  "audio_path": "assets/audio/a1_candidates/a1-course-044/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Hallo Sara, gestern habe ich lange gearbeitet und bin erst spät nach Hause gekommen.",
+      "en": "Hello Sara, yesterday I worked for a long time and did not get home until late.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-044/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Hallo": [
+            "interjection"
+          ],
+          "Sara": [
+            "proper noun"
+          ],
+          "gestern": [
+            "adverb",
+            "time"
+          ],
+          "habe": [
+            "auxiliary",
+            "present"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "lange": [
+            "adverb",
+            "time"
+          ],
+          "gearbeitet": [
+            "verb",
+            "past participle",
+            "perfect"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "bin": [
+            "auxiliary",
+            "present"
+          ],
+          "erst": [
+            "adverb",
+            "time"
+          ],
+          "spät": [
+            "adverb",
+            "time"
+          ],
+          "nach": [
+            "preposition",
+            "direction"
+          ],
+          "Hause": [
+            "dative",
+            "direction"
+          ],
+          "gekommen": [
+            "verb",
+            "past participle",
+            "perfect"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "habe": "haben",
+          "gearbeitet": "arbeiten",
+          "bin": "sein",
+          "gekommen": "kommen"
+        },
+        "word_meanings": {
+          "habe": "perfect auxiliary",
+          "bin": "perfect auxiliary",
+          "erst": "not until"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "gestern habe ich lange gearbeitet",
+            "english": "yesterday I worked for a long time",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "perfect"
+            ]
+          },
+          {
+            "german": "nach Hause",
+            "english": "home",
+            "literal_meaning": "to home",
+            "tags": [
+              "fixed phrase",
+              "direction"
+            ]
+          },
+          {
+            "german": "bin erst spät nach Hause gekommen",
+            "english": "I did not get home until late",
+            "literal_meaning": null,
+            "tags": [
+              "perfect",
+              "direction"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Später am Tag habe ich noch im Supermarkt eingekauft, aber ich habe nicht gekocht.",
+      "en": "Later in the day, I also went shopping at the supermarket, but I did not cook.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-044/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Später": [
+            "adverb",
+            "time"
+          ],
+          "am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Tag": [
+            "dative",
+            "time"
+          ],
+          "habe": [
+            "auxiliary",
+            "present"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "noch": [
+            "adverb"
+          ],
+          "im": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Supermarkt": [
+            "dative"
+          ],
+          "eingekauft": [
+            "verb",
+            "past participle",
+            "perfect",
+            "separable"
+          ],
+          "aber": [
+            "conjunction",
+            "coordinating"
+          ],
+          "nicht": [
+            "negation"
+          ],
+          "gekocht": [
+            "verb",
+            "past participle",
+            "perfect"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "habe": "haben",
+          "eingekauft": "einkaufen",
+          "gekocht": "kochen"
+        },
+        "word_meanings": {
+          "habe": "perfect auxiliary",
+          "noch": "also"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Später am Tag",
+            "english": "later in the day",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "fixed phrase",
+              "contraction"
+            ]
+          },
+          {
+            "german": "im Supermarkt",
+            "english": "at the supermarket",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          },
+          {
+            "german": "habe ich noch im Supermarkt eingekauft",
+            "english": "I also went shopping at the supermarket",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "perfect",
+              "separable"
+            ]
+          },
+          {
+            "german": "aber ich habe nicht gekocht",
+            "english": "but I did not cook",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "coordinating",
+              "main clause",
+              "perfect",
+              "negation"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Dann habe ich Leo angerufen und eine kurze Nachricht auf den Anrufbeantworter gesprochen.",
+      "en": "Then I called Leo and left a short message on the answering machine.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-044/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Dann": [
+            "adverb",
+            "time",
+            "connector"
+          ],
+          "habe": [
+            "auxiliary",
+            "present"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "Leo": [
+            "accusative"
+          ],
+          "angerufen": [
+            "verb",
+            "past participle",
+            "perfect",
+            "separable"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "eine": [
+            "determiner",
+            "accusative"
+          ],
+          "kurze": [
+            "adjective",
+            "accusative"
+          ],
+          "Nachricht": [
+            "accusative"
+          ],
+          "auf": [
+            "preposition",
+            "accusative",
+            "direction"
+          ],
+          "den": [
+            "article",
+            "accusative"
+          ],
+          "Anrufbeantworter": [
+            "accusative"
+          ],
+          "gesprochen": [
+            "verb",
+            "past participle",
+            "perfect"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "habe": "haben",
+          "angerufen": "anrufen",
+          "kurze": "kurz",
+          "gesprochen": "sprechen"
+        },
+        "word_meanings": {
+          "habe": "perfect auxiliary",
+          "gesprochen": "recorded / left"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Dann habe ich Leo angerufen",
+            "english": "Then I called Leo",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "perfect",
+              "separable"
+            ]
+          },
+          {
+            "german": "eine kurze Nachricht",
+            "english": "a short message",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "auf den Anrufbeantworter",
+            "english": "on the answering machine",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction"
+            ]
+          },
+          {
+            "german": "eine kurze Nachricht auf den Anrufbeantworter gesprochen",
+            "english": "left a short message on the answering machine",
+            "literal_meaning": "spoke a short message onto the answering machine",
+            "tags": [
+              "perfect"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Was hast du gestern nach der Arbeit gemacht?",
+      "en": "What did you do yesterday after work?",
+      "audio_path": "assets/audio/a1_candidates/a1-course-044/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Was": [
+            "interrogative pronoun",
+            "accusative"
+          ],
+          "hast": [
+            "auxiliary",
+            "present"
+          ],
+          "du": [
+            "personal pronoun",
+            "nominative",
+            "informal"
+          ],
+          "gestern": [
+            "adverb",
+            "time"
+          ],
+          "nach": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "der": [
+            "article",
+            "dative"
+          ],
+          "Arbeit": [
+            "dative"
+          ],
+          "gemacht": [
+            "verb",
+            "past participle",
+            "perfect"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "hast": "haben",
+          "gemacht": "machen"
+        },
+        "word_meanings": {
+          "hast": "perfect auxiliary",
+          "gemacht": "did"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Was hast du gestern nach der Arbeit gemacht",
+            "english": "What did you do yesterday after work?",
+            "literal_meaning": null,
+            "tags": [
+              "inversion",
+              "perfect",
+              "informal"
+            ]
+          },
+          {
+            "german": "nach der Arbeit",
+            "english": "after work",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Bitte antworte mir heute per E-Mail oder Telefon; viele Grüße, Mina.",
+      "en": "Please reply to me today by email or phone; best wishes, Mina.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-044/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Bitte": [
+            "interjection"
+          ],
+          "antworte": [
+            "verb",
+            "imperative",
+            "informal"
+          ],
+          "mir": [
+            "personal pronoun",
+            "dative"
+          ],
+          "heute": [
+            "adverb",
+            "time"
+          ],
+          "per": [
+            "preposition"
+          ],
+          "E-Mail": [
+            "dative"
+          ],
+          "oder": [
+            "conjunction",
+            "coordinating"
+          ],
+          "Telefon": [
+            "dative"
+          ],
+          "viele": [
+            "adjective"
+          ],
+          "Grüße": [
+            "plural"
+          ],
+          "Mina": [
+            "proper noun"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "antworte": "antworten",
+          "viele": "viel"
+        },
+        "word_meanings": {
+          "antworte": "reply",
+          "viele": "best"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Bitte antworte mir heute",
+            "english": "Please reply to me today",
+            "literal_meaning": null,
+            "tags": [
+              "imperative",
+              "informal"
+            ]
+          },
+          {
+            "german": "per E-Mail oder Telefon",
+            "english": "by email or phone",
+            "literal_meaning": null,
+            "tags": [
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "viele Grüße",
+            "english": "best wishes",
+            "literal_meaning": "many greetings",
+            "tags": [
+              "fixed phrase"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "What did Mina do after shopping?",
+    "answer_en": "She called Leo and left a message on the answering machine."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_08.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

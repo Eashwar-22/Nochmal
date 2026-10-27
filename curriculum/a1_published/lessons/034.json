@@ -1,0 +1,504 @@
+{
+  "id": "a1-course-034",
+  "source_draft_id": "a1-draft-034",
+  "sequence": 34,
+  "band": "A1.2",
+  "format": "instructions",
+  "title_de": "Bei der Post",
+  "title_en": "At the Post Office",
+  "topic": "following short written steps to send a letter",
+  "communicative_goal": "Follow simple illustrated postal instructions.",
+  "grammar_focus": "separable verbs in formal imperative instructions",
+  "supporting_structures": [
+    "den Empfänger auf den Brief schreiben",
+    "die Briefmarke auf den Umschlag aufkleben",
+    "ein Formular ausfüllen"
+  ],
+  "grammar_notes": [
+    "In formal imperative, the separable prefix remains attached to the verb; modal muss sends ausfüllen to the clause end."
+  ],
+  "new_targets": [
+    "der Brief",
+    "die Briefmarke",
+    "der Absender",
+    "der Empfänger",
+    "das Formular",
+    "ausfüllen",
+    "ankreuzen"
+  ],
+  "recycled_targets": [
+    "die Post",
+    "die Stelle",
+    "abgeben",
+    "bitte",
+    "zuerst",
+    "dann",
+    "zum Schluss"
+  ],
+  "recycles_from": [
+    8,
+    13,
+    23,
+    24,
+    30,
+    32
+  ],
+  "audio_path": "assets/audio/a1_published/a1-course-034/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Bei der Post möchte Leo einen Brief nach Spanien schicken.",
+      "en": "At the post office, Leo wants to send a letter to Spain.",
+      "audio_path": "assets/audio/a1_published/a1-course-034/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Bei": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "der": [
+            "dative"
+          ],
+          "Post": [
+            "dative"
+          ],
+          "Leo": [
+            "nominative"
+          ],
+          "einen": [
+            "determiner",
+            "accusative"
+          ],
+          "Brief": [
+            "accusative"
+          ],
+          "nach": [
+            "preposition",
+            "direction"
+          ],
+          "Spanien": [
+            "proper noun",
+            "direction"
+          ],
+          "schicken": [
+            "verb",
+            "infinitive"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Bei der Post",
+            "english": "At the post office",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "einen Brief",
+            "english": "a letter",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "nach Spanien",
+            "english": "to Spain",
+            "literal_meaning": null,
+            "tags": [
+              "direction"
+            ]
+          },
+          {
+            "german": "möchte Leo einen Brief nach Spanien schicken",
+            "english": "Leo would like to send a letter to Spain",
+            "literal_meaning": "would like Leo a letter to Spain to send",
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Die Mitarbeiterin sagt: „Schreiben Sie zuerst den Empfänger auf den Umschlag.“",
+      "en": "The employee says, “First write the recipient on the envelope.”",
+      "audio_path": "assets/audio/a1_published/a1-course-034/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Die": [
+            "nominative"
+          ],
+          "Mitarbeiterin": [
+            "nominative"
+          ],
+          "Schreiben": [
+            "verb",
+            "imperative"
+          ],
+          "Sie": [
+            "personal pronoun",
+            "nominative",
+            "formal"
+          ],
+          "zuerst": [
+            "adverb",
+            "time"
+          ],
+          "den": [
+            "article",
+            "accusative"
+          ],
+          "Empfänger": [
+            "accusative"
+          ],
+          "auf": [
+            "preposition",
+            "accusative",
+            "direction"
+          ],
+          "Umschlag": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "Sie": "you (formal)"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Schreiben Sie zuerst den Empfänger auf den Umschlag",
+            "english": "First write the recipient on the envelope",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "formal"
+            ]
+          },
+          {
+            "german": "den Empfänger",
+            "english": "the recipient",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "auf den Umschlag",
+            "english": "on the envelope",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Dann schreiben Sie den Absender auf die Rückseite und kleben Sie die Briefmarke oben rechts auf den Umschlag.",
+      "en": "Then write the sender on the back and stick the stamp at the top right of the envelope.",
+      "audio_path": "assets/audio/a1_published/a1-course-034/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Dann": [
+            "adverb",
+            "time"
+          ],
+          "schreiben": [
+            "verb",
+            "imperative"
+          ],
+          "Sie": [
+            "personal pronoun",
+            "nominative",
+            "formal"
+          ],
+          "den": [
+            "article",
+            "accusative"
+          ],
+          "Absender": [
+            "accusative"
+          ],
+          "auf": [
+            "preposition",
+            "accusative",
+            "direction"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "Rückseite": [
+            "accusative"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "kleben": [
+            "verb",
+            "imperative"
+          ],
+          "Briefmarke": [
+            "accusative"
+          ],
+          "oben": [
+            "adverb",
+            "place"
+          ],
+          "rechts": [
+            "adverb",
+            "place"
+          ],
+          "Umschlag": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "Sie": "you (formal)"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Dann schreiben Sie den Absender auf die Rückseite",
+            "english": "Then write the sender on the back",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "formal"
+            ]
+          },
+          {
+            "german": "den Absender",
+            "english": "the sender",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "auf die Rückseite",
+            "english": "on the back",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction"
+            ]
+          },
+          {
+            "german": "und kleben Sie die Briefmarke oben rechts auf den Umschlag",
+            "english": "and stick the stamp at the top right of the envelope",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "main clause",
+              "inversion",
+              "formal"
+            ]
+          },
+          {
+            "german": "die Briefmarke",
+            "english": "the stamp",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "auf den Umschlag",
+            "english": "on the envelope",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Leo muss auch ein kurzes Formular ausfüllen und zwei Stellen ankreuzen.",
+      "en": "Leo also has to fill in a short form and tick two places.",
+      "audio_path": "assets/audio/a1_published/a1-course-034/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Leo": [
+            "nominative"
+          ],
+          "auch": [
+            "adverb"
+          ],
+          "ein": [
+            "determiner",
+            "accusative"
+          ],
+          "kurzes": [
+            "adjective",
+            "accusative"
+          ],
+          "Formular": [
+            "accusative"
+          ],
+          "ausfüllen": [
+            "verb",
+            "infinitive"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "zwei": [
+            "numeral"
+          ],
+          "Stellen": [
+            "accusative",
+            "plural"
+          ],
+          "ankreuzen": [
+            "verb",
+            "infinitive"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "kurzes": "kurz",
+          "Stellen": "die Stelle"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "muss auch ein kurzes Formular ausfüllen",
+            "english": "also has to fill in a short form",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "ein kurzes Formular",
+            "english": "a short form",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "und zwei Stellen ankreuzen",
+            "english": "and tick two fields",
+            "literal_meaning": null,
+            "tags": [
+              "connector"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Zum Schluss bezahlt er und gibt den Brief ab.",
+      "en": "Finally he pays and hands over the letter.",
+      "audio_path": "assets/audio/a1_published/a1-course-034/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Zum": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Schluss": [
+            "dative"
+          ],
+          "er": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "den": [
+            "article",
+            "accusative"
+          ],
+          "Brief": [
+            "accusative"
+          ],
+          "ab": [
+            "particle"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "gibt": "abgeben"
+        },
+        "word_meanings": {
+          "gibt": "hands over",
+          "ab": "separable prefix of abgeben"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Zum Schluss",
+            "english": "Finally",
+            "literal_meaning": "At the end",
+            "tags": [
+              "dative",
+              "time",
+              "contraction",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "gibt den Brief ab",
+            "english": "hands over the letter",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "separable"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Where does Leo write the sender?",
+    "answer_en": "On the back of the envelope."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_06.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-034",
+  "source_sha256": "684450a189b0063828ee08e616f5efb9764539ca703db670d78bf6deb783d14d",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token coverage",
+        "formal imperative classification",
+        "modal-final infinitives",
+        "abgeben separable analysis"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "recipient and sender placement",
+        "envelope terminology",
+        "repeated formal Sie",
+        "postal procedure order"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "instruction translations",
+        "form-field meaning",
+        "sequence markers",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

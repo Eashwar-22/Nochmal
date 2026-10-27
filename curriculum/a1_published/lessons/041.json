@@ -1,0 +1,490 @@
+{
+  "id": "a1-course-041",
+  "source_draft_id": "a1-draft-041",
+  "sequence": 41,
+  "band": "A1.2",
+  "format": "dialogue",
+  "title_de": "Warum nicht heute?",
+  "title_en": "Why Not Today?",
+  "topic": "giving one simple reason for accepting or refusing a plan",
+  "communicative_goal": "Ask why and connect a decision to one basic reason.",
+  "grammar_focus": "coordinating denn joining two main clauses with verb-second order",
+  "supporting_structures": [
+    "denn ich muss noch im Büro arbeiten",
+    "keine Zeit haben",
+    "zu Hause bleiben"
+  ],
+  "grammar_notes": [
+    "Denn coordinates two main clauses, so the verb remains in second position after denn."
+  ],
+  "new_targets": [
+    "warum",
+    "denn",
+    "müde",
+    "keine Zeit haben",
+    "zu Hause",
+    "spät",
+    "noch arbeiten",
+    "enden",
+    "mitkommen"
+  ],
+  "recycled_targets": [
+    "haben",
+    "müssen",
+    "krank",
+    "die Arbeit",
+    "heute",
+    "morgen",
+    "sich treffen"
+  ],
+  "recycles_from": [
+    9,
+    11,
+    28,
+    31,
+    40
+  ],
+  "audio_path": "assets/audio/a1_published/a1-course-041/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Mina fragt Leo: „Warum kommst du heute Nachmittag nicht mit ins Café?“",
+      "en": "Mina asks Leo, “Why aren’t you coming to the café this afternoon?”",
+      "audio_path": "assets/audio/a1_published/a1-course-041/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Mina": [
+            "nominative"
+          ],
+          "Leo": [
+            "accusative"
+          ],
+          "Warum": [
+            "interrogative pronoun",
+            "reason"
+          ],
+          "du": [
+            "personal pronoun",
+            "nominative",
+            "informal"
+          ],
+          "heute": [
+            "adverb",
+            "time"
+          ],
+          "Nachmittag": [
+            "time"
+          ],
+          "nicht": [
+            "negation"
+          ],
+          "mit": [
+            "particle"
+          ],
+          "ins": [
+            "preposition",
+            "accusative",
+            "direction"
+          ],
+          "Café": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "kommst": "mitkommen"
+        },
+        "word_meanings": {
+          "kommst": "are coming along",
+          "mit": "separable prefix of mitkommen"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Warum kommst du heute Nachmittag nicht mit",
+            "english": "Why aren’t you coming along this afternoon?",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "negation",
+              "separable",
+              "informal"
+            ]
+          },
+          {
+            "german": "ins Café",
+            "english": "to the café",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction",
+              "contraction"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Leo antwortet: „Ich komme nicht mit, denn ich muss noch im Büro arbeiten.“",
+      "en": "Leo answers, “I’m not coming because I still have to work at the office.”",
+      "audio_path": "assets/audio/a1_published/a1-course-041/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Leo": [
+            "nominative"
+          ],
+          "Ich": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "nicht": [
+            "negation"
+          ],
+          "mit": [
+            "particle"
+          ],
+          "denn": [
+            "conjunction",
+            "coordinating",
+            "reason"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "noch": [
+            "adverb"
+          ],
+          "im": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Büro": [
+            "dative"
+          ],
+          "arbeiten": [
+            "verb",
+            "infinitive"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "komme": "mitkommen"
+        },
+        "word_meanings": {
+          "komme": "am coming along",
+          "mit": "separable prefix of mitkommen"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Ich komme nicht mit",
+            "english": "I’m not coming along",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "negation",
+              "separable"
+            ]
+          },
+          {
+            "german": "denn ich muss noch im Büro arbeiten",
+            "english": "because I still have to work at the office",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "coordinating",
+              "main clause",
+              "reason"
+            ]
+          },
+          {
+            "german": "im Büro",
+            "english": "at the office",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Später am Abend ist er müde und möchte lieber zu Hause bleiben.",
+      "en": "Later in the evening, he is tired and would prefer to stay at home.",
+      "audio_path": "assets/audio/a1_published/a1-course-041/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Später": [
+            "adverb",
+            "time"
+          ],
+          "am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Abend": [
+            "dative",
+            "time"
+          ],
+          "er": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "müde": [
+            "adjective",
+            "predicate"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "lieber": [
+            "adverb",
+            "comparative",
+            "manner"
+          ],
+          "zu": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Hause": [
+            "dative",
+            "place"
+          ],
+          "bleiben": [
+            "verb",
+            "infinitive"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "am Abend",
+            "english": "in the evening",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "Später am Abend ist er müde",
+            "english": "Later in the evening, he is tired",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "möchte lieber zu Hause bleiben",
+            "english": "would prefer to stay at home",
+            "literal_meaning": null,
+            "tags": [
+              "comparative"
+            ]
+          },
+          {
+            "german": "zu Hause",
+            "english": "at home",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "fixed phrase"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina hat morgen keine Zeit, denn ihr Deutschkurs endet spät.",
+      "en": "Mina has no time tomorrow because her German course ends late.",
+      "audio_path": "assets/audio/a1_published/a1-course-041/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Mina": [
+            "nominative"
+          ],
+          "morgen": [
+            "adverb",
+            "time"
+          ],
+          "keine": [
+            "determiner",
+            "accusative",
+            "negation"
+          ],
+          "Zeit": [
+            "accusative"
+          ],
+          "denn": [
+            "conjunction",
+            "coordinating",
+            "reason"
+          ],
+          "ihr": [
+            "possessive",
+            "determiner",
+            "nominative"
+          ],
+          "Deutschkurs": [
+            "nominative"
+          ],
+          "spät": [
+            "adverb",
+            "time"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "hat": "haben"
+        },
+        "word_meanings": {
+          "hat": "has"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "keine Zeit",
+            "english": "no time",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "negation",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "denn ihr Deutschkurs endet spät",
+            "english": "because her German course ends late",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "coordinating",
+              "main clause",
+              "reason"
+            ]
+          },
+          {
+            "german": "ihr Deutschkurs",
+            "english": "her German course",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Deshalb planen beide ein kurzes Treffen am Freitagabend.",
+      "en": "That is why they both plan a short meeting on Friday evening.",
+      "audio_path": "assets/audio/a1_published/a1-course-041/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Deshalb": [
+            "adverb",
+            "reason",
+            "connector"
+          ],
+          "beide": [
+            "indefinite pronoun",
+            "nominative"
+          ],
+          "ein": [
+            "determiner",
+            "accusative"
+          ],
+          "kurzes": [
+            "adjective",
+            "accusative"
+          ],
+          "Treffen": [
+            "accusative"
+          ],
+          "am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Freitagabend": [
+            "dative",
+            "time"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "kurzes": "kurz"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Deshalb planen beide ein kurzes Treffen am Freitagabend",
+            "english": "That is why they both plan a short meeting on Friday evening",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "reason"
+            ]
+          },
+          {
+            "german": "ein kurzes Treffen",
+            "english": "a short meeting",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "am Freitagabend",
+            "english": "on Friday evening",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Why does Leo not go to the café?",
+    "answer_en": "He still has to work."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_07.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

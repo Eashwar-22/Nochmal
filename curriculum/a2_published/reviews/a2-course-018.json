@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a2-course-018",
+  "source_sha256": "aed248085b7f02ba642203b27e0c97e0bbdade1b2518738789acf45c944b4506",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "Read both required documents in full, the exact Lesson 18 blueprint entry, and all three candidate artifacts; ignored review.json.",
+        "Inspected all 84 source tokens, 76 word cards, and 41 phrase cards. Token ownership is exact; all phrases follow their component cards and preserve source wording.",
+        "Verified all 23 verb references and 15 inflection references, including complete paradigms and correct selected cells.",
+        "Checked repeated forms, discontinuous leidtun/nachsehen components, controlled tags, phrase boundaries, and authored ambiguity resolution.",
+        "Strict source/artifact validation, source hash, deterministic compilation, generated-preview equality, and authored-record equality pass.",
+        "Ran 23 relevant repository tests successfully. The candidate remains outside the publication manifest."
+      ],
+      "findings": [
+        {
+          "severity": "warning",
+          "location": "compiled-lesson.json: lesson.audio_status, lesson.audio_path, and sentences[0–5].audio_path",
+          "rule": "Pre-audio audit boundary; rulebook §§11–13",
+          "message": "Audio is pending and paths are null, as expected. Verify German/English/audio agreement after audio generation; this does not block the candidate-content audit."
+        },
+        {
+          "severity": "warning",
+          "location": "a2-course-018: later release verification",
+          "rule": "Rulebook §§11–13",
+          "message": "Live desktop/mobile inspection and the complete release test gate remain outstanding. Complete them before publication; they are non-blocking at this pre-audio stage."
+        }
+      ]
+    },
+    {
+      "kind": "language",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "Sentence 1: modal question, formal Sie, nominative mein Paket, and verb-final ob clause are correct.",
+        "Sentence 2: nominative Lärm, accusative mich, polite könnten, and predicate comparative leiser are correct; leiser requires no adjective-declension reference.",
+        "Sentence 3: separable leidtun with dative mir, reflexive accusative mich, and bei with formal dative Ihnen are correct.",
+        "Sentence 4: geben assigns dative Frau Klein and accusative das Paket; modal-final geben is correctly identified.",
+        "Sentence 5: nachsehen, nominative Frau Klein, formal imperative Geben Sie, feminine dative ihr, and accusative das Paket are correct.",
+        "Sentence 6: formal possessive Ihr, reflexive mich, bitten with accusative Kinder and um, helfen with dative Ihnen, and mit with dative dem Paket are correct.",
+        "Checked every noun gender/number, pronoun referent, finite/nonfinite form, conjugation row, clause boundary, and case trigger; found no unsupported grammatical guess."
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "All six sentence translations preserve meaning, politeness, participants, recipients, and objects.",
+        "Reviewed every word and phrase gloss, literal translation, and bilingual verb-reference row.",
+        "Blueprint fit passes: three speakers, six turns, 84 words, all five target chunks, required consolidation structures, and connected noise/delivery resolution.",
+        "Complaint, apology, indirect question, offer, request, and confirmation are represented; the typed two-minute speaking checkpoint supplies actionable role prompts."
+      ],
+      "findings": [
+        {
+          "severity": "warning",
+          "location": "lesson-source.json: sentence 3, annotations.phrases[2]; compiled sentence 3, group 1, item 15; preview.md:79",
+          "rule": "Phrase-result contextual English",
+          "message": "“Causes regret to me” is understandable but stilted. Prefer “makes me feel sorry” for the visible gloss of “tut mir leid”; retain the structural literal translation on the full fixed-expression card."
+        },
+        {
+          "severity": "warning",
+          "location": "compiled sentence 1, group 1, item 6, “kurz”; preview.md:24",
+          "rule": "Contextual word meaning",
+          "message": "Prefer the contextual gloss “briefly” over “brief / briefly” here; kurz modifies stören."
+        }
+      ]
+    }
+  ]
+}

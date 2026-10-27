@@ -1,0 +1,423 @@
+{
+  "id": "a1-course-018",
+  "source_draft_id": "a1-draft-018",
+  "sequence": 18,
+  "band": "A1.1",
+  "format": "dialogue",
+  "title_de": "Checkpunkt: Essensmission",
+  "title_en": "Checkpoint: Food Mission",
+  "topic": "completing a market and café transaction",
+  "communicative_goal": "Complete two linked, predictable food transactions.",
+  "grammar_focus": "review of polite requests, quantity questions, and accusative noun phrases",
+  "supporting_structures": [
+    "auf dem Markt",
+    "was kostet",
+    "für zu Hause",
+    "zum Mitnehmen",
+    "Sonst noch etwas?",
+    "das ist alles"
+  ],
+  "grammar_notes": [
+    "Was introduces a question, so kostet is in second position.",
+    "Zum contracts zu dem; Mitnehmen is a nominalized verb in this take-away expression."
+  ],
+  "new_targets": [
+    "mitnehmen",
+    "sonst",
+    "etwas",
+    "alles"
+  ],
+  "recycled_targets": [
+    "der Markt",
+    "fragen",
+    "kosten",
+    "das Kilo",
+    "die Tomate",
+    "der Apfel",
+    "kaufen",
+    "das Café",
+    "bestellen",
+    "der Tee",
+    "bitte",
+    "nein",
+    "Danke"
+  ],
+  "recycles_from": [
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "audio_path": "assets/audio/a1_published/a1-course-018/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Auf dem Markt fragt Mina: „Was kostet ein Kilo Tomaten, bitte?“",
+      "en": "At the market, Mina asks, “How much does a kilo of tomatoes cost, please?”",
+      "audio_path": "assets/audio/a1_published/a1-course-018/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "auf": [
+            "preposition",
+            "dative"
+          ],
+          "dem": [
+            "dative"
+          ],
+          "markt": [
+            "dative"
+          ],
+          "was": [
+            "interrogative pronoun"
+          ],
+          "ein": [
+            "determiner",
+            "nominative"
+          ],
+          "kilo": [
+            "nominative"
+          ],
+          "tomaten": [
+            "nominative",
+            "plural"
+          ],
+          "bitte": [
+            "particle"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Auf dem Markt fragt Mina"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Auf dem Markt",
+            "english": "at the market",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "Auf dem Markt fragt Mina",
+            "english": "At the market, Mina asks",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "inversion"
+            ]
+          },
+          {
+            "german": "ein Kilo Tomaten",
+            "english": "a kilo of tomatoes",
+            "literal_meaning": "a kilo tomatoes",
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "Was kostet ein Kilo Tomaten, bitte",
+            "english": "How much does a kilo of tomatoes cost, please?",
+            "literal_meaning": "What costs a kilo tomatoes, please?",
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Sie kauft die Tomaten und auch zwei Äpfel für zu Hause.",
+      "en": "She buys the tomatoes and also two apples for home.",
+      "audio_path": "assets/audio/a1_published/a1-course-018/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "die": [
+            "accusative"
+          ],
+          "tomaten": [
+            "accusative",
+            "plural"
+          ],
+          "auch": [
+            "adverb"
+          ],
+          "äpfel": [
+            "accusative",
+            "plural"
+          ],
+          "für": [
+            "preposition"
+          ],
+          "zu": [
+            "preposition",
+            "dative"
+          ],
+          "hause": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "sie": "she",
+          "hause": "home"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "zwei Äpfel"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "die Tomaten und auch zwei Äpfel",
+            "english": "the tomatoes and also two apples",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "zu Hause",
+            "english": "at home",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "für zu Hause",
+            "english": "for home",
+            "literal_meaning": null,
+            "tags": [
+              "fixed phrase"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Danach bestellt sie im Café einen Tee zum Mitnehmen.",
+      "en": "Afterwards she orders a tea to take away at the café.",
+      "audio_path": "assets/audio/a1_published/a1-course-018/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "danach": [
+            "adverb"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "im": [
+            "preposition",
+            "dative"
+          ],
+          "café": [
+            "dative"
+          ],
+          "einen": [
+            "determiner",
+            "accusative"
+          ],
+          "tee": [
+            "accusative"
+          ],
+          "zum": [
+            "preposition",
+            "dative"
+          ],
+          "mitnehmen": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "sie": "she",
+          "zum": "to",
+          "mitnehmen": "taking away"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "im Café",
+            "english": "at the café",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "zum Mitnehmen",
+            "english": "to take away",
+            "literal_meaning": "for taking along",
+            "tags": [
+              "dative",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "einen Tee zum Mitnehmen",
+            "english": "a tea to take away",
+            "literal_meaning": "a tea for taking along",
+            "tags": [
+              "accusative",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "Danach bestellt sie im Café einen Tee zum Mitnehmen",
+            "english": "Afterwards she orders a tea to take away at the café",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Die Verkäuferin fragt: „Sonst noch etwas?“",
+      "en": "The saleswoman asks, “Anything else?”",
+      "audio_path": "assets/audio/a1_published/a1-course-018/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "die": [
+            "nominative"
+          ],
+          "verkäuferin": [
+            "nominative"
+          ],
+          "sonst": [
+            "adverb"
+          ],
+          "noch": [
+            "particle"
+          ],
+          "etwas": [
+            "indefinite pronoun"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "sonst": "else",
+          "etwas": "anything"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {
+          "Sonst noch etwas": [
+            "main clause"
+          ]
+        },
+        "phrases": [
+          {
+            "german": "Die Verkäuferin",
+            "english": "the sales assistant",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "Sonst noch etwas",
+            "english": "Anything else?",
+            "literal_meaning": "Otherwise still something?",
+            "tags": [
+              "fixed phrase",
+              "ellipsis"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina antwortet: „Nein, danke, das ist alles.“",
+      "en": "Mina answers, “No, thank you, that’s all.”",
+      "audio_path": "assets/audio/a1_published/a1-course-018/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "nein": [
+            "interjection"
+          ],
+          "danke": [
+            "interjection"
+          ],
+          "das": [
+            "demonstrative pronoun",
+            "nominative"
+          ],
+          "alles": [
+            "indefinite pronoun",
+            "nominative"
+          ]
+        },
+        "excluded_word_tags": {
+          "das": [
+            "determiner"
+          ]
+        },
+        "base_forms": {},
+        "word_meanings": {
+          "das": "that",
+          "alles": "all / everything"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Nein, danke",
+            "english": "No, thank you",
+            "literal_meaning": null,
+            "tags": [
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "das ist alles",
+            "english": "that’s all",
+            "literal_meaning": "that is everything",
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "What does Mina buy in addition to the tomatoes?",
+    "answer_en": "Two apples."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_03.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

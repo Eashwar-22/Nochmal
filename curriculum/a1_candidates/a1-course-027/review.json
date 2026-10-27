@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-027",
+  "source_sha256": "d344613e74b9eea70394357aba1d9205d6a6d2c5450886ac5cd930c997ff0f2c",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "token-by-token word coverage",
+        "separable ankommen analysis",
+        "perfect-tense bracket",
+        "formal possessive form tables"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "hotel check-in sequence",
+        "Ihr Name and Ihren Pass agreement",
+        "reservation and room-key phrasing",
+        "single- and double-room contrast"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "natural reception dialogue",
+        "perfect-tense literal support",
+        "formal-address consistency",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

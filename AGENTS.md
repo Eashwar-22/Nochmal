@@ -22,3 +22,7 @@ literal sentence string to shared compiler code when the same requirement can
 be represented by a general rule or an authored annotation in the lesson
 source.
 
+For numbered A2 lesson creation, independent Sol High audit, audio, and
+release, use `.agents/skills/nochmal-lessons/SKILL.md` and the single command
+entry point `scripts/lesson_flow.py`. Treat `curriculum/a2_blueprint.md` as
+read-only input unless the user explicitly asks to change the blueprint.

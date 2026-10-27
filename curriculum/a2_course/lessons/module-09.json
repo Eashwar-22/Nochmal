@@ -1,0 +1,1478 @@
+[
+  {
+    "id": "a2-course-049",
+    "source_draft_id": "a2-draft-049",
+    "sequence": 97,
+    "band": "A2.2",
+    "format": "description",
+    "title_de": "Ein klares Lernziel",
+    "title_en": "A Clear Learning Goal",
+    "topic": "planning language learning",
+    "communicative_goal": "State a learning goal and practical steps toward it.",
+    "grammar_focus": "zu-infinitive purpose and goal constructions",
+    "supporting_structures": [
+      "Mein Ziel ist, zu",
+      "Um ... zu verbessern",
+      "versuche, auszusprechen"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "die Aussprache",
+      "der Fortschritt"
+    ],
+    "recycled_targets": [
+      "das Ziel",
+      "verbessern",
+      "das Wörterbuch",
+      "üben",
+      "aussprechen",
+      "die Sprache"
+    ],
+    "recycles_from": [
+      41,
+      42,
+      47,
+      48
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Mein Ziel ist, deutsche Gespräche besser zu verstehen.",
+        "en": "My goal is to understand German conversations better.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Mein": [
+              "possessive",
+              "determiner",
+              "nominative"
+            ],
+            "deutsche": [
+              "adjective",
+              "accusative"
+            ],
+            "Gespräche": [
+              "noun",
+              "plural",
+              "accusative"
+            ],
+            "besser": [
+              "comparative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "deutsche": "deutsch",
+            "verstehen": "verstehen"
+          },
+          "word_meanings": {
+            "Gespräche": "conversations"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "deutsche Gespräche besser zu verstehen",
+              "english": "to understand German conversations better",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "comparative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Um meine Aussprache zu verbessern, übe ich jeden Morgen laut.",
+        "en": "In order to improve my pronunciation, I practice aloud every morning.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Um": [
+              "conjunction",
+              "subordinating"
+            ],
+            "meine": [
+              "possessive",
+              "determiner",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Um meine Aussprache zu verbessern",
+              "english": "in order to improve my pronunciation",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ich versuche, neue Wörter deutlich auszusprechen.",
+        "en": "I try to pronounce new words clearly.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "neue": [
+              "adjective",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "neue": "neu",
+            "auszusprechen": "aussprechen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "versuche, neue Wörter deutlich auszusprechen",
+              "english": "try to pronounce new words clearly",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Es hilft mir, unbekannte Wörter im Wörterbuch nachzusehen.",
+        "en": "It helps me to look up unfamiliar words in the dictionary.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "mir": [
+              "personal pronoun",
+              "dative"
+            ],
+            "unbekannte": [
+              "adjective",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "nachzusehen": "nachsehen"
+          },
+          "word_meanings": {
+            "unbekannte": "unfamiliar"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "hilft mir",
+              "english": "helps me",
+              "literal_meaning": null,
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "unbekannte Wörter im Wörterbuch nachzusehen",
+              "english": "to look up unfamiliar words in the dictionary",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "dative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Einmal pro Woche kontrolliere ich meinen Fortschritt.",
+        "en": "Once a week I check my progress.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Einmal": [
+              "adverb",
+              "frequency"
+            ],
+            "meinen": [
+              "possessive",
+              "determiner",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Einmal pro Woche",
+              "english": "once a week",
+              "literal_meaning": null,
+              "tags": [
+                "frequency",
+                "time"
+              ]
+            },
+            {
+              "german": "meinen Fortschritt",
+              "english": "my progress",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What does the learner practice every morning?",
+      "answer_en": "Pronunciation."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 49"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-050",
+    "source_draft_id": "a2-draft-050",
+    "sequence": 98,
+    "band": "A2.2",
+    "format": "dialogue",
+    "title_de": "Der Kurs ist nützlich",
+    "title_en": "I Think the Course Is Useful",
+    "topic": "discussing a language course",
+    "communicative_goal": "Give and respond to simple opinions with reasons.",
+    "grammar_focus": "dass clauses for opinions and agreement",
+    "supporting_structures": [
+      "Meiner Meinung nach",
+      "dass wir ... lernen",
+      "stimme dir zu"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "nützlich",
+      "zustimmen",
+      "anderer Meinung sein",
+      "der Vorteil",
+      "der Nachteil",
+      "meiner Meinung nach"
+    ],
+    "recycled_targets": [
+      "die Meinung",
+      "denken",
+      "glauben",
+      "der Kurs",
+      "lernen"
+    ],
+    "recycles_from": [
+      22,
+      49
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Meiner Meinung nach ist der Kurs sehr nützlich.",
+        "en": "In my opinion, the course is very useful.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Meiner": [
+              "possessive",
+              "determiner",
+              "dative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Meiner Meinung nach",
+              "english": "in my opinion",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "fixed phrase"
+              ]
+            },
+            {
+              "german": "ist der Kurs sehr nützlich",
+              "english": "the course is very useful",
+              "literal_meaning": null,
+              "tags": [
+                "inversion"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ich finde, dass wir viel praktische Sprache lernen.",
+        "en": "I think that we learn a lot of practical language.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "dass": [
+              "conjunction",
+              "subordinating"
+            ],
+            "praktische": [
+              "adjective",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "finde": "finden"
+          },
+          "word_meanings": {
+            "praktische": "practical"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "dass wir viel praktische Sprache lernen",
+              "english": "that we learn a lot of practical language",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ich stimme dir zu, weil die Übungen im Alltag helfen.",
+        "en": "I agree with you because the exercises help in everyday life.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "dir": [
+              "personal pronoun",
+              "dative"
+            ],
+            "zu": [
+              "particle"
+            ],
+            "weil": [
+              "conjunction",
+              "subordinating"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "stimme": "zustimmen"
+          },
+          "word_meanings": {
+            "Übungen": "exercises"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "stimme dir zu",
+              "english": "agree with you",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "separable"
+              ]
+            },
+            {
+              "german": "weil die Übungen im Alltag helfen",
+              "english": "because the exercises help in everyday life",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ein Vorteil ist, dass wir oft zusammen sprechen.",
+        "en": "One advantage is that we often speak together.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "dass": [
+              "conjunction",
+              "subordinating"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "dass wir oft zusammen sprechen",
+              "english": "that we often speak together",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Der Nachteil ist, dass der Kurs am Abend manchmal zu lang ist.",
+        "en": "The disadvantage is that the course is sometimes too long in the evening.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "dass": [
+              "conjunction",
+              "subordinating"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "dass der Kurs am Abend manchmal zu lang ist",
+              "english": "that the course is sometimes too long in the evening",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What does the speaker see as an advantage?",
+      "answer_en": "The learners often speak together."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 50"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-051",
+    "source_draft_id": "a2-draft-051",
+    "sequence": 99,
+    "band": "A2.2",
+    "format": "dialogue",
+    "title_de": "Der Film, der um acht beginnt",
+    "title_en": "The Film That Starts at Eight",
+    "topic": "choosing a cultural event",
+    "communicative_goal": "Identify and describe people or things with subject relative clauses.",
+    "grammar_focus": "nominative relative clauses",
+    "supporting_structures": [
+      "der ... beginnt",
+      "die ... öffnet",
+      "das ... steht"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "der Künstler",
+      "das Programm"
+    ],
+    "recycled_targets": [
+      "die Ausstellung",
+      "das Konzert",
+      "bekannt",
+      "berühmt",
+      "empfehlen",
+      "der Film"
+    ],
+    "recycles_from": [
+      40,
+      41,
+      50
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Der Film, der um acht beginnt, ist eine deutsche Komödie.",
+        "en": "The film that starts at eight is a German comedy.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "der": [
+              "relative pronoun",
+              "nominative",
+              "subject"
+            ],
+            "acht": [
+              "numeral"
+            ],
+            "deutsche": [
+              "adjective",
+              "nominative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "deutsche": "deutsch"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "der um acht beginnt",
+              "english": "that starts at eight",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "relative pronoun"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Die Schauspielerin, die dort spielt, ist sehr bekannt.",
+        "en": "The actress who acts in it is very well known.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "die": [
+              "relative pronoun",
+              "nominative",
+              "subject"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "Schauspielerin": "actress"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "die dort spielt",
+              "english": "who acts in it",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "relative pronoun"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Im Museum gibt es eine Ausstellung, die morgen öffnet.",
+        "en": "At the museum there is an exhibition that opens tomorrow.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "die": [
+              "relative pronoun",
+              "nominative",
+              "subject"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "eine Ausstellung, die morgen öffnet",
+              "english": "an exhibition that opens tomorrow",
+              "literal_meaning": null,
+              "tags": [
+                "nominative",
+                "subordinate clause",
+                "verb-final",
+                "relative pronoun"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Der Künstler, der seine Bilder zeigt, kommt aus Köln.",
+        "en": "The artist who shows his pictures comes from Cologne.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "der": [
+              "relative pronoun",
+              "nominative",
+              "subject"
+            ],
+            "seine": [
+              "possessive",
+              "determiner",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "der seine Bilder zeigt",
+              "english": "who shows his pictures",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "relative pronoun",
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ich empfehle das Konzert, das am Samstag im Programm steht.",
+        "en": "I recommend the concert that is listed in the program on Saturday.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "das": [
+              "relative pronoun",
+              "nominative",
+              "subject"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "das am Samstag im Programm steht",
+              "english": "that is listed in the program on Saturday",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "relative pronoun"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "When does the recommended concert take place?",
+      "answer_en": "On Saturday."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 51"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-052",
+    "source_draft_id": "a2-draft-052",
+    "sequence": 100,
+    "band": "A2.2",
+    "format": "description",
+    "title_de": "Das Buch, das ich empfehle",
+    "title_en": "The Book That I Recommend",
+    "topic": "recommending a book or article",
+    "communicative_goal": "Describe the object of a recommendation with a relative clause.",
+    "grammar_focus": "accusative relative clauses",
+    "supporting_structures": [
+      "den ich lese",
+      "die die Autorin erzählt",
+      "das ich empfehle"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "der Roman",
+      "der Beitrag",
+      "die Handlung",
+      "spannend",
+      "unterhaltsam",
+      "veröffentlichen",
+      "ausleihen"
+    ],
+    "recycled_targets": [
+      "das Buch",
+      "lesen",
+      "empfehlen",
+      "die Bibliothek",
+      "die Geschichte"
+    ],
+    "recycles_from": [
+      49,
+      50,
+      51
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Der Roman, den ich gerade lese, heißt Nordwind.",
+        "en": "The novel that I am reading now is called North Wind.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "den": [
+              "relative pronoun",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "den ich gerade lese",
+              "english": "that I am reading now",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "relative pronoun",
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Die Geschichte, die die Autorin erzählt, ist spannend und unterhaltsam.",
+        "en": "The story that the author tells is exciting and entertaining.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "die": [
+              "relative pronoun",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "Autorin": "author"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "die die Autorin erzählt",
+              "english": "that the author tells",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "relative pronoun",
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Der Beitrag, den sie gestern veröffentlicht hat, erklärt die Handlung.",
+        "en": "The article that she published yesterday explains the plot.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "den": [
+              "relative pronoun",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "veröffentlicht": "veröffentlichen",
+            "erklärt": "erklären"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "den sie gestern veröffentlicht hat",
+              "english": "that she published yesterday",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "relative pronoun",
+                "accusative",
+                "perfect"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Das Buch, das ich meinen Freunden empfehle, ist leicht zu lesen.",
+        "en": "The book that I recommend to my friends is easy to read.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "das": [
+              "relative pronoun",
+              "accusative"
+            ],
+            "meinen": [
+              "possessive",
+              "determiner",
+              "dative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "das ich meinen Freunden empfehle",
+              "english": "that I recommend to my friends",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "relative pronoun",
+                "dative",
+                "accusative"
+              ]
+            },
+            {
+              "german": "leicht zu lesen",
+              "english": "easy to read",
+              "literal_meaning": null,
+              "tags": [
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "In der Bibliothek kann man den Roman kostenlos ausleihen.",
+        "en": "At the library one can borrow the novel free of charge.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "man": [
+              "indefinite pronoun",
+              "nominative",
+              "subject"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "kostenlos": "free of charge"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "In der Bibliothek",
+              "english": "at the library",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place"
+              ]
+            },
+            {
+              "german": "den Roman kostenlos ausleihen",
+              "english": "borrow the novel free of charge",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "Where can the novel be borrowed?",
+      "answer_en": "At the library."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 52"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-053",
+    "source_draft_id": "a2-draft-053",
+    "sequence": 101,
+    "band": "A2.2",
+    "format": "dialogue",
+    "title_de": "Besser als der letzte Film",
+    "title_en": "Better Than the Last One",
+    "topic": "comparing cultural experiences",
+    "communicative_goal": "Compare two films and reach a shared evaluation.",
+    "grammar_focus": "comparative equality with so ... wie and genauso",
+    "supporting_structures": [
+      "spannender als",
+      "so klar wie",
+      "genauso gut"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "so wie",
+      "genauso",
+      "ähnlich",
+      "langweilig",
+      "abwechslungsreich",
+      "bewerten",
+      "sich einigen"
+    ],
+    "recycled_targets": [
+      "besser",
+      "interessant",
+      "der Film",
+      "die Meinung",
+      "dafür sein"
+    ],
+    "recycles_from": [
+      7,
+      8,
+      50,
+      51,
+      52
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Der neue Film ist spannender als der letzte.",
+        "en": "The new film is more exciting than the last one.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "neue": [
+              "adjective",
+              "nominative"
+            ],
+            "spannender": [
+              "comparative"
+            ],
+            "letzte": [
+              "indefinite pronoun"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "neue": "neu",
+            "spannender": "spannend"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "spannender als der letzte",
+              "english": "more exciting than the last one",
+              "literal_meaning": null,
+              "tags": [
+                "comparative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Die Handlung ist aber nicht so klar wie im ersten Film.",
+        "en": "But the plot is not as clear as in the first film.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "nicht": [
+              "particle",
+              "negation"
+            ],
+            "ersten": [
+              "adjective",
+              "dative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "ersten": "erste"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "nicht so klar wie im ersten Film",
+              "english": "not as clear as in the first film",
+              "literal_meaning": null,
+              "tags": [
+                "negation",
+                "comparative",
+                "dative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Die Musik ist genauso gut, und die Bilder sind ähnlich.",
+        "en": "The music is just as good, and the images are similar.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "Bilder": "images"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "genauso gut",
+              "english": "just as good",
+              "literal_meaning": null,
+              "tags": [
+                "comparative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ich fand den Anfang etwas langweilig, aber das Ende war abwechslungsreich.",
+        "en": "I found the beginning a little boring, but the ending was varied.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {
+            "fand": "finden"
+          },
+          "word_meanings": {
+            "Anfang": "beginning"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "fand den Anfang etwas langweilig",
+              "english": "found the beginning a little boring",
+              "literal_meaning": null,
+              "tags": [
+                "simple past",
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Am Ende bewerten wir beide Filme und einigen uns auf vier Punkte.",
+        "en": "At the end we rate both films and agree on four points.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "uns": [
+              "reflexive pronoun",
+              "accusative"
+            ],
+            "vier": [
+              "numeral"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "einigen": "sich einigen"
+          },
+          "word_meanings": {
+            "Punkte": "points"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "einigen uns auf vier Punkte",
+              "english": "agree on four points",
+              "literal_meaning": null,
+              "tags": [
+                "reflexive",
+                "accusative"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What part did the speaker find boring?",
+      "answer_en": "The beginning."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 53"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-054",
+    "source_draft_id": "a2-draft-054",
+    "sequence": 102,
+    "band": "A2.2",
+    "format": "dialogue",
+    "title_de": "Was würdest du empfehlen?",
+    "title_en": "Recommend and Discuss",
+    "topic": "choosing a cultural activity together",
+    "communicative_goal": "Recommend an option, disagree politely, and reach agreement.",
+    "grammar_focus": "consolidation of goals, opinions, relative clauses, and comparisons",
+    "supporting_structures": [
+      "Was hältst du davon?",
+      "Das würde ich empfehlen.",
+      "Darauf einigen wir uns."
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "Was hältst du davon",
+      "Das würde ich empfehlen",
+      "Das sehe ich anders",
+      "Beides klingt gut",
+      "Darauf einigen wir uns"
+    ],
+    "recycled_targets": [
+      "empfehlen",
+      "die Ausstellung",
+      "der Film",
+      "spannend",
+      "sich einigen"
+    ],
+    "recycles_from": [
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Was hältst du von dem Film, der um acht beginnt?",
+        "en": "What do you think of the film that starts at eight?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "du": [
+              "personal pronoun",
+              "nominative",
+              "informal"
+            ],
+            "der": [
+              "relative pronoun",
+              "nominative",
+              "subject"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "hältst": "halten"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Was hältst du von dem Film",
+              "english": "what do you think of the film",
+              "literal_meaning": null,
+              "tags": [
+                "informal",
+                "dative"
+              ]
+            },
+            {
+              "german": "der um acht beginnt",
+              "english": "that starts at eight",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "relative pronoun"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Er klingt spannend; das würde ich empfehlen.",
+        "en": "It sounds exciting; that is what I would recommend.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "würde": [
+              "auxiliary",
+              "subjunctive"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "würde": "werden"
+          },
+          "word_meanings": {
+            "klingt": "sounds"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "das würde ich empfehlen",
+              "english": "that is what I would recommend",
+              "literal_meaning": null,
+              "tags": [
+                "subjunctive",
+                "inversion",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Das sehe ich anders, weil die Ausstellung abwechslungsreicher ist.",
+        "en": "I see that differently because the exhibition is more varied.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "weil": [
+              "conjunction",
+              "subordinating"
+            ],
+            "abwechslungsreicher": [
+              "comparative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "sehe": "sehen",
+            "abwechslungsreicher": "abwechslungsreich"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Das sehe ich anders",
+              "english": "I see that differently",
+              "literal_meaning": null,
+              "tags": [
+                "fixed phrase"
+              ]
+            },
+            {
+              "german": "weil die Ausstellung abwechslungsreicher ist",
+              "english": "because the exhibition is more varied",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "comparative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Beides klingt gut, und beides hilft uns, neue Wörter zu lernen.",
+        "en": "Both sound good, and both help us learn new words.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Beides": [
+              "indefinite pronoun",
+              "nominative"
+            ],
+            "uns": [
+              "personal pronoun",
+              "dative"
+            ],
+            "neue": [
+              "adjective",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "neue": "neu"
+          },
+          "word_meanings": {
+            "klingt": "sounds"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "hilft uns",
+              "english": "helps us",
+              "literal_meaning": null,
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "neue Wörter zu lernen",
+              "english": "learn new words",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Dann gehen wir zuerst zur Ausstellung; darauf einigen wir uns.",
+        "en": "Then we will go to the exhibition first; that is what we agree on.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Dann": [
+              "adverb",
+              "time"
+            ],
+            "uns": [
+              "reflexive pronoun",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "einigen": "sich einigen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "darauf einigen wir uns",
+              "english": "that is what we agree on",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "reflexive",
+                "fixed phrase"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "Which activity do they choose first?",
+      "answer_en": "The exhibition."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 54"
+    ],
+    "speech_alternatives": []
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "draft_id": "a2-draft-016",
+  "status": "release_ready",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav",
+    "sentence-05.wav",
+    "sentence-06.wav"
+  ],
+  "sentence_texts": [
+    "Mara: Herr Braun baut ein Regal auf, aber ihm fehlt eine Leiter.",
+    "Frau Keller: Ich kann ihm meine Leiter und einen Eimer leihen.",
+    "Herr Braun: Das Werkzeug geh\u00f6rt mir; k\u00f6nntest du mir bitte helfen, Mara?",
+    "Mara: Ich bringe dir die Sachen, Herr Braun, und helfe euch, Kinder, morgen beim Regal.",
+    "Frau Keller: Danke, das hilft uns; Kinder, k\u00f6nnt ihr Mara den Eimer bringen?",
+    "Kinder: Ja, wir bringen ihr den Eimer und geben Ihnen sp\u00e4ter die Leiter zur\u00fcck, Frau Keller."
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "30e18ae31f2f85a06b734498405da07e49c5dca3b72261427e6e68a6866cb332",
+    "sentence-02.wav": "8f2fe223689e6d4e1a49f220ef18609aa58c957e80e2a798beae88e4d6562864",
+    "sentence-03.wav": "ef500c9f973a6ec68d9403f3da6d2672db33c10fbddb28ede275b9d8826c8184",
+    "sentence-04.wav": "f00c9040ac7797f0ded2ff89b409b03c3e725630267bdafa90ea3c4e2d321365",
+    "sentence-05.wav": "0b18faf2bd10d95aec4b0c8748c73c0cf4fa0e16379a7f1d9378c76d5548e5fd",
+    "sentence-06.wav": "de68613543d58318a8343bc1dc768dafa5d36e715f9235dd925739493da7710f"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "47926cc1b1eb6235bb6df7b7a81a9197c8c687e3f84160697af785ab8186cf72",
+  "paragraph_assembled_from_sentence_files": true
+}

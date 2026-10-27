@@ -1,0 +1,336 @@
+{
+  "id": "a2-course-010",
+  "source_draft_id": "a2-draft-010",
+  "sequence": 58,
+  "band": "A2.1",
+  "format": "dialogue",
+  "title_de": "Wohin mit dem Sofa?",
+  "title_en": "Where Should the Sofa Go?",
+  "topic": "planning where furniture should go",
+  "communicative_goal": "Distinguish fixed locations from destinations when arranging a room.",
+  "grammar_focus": "two-way prepositions with dative for location and accusative for destination",
+  "supporting_structures": [
+    "an die Wand",
+    "zwischen dem Tisch und der Lampe",
+    "ins Regal"
+  ],
+  "grammar_notes": [],
+  "new_targets": [
+    "wohin",
+    "vor",
+    "zwischen",
+    "gegenüber",
+    "die Ecke"
+  ],
+  "recycled_targets": [
+    "das Sofa",
+    "die Wand",
+    "das Fenster",
+    "der Tisch",
+    "die Lampe",
+    "das Buch",
+    "das Regal",
+    "die Tür"
+  ],
+  "recycles_from": [
+    20,
+    21,
+    23,
+    9
+  ],
+  "audio_path": "assets/audio/a2_published/a2-course-010/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Wohin stellen wir das Sofa?",
+      "en": "Where should we put the sofa?",
+      "audio_path": "assets/audio/a2_published/a2-course-010/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Wohin": [
+            "adverb",
+            "direction"
+          ]
+        },
+        "excluded_word_tags": {
+          "Wohin": [
+            "interrogative pronoun"
+          ]
+        },
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {
+          "Wohin stellen wir das Sofa": [
+            "accusative"
+          ]
+        },
+        "phrases": [
+          {
+            "german": "Wohin stellen wir das Sofa",
+            "english": "where should we put the sofa",
+            "literal_meaning": null,
+            "tags": [
+              "direction",
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Stell es bitte an die Wand neben das Fenster.",
+      "en": "Please put it against the wall next to the window.",
+      "audio_path": "assets/audio/a2_published/a2-course-010/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Stell": [
+            "verb",
+            "imperative"
+          ],
+          "es": [
+            "personal pronoun",
+            "accusative"
+          ],
+          "an": [
+            "preposition",
+            "accusative",
+            "direction"
+          ],
+          "neben": [
+            "preposition",
+            "accusative",
+            "direction"
+          ]
+        },
+        "excluded_word_tags": {
+          "Stell": [
+            "separable"
+          ]
+        },
+        "base_forms": {
+          "Stell": "stellen"
+        },
+        "word_meanings": {
+          "es": "it"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "an die Wand",
+            "english": "against the wall",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction"
+            ]
+          },
+          {
+            "german": "neben das Fenster",
+            "english": "next to the window",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Gut, dann steht es zwischen dem Tisch und der Lampe.",
+      "en": "Good, then it stands between the table and the lamp.",
+      "audio_path": "assets/audio/a2_published/a2-course-010/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "dann": [
+            "adverb",
+            "time"
+          ],
+          "es": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "dem": [
+            "article",
+            "dative"
+          ],
+          "der": [
+            "article",
+            "dative"
+          ],
+          "Gut": [
+            "interjection"
+          ],
+          "zwischen": [
+            "preposition",
+            "dative",
+            "place"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "es": "it",
+          "Gut": "okay"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "zwischen dem Tisch"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "zwischen dem Tisch und der Lampe",
+            "english": "between the table and the lamp",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Die Bücher liegen jetzt auf dem Boden; ich lege sie gleich ins Regal.",
+      "en": "The books are on the floor now; I will put them on the shelf in a moment.",
+      "audio_path": "assets/audio/a2_published/a2-course-010/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "dem": [
+            "article",
+            "dative"
+          ],
+          "sie": [
+            "personal pronoun",
+            "accusative"
+          ],
+          "gleich": [
+            "adverb",
+            "time"
+          ],
+          "Bücher": [
+            "plural"
+          ],
+          "auf": [
+            "preposition",
+            "dative",
+            "place"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "liegen": "liegen",
+          "lege": "legen"
+        },
+        "word_meanings": {
+          "Bücher": "books",
+          "Boden": "floor",
+          "gleich": "in a moment",
+          "sie": "them",
+          "lege": "put"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "auf dem Boden",
+            "english": "on the floor",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "ins Regal",
+            "english": "onto the shelf",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction",
+              "contraction"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Das Bild hängt gegenüber der Tür, aber wir hängen die Uhr über das Sofa.",
+      "en": "The picture hangs opposite the door, but we hang the clock above the sofa.",
+      "audio_path": "assets/audio/a2_published/a2-course-010/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "der": [
+            "article",
+            "dative"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "gegenüber": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "über": [
+            "preposition",
+            "accusative",
+            "direction"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "hängt": "hängen",
+          "hängen": "hängen"
+        },
+        "word_meanings": {
+          "Bild": "picture",
+          "Uhr": "clock"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "gegenüber der Tür",
+            "english": "opposite the door",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "über das Sofa",
+            "english": "above the sofa",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Where do they put the books?",
+    "answer_en": "On the shelf."
+  },
+  "source_basis": [
+    "curriculum/a2_blueprint.md",
+    "A2 Lesson 10"
+  ],
+  "speech_alternatives": []
+}

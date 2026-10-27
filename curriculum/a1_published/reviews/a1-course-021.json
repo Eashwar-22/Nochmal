@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-021",
+  "source_sha256": "6776382e8550c9c96ba86d4e19882471aaf1026f9d0a6e5bacac3bc977c4fc54",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "modal and final infinitive",
+        "dative mir reference card",
+        "separable anrufen and vorbeikommen phrases",
+        "accusative repair object"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "coherent problem-request-resolution sequence",
+        "polite repair request",
+        "helfen dative complement",
+        "home-problem vocabulary"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "request meaning and word order",
+        "separable-prefix meanings",
+        "natural resolution translation",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

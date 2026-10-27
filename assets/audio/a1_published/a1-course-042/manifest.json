@@ -1,0 +1,37 @@
+{
+  "draft_id": "a1-draft-042",
+  "status": "release_ready",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav",
+    "sentence-05.wav",
+    "sentence-06.wav"
+  ],
+  "sentence_texts": [
+    "Mina fragt Sara: \u201eWollen wir am Wochenende zusammen schwimmen gehen?\u201c",
+    "Sara antwortet: \u201eGute Idee, aber am Samstag kann ich nicht, denn ich muss lange arbeiten.\u201c",
+    "Mina nennt Sonntagmorgen, aber dann hat Sara ihren Deutschkurs.",
+    "Vielleicht k\u00f6nnen sie sich am Sonntagnachmittag im Schwimmbad treffen.",
+    "Sara sagt: \u201eJa, gern; um vier Uhr bin ich frei.\u201c",
+    "Beide sagen: \u201eDas geht\u201c, und schreiben den Termin in ihre Kalender."
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "7a0ee9b6c486d2a4a5d181941014b53480c8337d7fe3036affa95c2838d16a4b",
+    "sentence-02.wav": "d729fb29e0b7ab49b2f2873fad47b8da8c7880ee3d42481e681c1e5a4a6894db",
+    "sentence-03.wav": "0221ce6fffb24e285f7b3193f9dc1aa29842a9a6be64f89bd2a72cc60b78d65d",
+    "sentence-04.wav": "d52add97f21c948e27f067eebc6a0485b60a11df11b295ef9ec57e5722fccc2b",
+    "sentence-05.wav": "23fab2f3fe110743f93f47cd3bfa3b20902dfc5e45af02ae3c4c254f604a41df",
+    "sentence-06.wav": "c45acebb82055eff878934917148a2c3c493c3d6cd1a2540ea5b212920b03b84"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "7eb1aa0eac84e16e7bbff49bbc26a574d3abcd286ebdc7a30ee35fa8d9a7db8e",
+  "paragraph_assembled_from_sentence_files": true
+}

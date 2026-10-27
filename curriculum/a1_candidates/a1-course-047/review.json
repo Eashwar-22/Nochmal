@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-047",
+  "source_sha256": "b6a2492773ae70287e1bd8722237dcc91ee37c5c80421ff131a9e198b1d673dd",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token coverage",
+        "connected chronology",
+        "denn main-clause order",
+        "perfect forms and repair phrase"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "coherent travel account",
+        "idiomatic repair language",
+        "consistent chronology"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "reason-link translation",
+        "transport vocabulary",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

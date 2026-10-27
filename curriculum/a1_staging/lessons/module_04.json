@@ -24,7 +24,7 @@
     "sentences": [
       {"de": "Leo hilft Mina in ihrem neuen Zimmer und fragt: „Wo ist der Tisch?“", "en": "Leo helps Mina in her new room and asks, “Where is the table?”"},
       {"de": "Mina antwortet: „Er steht dort am Fenster, neben dem Bett.“", "en": "Mina answers, “It is over there by the window, next to the bed.”"},
-      {"de": "Der Schrank ist an der anderen Wand, aber die Tür ist noch frei.", "en": "The wardrobe is against the other wall, but the door is still clear."},
+      {"de": "Der Schrank steht an der Wand, aber vor der Tür steht nichts.", "en": "The wardrobe stands against the wall, but there is nothing in front of the door."},
       {"de": "Auf dem Tisch steht eine Lampe neben einem Buch.", "en": "A lamp stands on the table next to a book."}
     ],
     "first_listen_check": {"prompt": "Where is the table?", "answer": "By the window, next to the bed."}
@@ -39,8 +39,8 @@
     "sentences": [
       {"de": "Am Abend ist das Licht in Minas Küche kaputt.", "en": "In the evening, the light in Mina’s kitchen is broken."},
       {"de": "Sie ruft Leo an und sagt: „Ich habe ein Problem.“", "en": "She calls Leo and says, “I have a problem.”"},
-      {"de": "Dann fragt sie: „Kannst du mir bitte sofort helfen und das Fenster öffnen?“", "en": "Then she asks, “Can you please help me right away and open the window?”"},
-      {"de": "Leo kommt kurz vorbei, schließt später das Fenster und repariert das Licht.", "en": "Leo stops by briefly, closes the window later, and repairs the light."}
+      {"de": "Dann fragt sie: „Kannst du mir bitte sofort das Licht reparieren?“", "en": "Then she asks, “Can you please repair the light for me right away?”"},
+      {"de": "Leo kommt sofort vorbei, repariert das Licht und hilft Mina in der Küche.", "en": "Leo comes right over, repairs the light, and helps Mina in the kitchen."}
     ],
     "first_listen_check": {"prompt": "What is broken?", "answer": "The kitchen light."}
   },
@@ -69,7 +69,7 @@
     "sentences": [
       {"de": "Mina sucht die Post und fragt einen Mann: „Entschuldigung, wo ist der Eingang?“", "en": "Mina is looking for the post office and asks a man, “Excuse me, where is the entrance?”"},
       {"de": "Der Mann sagt: „Gehen Sie zuerst geradeaus bis zur nächsten Ecke.“", "en": "The man says, “First go straight ahead as far as the next corner.”"},
-      {"de": "Dann gehen Sie nach links und kurz nach rechts.", "en": "Then turn left and shortly afterwards turn right."},
+      {"de": "Gehen Sie dann nach links und danach nach rechts.", "en": "Then go left and then go right."},
       {"de": "Dort sehen Sie die Post; der Eingang ist neben der Bank.", "en": "You will see the post office there; the entrance is next to the bank."}
     ],
     "first_listen_check": {"prompt": "What is next to the bank?", "answer": "The entrance to the post office."}
@@ -82,12 +82,12 @@
     "format": "dialogue",
     "status": "draft_unpublished",
     "sentences": [
-      {"de": "Ein Besucher fragt Mina: „Wo gibt es hier eine Apotheke?“", "en": "A visitor asks Mina, “Where is there a pharmacy here?”"},
+      {"de": "Ein Besucher fragt Mina: „Wo gibt es hier eine Apotheke?“", "en": "A visitor asks Mina, “Where can I find a pharmacy around here?”"},
       {"de": "Mina antwortet: „Gehen Sie an der Post vorbei und dann nach rechts.“", "en": "Mina answers, “Go past the post office and then turn right.”"},
       {"de": "Die Apotheke ist neben dem Markt und gegenüber der Haltestelle.", "en": "The pharmacy is next to the market and opposite the stop."},
       {"de": "Der Besucher fragt: „Ist die Bank auch dort?“", "en": "The visitor asks, “Is the bank there too?”"},
       {"de": "Mina sagt: „Nein, die Bank ist links neben der Post.“", "en": "Mina says, “No, the bank is on the left next to the post office.”"}
     ],
-    "first_listen_check": {"prompt": "What is opposite the bus stop?", "answer": "The pharmacy."}
+    "first_listen_check": {"prompt": "What is opposite the stop?", "answer": "The pharmacy."}
   }
 ]

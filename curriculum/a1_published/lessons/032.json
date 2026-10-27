@@ -1,0 +1,471 @@
+{
+  "id": "a1-course-032",
+  "source_draft_id": "a1-draft-032",
+  "sequence": 32,
+  "band": "A1.2",
+  "format": "dialogue",
+  "title_de": "In der Apotheke",
+  "title_en": "At the Pharmacy",
+  "topic": "understanding simple medicine and dosage advice",
+  "communicative_goal": "Understand when and how often to take a medicine.",
+  "grammar_focus": "formal imperative in health instructions",
+  "supporting_structures": [
+    "Nehmen Sie morgens und abends eine Tablette",
+    "Trinken Sie viel",
+    "schlafen Sie heute lange"
+  ],
+  "grammar_notes": [
+    "Formal imperative uses the finite verb before Sie; coordinated imperatives keep the same formal address."
+  ],
+  "new_targets": [
+    "das Medikament",
+    "das Rezept",
+    "die Tablette",
+    "das Fieber",
+    "schlafen",
+    "morgens",
+    "abends"
+  ],
+  "recycled_targets": [
+    "der Arzt",
+    "der Termin",
+    "trinken",
+    "das Wasser",
+    "heute"
+  ],
+  "recycles_from": [
+    12,
+    15,
+    16,
+    23,
+    31
+  ],
+  "audio_path": "assets/audio/a1_published/a1-course-032/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Nach dem Arzttermin geht Mina mit ihrem Rezept in die Apotheke.",
+      "en": "After the doctor’s appointment, Mina goes to the pharmacy with her prescription.",
+      "audio_path": "assets/audio/a1_published/a1-course-032/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Nach": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "dem": [
+            "determiner",
+            "dative"
+          ],
+          "Arzttermin": [
+            "dative"
+          ],
+          "Mina": [
+            "nominative"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "ihrem": [
+            "possessive",
+            "determiner",
+            "dative"
+          ],
+          "Rezept": [
+            "dative"
+          ],
+          "in": [
+            "preposition",
+            "accusative",
+            "direction"
+          ],
+          "die": [
+            "accusative"
+          ],
+          "Apotheke": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Nach dem Arzttermin",
+            "english": "After the doctor’s appointment",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "mit ihrem Rezept",
+            "english": "with her prescription",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "in die Apotheke",
+            "english": "to the pharmacy",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction"
+            ]
+          },
+          {
+            "german": "Nach dem Arzttermin geht Mina mit ihrem Rezept in die Apotheke",
+            "english": "After the doctor’s appointment, Mina goes to the pharmacy with her prescription",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Die Apothekerin gibt ihr ein Medikament gegen das Fieber.",
+      "en": "The pharmacist gives her medicine for the fever.",
+      "audio_path": "assets/audio/a1_published/a1-course-032/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Die": [
+            "nominative"
+          ],
+          "Apothekerin": [
+            "nominative"
+          ],
+          "ihr": [
+            "personal pronoun",
+            "dative"
+          ],
+          "ein": [
+            "determiner",
+            "accusative"
+          ],
+          "Medikament": [
+            "accusative"
+          ],
+          "gegen": [
+            "preposition",
+            "accusative"
+          ],
+          "das": [
+            "accusative"
+          ],
+          "Fieber": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "ihr": "to her"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "gibt ihr",
+            "english": "gives her",
+            "literal_meaning": "gives to her",
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "ein Medikament",
+            "english": "some medicine",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "gegen das Fieber",
+            "english": "for the fever",
+            "literal_meaning": "against the fever",
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Sie sagt: „Nehmen Sie morgens und abends eine Tablette mit Wasser.“",
+      "en": "She says, “Take one tablet with water in the morning and evening.”",
+      "audio_path": "assets/audio/a1_published/a1-course-032/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "morgens": [
+            "adverb",
+            "frequency",
+            "time"
+          ],
+          "abends": [
+            "adverb",
+            "frequency",
+            "time"
+          ],
+          "eine": [
+            "determiner",
+            "accusative"
+          ],
+          "Tablette": [
+            "accusative"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "Wasser": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [
+          {
+            "surface": "Sie",
+            "occurrence": 1,
+            "tags": [
+              "personal pronoun",
+              "nominative"
+            ],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": "she",
+            "spoken_form": null
+          },
+          {
+            "surface": "Sie",
+            "occurrence": 2,
+            "tags": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": "you (formal)",
+            "spoken_form": null
+          }
+        ],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Nehmen Sie morgens und abends eine Tablette mit Wasser",
+            "english": "Take one tablet with water in the morning and evening",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "formal"
+            ]
+          },
+          {
+            "german": "eine Tablette",
+            "english": "one tablet",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "mit Wasser",
+            "english": "with water",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Die Apothekerin sagt außerdem: „Trinken Sie viel und schlafen Sie heute lange.“",
+      "en": "The pharmacist also says, “Drink plenty and sleep for a long time today.”",
+      "audio_path": "assets/audio/a1_published/a1-course-032/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Die": [
+            "nominative"
+          ],
+          "Apothekerin": [
+            "nominative"
+          ],
+          "außerdem": [
+            "adverb",
+            "connector"
+          ],
+          "Trinken": [
+            "verb",
+            "imperative"
+          ],
+          "Sie": [
+            "personal pronoun",
+            "nominative",
+            "formal"
+          ],
+          "viel": [
+            "adverb"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "schlafen": [
+            "verb",
+            "imperative"
+          ],
+          "heute": [
+            "adverb",
+            "time"
+          ],
+          "lange": [
+            "adverb",
+            "manner"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "Sie": "you (formal)",
+          "viel": "plenty"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Trinken Sie viel",
+            "english": "Drink plenty",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "formal"
+            ]
+          },
+          {
+            "german": "und schlafen Sie heute lange",
+            "english": "and sleep for a long time today",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "main clause",
+              "inversion",
+              "formal"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina wiederholt die Zeiten und bedankt sich freundlich bei der Apothekerin.",
+      "en": "Mina repeats the times and politely thanks the pharmacist.",
+      "audio_path": "assets/audio/a1_published/a1-course-032/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Mina": [
+            "nominative"
+          ],
+          "die": [
+            "accusative"
+          ],
+          "Zeiten": [
+            "accusative",
+            "plural"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "sich": [
+            "reflexive pronoun",
+            "accusative"
+          ],
+          "freundlich": [
+            "adverb",
+            "manner"
+          ],
+          "bei": [
+            "preposition",
+            "dative"
+          ],
+          "der": [
+            "dative"
+          ],
+          "Apothekerin": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "Zeiten": "die Zeit",
+          "bedankt": "sich bedanken"
+        },
+        "word_meanings": {
+          "Zeiten": "times",
+          "bedankt": "thanks"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "die Zeiten",
+            "english": "the times",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "bedankt sich freundlich bei der Apothekerin",
+            "english": "politely thanks the pharmacist",
+            "literal_meaning": null,
+            "tags": [
+              "reflexive"
+            ]
+          },
+          {
+            "german": "bei der Apothekerin",
+            "english": "to the pharmacist",
+            "literal_meaning": "with the pharmacist",
+            "tags": [
+              "dative"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "When should Mina take the tablet?",
+    "answer_en": "In the morning and evening."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_06.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

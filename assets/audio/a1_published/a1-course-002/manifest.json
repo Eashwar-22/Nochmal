@@ -1,0 +1,31 @@
+{
+  "draft_id": "a1-draft-002",
+  "status": "release_ready",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav"
+  ],
+  "sentence_texts": [
+    "Woher kommst du, Mina, und wo wohnst du jetzt?",
+    "Ich komme aus Spanien und wohne jetzt in Bonn.",
+    "Und du, Leo, woher kommst du?",
+    "Ich komme aus Italien und wohne hier in der Stadt."
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "0848baed5fd7e53819e6b2c4ff4074a1eb99a5341c4520158b5d3c5e5823b0a1",
+    "sentence-02.wav": "56df31bab610f902a9a2806553bd0c57d86c57871b9cfe611d03f2e6d47966d8",
+    "sentence-03.wav": "623bd6b054c0dbaaafe7fbbfca8cecb769206976ef9072b8aad4580ad791a808",
+    "sentence-04.wav": "c91d0c34be63c80b63aa61279540708e85abd7d42bebfe630c26305e2d32b9d8"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "89c393e0d02d24971994224e5416f21c256f3fe3431110e64cfb75993a254387",
+  "paragraph_assembled_from_sentence_files": true
+}

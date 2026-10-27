@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-003",
+  "source_sha256": "3d3469c64ea8458d46c7df63e0ef696ef28d2a33d0f9ac3f27c525403599ffd3",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "every source token has one ordered word card",
+        "every useful phrase maps to exact source words in order",
+        "every verb has complete bilingual present-tense help",
+        "controlled word classes and grammar tags are coherent",
+        "cross-utterance and incomplete automatic phrases are explicitly excluded"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "German sentences are grammatical and natural",
+        "Wie bitte and Noch einmal, bitte are correctly analysed as polite repair chunks",
+        "bitte is classified as a particle and alles as an accusative indefinite pronoun",
+        "fronted jetzt correctly triggers inversion with verb-second order"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "sentence translations preserve contextual meaning",
+        "word meanings are concise and useful for an A1 learner",
+        "natural and literal meanings expose the ellipsis in the repetition request",
+        "Lesson 2 origin language is recycled in a meaningful communication-repair context"
+      ],
+      "findings": []
+    }
+  ]
+}

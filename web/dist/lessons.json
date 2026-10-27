@@ -1,0 +1,571 @@
+{
+  "lessons": [
+    {
+      "id": "a1-course-002",
+      "number": "02",
+      "dataFile": "./lesson-data/a1-course-002.json",
+      "audioDirectory": "https://nochmal-audio.hariharaneaswaran.workers.dev/audio/a1-course-002",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-003",
+      "number": "03",
+      "dataFile": "./lesson-data/a1-course-003.json",
+      "audioDirectory": "./audio/a1-course-003",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-004",
+      "number": "04",
+      "dataFile": "./lesson-data/a1-course-004.json",
+      "audioDirectory": "./audio/a1-course-004",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-005",
+      "number": "05",
+      "dataFile": "./lesson-data/a1-course-005.json",
+      "audioDirectory": "./audio/a1-course-005",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-006",
+      "number": "06",
+      "dataFile": "./lesson-data/a1-course-006.json",
+      "audioDirectory": "./audio/a1-course-006",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-007",
+      "number": "07",
+      "dataFile": "./lesson-data/a1-course-007.json",
+      "audioDirectory": "./audio/a1-course-007",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-008",
+      "number": "08",
+      "dataFile": "./lesson-data/a1-course-008.json",
+      "audioDirectory": "./audio/a1-course-008",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-009",
+      "number": "09",
+      "dataFile": "./lesson-data/a1-course-009.json",
+      "audioDirectory": "./audio/a1-course-009",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-010",
+      "number": "10",
+      "dataFile": "./lesson-data/a1-course-010.json",
+      "audioDirectory": "./audio/a1-course-010",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-011",
+      "number": "11",
+      "dataFile": "./lesson-data/a1-course-011.json",
+      "audioDirectory": "./audio/a1-course-011",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-012",
+      "number": "12",
+      "dataFile": "./lesson-data/a1-course-012.json",
+      "audioDirectory": "./audio/a1-course-012",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-013",
+      "number": "13",
+      "dataFile": "./lesson-data/a1-course-013.json",
+      "audioDirectory": "./audio/a1-course-013",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-014",
+      "number": "14",
+      "dataFile": "./lesson-data/a1-course-014.json",
+      "audioDirectory": "./audio/a1-course-014",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-015",
+      "number": "15",
+      "dataFile": "./lesson-data/a1-course-015.json",
+      "audioDirectory": "./audio/a1-course-015",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-016",
+      "number": "16",
+      "dataFile": "./lesson-data/a1-course-016.json",
+      "audioDirectory": "./audio/a1-course-016",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-017",
+      "number": "17",
+      "dataFile": "./lesson-data/a1-course-017.json",
+      "audioDirectory": "./audio/a1-course-017",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-018",
+      "number": "18",
+      "dataFile": "./lesson-data/a1-course-018.json",
+      "audioDirectory": "./audio/a1-course-018",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-019",
+      "number": "19",
+      "dataFile": "./lesson-data/a1-course-019.json",
+      "audioDirectory": "./audio/a1-course-019",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-020",
+      "number": "20",
+      "dataFile": "./lesson-data/a1-course-020.json",
+      "audioDirectory": "./audio/a1-course-020",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-021",
+      "number": "21",
+      "dataFile": "./lesson-data/a1-course-021.json",
+      "audioDirectory": "./audio/a1-course-021",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-022",
+      "number": "22",
+      "dataFile": "./lesson-data/a1-course-022.json",
+      "audioDirectory": "./audio/a1-course-022",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-023",
+      "number": "23",
+      "dataFile": "./lesson-data/a1-course-023.json",
+      "audioDirectory": "./audio/a1-course-023",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-024",
+      "number": "24",
+      "dataFile": "./lesson-data/a1-course-024.json",
+      "audioDirectory": "./audio/a1-course-024",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-025",
+      "number": "25",
+      "dataFile": "./lesson-data/a1-course-025.json",
+      "audioDirectory": "./audio/a1-course-025",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-026",
+      "number": "26",
+      "dataFile": "./lesson-data/a1-course-026.json",
+      "audioDirectory": "./audio/a1-course-026",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-027",
+      "number": "27",
+      "dataFile": "./lesson-data/a1-course-027.json",
+      "audioDirectory": "./audio/a1-course-027",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-028",
+      "number": "28",
+      "dataFile": "./lesson-data/a1-course-028.json",
+      "audioDirectory": "./audio/a1-course-028",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-029",
+      "number": "29",
+      "dataFile": "./lesson-data/a1-course-029.json",
+      "audioDirectory": "./audio/a1-course-029",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-030",
+      "number": "30",
+      "dataFile": "./lesson-data/a1-course-030.json",
+      "audioDirectory": "./audio/a1-course-030",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.1"
+    },
+    {
+      "id": "a1-course-031",
+      "number": "31",
+      "dataFile": "./lesson-data/a1-course-031.json",
+      "audioDirectory": "./audio/a1-course-031",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.2"
+    },
+    {
+      "id": "a1-course-032",
+      "number": "32",
+      "dataFile": "./lesson-data/a1-course-032.json",
+      "audioDirectory": "./audio/a1-course-032",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.2"
+    },
+    {
+      "id": "a1-course-033",
+      "number": "33",
+      "dataFile": "./lesson-data/a1-course-033.json",
+      "audioDirectory": "./audio/a1-course-033",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.2"
+    },
+    {
+      "id": "a1-course-034",
+      "number": "34",
+      "dataFile": "./lesson-data/a1-course-034.json",
+      "audioDirectory": "./audio/a1-course-034",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.2"
+    },
+    {
+      "id": "a1-course-035",
+      "number": "35",
+      "dataFile": "./lesson-data/a1-course-035.json",
+      "audioDirectory": "./audio/a1-course-035",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.2"
+    },
+    {
+      "id": "a1-course-036",
+      "number": "36",
+      "dataFile": "./lesson-data/a1-course-036.json",
+      "audioDirectory": "./audio/a1-course-036",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.2"
+    },
+    {
+      "id": "a1-course-037",
+      "number": "37",
+      "dataFile": "./lesson-data/a1-course-037.json",
+      "audioDirectory": "./audio/a1-course-037",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.2"
+    },
+    {
+      "id": "a1-course-038",
+      "number": "38",
+      "dataFile": "./lesson-data/a1-course-038.json",
+      "audioDirectory": "./audio/a1-course-038",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.2"
+    },
+    {
+      "id": "a1-course-039",
+      "number": "39",
+      "dataFile": "./lesson-data/a1-course-039.json",
+      "audioDirectory": "./audio/a1-course-039",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.2"
+    },
+    {
+      "id": "a1-course-040",
+      "number": "40",
+      "dataFile": "./lesson-data/a1-course-040.json",
+      "audioDirectory": "./audio/a1-course-040",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.2"
+    },
+    {
+      "id": "a1-course-041",
+      "number": "41",
+      "dataFile": "./lesson-data/a1-course-041.json",
+      "audioDirectory": "./audio/a1-course-041",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.2"
+    },
+    {
+      "id": "a1-course-042",
+      "number": "42",
+      "dataFile": "./lesson-data/a1-course-042.json",
+      "audioDirectory": "./audio/a1-course-042",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.2"
+    },
+    {
+      "id": "a1-course-043",
+      "number": "43",
+      "dataFile": "./lesson-data/a1-course-043.json",
+      "audioDirectory": "./audio/a1-course-043",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.2"
+    },
+    {
+      "id": "a1-course-044",
+      "number": "44",
+      "dataFile": "./lesson-data/a1-course-044.json",
+      "audioDirectory": "./audio/a1-course-044",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.2"
+    },
+    {
+      "id": "a1-course-045",
+      "number": "45",
+      "dataFile": "./lesson-data/a1-course-045.json",
+      "audioDirectory": "./audio/a1-course-045",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.2"
+    },
+    {
+      "id": "a1-course-046",
+      "number": "46",
+      "dataFile": "./lesson-data/a1-course-046.json",
+      "audioDirectory": "./audio/a1-course-046",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.2"
+    },
+    {
+      "id": "a1-course-047",
+      "number": "47",
+      "dataFile": "./lesson-data/a1-course-047.json",
+      "audioDirectory": "./audio/a1-course-047",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.2"
+    },
+    {
+      "id": "a1-course-048",
+      "number": "48",
+      "dataFile": "./lesson-data/a1-course-048.json",
+      "audioDirectory": "./audio/a1-course-048",
+      "paragraphFile": "paragraph.wav",
+      "level": "A1.2"
+    },
+    {
+      "id": "a2-course-001",
+      "number": "A2 · 01",
+      "dataFile": "./lesson-data/a2-course-001.json",
+      "audioDirectory": "./audio/a2-course-001",
+      "paragraphFile": "paragraph.wav",
+      "level": "A2.1"
+    },
+    {
+      "id": "a2-course-002",
+      "number": "A2 · 02",
+      "dataFile": "./lesson-data/a2-course-002.json",
+      "audioDirectory": "./audio/a2-course-002",
+      "paragraphFile": "paragraph.wav",
+      "level": "A2.1"
+    },
+    {
+      "id": "a2-course-003",
+      "number": "A2 · 03",
+      "dataFile": "./lesson-data/a2-course-003.json",
+      "audioDirectory": "./audio/a2-course-003",
+      "paragraphFile": "paragraph.wav",
+      "level": "A2.1"
+    },
+    {
+      "id": "a2-course-004",
+      "number": "A2 · 04",
+      "dataFile": "./lesson-data/a2-course-004.json",
+      "audioDirectory": "./audio/a2-course-004",
+      "paragraphFile": "paragraph.wav",
+      "level": "A2.1"
+    },
+    {
+      "id": "a2-course-005",
+      "number": "A2 · 05",
+      "dataFile": "./lesson-data/a2-course-005.json",
+      "audioDirectory": "./audio/a2-course-005",
+      "paragraphFile": "paragraph.wav",
+      "level": "A2.1"
+    },
+    {
+      "id": "a2-course-006",
+      "number": "A2 · 06",
+      "dataFile": "./lesson-data/a2-course-006.json",
+      "audioDirectory": "./audio/a2-course-006",
+      "paragraphFile": "paragraph.wav",
+      "level": "A2.1"
+    },
+    {
+      "id": "a2-course-007",
+      "number": "A2 · 07",
+      "dataFile": "./lesson-data/a2-course-007.json",
+      "audioDirectory": "./audio/a2-course-007",
+      "paragraphFile": "paragraph.wav",
+      "level": "A2.1"
+    },
+    {
+      "id": "a2-course-008",
+      "number": "A2 · 08",
+      "dataFile": "./lesson-data/a2-course-008.json",
+      "audioDirectory": "./audio/a2-course-008",
+      "paragraphFile": "paragraph.wav",
+      "level": "A2.1"
+    },
+    {
+      "id": "a2-course-009",
+      "number": "A2 · 09",
+      "dataFile": "./lesson-data/a2-course-009.json",
+      "audioDirectory": "./audio/a2-course-009",
+      "paragraphFile": "paragraph.wav",
+      "level": "A2.1"
+    },
+    {
+      "id": "a2-course-010",
+      "number": "A2 · 10",
+      "dataFile": "./lesson-data/a2-course-010.json",
+      "audioDirectory": "./audio/a2-course-010",
+      "paragraphFile": "paragraph.wav",
+      "level": "A2.1"
+    },
+    {
+      "id": "a2-course-011",
+      "number": "A2 · 11",
+      "dataFile": "./lesson-data/a2-course-011.json",
+      "audioDirectory": "./audio/a2-course-011",
+      "paragraphFile": "paragraph.wav",
+      "level": "A2.1"
+    },
+    {
+      "id": "a2-course-012",
+      "number": "A2 · 12",
+      "dataFile": "./lesson-data/a2-course-012.json",
+      "audioDirectory": "./audio/a2-course-012",
+      "paragraphFile": "paragraph.wav",
+      "level": "A2.1"
+    },
+    {
+      "id": "a2-course-013",
+      "level": "A2.1",
+      "number": "A2 · 13",
+      "dataFile": "./lesson-data/a2-course-013.json",
+      "audioDirectory": "./audio/a2-course-013",
+      "paragraphFile": "paragraph.wav"
+    },
+    {
+      "id": "a2-course-014",
+      "level": "A2.1",
+      "number": "A2 · 14",
+      "dataFile": "./lesson-data/a2-course-014.json",
+      "audioDirectory": "./audio/a2-course-014",
+      "paragraphFile": "paragraph.wav"
+    },
+    {
+      "id": "a2-course-015",
+      "level": "A2.1",
+      "number": "A2 · 15",
+      "dataFile": "./lesson-data/a2-course-015.json",
+      "audioDirectory": "./audio/a2-course-015",
+      "paragraphFile": "paragraph.wav"
+    },
+    {
+      "id": "a2-course-016",
+      "level": "A2.1",
+      "number": "A2 · 16",
+      "dataFile": "./lesson-data/a2-course-016.json",
+      "audioDirectory": "./audio/a2-course-016",
+      "paragraphFile": "paragraph.wav"
+    },
+    {
+      "id": "a2-course-017",
+      "level": "A2.1",
+      "number": "A2 · 17",
+      "dataFile": "./lesson-data/a2-course-017.json",
+      "audioDirectory": "./audio/a2-course-017",
+      "paragraphFile": "paragraph.wav"
+    },
+    {
+      "id": "a2-course-018",
+      "level": "A2.1",
+      "number": "A2 · 18",
+      "dataFile": "./lesson-data/a2-course-018.json",
+      "audioDirectory": "./audio/a2-course-018",
+      "paragraphFile": "paragraph.wav"
+    },
+    {
+      "id": "a2-course-019",
+      "level": "A2.1",
+      "number": "A2 · 19",
+      "dataFile": "./lesson-data/a2-course-019.json",
+      "audioDirectory": "./audio/a2-course-019",
+      "paragraphFile": "paragraph.wav"
+    },
+    {
+      "id": "a2-course-020",
+      "level": "A2.1",
+      "number": "A2 · 20",
+      "dataFile": "./lesson-data/a2-course-020.json",
+      "audioDirectory": "./audio/a2-course-020",
+      "paragraphFile": "paragraph.wav"
+    },
+    {
+      "id": "a2-course-021",
+      "level": "A2.1",
+      "number": "A2 · 21",
+      "dataFile": "./lesson-data/a2-course-021.json",
+      "audioDirectory": "./audio/a2-course-021",
+      "paragraphFile": "paragraph.wav"
+    },
+    {
+      "id": "a2-course-022",
+      "level": "A2.1",
+      "number": "A2 · 22",
+      "dataFile": "./lesson-data/a2-course-022.json",
+      "audioDirectory": "./audio/a2-course-022",
+      "paragraphFile": "paragraph.wav"
+    },
+    {
+      "id": "a2-course-023",
+      "level": "A2.1",
+      "number": "A2 · 23",
+      "dataFile": "./lesson-data/a2-course-023.json",
+      "audioDirectory": "./audio/a2-course-023",
+      "paragraphFile": "paragraph.wav"
+    },
+    {
+      "id": "a2-course-024",
+      "level": "A2.1",
+      "number": "A2 · 24",
+      "dataFile": "./lesson-data/a2-course-024.json",
+      "audioDirectory": "./audio/a2-course-024",
+      "paragraphFile": "paragraph.wav"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-013",
+  "source_sha256": "7a20aec37028ce0fb178f7f4fe861d0eccc9563a9c948557e222c8578f70ae6b",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "accusative destination and object phrases",
+        "formal m\u00f6chten question",
+        "coordinated-clause boundaries"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "bakery transaction wording",
+        "m\u00f6chten formal form",
+        "accusative food objects"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "polite-request meaning",
+        "quantity nouns",
+        "literal word-order help"
+      ],
+      "findings": []
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "id": "a1-course-015",
+  "source_draft_id": "a1-draft-015",
+  "sequence": 15,
+  "band": "A1.1",
+  "format": "dialogue",
+  "title_de": "Frühstückswünsche",
+  "title_en": "Breakfast Choices",
+  "topic": "talking about breakfast preferences",
+  "communicative_goal": "Say what you eat and drink and what you prefer.",
+  "grammar_focus": "gern and lieber with present-tense activities",
+  "supporting_structures": [
+    "am Sonntag",
+    "mit Käse",
+    "lieber Tee",
+    "aber heute"
+  ],
+  "grammar_notes": [
+    "Am Sonntag uses the dative time phrase am.",
+    "Gern expresses liking an activity; lieber compares a present preference."
+  ],
+  "new_targets": [
+    "frühstücken",
+    "essen",
+    "trinken",
+    "der Kaffee",
+    "der Tee",
+    "die Milch",
+    "gern",
+    "lieber"
+  ],
+  "recycled_targets": [
+    "die Schwester",
+    "die Küche",
+    "das Brot",
+    "der Käse",
+    "die Butter",
+    "aber",
+    "heute",
+    "ein"
+  ],
+  "recycles_from": [
+    7,
+    12,
+    13
+  ],
+  "audio_path": "assets/audio/a1_published/a1-course-015/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Am Sonntag frühstücken Mina und ihre Schwester zusammen in der Küche.",
+      "en": "On Sunday, Mina and her sister have breakfast together in the kitchen.",
+      "audio_path": "assets/audio/a1_published/a1-course-015/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "am": [
+            "preposition",
+            "dative"
+          ],
+          "sonntag": [
+            "dative"
+          ],
+          "ihre": [
+            "possessive",
+            "determiner",
+            "nominative"
+          ],
+          "schwester": [
+            "nominative"
+          ],
+          "zusammen": [
+            "adverb"
+          ],
+          "in": [
+            "preposition",
+            "dative"
+          ],
+          "der": [
+            "dative"
+          ],
+          "küche": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "am": "on",
+          "ihre": "her"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am Sonntag",
+            "english": "on Sunday",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "ihre Schwester",
+            "english": "her sister",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "in der Küche",
+            "english": "in the kitchen",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "Am Sonntag frühstücken Mina und ihre Schwester zusammen in der Küche",
+            "english": "On Sunday, Mina and her sister have breakfast together in the kitchen",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina isst gern Brot mit Käse und trinkt Kaffee.",
+      "en": "Mina likes eating bread with cheese and drinks coffee.",
+      "audio_path": "assets/audio/a1_published/a1-course-015/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "gern": [
+            "adverb"
+          ],
+          "brot": [
+            "accusative"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "käse": [
+            "dative"
+          ],
+          "kaffee": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "gern": "gladly / likes to"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "mit Käse",
+            "english": "with cheese",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "Brot mit Käse",
+            "english": "bread with cheese",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "Mina isst gern Brot mit Käse",
+            "english": "Mina likes eating bread with cheese",
+            "literal_meaning": "Mina eats bread with cheese gladly",
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "und trinkt Kaffee",
+            "english": "and drinks coffee",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "main clause",
+              "ellipsis"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Ihre Schwester trinkt lieber Tee mit Milch und isst ein Brötchen.",
+      "en": "Her sister prefers tea with milk and eats a bread roll.",
+      "audio_path": "assets/audio/a1_published/a1-course-015/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "ihre": [
+            "possessive",
+            "determiner",
+            "nominative"
+          ],
+          "schwester": [
+            "nominative"
+          ],
+          "lieber": [
+            "adverb",
+            "comparative"
+          ],
+          "tee": [
+            "accusative"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "milch": [
+            "dative"
+          ],
+          "ein": [
+            "determiner",
+            "accusative"
+          ],
+          "brötchen": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "ihre": "her",
+          "lieber": "rather / preferably"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {
+          "und isst ein Brötchen": [
+            "main clause"
+          ]
+        },
+        "phrases": [
+          {
+            "german": "Ihre Schwester",
+            "english": "her sister",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "mit Milch",
+            "english": "with milk",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "Tee mit Milch",
+            "english": "tea with milk",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "ein Brötchen",
+            "english": "a bread roll",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "und isst ein Brötchen",
+            "english": "and eats a bread roll",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "ellipsis"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Beide mögen Butter, aber heute essen sie lieber Käse.",
+      "en": "They both like butter, but today they prefer to eat cheese.",
+      "audio_path": "assets/audio/a1_published/a1-course-015/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "beide": [
+            "indefinite pronoun",
+            "nominative"
+          ],
+          "butter": [
+            "accusative"
+          ],
+          "heute": [
+            "adverb",
+            "time"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "lieber": [
+            "adverb",
+            "comparative"
+          ],
+          "käse": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "beide": "both",
+          "sie": "they",
+          "lieber": "rather"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "heute essen sie lieber Käse"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Beide mögen Butter",
+            "english": "They both like butter",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "aber heute essen sie lieber Käse",
+            "english": "but today they would rather eat cheese",
+            "literal_meaning": "but today eat they rather cheese",
+            "tags": [
+              "connector",
+              "main clause",
+              "verb-second",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "What does Mina’s sister prefer to drink?",
+    "answer_en": "Tea with milk."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_03.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

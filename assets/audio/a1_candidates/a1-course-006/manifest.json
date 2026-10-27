@@ -1,0 +1,31 @@
+{
+  "draft_id": "a1-draft-006",
+  "status": "draft_unpublished",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav"
+  ],
+  "sentence_texts": [
+    "Guten Tag, ich hei\u00dfe Sara und komme aus Marokko.",
+    "Hallo Sara, ich bin Leo; wie geht\u2019s?",
+    "Gut, danke, aber wie hei\u00dft die Freundin dort?",
+    "Wie bitte? Bitte langsamer und noch einmal; ich verstehe die Frage nicht."
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "c859af568d54af1c353964a37e9c3e986d4b4f318d75ecd9cacba349afe32f3b",
+    "sentence-02.wav": "2dd9056a9d70ca40483583ef0d14363098e41af768f620fec8bb0dcda52fbb96",
+    "sentence-03.wav": "c37636a4ed5e3a759215f2c34249a0eda9b0802ef24ada5b78ff13d9f80b26a8",
+    "sentence-04.wav": "5b7ed780456ef895c392f5195875fb2cf7b4f49a75b639f6dafe5ef77f5b35be"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "c5185fae511fffaf25e7f01664f0dc2134e52baf9ea5e31916f7d7275c9671c7",
+  "paragraph_assembled_from_sentence_files": true
+}

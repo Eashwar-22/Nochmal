@@ -1,0 +1,3344 @@
+{
+  "schema_version": 1,
+  "source_sha256": "0e45b3f2f44ea6ae166b1bf7157d180e6445d97995bd352f5d034a6d0cbe82c9",
+  "lesson": {
+    "id": "a2-course-022",
+    "title": "Ich glaube, dass das Team freundlich ist",
+    "english_title": "I Think That the Team Is Friendly",
+    "level": "A2.1",
+    "sentences": [
+      {
+        "text": "Mina: Ich glaube, dass das Team sehr freundlich ist; gestern haben mir die Kollegen bei der ersten Aufgabe sofort geholfen.",
+        "natural_meaning": "Mina: I think the team is very friendly; yesterday the colleagues immediately helped me with my first task.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Mina",
+                "english": "Mina",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Mina"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Ich",
+                "english": "I",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Ich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "glaube",
+                "english": "believe",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "glauben",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "glaube"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "glaubst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "glaubt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "glauben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "glaubt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "glauben"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to believe / think",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "glaube"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "glaubst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "glaubt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "glauben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "glaubt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "glauben"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I believe",
+                    "you believe",
+                    "he/she/it believes",
+                    "we believe",
+                    "you believe",
+                    "they/you believe"
+                  ],
+                  "current_english_forms": [
+                    "I believe",
+                    "you believe",
+                    "he/she/it believes",
+                    "we believe",
+                    "you believe",
+                    "they/you believe"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "glaube"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "dass",
+                "english": "that",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "subordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "dass"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Team",
+                "english": "team",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "das",
+                  "Team"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sehr",
+                "english": "very",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sehr"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "freundlich",
+                "english": "friendly",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "freundlich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ist",
+                "english": "be",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "ist"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "gestern",
+                "english": "yesterday",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "gestern"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "haben",
+                "english": "have",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "haben",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to have",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I have",
+                    "you have",
+                    "he/she/it has",
+                    "we have",
+                    "you have",
+                    "they/you have"
+                  ],
+                  "current_english_forms": [
+                    "I have",
+                    "you have",
+                    "he/she/it has",
+                    "we have",
+                    "you have",
+                    "they/you have"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "haben"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ich",
+                "english": "me",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "mir"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Kollege",
+                "english": "male colleague",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "plural",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "die",
+                  "Kollegen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "bei",
+                "english": "at / with",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "bei"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "erste",
+                "english": "first",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ersten"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Aufgabe",
+                "english": "task / exercise",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "der",
+                  "Aufgabe"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sofort",
+                "english": "immediately",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sofort"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "geholfen",
+                "english": "helped",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "past participle",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "helfen",
+                  "tense": "Perfekt (conversational past)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "habe geholfen"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hast geholfen"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hat geholfen"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "haben geholfen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "habt geholfen"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "haben geholfen"
+                    }
+                  ],
+                  "usage": "geholfen is the past participle of helfen; it combines with haben to form the conversational past.",
+                  "english": "to help",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "helfe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hilfst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hilft"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "helfen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "helft"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "helfen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I help",
+                    "you help",
+                    "he/she/it helps",
+                    "we help",
+                    "you help",
+                    "they/you help"
+                  ],
+                  "current_english_forms": [
+                    "I have helped",
+                    "you have helped",
+                    "he/she/it has helped",
+                    "we have helped",
+                    "you have helped",
+                    "they/you have helped"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "geholfen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "bei der ersten Aufgabe",
+                "english": "with the first task",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "der",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  },
+                  {
+                    "surface": "ersten",
+                    "base": "erste",
+                    "kind": "adjective",
+                    "paradigm": "weak-adjective",
+                    "case": "dative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "dass das Team sehr freundlich ist",
+                "english": "that the team is very friendly",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "subordinate clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-final",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "das Team",
+                "english": "the team",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "das",
+                    "base": "das",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "nominative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "mir ... geholfen",
+                "english": "helped me",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "mir",
+                    "base": "ich",
+                    "kind": "personal-pronoun",
+                    "paradigm": "personal-pronoun",
+                    "case": "dative",
+                    "gender": null,
+                    "number": "singular",
+                    "pronoun_slot": "first-singular",
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "die Kollegen",
+                "english": "the colleagues",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "plural",
+                    "category": "form"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "die",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "nominative",
+                    "gender": "plural",
+                    "number": "plural",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "gestern haben mir die Kollegen bei der ersten Aufgabe sofort geholfen",
+                "english": "yesterday the colleagues immediately helped me with my first task",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "perfect",
+                    "category": "tense"
+                  },
+                  {
+                    "label": "inversion",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-022/sentence-01.wav"
+      },
+      {
+        "text": "Leo: Ja, ich denke, dass die Zusammenarbeit sehr gut klappt, weil die Kollegen zuverlässig sind.",
+        "natural_meaning": "Leo: Yes, I think cooperation works very well because the colleagues are reliable.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Leo",
+                "english": "Leo",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Leo"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Ja",
+                "english": "yes",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "interjection",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Ja"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ich",
+                "english": "I",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "denke",
+                "english": "think",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "denken",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "denke"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "denkst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "denkt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "denken"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "denkt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "denken"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to think",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "denke"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "denkst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "denkt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "denken"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "denkt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "denken"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I think",
+                    "you think",
+                    "he/she/it thinks",
+                    "we think",
+                    "you think",
+                    "they/you think"
+                  ],
+                  "current_english_forms": [
+                    "I think",
+                    "you think",
+                    "he/she/it thinks",
+                    "we think",
+                    "you think",
+                    "they/you think"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "denke"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "dass",
+                "english": "that",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "subordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "dass"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Zusammenarbeit",
+                "english": "cooperation / collaboration",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "die",
+                  "Zusammenarbeit"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sehr",
+                "english": "very",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sehr"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "gut",
+                "english": "good / well",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "gut"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "klappt",
+                "english": "works",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "klappen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "klappe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "klappst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "klappt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "klappen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "klappt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "klappen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to work out / succeed",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "klappe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "klappst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "klappt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "klappen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "klappt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "klappen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I work out",
+                    "you work out",
+                    "he/she/it works out",
+                    "we work out",
+                    "you work out",
+                    "they/you work out"
+                  ],
+                  "current_english_forms": [
+                    "I work",
+                    "you work",
+                    "he/she/it works",
+                    "we work",
+                    "you work",
+                    "they/you work"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "klappt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "weil",
+                "english": "because",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "subordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "weil"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Kollege",
+                "english": "male colleague",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "plural",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "die",
+                  "Kollegen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "zuverlässig",
+                "english": "reliable",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "zuverlässig"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sind",
+                "english": "be",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "sind"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Leo: Ja, ich denke, dass die Zusammenarbeit sehr gut klappt",
+                "english": "Leo: Yes, I think cooperation works very well",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "weil die Kollegen zuverlässig sind",
+                "english": "because the colleagues are reliable",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "subordinate clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-final",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "die Zusammenarbeit",
+                "english": "cooperation",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "die",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "nominative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "dass die Zusammenarbeit sehr gut klappt",
+                "english": "that cooperation works very well",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "subordinate clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-final",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "die Kollegen",
+                "english": "the colleagues",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "plural",
+                    "category": "form"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "die",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "nominative",
+                    "gender": "plural",
+                    "number": "plural",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-022/sentence-02.wav"
+      },
+      {
+        "text": "Mina: Der Chef findet, dass Leo zuverlässig arbeitet, aber der frühe Beginn ist für ihn schwer.",
+        "natural_meaning": "Mina: The manager thinks Leo works reliably, but the early start is hard for him.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Mina",
+                "english": "Mina",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Mina"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Chef",
+                "english": "boss / manager",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Der",
+                  "Chef"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "findet",
+                "english": "thinks",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "finden",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "finde"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "findest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "findet"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "finden"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "findet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "finden"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to find",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "finde"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "findest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "findet"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "finden"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "findet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "finden"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I find",
+                    "you find",
+                    "he/she/it finds",
+                    "we find",
+                    "you find",
+                    "they/you find"
+                  ],
+                  "current_english_forms": [
+                    "I think",
+                    "you think",
+                    "he/she/it thinks",
+                    "we think",
+                    "you think",
+                    "they/you think"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "findet"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "dass",
+                "english": "that",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "subordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "dass"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Leo",
+                "english": "Leo",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Leo"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "zuverlässig",
+                "english": "reliably",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "zuverlässig"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "arbeitet",
+                "english": "work",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "arbeiten",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "arbeite"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "arbeitest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "arbeitet"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "arbeiten"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "arbeitet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "arbeiten"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to work",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "arbeite"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "arbeitest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "arbeitet"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "arbeiten"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "arbeitet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "arbeiten"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I work",
+                    "you work",
+                    "he/she/it works",
+                    "we work",
+                    "you work",
+                    "they/you work"
+                  ],
+                  "current_english_forms": [
+                    "I work",
+                    "you work",
+                    "he/she/it works",
+                    "we work",
+                    "you work",
+                    "they/you work"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "arbeitet"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "aber",
+                "english": "but",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "aber"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "früh",
+                "english": "early",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "frühe"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Beginn",
+                "english": "start",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "der",
+                  "Beginn"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ist",
+                "english": "be",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "ist"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "für",
+                "english": "for",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "für"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "er",
+                "english": "him",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ihn"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "schwer",
+                "english": "difficult",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "schwer"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Mina: Der Chef findet, dass Leo zuverlässig arbeitet",
+                "english": "Mina: The manager thinks Leo works reliably",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "aber der frühe Beginn ist für ihn schwer",
+                "english": "but the early start is hard for him",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Der Chef",
+                "english": "the manager",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Der",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "nominative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "dass Leo zuverlässig arbeitet",
+                "english": "that Leo works reliably",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "subordinate clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-final",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "der frühe Beginn",
+                "english": "the early start",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "der",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "nominative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  },
+                  {
+                    "surface": "frühe",
+                    "base": "früh",
+                    "kind": "adjective",
+                    "paradigm": "weak-adjective",
+                    "case": "nominative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "für ihn",
+                "english": "for him",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "ihn",
+                    "base": "er",
+                    "kind": "personal-pronoun",
+                    "paradigm": "personal-pronoun",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": "third-masculine",
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-022/sentence-03.wav"
+      },
+      {
+        "text": "Leo: Ich bin nicht sicher, dass die Arbeitszeit für das Team passt; wir sprechen morgen mit der Chefin.",
+        "natural_meaning": "Leo: I am not sure the working hours suit the team; we will speak with the manager tomorrow.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Leo",
+                "english": "Leo",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Leo"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Ich",
+                "english": "I",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Ich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "bin",
+                "english": "be",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sein",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bin"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bist"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "ist"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sind"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "seid"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sind"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ],
+                  "current_english_forms": [
+                    "I am",
+                    "you are",
+                    "he/she/it is",
+                    "we are",
+                    "you are",
+                    "they/you are"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "bin"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "nicht",
+                "english": "not",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "particle",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "nicht"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sicher",
+                "english": "sure",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adjective",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sicher"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "dass",
+                "english": "that",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "subordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "dass"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Arbeitszeit",
+                "english": "working hours",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "die",
+                  "Arbeitszeit"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "für",
+                "english": "for",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "für"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Team",
+                "english": "team",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "das",
+                  "Team"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "passt",
+                "english": "suit",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "passen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "passe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "passt"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "passt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "passen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "passt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "passen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to suit / fit",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "passe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "passt"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "passt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "passen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "passt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "passen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I suit",
+                    "you suit",
+                    "he/she/it suits",
+                    "we suit",
+                    "you suit",
+                    "they/you suit"
+                  ],
+                  "current_english_forms": [
+                    "I suit",
+                    "you suit",
+                    "he/she/it suits",
+                    "we suit",
+                    "you suit",
+                    "they/you suit"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "passt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "wir",
+                "english": "we",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "wir"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sprechen",
+                "english": "speak",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "sprechen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "spreche"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "sprichst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "spricht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sprechen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "sprecht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sprechen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to speak",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "spreche"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "sprichst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "spricht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "sprechen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "sprecht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "sprechen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I speak",
+                    "you speak",
+                    "he/she/it speaks",
+                    "we speak",
+                    "you speak",
+                    "they/you speak"
+                  ],
+                  "current_english_forms": [
+                    "I speak",
+                    "you speak",
+                    "he/she/it speaks",
+                    "we speak",
+                    "you speak",
+                    "they/you speak"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "sprechen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "morgen",
+                "english": "tomorrow",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "morgen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "mit",
+                "english": "with",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "mit"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Chefin",
+                "english": "manager / boss",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "der",
+                  "Chefin"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "für das Team",
+                "english": "for the team",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "das",
+                    "base": "das",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "mit der Chefin",
+                "english": "with the manager",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "der",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "nicht sicher",
+                "english": "not sure",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "die Arbeitszeit",
+                "english": "the working hours",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "die",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "nominative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "dass die Arbeitszeit für das Team passt",
+                "english": "that the working hours suit the team",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "subordinate clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-final",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-022/sentence-04.wav"
+      },
+      {
+        "text": "Mina: Ich hoffe sehr, dass wir schon ab morgen etwas später anfangen können.",
+        "natural_meaning": "Mina: I really hope we can start a little later as soon as tomorrow.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Mina",
+                "english": "Mina",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Mina"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Ich",
+                "english": "I",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Ich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "hoffe",
+                "english": "hope",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "hoffen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "hoffe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hoffst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hofft"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "hoffen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "hofft"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "hoffen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to hope",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "hoffe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hoffst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hofft"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "hoffen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "hofft"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "hoffen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I hope",
+                    "you hope",
+                    "he/she/it hopes",
+                    "we hope",
+                    "you hope",
+                    "they/you hope"
+                  ],
+                  "current_english_forms": [
+                    "I hope",
+                    "you hope",
+                    "he/she/it hopes",
+                    "we hope",
+                    "you hope",
+                    "they/you hope"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "hoffe"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sehr",
+                "english": "very",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "sehr"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "dass",
+                "english": "that",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "subordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "dass"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "wir",
+                "english": "we",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "wir"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "schon",
+                "english": "already",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "schon"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ab",
+                "english": "from",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ab"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "morgen",
+                "english": "tomorrow",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "morgen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "etwas",
+                "english": "a little",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "etwas"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "später",
+                "english": "later",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "später"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "anfangen",
+                "english": "start",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "infinitive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "anfangen",
+                  "tense": "Infinitiv (infinitive in this construction)",
+                  "forms": [
+                    {
+                      "pronoun": "—",
+                      "verb": "anfangen"
+                    }
+                  ],
+                  "usage": "This non-finite form follows a modal verb or zu, so it does not change for person in this sentence.",
+                  "english": "to start",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "fange an"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "fängst an"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "fängt an"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "fangen an"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "fangt an"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "fangen an"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I start",
+                    "you start",
+                    "he/she/it starts",
+                    "we start",
+                    "you start",
+                    "they/you start"
+                  ],
+                  "current_english_forms": [
+                    "to start"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "anfangen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "können",
+                "english": "can",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "können",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kannst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "können"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "könnt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "können"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "can / to be able to",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kannst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "können"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "könnt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "können"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I can",
+                    "you can",
+                    "he/she/it can",
+                    "we can",
+                    "you can",
+                    "they/you can"
+                  ],
+                  "current_english_forms": [
+                    "I can",
+                    "you can",
+                    "he/she/it can",
+                    "we can",
+                    "you can",
+                    "they/you can"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "können"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "dass wir schon ab morgen etwas später anfangen können",
+                "english": "that we can start a little later as soon as tomorrow",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "subordinate clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "verb-final",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "modal verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "infinitive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-022/sentence-05.wav"
+      }
+    ],
+    "audio_path": "assets/audio/a2_candidates/a2-course-022/paragraph.wav",
+    "initial_question": "What is Leo unsure about, and what does Mina hope will happen?",
+    "initial_answer": "He is unsure the hours suit the team; she hopes they can start later.",
+    "audio_status": "ready",
+    "sequence": 70,
+    "lesson_format": "dialogue",
+    "topic": "colleagues discussing the team and working hours",
+    "new_targets": [
+      "glauben",
+      "denken",
+      "hoffen",
+      "sicher",
+      "das Team",
+      "die Zusammenarbeit",
+      "zuverlässig"
+    ],
+    "recycled_targets": [
+      "die Arbeitszeit",
+      "die Aufgabe",
+      "die Chefin",
+      "helfen",
+      "passen"
+    ],
+    "speech_alternatives": [],
+    "performance_activity": {
+      "kind": "writing",
+      "instruction": "Complete a workplace message with three dass clauses: one opinion, one belief, and one hope about the team and schedule.",
+      "prompts": [
+        "Ich glaube, dass das Team ___.",
+        "Ich denke, dass die Zusammenarbeit ___.",
+        "Ich hoffe, dass wir morgen ___."
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "draft_id": "a1-draft-020",
+  "status": "draft_unpublished",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav"
+  ],
+  "sentence_texts": [
+    "Leo hilft Mina in ihrem neuen Zimmer und fragt: \u201eWo ist der Tisch?\u201c",
+    "Mina antwortet: \u201eEr steht dort am Fenster, neben dem Bett.\u201c",
+    "Der Schrank steht an der Wand, aber vor der T\u00fcr steht nichts.",
+    "Auf dem Tisch steht eine Lampe neben einem Buch."
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "651ba433a7ec865378adb655556d57ebd90ca30e004f875cdbed207ca5c676ff",
+    "sentence-02.wav": "a6ee813513cb86c86d983dea361fb9801b6fe66f8f9e88edfd1cb4bc832ca6ac",
+    "sentence-03.wav": "0ff3dfe826e45d061231f518c96e67da2ca9a9c501e7892f9b3aa7f8f9c87528",
+    "sentence-04.wav": "23ec7c6cacf1b808a72770b72c35de4214145d7cb669d60430126d3820b1dcdc"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "7820cfb3ad4ad04df44a811da37d3580c1a81ae1562d824d3bc2de93f0f12d32",
+  "paragraph_assembled_from_sentence_files": true
+}

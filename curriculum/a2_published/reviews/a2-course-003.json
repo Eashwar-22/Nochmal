@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a2-course-003",
+  "source_sha256": "32b19b1033143ae61a034ae8049bbf30dc0d5e65e502f3f3982352334545b9a0",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token coverage",
+        "verb and inflection reference coverage",
+        "exact phrase-source linkage",
+        "controlled tag and glossary contract"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "weil clause word order",
+        "transport-delay cause",
+        "workplace register"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "natural cause-and-effect translations",
+        "A2.1 connector scope",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

@@ -1,0 +1,1509 @@
+[
+  {
+    "id": "a2-course-025",
+    "source_draft_id": "a2-draft-025",
+    "sequence": 73,
+    "band": "A2.1",
+    "format": "dialogue",
+    "title_de": "Seit drei Tagen krank",
+    "title_en": "Ill for Three Days",
+    "topic": "describing symptoms and duration",
+    "communicative_goal": "State how long a current health problem has lasted.",
+    "grammar_focus": "seit plus dative with the present tense",
+    "supporting_structures": [
+      "seit drei Tagen",
+      "seit gestern",
+      "Wie lange?"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "die Erkältung",
+      "dauern",
+      "seit drei Tagen"
+    ],
+    "recycled_targets": [
+      "der Husten",
+      "der Hals",
+      "seit",
+      "sich fühlen",
+      "krank",
+      "der Arzt"
+    ],
+    "recycles_from": [
+      35,
+      36
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Guten Morgen, ich habe seit drei Tagen starken Husten.",
+        "en": "Good morning, I have had a bad cough for three days.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "drei": [
+              "numeral"
+            ],
+            "starken": [
+              "adjective",
+              "dative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "starken": "stark"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "seit drei Tagen",
+              "english": "for three days",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "starken Husten",
+              "english": "a bad cough",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Seit gestern tut mir auch der Hals weh.",
+        "en": "Since yesterday, my throat has hurt too.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "mir": [
+              "personal pronoun",
+              "dative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "tut": "wehtun"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Seit gestern",
+              "english": "since yesterday",
+              "literal_meaning": null,
+              "tags": [
+                "time"
+              ]
+            },
+            {
+              "german": "tut mir ... der Hals weh",
+              "english": "my throat hurts",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "separable"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ich fühle mich müde und habe wahrscheinlich eine Erkältung.",
+        "en": "I feel tired and probably have a cold.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "mich": [
+              "reflexive pronoun",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "fühle": "sich fühlen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "fühle mich müde",
+              "english": "feel tired",
+              "literal_meaning": null,
+              "tags": [
+                "reflexive",
+                "accusative"
+              ]
+            },
+            {
+              "german": "eine Erkältung",
+              "english": "a cold",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Wie lange dauern die Beschwerden normalerweise?",
+        "en": "How long do the symptoms normally last?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "Beschwerden": "symptoms",
+            "normalerweise": "normally"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Wie lange dauern die Beschwerden",
+              "english": "how long do the symptoms last",
+              "literal_meaning": null,
+              "tags": [
+                "time"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Wenn es morgen nicht besser ist, gehe ich zum Arzt.",
+        "en": "If it is not better tomorrow, I will go to the doctor.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Wenn": [
+              "conjunction",
+              "subordinating"
+            ],
+            "besser": [
+              "comparative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Wenn es morgen nicht besser ist",
+              "english": "if it is not better tomorrow",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            },
+            {
+              "german": "gehe ich zum Arzt",
+              "english": "I will go to the doctor",
+              "literal_meaning": null,
+              "tags": [
+                "main clause",
+                "inversion",
+                "dative"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "How long has the speaker had a cough?",
+      "answer_en": "For three days."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 25"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-026",
+    "source_draft_id": "a2-draft-026",
+    "sequence": 74,
+    "band": "A2.1",
+    "format": "dialogue",
+    "title_de": "Der Rat der Ärztin",
+    "title_en": "The Doctor Says I Should Rest",
+    "topic": "receiving medical advice",
+    "communicative_goal": "Understand and repeat simple medical advice.",
+    "grammar_focus": "sollen plus infinitive for reported advice",
+    "supporting_structures": [
+      "soll mich ausruhen",
+      "soll ich vermeiden",
+      "Mit diesem Rat"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "die Behandlung",
+      "der Rat",
+      "vermeiden",
+      "gesund werden"
+    ],
+    "recycled_targets": [
+      "sollen",
+      "sich ausruhen",
+      "untersuchen",
+      "schlafen",
+      "nehmen"
+    ],
+    "recycles_from": [
+      25,
+      35,
+      36
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Die Ärztin hat mich untersucht und sagt, dass ich eine Erkältung habe.",
+        "en": "The doctor examined me and says that I have a cold.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "mich": [
+              "personal pronoun",
+              "accusative"
+            ],
+            "dass": [
+              "conjunction",
+              "subordinating"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "untersucht": "untersuchen"
+          },
+          "word_meanings": {"Ärztin": "doctor"},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {"german": "hat mich untersucht", "english": "examined me", "literal_meaning": null, "tags": ["accusative", "perfect"]},
+            {"german": "dass ich eine Erkältung habe", "english": "that I have a cold", "literal_meaning": null, "tags": ["subordinate clause", "verb-final"]}
+          ]
+        }
+      },
+      {
+        "de": "Ich soll mich zwei Tage zu Hause ausruhen.",
+        "en": "I should rest at home for two days.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "mich": [
+              "reflexive pronoun",
+              "accusative"
+            ],
+            "zwei": [
+              "numeral"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "ausruhen": "sich ausruhen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "soll mich ... ausruhen",
+              "english": "should rest",
+              "literal_meaning": null,
+              "tags": [
+                "modal verb",
+                "reflexive",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Außerdem soll ich viel Wasser trinken und genug schlafen.",
+        "en": "In addition, I should drink plenty of water and get enough sleep.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Außerdem": [
+              "connector"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "soll ich viel Wasser trinken",
+              "english": "I should drink plenty of water",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "modal verb",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "genug schlafen",
+              "english": "sleep enough",
+              "literal_meaning": null,
+              "tags": [
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Arbeit und Sport soll ich im Moment vermeiden.",
+        "en": "I should avoid work and exercise for the moment.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "im": [
+              "preposition",
+              "dative",
+              "time"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "Moment": "moment"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Arbeit und Sport soll ich ... vermeiden",
+              "english": "I should avoid work and exercise",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "modal verb",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Mit diesem Rat werde ich hoffentlich schnell gesund.",
+        "en": "With this advice, I will hopefully get well quickly.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "diesem": [
+              "determiner",
+              "dative"
+            ],
+            "werde": [
+              "auxiliary",
+              "future"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "werde": "werden"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Mit diesem Rat",
+              "english": "with this advice",
+              "literal_meaning": null,
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "werde ich ... gesund",
+              "english": "I will get well",
+              "literal_meaning": null,
+              "tags": [
+                "future",
+                "inversion"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "How long should the patient rest?",
+      "answer_en": "Two days."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 26"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-027",
+    "source_draft_id": "a2-draft-027",
+    "sequence": 75,
+    "band": "A2.1",
+    "format": "dialogue",
+    "title_de": "Was darf ich tun?",
+    "title_en": "What Am I Allowed to Do?",
+    "topic": "asking about activity after an injury",
+    "communicative_goal": "Ask what is permitted during recovery.",
+    "grammar_focus": "dürfen plus infinitive for permission and restrictions",
+    "supporting_structures": [
+      "Was darf ich tun?",
+      "noch nicht belasten",
+      "bis zur nächsten Kontrolle"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "belasten",
+      "heben",
+      "die Kontrolle"
+    ],
+    "recycled_targets": [
+      "dürfen",
+      "vorsichtig",
+      "die Praxis",
+      "das Bein",
+      "arbeiten"
+    ],
+    "recycles_from": [
+      25,
+      26,
+      35
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Mein Bein ist besser, aber was darf ich schon tun?",
+        "en": "My leg is better, but what am I allowed to do already?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Mein": [
+              "possessive",
+              "determiner",
+              "nominative"
+            ],
+            "besser": [
+              "comparative"
+            ],
+            "was": [
+              "interrogative pronoun"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "was darf ich schon tun",
+              "english": "what am I allowed to do already",
+              "literal_meaning": null,
+              "tags": [
+                "modal verb",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Sie dürfen langsam gehen, aber das Bein noch nicht stark belasten.",
+        "en": "You may walk slowly, but you must not put much strain on the leg yet.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "nicht": [
+              "particle",
+              "negation"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Sie dürfen langsam gehen",
+              "english": "you may walk slowly",
+              "literal_meaning": null,
+              "tags": [
+                "formal",
+                "modal verb",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "das Bein noch nicht stark belasten",
+              "english": "not put much strain on the leg yet",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "negation",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Darf ich bei der Arbeit schwere Kisten heben?",
+        "en": "May I lift heavy boxes at work?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "der": [
+              "article",
+              "dative"
+            ],
+            "schwere": [
+              "adjective",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "schwere": "schwer"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "bei der Arbeit",
+              "english": "at work",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place"
+              ]
+            },
+            {
+              "german": "schwere Kisten heben",
+              "english": "lift heavy boxes",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Nein, das dürfen Sie bis zur nächsten Kontrolle nicht.",
+        "en": "No, you may not do that until the next check-up.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "nächsten": [
+              "adjective",
+              "dative"
+            ],
+            "nicht": [
+              "particle",
+              "negation"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "nächsten": "nächste"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "bis zur nächsten Kontrolle",
+              "english": "until the next check-up",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time",
+                "contraction"
+              ]
+            },
+            {
+              "german": "dürfen Sie ... nicht",
+              "english": "you may not",
+              "literal_meaning": null,
+              "tags": [
+                "formal",
+                "modal verb",
+                "negation"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Dann bin ich vorsichtig und frage in einer Woche noch einmal.",
+        "en": "Then I will be careful and ask again in a week.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Dann": [
+              "adverb",
+              "time"
+            ],
+            "einer": [
+              "article",
+              "dative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "in einer Woche",
+              "english": "in a week",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What must the patient avoid lifting?",
+      "answer_en": "Heavy boxes."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 27"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-028",
+    "source_draft_id": "a2-draft-028",
+    "sequence": 76,
+    "band": "A2.1",
+    "format": "description",
+    "title_de": "Gesünder leben",
+    "title_en": "Living More Healthily",
+    "topic": "planning healthier habits",
+    "communicative_goal": "Describe a realistic plan for healthier daily habits.",
+    "grammar_focus": "reflexive routines and quantity comparisons",
+    "supporting_structures": [
+      "mehr bewegen",
+      "weniger Süßigkeiten",
+      "ruhe mich aus"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "die Bewegung",
+      "die Ernährung"
+    ],
+    "recycled_targets": [
+      "gesund",
+      "regelmäßig",
+      "mehr",
+      "weniger",
+      "aufhören",
+      "sich fühlen"
+    ],
+    "recycles_from": [
+      25,
+      26,
+      27,
+      39
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Ich möchte mich im Alltag mehr bewegen und gesünder essen.",
+        "en": "I want to move more and eat more healthily in everyday life.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "mich": [
+              "reflexive pronoun",
+              "accusative"
+            ],
+            "mehr": [
+              "adverb"
+            ],
+            "gesünder": [
+              "comparative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "bewegen": "bewegen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "möchte mich im Alltag mehr bewegen",
+              "english": "want to move more in everyday life",
+              "literal_meaning": null,
+              "tags": [
+                "reflexive",
+                "modal verb",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "gesünder essen",
+              "english": "eat more healthily",
+              "literal_meaning": null,
+              "tags": [
+                "comparative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Für meine Ernährung kaufe ich mehr Gemüse und weniger Süßigkeiten.",
+        "en": "For my diet, I buy more vegetables and fewer sweets.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "meine": [
+              "possessive",
+              "determiner",
+              "accusative"
+            ],
+            "mehr": [
+              "determiner",
+              "accusative"
+            ],
+            "weniger": [
+              "determiner",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "Süßigkeiten": "sweets"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "mehr Gemüse und weniger Süßigkeiten",
+              "english": "more vegetables and fewer sweets",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "comparative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Dreimal pro Woche gehe ich schwimmen oder fahre Rad.",
+        "en": "Three times a week, I go swimming or cycle.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Dreimal": [
+              "adverb",
+              "frequency"
+            ],
+            "pro": [
+              "preposition",
+              "time"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "schwimmen": "schwimmen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Dreimal pro Woche",
+              "english": "three times a week",
+              "literal_meaning": null,
+              "tags": [
+                "frequency",
+                "time"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Abends höre ich früher mit der Arbeit auf und ruhe mich aus.",
+        "en": "In the evenings, I stop work earlier and rest.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "früher": [
+              "comparative"
+            ],
+            "mich": [
+              "reflexive pronoun",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "höre": "aufhören",
+            "ruhe": "sich ausruhen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "höre ich früher mit der Arbeit auf",
+              "english": "I stop work earlier",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "separable",
+                "dative"
+              ]
+            },
+            {
+              "german": "ruhe mich aus",
+              "english": "rest",
+              "literal_meaning": null,
+              "tags": [
+                "reflexive",
+                "separable"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "So fühle ich mich hoffentlich bald fitter.",
+        "en": "That way I will hopefully feel fitter soon.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "mich": [
+              "reflexive pronoun",
+              "accusative"
+            ],
+            "fitter": [
+              "comparative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "fühle": "sich fühlen"
+          },
+          "word_meanings": {"fitter": "fitter"},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [{"german": "fühle ich mich hoffentlich bald fitter", "english": "I will hopefully feel fitter soon", "literal_meaning": null, "tags": ["inversion", "reflexive", "comparative"]}]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "How often does the speaker exercise?",
+      "answer_en": "Three times a week."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 28"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-029",
+    "source_draft_id": "a2-draft-029",
+    "sequence": 77,
+    "band": "A2.1",
+    "format": "message",
+    "title_de": "Wenn es mir besser geht",
+    "title_en": "If I Feel Better",
+    "topic": "making a conditional recovery plan",
+    "communicative_goal": "Explain what will happen if recovery continues.",
+    "grammar_focus": "wenn clauses for real future conditions",
+    "supporting_structures": [
+      "Wenn es mir besser geht",
+      "wenn ich genug Kraft habe",
+      "Sonst erhole ich mich nicht"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "sich erholen",
+      "wieder anfangen"
+    ],
+    "recycled_targets": [
+      "wenn",
+      "fit",
+      "die Pause",
+      "genug",
+      "sonst",
+      "besser"
+    ],
+    "recycles_from": [
+      25,
+      26,
+      27,
+      28
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Wenn es mir morgen besser geht, mache ich einen kurzen Spaziergang.",
+        "en": "If I feel better tomorrow, I will take a short walk.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Wenn": [
+              "conjunction",
+              "subordinating"
+            ],
+            "mir": [
+              "personal pronoun",
+              "dative"
+            ],
+            "besser": [
+              "comparative"
+            ],
+            "kurzen": [
+              "adjective",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "kurzen": "kurz"
+          },
+          "word_meanings": {"Spaziergang": "walk"},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {"german": "Wenn es mir morgen besser geht", "english": "if I feel better tomorrow", "literal_meaning": null, "tags": ["subordinate clause", "verb-final"]},
+            {"german": "mache ich einen kurzen Spaziergang", "english": "I will take a short walk", "literal_meaning": null, "tags": ["main clause", "inversion", "accusative"]}
+          ]
+        }
+      },
+      {
+        "de": "Wenn ich genug Kraft habe, fange ich am Montag wieder mit der Arbeit an.",
+        "en": "If I have enough strength, I will start work again on Monday.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Wenn": [
+              "conjunction",
+              "subordinating"
+            ],
+            "genug": [
+              "determiner"
+            ],
+            "an": [
+              "particle"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "fange": "wieder anfangen"
+          },
+          "word_meanings": {"Kraft": "strength"},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {"german": "Wenn ich genug Kraft habe", "english": "if I have enough strength", "literal_meaning": null, "tags": ["subordinate clause", "verb-final"]},
+            {"german": "fange ich am Montag wieder mit der Arbeit an", "english": "I will start work again on Monday", "literal_meaning": null, "tags": ["main clause", "inversion", "separable", "dative"]}
+          ]
+        }
+      },
+      {
+        "de": "Sport mache ich erst, wenn ich mich ganz fit fühle.",
+        "en": "I will only exercise when I feel completely fit.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "wenn": [
+              "conjunction",
+              "subordinating"
+            ],
+            "mich": [
+              "reflexive pronoun",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "fühle": "sich fühlen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "wenn ich mich ganz fit fühle",
+              "english": "when I feel completely fit",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "reflexive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Sonst erhole ich mich nicht richtig und werde wieder krank.",
+        "en": "Otherwise I will not recover properly and will become ill again.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sonst": [
+              "connector"
+            ],
+            "mich": [
+              "reflexive pronoun",
+              "accusative"
+            ],
+            "nicht": [
+              "particle",
+              "negation"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "erhole": "sich erholen"
+          },
+          "word_meanings": {"richtig": "properly"},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [{"german": "Sonst erhole ich mich nicht richtig", "english": "otherwise I will not recover properly", "literal_meaning": null, "tags": ["inversion", "reflexive", "negation"]}]
+        }
+      },
+      {
+        "de": "Nach jeder Aktivität mache ich eine Pause und trinke Wasser.",
+        "en": "After each activity, I take a break and drink water.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "jeder": [
+              "determiner",
+              "dative"
+            ],
+            "eine": [
+              "article",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "Aktivität": "activity"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Nach jeder Aktivität",
+              "english": "after each activity",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "When will the speaker exercise again?",
+      "answer_en": "When they feel completely fit."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 29"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-030",
+    "source_draft_id": "a2-draft-030",
+    "sequence": 78,
+    "band": "A2.1",
+    "format": "dialogue",
+    "title_de": "Mein Plan zur Erholung",
+    "title_en": "A Recovery Plan",
+    "topic": "agreeing on a recovery plan",
+    "communicative_goal": "Describe symptoms, understand advice, and agree on permitted activity.",
+    "grammar_focus": "consolidation of seit, sollen, dürfen, reflexives, and wenn",
+    "supporting_structures": [
+      "Wie lange schon?",
+      "Das sollten Sie nicht.",
+      "Gute Besserung!"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "Wie lange schon",
+      "Das sollten Sie nicht",
+      "Das dürfen Sie",
+      "Wenn es besser ist",
+      "Gute Besserung"
+    ],
+    "recycled_targets": [
+      "seit",
+      "sollen",
+      "dürfen",
+      "sich ausruhen",
+      "sich fühlen",
+      "wenn"
+    ],
+    "recycles_from": [
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Wie lange haben Sie den Husten schon? Seit vier Tagen.",
+        "en": "How long have you had the cough? For four days.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "vier": [
+              "numeral"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Wie lange ... schon",
+              "english": "how long already",
+              "literal_meaning": null,
+              "tags": [
+                "time",
+                "formal"
+              ]
+            },
+            {
+              "german": "Seit vier Tagen",
+              "english": "for four days",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Sie sollten sich ausruhen und genug Wasser trinken.",
+        "en": "You should rest and drink enough water.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "sollten": [
+              "modal verb",
+              "subjunctive"
+            ],
+            "sich": [
+              "reflexive pronoun",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "sollten": "sollen",
+            "ausruhen": "sich ausruhen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Sie sollten sich ausruhen",
+              "english": "you should rest",
+              "literal_meaning": null,
+              "tags": [
+                "formal",
+                "subjunctive",
+                "reflexive",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Schwere Kisten heben, das sollten Sie noch nicht.",
+        "en": "You should not lift heavy boxes yet.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Schwere": [
+              "adjective",
+              "accusative"
+            ],
+            "sollten": [
+              "modal verb",
+              "subjunctive"
+            ],
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "nicht": [
+              "particle",
+              "negation"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "Schwere": "schwer",
+            "sollten": "sollen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Schwere Kisten heben",
+              "english": "lift heavy boxes",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "das sollten Sie noch nicht",
+              "english": "you should not do that yet",
+              "literal_meaning": null,
+              "tags": [
+                "formal",
+                "subjunctive",
+                "negation"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Einen kurzen Spaziergang dürfen Sie machen, wenn es besser ist.",
+        "en": "You may take a short walk if you feel better.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Einen": [
+              "article",
+              "accusative"
+            ],
+            "kurzen": [
+              "adjective",
+              "accusative"
+            ],
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "wenn": [
+              "conjunction",
+              "subordinating"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "kurzen": "kurz"
+          },
+          "word_meanings": {"Spaziergang": "walk"},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {"german": "Einen kurzen Spaziergang dürfen Sie machen", "english": "you may take a short walk", "literal_meaning": null, "tags": ["inversion", "accusative", "formal", "modal verb", "infinitive"]},
+            {"german": "wenn es besser ist", "english": "if it is better", "literal_meaning": null, "tags": ["subordinate clause", "verb-final"]}
+          ]
+        }
+      },
+      {
+        "de": "Danke für den Rat; dann ruhe ich mich aus. Gute Besserung!",
+        "en": "Thank you for the advice; then I will rest. Get well soon!",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "den": [
+              "article",
+              "accusative"
+            ],
+            "mich": [
+              "reflexive pronoun",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "ruhe": "sich ausruhen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "für den Rat",
+              "english": "for the advice",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "ruhe ich mich aus",
+              "english": "I will rest",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "reflexive",
+                "separable"
+              ]
+            },
+            {
+              "german": "Gute Besserung",
+              "english": "get well soon",
+              "literal_meaning": null,
+              "tags": [
+                "fixed phrase"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What activity may the patient do if they feel better?",
+      "answer_en": "Take a short walk."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 30"
+    ],
+    "speech_alternatives": []
+  }
+]

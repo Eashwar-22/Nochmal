@@ -1,0 +1,815 @@
+{
+  "id": "a2-course-018",
+  "source_draft_id": "a2-draft-018",
+  "sequence": 66,
+  "band": "A2.1",
+  "format": "dialogue",
+  "title_de": "Ein Problem im Haus lösen",
+  "title_en": "Solve a Neighbour Problem",
+  "topic": "resolving noise and a delivery question in a shared building",
+  "communicative_goal": "Combine a polite request, indirect question, apology, and practical help.",
+  "grammar_focus": "consolidation of polite requests, reflexives, ob clauses, and dative recipients",
+  "supporting_structures": [
+    "Darf ich kurz stören?",
+    "Das tut mir leid.",
+    "Ich sehe nach.",
+    "Danke für Ihr Verständnis."
+  ],
+  "grammar_notes": [],
+  "new_targets": [
+    "Darf ich kurz stören",
+    "Das tut mir leid",
+    "Ich sehe nach",
+    "Ich kümmere mich darum",
+    "Danke für Ihr Verständnis"
+  ],
+  "recycled_targets": [
+    "könnten",
+    "sich entschuldigen",
+    "ob",
+    "helfen",
+    "weitergeben"
+  ],
+  "recycles_from": [
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "audio_path": "assets/audio/a2_published/a2-course-018/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Frau Klein fragt: Darf ich kurz stören? Wissen Sie, ob mein Paket kommt?",
+      "en": "Ms Klein asks: May I bother you briefly? Do you know whether my parcel is coming?",
+      "audio_path": "assets/audio/a2_published/a2-course-018/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Frau": [
+            "proper noun"
+          ],
+          "Klein": [
+            "proper noun"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "Sie": [
+            "personal pronoun",
+            "nominative",
+            "subject",
+            "formal"
+          ],
+          "ob": [
+            "conjunction",
+            "subordinating"
+          ],
+          "mein": [
+            "possessive",
+            "determiner",
+            "nominative"
+          ]
+        },
+        "excluded_word_tags": {
+          "Frau": [
+            "noun",
+            "fem."
+          ],
+          "Klein": [
+            "noun",
+            "masc."
+          ]
+        },
+        "base_forms": {
+          "fragt": "fragen",
+          "Frau": "Frau",
+          "Klein": "Klein",
+          "kommt": "kommen"
+        },
+        "word_meanings": {
+          "Frau": "Ms",
+          "Klein": "Klein",
+          "Sie": "you (formal)"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Frau Klein fragt: Darf ich kurz stören? Wissen Sie"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Frau Klein",
+            "english": "Ms Klein",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "Darf ich kurz stören",
+            "english": "may I bother you briefly",
+            "literal_meaning": null,
+            "tags": [
+              "modal verb",
+              "formal"
+            ]
+          },
+          {
+            "german": "mein Paket",
+            "english": "my parcel",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "Wissen Sie, ob mein Paket kommt",
+            "english": "do you know whether my parcel is coming",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "formal"
+            ]
+          },
+          {
+            "german": "ob mein Paket kommt",
+            "english": "whether my parcel is coming",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Herr Braun sagt: Der Lärm stört mich; könnten Sie bitte leiser sein?",
+      "en": "Mr Braun says: The noise bothers me; could you please be quieter?",
+      "audio_path": "assets/audio/a2_published/a2-course-018/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Herr": [
+            "proper noun"
+          ],
+          "Braun": [
+            "proper noun"
+          ],
+          "Der": [
+            "article",
+            "nominative"
+          ],
+          "mich": [
+            "personal pronoun",
+            "accusative"
+          ],
+          "könnten": [
+            "modal verb",
+            "subjunctive"
+          ],
+          "Sie": [
+            "personal pronoun",
+            "nominative",
+            "subject",
+            "formal"
+          ],
+          "bitte": [
+            "particle"
+          ],
+          "leiser": [
+            "adjective",
+            "comparative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "sagt": "sagen",
+          "könnten": "können",
+          "mich": "ich",
+          "leiser": "leise"
+        },
+        "word_meanings": {
+          "Herr": "Mr",
+          "Braun": "Braun",
+          "Sie": "you (formal)",
+          "bitte": "please",
+          "leiser": "quieter"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Herr Braun",
+            "english": "Mr Braun",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "Der Lärm",
+            "english": "the noise",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "stört mich",
+            "english": "bothers me",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "könnten Sie bitte leiser sein",
+            "english": "could you please be quieter",
+            "literal_meaning": null,
+            "tags": [
+              "subjunctive",
+              "modal verb",
+              "formal",
+              "infinitive"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Frau Klein sagt: Das tut mir leid. Ich entschuldige mich bei Ihnen.",
+      "en": "Ms Klein says: I am sorry. I apologize to you.",
+      "audio_path": "assets/audio/a2_published/a2-course-018/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Frau": [
+            "proper noun"
+          ],
+          "Klein": [
+            "proper noun"
+          ],
+          "Das": [
+            "demonstrative pronoun",
+            "nominative",
+            "subject"
+          ],
+          "mir": [
+            "personal pronoun",
+            "dative"
+          ],
+          "leid": [
+            "particle"
+          ],
+          "Ich": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "mich": [
+            "reflexive pronoun",
+            "accusative"
+          ],
+          "bei": [
+            "preposition",
+            "dative"
+          ],
+          "Ihnen": [
+            "personal pronoun",
+            "dative",
+            "formal"
+          ]
+        },
+        "excluded_word_tags": {
+          "Frau": [
+            "noun",
+            "fem."
+          ],
+          "Klein": [
+            "noun",
+            "masc."
+          ]
+        },
+        "base_forms": {
+          "sagt": "sagen",
+          "Frau": "Frau",
+          "Klein": "Klein",
+          "tut": "leidtun",
+          "mir": "ich",
+          "entschuldige": "sich entschuldigen",
+          "mich": "ich",
+          "Ihnen": "Sie"
+        },
+        "word_meanings": {
+          "Frau": "Ms",
+          "Klein": "Klein",
+          "Das": "that",
+          "tut": "causes regret",
+          "leid": "regret (part of leidtun)",
+          "mich": "myself",
+          "bei": "to (when apologizing)",
+          "Ihnen": "you (formal)"
+        },
+        "verb_components": {
+          "tut": [
+            "leid"
+          ]
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Das tut mir leid. Ich entschuldige mich bei Ihnen"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Frau Klein",
+            "english": "Ms Klein",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "Das tut mir leid",
+            "english": "I am sorry",
+            "literal_meaning": "that causes regret to me",
+            "tags": [
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "tut mir leid",
+            "english": "causes regret to me",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "Ich entschuldige mich",
+            "english": "I apologize",
+            "literal_meaning": null,
+            "tags": [
+              "reflexive"
+            ]
+          },
+          {
+            "german": "entschuldige mich",
+            "english": "apologize",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "bei Ihnen",
+            "english": "to you",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "formal"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Der Zusteller fragt: Soll ich Frau Klein das Paket geben?",
+      "en": "The delivery person asks: Should I give Ms Klein the parcel?",
+      "audio_path": "assets/audio/a2_published/a2-course-018/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Der": [
+            "article",
+            "nominative"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "Frau": [
+            "proper noun"
+          ],
+          "Klein": [
+            "proper noun"
+          ],
+          "das": [
+            "article",
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {
+          "Frau": [
+            "noun",
+            "fem."
+          ],
+          "Klein": [
+            "noun",
+            "masc."
+          ]
+        },
+        "base_forms": {
+          "fragt": "fragen",
+          "Frau": "Frau",
+          "Klein": "Klein"
+        },
+        "word_meanings": {
+          "Frau": "Ms",
+          "Klein": "Klein"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Der Zusteller",
+            "english": "the delivery person",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "Frau Klein",
+            "english": "Ms Klein",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "das Paket",
+            "english": "the parcel",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "Soll ich Frau Klein das Paket geben",
+            "english": "should I give Ms Klein the parcel",
+            "literal_meaning": null,
+            "tags": [
+              "modal verb",
+              "infinitive"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Herr Braun antwortet: Ich sehe nach; Frau Klein ist hier. Geben Sie ihr das Paket.",
+      "en": "Mr Braun replies: I will check; Ms Klein is here. Give her the parcel.",
+      "audio_path": "assets/audio/a2_published/a2-course-018/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Herr": [
+            "proper noun"
+          ],
+          "Braun": [
+            "proper noun"
+          ],
+          "Ich": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "Frau": [
+            "proper noun"
+          ],
+          "Klein": [
+            "proper noun"
+          ],
+          "hier": [
+            "adverb",
+            "place"
+          ],
+          "Geben": [
+            "verb",
+            "imperative"
+          ],
+          "Sie": [
+            "personal pronoun",
+            "nominative",
+            "subject",
+            "formal"
+          ],
+          "ihr": [
+            "personal pronoun",
+            "dative"
+          ],
+          "das": [
+            "article",
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {
+          "Frau": [
+            "noun",
+            "fem."
+          ],
+          "Klein": [
+            "noun",
+            "masc."
+          ]
+        },
+        "base_forms": {
+          "antwortet": "antworten",
+          "sehe": "nachsehen",
+          "Frau": "Frau",
+          "Klein": "Klein",
+          "Geben": "geben",
+          "ihr": "sie"
+        },
+        "word_meanings": {
+          "Herr": "Mr",
+          "Braun": "Braun",
+          "Frau": "Ms",
+          "Klein": "Klein",
+          "Sie": "you (formal)",
+          "ihr": "her"
+        },
+        "verb_components": {
+          "sehe": [
+            "nach"
+          ]
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "nach Frau",
+          "Frau Klein ist hier. Geben Sie ihr das Paket"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Herr Braun",
+            "english": "Mr Braun",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "Ich sehe nach",
+            "english": "I will check",
+            "literal_meaning": null,
+            "tags": [
+              "separable"
+            ]
+          },
+          {
+            "german": "Frau Klein",
+            "english": "Ms Klein",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "Geben Sie ihr das Paket",
+            "english": "give her the parcel",
+            "literal_meaning": null,
+            "tags": [
+              "imperative",
+              "formal"
+            ]
+          },
+          {
+            "german": "Geben Sie ihr",
+            "english": "give to her",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "das Paket",
+            "english": "the parcel",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Frau Klein sagt: Danke für Ihr Verständnis; ich kümmere mich darum, bitte die Kinder um Ruhe und helfe Ihnen mit dem Paket.",
+      "en": "Ms Klein says: Thank you for your understanding; I will take care of it, ask the children to be quiet, and help you with the parcel.",
+      "audio_path": "assets/audio/a2_published/a2-course-018/sentence-06.wav",
+      "annotations": {
+        "word_tags": {
+          "Frau": [
+            "proper noun"
+          ],
+          "Klein": [
+            "proper noun"
+          ],
+          "Danke": [
+            "interjection"
+          ],
+          "für": [
+            "preposition",
+            "accusative"
+          ],
+          "Ihr": [
+            "possessive",
+            "determiner",
+            "accusative",
+            "formal"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "mich": [
+            "reflexive pronoun",
+            "accusative"
+          ],
+          "darum": [
+            "adverb"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "Kinder": [
+            "plural"
+          ],
+          "um": [
+            "preposition",
+            "accusative"
+          ],
+          "Ihnen": [
+            "personal pronoun",
+            "dative",
+            "formal"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "dem": [
+            "article",
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {
+          "Frau": [
+            "noun",
+            "fem."
+          ],
+          "Klein": [
+            "noun",
+            "masc."
+          ],
+          "Ihr": [
+            "personal pronoun"
+          ]
+        },
+        "base_forms": {
+          "sagt": "sagen",
+          "Frau": "Frau",
+          "Klein": "Klein",
+          "kümmere": "sich kümmern",
+          "mich": "ich",
+          "bitte": "bitten",
+          "Ihnen": "Sie"
+        },
+        "word_meanings": {
+          "Frau": "Ms",
+          "Klein": "Klein",
+          "Ihr": "your (formal)",
+          "mich": "myself",
+          "darum": "about it",
+          "bitte": "ask",
+          "Kinder": "children",
+          "um": "for",
+          "Ihnen": "you (formal)",
+          "mit": "with"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "um Ruhe",
+          "Frau Klein sagt: Danke für Ihr Verständnis; ich kümmere mich darum, bitte die Kinder um Ruhe"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Frau Klein",
+            "english": "Ms Klein",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "für Ihr Verständnis",
+            "english": "for your understanding",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "formal"
+            ]
+          },
+          {
+            "german": "Danke für Ihr Verständnis",
+            "english": "thank you for your understanding",
+            "literal_meaning": null,
+            "tags": [
+              "fixed phrase",
+              "formal"
+            ]
+          },
+          {
+            "german": "ich kümmere mich",
+            "english": "I take care",
+            "literal_meaning": null,
+            "tags": [
+              "reflexive"
+            ]
+          },
+          {
+            "german": "kümmere mich",
+            "english": "take care",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "ich kümmere mich darum",
+            "english": "I will take care of it",
+            "literal_meaning": null,
+            "tags": [
+              "reflexive",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "die Kinder",
+            "english": "the children",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "bitte die Kinder um Ruhe",
+            "english": "ask the children to be quiet",
+            "literal_meaning": "ask the children for quiet",
+            "tags": [
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "helfe Ihnen",
+            "english": "help you",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "formal"
+            ]
+          },
+          {
+            "german": "mit dem Paket",
+            "english": "with the parcel",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "What two issues do the three people resolve?",
+    "answer_en": "Noise in the building and Ms Klein's parcel delivery."
+  },
+  "source_basis": [
+    "curriculum/a2_blueprint.md",
+    "A2 Lesson 18"
+  ],
+  "speech_alternatives": [],
+  "performance_activity": {
+    "kind": "speaking",
+    "instruction": "Role-play Frau Klein, Herr Braun, and the delivery person for two minutes: make a polite request, apologize, ask an indirect ob question, and offer help.",
+    "prompts": [
+      "Frau Klein: ask politely whether the parcel is coming",
+      "Herr Braun: mention the noise and ask for quiet",
+      "Frau Klein: apologize and offer help with the parcel",
+      "Zusteller: ask whom to give the parcel to"
+    ]
+  }
+}

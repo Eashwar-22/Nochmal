@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-038",
+  "source_sha256": "69e98c638f3924d49aa1050da518d1bd4b4d2a869cba8afee48a0ee59103edd2",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token coverage",
+        "nicht placement",
+        "comparative classification",
+        "article and adjective references"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "clarification request",
+        "explicit repeated-question reference",
+        "classroom continuity",
+        "difficulty contrast"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "repair-language translation",
+        "final-question meaning",
+        "word-level scaffolding",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

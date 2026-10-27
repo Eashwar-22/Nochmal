@@ -1,0 +1,670 @@
+{
+  "id": "a2-course-023",
+  "source_draft_id": "a2-draft-023",
+  "sequence": 71,
+  "band": "A2.1",
+  "format": "message",
+  "title_de": "Ich würde mich gern vorstellen",
+  "title_en": "I Would Like to Introduce Myself",
+  "topic": "writing a polite email to arrange an interview",
+  "communicative_goal": "State interest, offer two available times, and request confirmation in a formal email.",
+  "grammar_focus": "polite conditional ich würde gern plus infinitive",
+  "supporting_structures": [
+    "Sehr geehrte Frau",
+    "ich würde mich gern vorstellen",
+    "zur Verfügung stehen",
+    "Mit freundlichen Grüßen"
+  ],
+  "grammar_notes": [],
+  "new_targets": [
+    "ich würde gern",
+    "erreichbar",
+    "die Rückmeldung",
+    "das Gespräch",
+    "zur Verfügung stehen",
+    "Sehr geehrte",
+    "Mit freundlichen Grüßen"
+  ],
+  "recycled_targets": [
+    "die Stelle",
+    "der Lebenslauf",
+    "sich bewerben",
+    "könnten",
+    "der Termin"
+  ],
+  "recycles_from": [
+    13,
+    19,
+    20
+  ],
+  "audio_path": "assets/audio/a2_published/a2-course-023/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Sehr geehrte Frau Koch, ich würde mich vor dem Gespräch gern persönlich vorstellen.",
+      "en": "Dear Ms Koch, I would like to introduce myself in person before the interview.",
+      "audio_path": "assets/audio/a2_published/a2-course-023/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Sehr": [
+            "adverb"
+          ],
+          "geehrte": [
+            "adjective",
+            "nominative"
+          ],
+          "Frau": [
+            "noun",
+            "fem."
+          ],
+          "Koch": [
+            "proper noun"
+          ],
+          "mich": [
+            "reflexive pronoun",
+            "accusative"
+          ],
+          "vor": [
+            "preposition",
+            "dative"
+          ],
+          "dem": [
+            "article",
+            "dative"
+          ],
+          "gern": [
+            "adverb"
+          ],
+          "persönlich": [
+            "adverb"
+          ]
+        },
+        "excluded_word_tags": {
+          "Koch": [
+            "noun",
+            "masc."
+          ]
+        },
+        "base_forms": {
+          "geehrte": "geehrt",
+          "würde": "werden",
+          "vorstellen": "sich vorstellen",
+          "mich": "ich"
+        },
+        "word_meanings": {
+          "Frau": "Ms",
+          "Koch": "Koch",
+          "vor": "before",
+          "Gespräch": "interview",
+          "gern": "gladly",
+          "persönlich": "in person"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {
+          "Sehr geehrte Frau Koch": [
+            "main clause"
+          ]
+        },
+        "phrases": [
+          {
+            "german": "Sehr geehrte Frau Koch",
+            "english": "Dear Ms Koch",
+            "literal_meaning": null,
+            "tags": [
+              "formal",
+              "fixed phrase",
+              "nominative"
+            ]
+          },
+          {
+            "german": "ich würde mich vor dem Gespräch gern persönlich vorstellen",
+            "english": "I would like to introduce myself in person before the interview",
+            "literal_meaning": null,
+            "tags": [
+              "subjunctive",
+              "reflexive",
+              "infinitive"
+            ]
+          },
+          {
+            "german": "mich ... vorstellen",
+            "english": "introduce myself",
+            "literal_meaning": null,
+            "tags": [
+              "reflexive",
+              "infinitive",
+              "accusative"
+            ]
+          },
+          {
+            "german": "vor dem Gespräch",
+            "english": "before the interview",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Ich habe mich um die Stelle beworben und Ihnen meinen Lebenslauf gestern per E-Mail geschickt.",
+      "en": "I applied for the position and sent you my CV by email yesterday.",
+      "audio_path": "assets/audio/a2_published/a2-course-023/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "mich": [
+            "reflexive pronoun",
+            "accusative"
+          ],
+          "um": [
+            "preposition",
+            "accusative"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "Ihnen": [
+            "personal pronoun",
+            "dative",
+            "formal"
+          ],
+          "meinen": [
+            "possessive",
+            "determiner",
+            "accusative"
+          ],
+          "gestern": [
+            "adverb",
+            "time"
+          ],
+          "per": [
+            "preposition",
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "mich": "ich",
+          "beworben": "sich bewerben",
+          "Ihnen": "Sie",
+          "geschickt": "schicken"
+        },
+        "word_meanings": {
+          "Ihnen": "you (formal)",
+          "um": "for",
+          "Stelle": "position",
+          "Lebenslauf": "CV",
+          "per": "by"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "um die Stelle",
+            "english": "for the position",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "mich um die Stelle beworben",
+            "english": "applied for the position",
+            "literal_meaning": null,
+            "tags": [
+              "reflexive",
+              "accusative",
+              "perfect"
+            ]
+          },
+          {
+            "german": "habe mich um die Stelle beworben",
+            "english": "applied for the position",
+            "literal_meaning": null,
+            "tags": [
+              "perfect",
+              "reflexive"
+            ]
+          },
+          {
+            "german": "Ihnen ... geschickt",
+            "english": "sent to you",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "formal"
+            ]
+          },
+          {
+            "german": "meinen Lebenslauf",
+            "english": "my CV",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Am Dienstag um zehn Uhr oder am Mittwoch um vierzehn Uhr würde ich für ein Gespräch zur Verfügung stehen.",
+      "en": "I would be available for an interview on Tuesday at ten or Wednesday at 2 p.m.",
+      "audio_path": "assets/audio/a2_published/a2-course-023/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "zehn": [
+            "numeral"
+          ],
+          "vierzehn": [
+            "numeral"
+          ],
+          "um": [
+            "preposition"
+          ],
+          "für": [
+            "preposition",
+            "accusative"
+          ],
+          "ein": [
+            "article",
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "würde": "werden",
+          "stehen": "stehen"
+        },
+        "word_meanings": {
+          "um": "at",
+          "Gespräch": "interview",
+          "Verfügung": "availability",
+          "stehen": "be available"
+        },
+        "verb_meanings": {
+          "stehen": "to be available"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Am Dienstag um zehn Uhr oder am Mittwoch um vierzehn Uhr würde ich … stehen",
+          "zur Verfügung"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am Dienstag",
+            "english": "on Tuesday",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "Am Dienstag um zehn Uhr",
+            "english": "on Tuesday at ten",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "am Mittwoch",
+            "english": "on Wednesday",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "am Mittwoch um vierzehn Uhr",
+            "english": "on Wednesday at 2 p.m.",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "für ein Gespräch",
+            "english": "for an interview",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "zur Verfügung stehen",
+            "english": "be available",
+            "literal_meaning": null,
+            "tags": [
+              "fixed phrase",
+              "dative",
+              "infinitive"
+            ]
+          },
+          {
+            "german": "Am Dienstag um zehn Uhr oder am Mittwoch um vierzehn Uhr würde ich für ein Gespräch zur Verfügung stehen",
+            "english": "I would be available for an interview on Tuesday at ten or Wednesday at 2 p.m.",
+            "literal_meaning": null,
+            "tags": [
+              "inversion",
+              "subjunctive"
+            ]
+          },
+          {
+            "german": "würde ich für ein Gespräch zur Verfügung stehen",
+            "english": "I would be available for an interview",
+            "literal_meaning": null,
+            "tags": [
+              "subjunctive",
+              "infinitive",
+              "fixed phrase"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Ich bin an diesen Tagen jederzeit unter meiner Telefonnummer erreichbar.",
+      "en": "I am reachable at my telephone number at any time on those days.",
+      "audio_path": "assets/audio/a2_published/a2-course-023/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Ich": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "an": [
+            "preposition",
+            "dative"
+          ],
+          "diesen": [
+            "determiner",
+            "dative",
+            "plural"
+          ],
+          "Tagen": [
+            "plural"
+          ],
+          "jederzeit": [
+            "adverb",
+            "time"
+          ],
+          "unter": [
+            "preposition",
+            "dative"
+          ],
+          "meiner": [
+            "possessive",
+            "determiner",
+            "dative"
+          ],
+          "erreichbar": [
+            "adjective"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "diesen": "dieser"
+        },
+        "word_meanings": {
+          "bin": "am",
+          "an": "on",
+          "diesen": "these",
+          "unter": "at",
+          "erreichbar": "reachable"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "an diesen Tagen",
+            "english": "on those days",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "unter meiner Telefonnummer",
+            "english": "at my telephone number",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "unter meiner Telefonnummer erreichbar",
+            "english": "reachable at my telephone number",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Könnten Sie mir bitte einen Termin bestätigen? Über eine kurze Rückmeldung würde ich mich sehr freuen.",
+      "en": "Could you please confirm a time for me? I would be very pleased to receive a brief reply.",
+      "audio_path": "assets/audio/a2_published/a2-course-023/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Könnten": [
+            "modal verb",
+            "subjunctive"
+          ],
+          "Sie": [
+            "personal pronoun",
+            "nominative",
+            "subject",
+            "formal"
+          ],
+          "mir": [
+            "personal pronoun",
+            "dative"
+          ],
+          "bitte": [
+            "particle"
+          ],
+          "einen": [
+            "article",
+            "accusative"
+          ],
+          "Über": [
+            "preposition",
+            "accusative"
+          ],
+          "eine": [
+            "article",
+            "accusative"
+          ],
+          "kurze": [
+            "adjective",
+            "accusative"
+          ],
+          "mich": [
+            "reflexive pronoun",
+            "accusative"
+          ],
+          "sehr": [
+            "adverb"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "Könnten": "können",
+          "mir": "ich",
+          "bestätigen": "bestätigen",
+          "kurze": "kurz",
+          "würde": "werden",
+          "mich": "ich",
+          "freuen": "sich freuen"
+        },
+        "word_meanings": {
+          "Sie": "you (formal)",
+          "bitte": "please",
+          "Über": "about",
+          "Rückmeldung": "reply"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Könnten Sie mir bitte einen Termin bestätigen",
+            "english": "could you please confirm a time for me",
+            "literal_meaning": null,
+            "tags": [
+              "subjunctive",
+              "modal verb",
+              "infinitive",
+              "formal"
+            ]
+          },
+          {
+            "german": "mir ... bestätigen",
+            "english": "confirm for me",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "einen Termin",
+            "english": "a time",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "Über eine kurze Rückmeldung",
+            "english": "about a brief reply",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "würde ich mich sehr freuen",
+            "english": "I would be very pleased",
+            "literal_meaning": null,
+            "tags": [
+              "subjunctive",
+              "reflexive"
+            ]
+          },
+          {
+            "german": "mich ... freuen",
+            "english": "be pleased",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "reflexive",
+              "infinitive"
+            ]
+          },
+          {
+            "german": "Über eine kurze Rückmeldung würde ich mich sehr freuen",
+            "english": "I would be very pleased to receive a brief reply",
+            "literal_meaning": null,
+            "tags": [
+              "inversion",
+              "subjunctive"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mit freundlichen Grüßen\nMina Roth",
+      "en": "Kind regards,\nMina Roth",
+      "audio_path": "assets/audio/a2_published/a2-course-023/sentence-06.wav",
+      "annotations": {
+        "word_tags": {
+          "Mit": [
+            "preposition",
+            "dative"
+          ],
+          "freundlichen": [
+            "adjective",
+            "dative",
+            "plural"
+          ],
+          "Grüßen": [
+            "noun",
+            "masc.",
+            "plural"
+          ],
+          "Mina": [
+            "proper noun"
+          ],
+          "Roth": [
+            "proper noun"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "freundlichen": "freundlich",
+          "Grüßen": "der Gruß"
+        },
+        "word_meanings": {
+          "Grüßen": "greetings",
+          "Mina": "Mina",
+          "Roth": "Roth"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Mit freundlichen Grüßen",
+            "english": "Kind regards",
+            "literal_meaning": "with friendly greetings",
+            "tags": [
+              "fixed phrase",
+              "dative"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Which two interview times does Mina suggest?",
+    "answer_en": "Tuesday at ten and Wednesday at 2 p.m."
+  },
+  "source_basis": [
+    "curriculum/a2_blueprint.md",
+    "A2 Lesson 23"
+  ],
+  "speech_alternatives": [],
+  "performance_activity": {
+    "kind": "writing",
+    "instruction": "Draft a 50–60 word formal email: state interest, offer Tuesday at ten and Wednesday at 2 p.m., and ask for confirmation.",
+    "prompts": [
+      "Formal greeting to Frau Koch",
+      "Polite interest using ich würde gern",
+      "Two possible times",
+      "Request for confirmation",
+      "Formal closing"
+    ]
+  }
+}

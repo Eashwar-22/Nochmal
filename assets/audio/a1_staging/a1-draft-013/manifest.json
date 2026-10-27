@@ -1,0 +1,31 @@
+{
+  "draft_id": "a1-draft-013",
+  "status": "draft_unpublished",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav"
+  ],
+  "sentence_texts": [
+    "Mina geht am Morgen in die B\u00e4ckerei und begr\u00fc\u00dft die Verk\u00e4uferin.",
+    "Sie sagt: \u201eIch m\u00f6chte zwei Br\u00f6tchen und ein Brot, bitte.\u201c",
+    "Die Verk\u00e4uferin fragt: \u201eM\u00f6chten Sie auch K\u00e4se oder Butter?\u201c",
+    "Mina nimmt nur den K\u00e4se, bezahlt und sagt freundlich Danke."
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "317e5f8194d2b970fa6b580b8498389068d11a971c91a08931e41c65372128bb",
+    "sentence-02.wav": "5cb055041985fa5ec636393903eed1b9a735c9056c9fc06ec8f7a3fbd39d6d32",
+    "sentence-03.wav": "c75f10af39a71c1f03dd775f9e8cebf69446205a18d0fff8004b4f1b888284c0",
+    "sentence-04.wav": "5d71cb7b9a18dd0b80cf32abe033a7a60f6d641e1d42eed23ff64a2efd258c88"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "81f1b3b157964c1bfc6e6fdd53a86c8f59ff6086d5e06e33fea09f840bc86252",
+  "paragraph_assembled_from_sentence_files": true
+}

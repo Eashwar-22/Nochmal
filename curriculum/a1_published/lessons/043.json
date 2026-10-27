@@ -1,0 +1,602 @@
+{
+  "id": "a1-course-043",
+  "source_draft_id": "a1-draft-043",
+  "sequence": 43,
+  "band": "A1.2",
+  "format": "narrative",
+  "title_de": "Gestern",
+  "title_en": "Yesterday",
+  "topic": "a short account of familiar completed activities",
+  "communicative_goal": "Understand and give a rehearsed account of familiar completed activities.",
+  "grammar_focus": "Perfekt with high-frequency haben and sein auxiliaries",
+  "supporting_structures": [
+    "früh aufgestanden",
+    "in die Stadt gefahren",
+    "zu Hause geblieben"
+  ],
+  "grammar_notes": [
+    "The perfect tense brackets the sentence with the auxiliary near the start and the participle at the end."
+  ],
+  "new_targets": [
+    "gestern",
+    "einkaufen",
+    "machen",
+    "telefonieren",
+    "lernen",
+    "bleiben",
+    "nach Hause"
+  ],
+  "recycled_targets": [
+    "der Bus",
+    "die Stadt",
+    "der Supermarkt",
+    "die Schwester",
+    "das Abendessen"
+  ],
+  "recycles_from": [
+    5,
+    9,
+    13,
+    25,
+    30
+  ],
+  "audio_path": "assets/audio/a1_published/a1-course-043/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Gestern ist Mina früh aufgestanden und mit dem Bus in die Stadt gefahren.",
+      "en": "Yesterday Mina got up early and took the bus into the city.",
+      "audio_path": "assets/audio/a1_published/a1-course-043/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Gestern": [
+            "adverb",
+            "time"
+          ],
+          "ist": [
+            "auxiliary",
+            "present"
+          ],
+          "Mina": [
+            "nominative"
+          ],
+          "früh": [
+            "adverb",
+            "time"
+          ],
+          "aufgestanden": [
+            "verb",
+            "past participle",
+            "perfect"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "dem": [
+            "article",
+            "dative"
+          ],
+          "Bus": [
+            "dative"
+          ],
+          "in": [
+            "preposition",
+            "accusative",
+            "direction"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "Stadt": [
+            "accusative"
+          ],
+          "gefahren": [
+            "verb",
+            "past participle",
+            "perfect"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "ist": "sein",
+          "aufgestanden": "aufstehen",
+          "gefahren": "fahren"
+        },
+        "word_meanings": {
+          "ist": "perfect auxiliary",
+          "gefahren": "travelled / went by bus"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Gestern ist Mina früh aufgestanden",
+            "english": "Yesterday Mina got up early",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "perfect"
+            ]
+          },
+          {
+            "german": "mit dem Bus",
+            "english": "by bus",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "in die Stadt",
+            "english": "into the city",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction"
+            ]
+          },
+          {
+            "german": "mit dem Bus in die Stadt gefahren",
+            "english": "took the bus into the city",
+            "literal_meaning": null,
+            "tags": [
+              "perfect",
+              "direction"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Dort hat sie im Supermarkt für das Wochenende eingekauft und ihre Schwester besucht.",
+      "en": "There she shopped at the supermarket for the weekend and visited her sister.",
+      "audio_path": "assets/audio/a1_published/a1-course-043/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Dort": [
+            "adverb",
+            "place"
+          ],
+          "hat": [
+            "auxiliary",
+            "present"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "im": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Supermarkt": [
+            "dative"
+          ],
+          "für": [
+            "preposition",
+            "accusative"
+          ],
+          "das": [
+            "article",
+            "accusative"
+          ],
+          "Wochenende": [
+            "accusative",
+            "time"
+          ],
+          "eingekauft": [
+            "verb",
+            "past participle",
+            "perfect",
+            "separable"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "ihre": [
+            "possessive",
+            "determiner",
+            "accusative"
+          ],
+          "Schwester": [
+            "accusative"
+          ],
+          "besucht": [
+            "verb",
+            "past participle",
+            "perfect"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "hat": "haben",
+          "eingekauft": "einkaufen",
+          "besucht": "besuchen"
+        },
+        "word_meanings": {
+          "hat": "perfect auxiliary",
+          "ihre": "her"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "im Supermarkt",
+            "english": "at the supermarket",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          },
+          {
+            "german": "für das Wochenende",
+            "english": "for the weekend",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "time"
+            ]
+          },
+          {
+            "german": "hat sie im Supermarkt für das Wochenende eingekauft",
+            "english": "she shopped at the supermarket for the weekend",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "perfect",
+              "separable"
+            ]
+          },
+          {
+            "german": "ihre Schwester",
+            "english": "her sister",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Am Nachmittag hat sie zu Hause Deutsch gelernt und das Abendessen gemacht.",
+      "en": "In the afternoon, she studied German at home and made dinner.",
+      "audio_path": "assets/audio/a1_published/a1-course-043/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Nachmittag": [
+            "dative",
+            "time"
+          ],
+          "hat": [
+            "auxiliary",
+            "present"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "zu": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Hause": [
+            "dative",
+            "place"
+          ],
+          "Deutsch": [
+            "accusative"
+          ],
+          "gelernt": [
+            "verb",
+            "past participle",
+            "perfect"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "das": [
+            "article",
+            "accusative"
+          ],
+          "Abendessen": [
+            "accusative"
+          ],
+          "gemacht": [
+            "verb",
+            "past participle",
+            "perfect"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "hat": "haben",
+          "gelernt": "lernen",
+          "gemacht": "machen"
+        },
+        "word_meanings": {
+          "hat": "perfect auxiliary",
+          "gemacht": "made"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am Nachmittag",
+            "english": "in the afternoon",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "zu Hause",
+            "english": "at home",
+            "literal_meaning": null,
+            "tags": [
+              "fixed phrase",
+              "place"
+            ]
+          },
+          {
+            "german": "hat sie zu Hause Deutsch gelernt",
+            "english": "she studied German at home",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "perfect"
+            ]
+          },
+          {
+            "german": "das Abendessen gemacht",
+            "english": "made dinner",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "perfect"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Danach hat sie lange mit Leo über den Kurs telefoniert.",
+      "en": "Afterwards she spoke with Leo about the course on the phone for a long time.",
+      "audio_path": "assets/audio/a1_published/a1-course-043/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Danach": [
+            "adverb",
+            "time",
+            "connector"
+          ],
+          "hat": [
+            "auxiliary",
+            "present"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "lange": [
+            "adverb",
+            "time"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "Leo": [
+            "dative"
+          ],
+          "über": [
+            "preposition",
+            "accusative"
+          ],
+          "den": [
+            "article",
+            "accusative"
+          ],
+          "Kurs": [
+            "accusative"
+          ],
+          "telefoniert": [
+            "verb",
+            "past participle",
+            "perfect"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "hat": "haben",
+          "telefoniert": "telefonieren"
+        },
+        "word_meanings": {
+          "hat": "perfect auxiliary",
+          "telefoniert": "spoke on the phone"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Danach hat sie lange mit Leo über den Kurs telefoniert",
+            "english": "Afterwards she spoke with Leo about the course on the phone for a long time",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "perfect"
+            ]
+          },
+          {
+            "german": "mit Leo",
+            "english": "with Leo",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "über den Kurs",
+            "english": "about the course",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Am Abend ist Mina müde zu Hause geblieben und hat einen Film gesehen.",
+      "en": "In the evening, Mina was tired, so she stayed at home and watched a film.",
+      "audio_path": "assets/audio/a1_published/a1-course-043/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Abend": [
+            "dative",
+            "time"
+          ],
+          "ist": [
+            "auxiliary",
+            "present"
+          ],
+          "Mina": [
+            "nominative"
+          ],
+          "müde": [
+            "adjective"
+          ],
+          "zu": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Hause": [
+            "dative",
+            "place"
+          ],
+          "geblieben": [
+            "verb",
+            "past participle",
+            "perfect"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "hat": [
+            "auxiliary",
+            "present"
+          ],
+          "einen": [
+            "determiner",
+            "accusative"
+          ],
+          "Film": [
+            "accusative"
+          ],
+          "gesehen": [
+            "verb",
+            "past participle",
+            "perfect"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "ist": "sein",
+          "geblieben": "bleiben",
+          "hat": "haben",
+          "gesehen": "sehen"
+        },
+        "word_meanings": {
+          "ist": "perfect auxiliary",
+          "hat": "perfect auxiliary",
+          "gesehen": "watched"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am Abend",
+            "english": "in the evening",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "zu Hause",
+            "english": "at home",
+            "literal_meaning": null,
+            "tags": [
+              "fixed phrase",
+              "place"
+            ]
+          },
+          {
+            "german": "Am Abend ist Mina müde zu Hause geblieben",
+            "english": "In the evening Mina stayed at home because she was tired",
+            "literal_meaning": "In the evening Mina stayed at home tired",
+            "tags": [
+              "main clause",
+              "perfect"
+            ]
+          },
+          {
+            "german": "hat einen Film gesehen",
+            "english": "watched a film",
+            "literal_meaning": null,
+            "tags": [
+              "perfect",
+              "accusative"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "What did Mina do in the afternoon?",
+    "answer_en": "She studied German at home and made dinner."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_08.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

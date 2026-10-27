@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-019",
+  "source_sha256": "d0122e0405deec5143f92ec90cb84045533d69e416d23743dc3df2c3bd1df61c",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete source-token coverage",
+        "es gibt accusative phrases",
+        "dative and genitive form-change cards",
+        "verb-second clause cards"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "home-description cohesion",
+        "room and building vocabulary",
+        "possessive constructions",
+        "singular and plural agreement"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "natural home-description translations",
+        "contextual word meanings",
+        "progression from location to inventory",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

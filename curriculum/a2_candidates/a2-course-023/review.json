@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a2-course-023",
+  "source_sha256": "2298cb28ae26b5073a81df10ab4e51db48c8db138021ba272e426c532119a564",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "Read both mandatory documents in full and the exact Lesson 23 blueprint entry; independently inspected source, compiled artifact and preview without using review.json.",
+        "All 78 source tokens have exactly one word-card owner across 73 word cards. Inspected all 30 phrase cards, including discontinuous constructions and repeated forms.",
+        "Pydantic validation, source hash, deterministic compilation and lesson-library validation pass. The preview exactly matches its generator output.",
+        "All 12 verb references contain complete six-row bilingual present tables and matching contextual-form references, including complete conditional and perfect tables where applicable.",
+        "All 23 inflection references select complete four-case paradigms with correct current cells. Articles, possessives, demonstratives, contractions, declined adjectives and changed pronouns are covered.",
+        "Checked source-based card placement, phrase placement after components, repeated Am/am, um and Uhr, and distinct ich/mich/mir/Ihnen ownership. The noun card spanning eine and R\u00fcckmeldung follows the repository's first-source-position ordering convention.",
+        "All 25 tests passed in test_grammar_rulebook, test_lesson_contract, test_a2_course and test_contextual_verb_references.",
+        "The candidate remains outside curriculum/a2_published/publication.json. Candidate German and English match the authored module record."
+      ],
+      "findings": [
+        {
+          "severity": "warning",
+          "location": "compiled-lesson.json: lesson.audio_status, lesson.audio_path and sentences[1\u20136].audio_path",
+          "rule": "Pre-audio audit boundary; rulebook \u00a7\u00a711\u201312",
+          "message": "Audio is pending and all audio paths are null, as expected. Verify recordings against the exact German before release; this does not block the candidate-content audit."
+        },
+        {
+          "severity": "warning",
+          "location": "Lesson a2-course-023: subsequent release verification",
+          "rule": "Rulebook \u00a7\u00a711\u201313",
+          "message": "Live desktop/mobile inspection, generated-package integrity checks and complete release verification remain later gates. Keep the lesson unpublished until those checks pass."
+        }
+      ]
+    },
+    {
+      "kind": "language",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "Sentence 1: audited Sehr through vorstellen. Formal address, strong nominative feminine geehrte, reflexive accusative mich, temporal vor with dative dem Gespr\u00e4ch, and w\u00fcrde plus final infinitive are correct. The sich vorstellen reference correctly shows separable present forms.",
+        "Sentence 2: audited Ich through geschickt. Sich bewerben um takes accusative; die Stelle is feminine; Ihnen is formal dative; meinen Lebenslauf is masculine accusative. Haben correctly supports both coordinated perfect predicates. Bewerben and schicken references are accurate.",
+        "Sentence 3: audited Am through stehen. Both weekday contractions resolve to an + dem; both temporal um constructions are correct; f\u00fcr ein Gespr\u00e4ch is neuter accusative; zur resolves to zu + der. Conditional verb placement and the idiom zur Verf\u00fcgung stehen are correct.",
+        "Sentence 4: audited Ich through erreichbar. An diesen Tagen correctly uses dative plural, including Tagen; unter meiner Telefonnummer uses dative feminine. Erreichbar is predicative and correctly receives no adjective-declension reference.",
+        "Sentence 5: audited both clauses from K\u00f6nnten through freuen. Formal Sie, beneficiary mir, accusative einen Termin, modal question order, and confirming infinitive are correct. Sich freuen \u00fcber governs accusative; eine kurze R\u00fcckmeldung has the correct mixed adjective paradigm. Fronting and w\u00fcrde\u2013freuen placement are correct.",
+        "Sentence 6: audited Mit through Roth. Mit governs dative; freundlichen has strong dative plural endings; Gr\u00fc\u00dfen correctly links to masculine singular der Gru\u00df. Mina and Roth are correctly treated as names.",
+        "No incorrect German forms, noun genders, case assignments, conjugations or unresolved candidate-content ambiguities found."
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "Checked every sentence translation and every word/phrase gloss against its German context. Formal address, interview vocabulary, reflexive constructions, application history and confirmation requests preserve meaning.",
+        "Sentence 3 accurately maps vierzehn Uhr to 2 p.m.; the comprehension question and answer preserve both proposed times.",
+        "Contextual meanings such as Gespr\u00e4ch \u2192 interview, Frau \u2192 Ms and stehen \u2192 be available fit the passage. The stehen reference retains its reusable dictionary meaning and present conjugation while supplying the contextual infinitive meaning.",
+        "The closing includes the useful literal meaning with friendly greetings alongside natural Kind regards.",
+        "Blueprint fit passes: A2.1 formal email, 78 words, six sentence records containing six complete prose sentences plus the closing, one connected professional purpose, all specified new chunks, appropriate recycled language, and the ich w\u00fcrde gern plus infinitive target.",
+        "The typed writing activity explicitly requests a 50\u201360 word formal email stating interest, proposing two times and requesting confirmation."
+      ],
+      "findings": []
+    }
+  ]
+}

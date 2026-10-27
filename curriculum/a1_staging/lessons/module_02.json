@@ -68,7 +68,7 @@
     "status": "draft_unpublished",
     "sentences": [
       {"de": "Leo fragt Mina: „Hast du morgen Zeit für einen Kaffee?“", "en": "Leo asks Mina, “Do you have time for a coffee tomorrow?”"},
-      {"de": "Mina sagt: „Am Montag arbeite ich lange, aber am Dienstag bin ich frei.“", "en": "Mina says, “On Monday I work late, but on Tuesday I am free.”"},
+      {"de": "Mina sagt: „Am Montag arbeite ich lange, aber am Dienstag bin ich frei.“", "en": "Mina says, “On Monday I work long hours, but on Tuesday I am free.”"},
       {"de": "Leo fragt: „Können wir uns am Dienstag um fünf Uhr treffen?“", "en": "Leo asks, “Can we meet on Tuesday at five o’clock?”"},
       {"de": "Mina antwortet kurz: „Ja, das kann ich.“", "en": "Mina answers briefly, “Yes, I can.”"}
     ],
@@ -87,6 +87,6 @@
       {"de": "Am Wochenende ist sie frei, aber Leo arbeitet am Samstag.", "en": "At the weekend, she is free, but Leo works on Saturday."},
       {"de": "Am Sonntag treffen sie sich um drei Uhr in der Stadt.", "en": "On Sunday, they meet in the city at three o’clock."}
     ],
-    "first_listen_check": {"prompt": "Why do Mina and Leo meet on Sunday?", "answer": "Because Leo works on Saturday."}
+    "first_listen_check": {"prompt": "When do Mina and Leo meet?", "answer": "On Sunday at three o’clock."}
   }
 ]

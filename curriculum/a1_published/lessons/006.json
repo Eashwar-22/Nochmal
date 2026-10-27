@@ -1,0 +1,409 @@
+{
+  "id": "a1-course-006",
+  "source_draft_id": "a1-draft-006",
+  "sequence": 6,
+  "band": "A1.1",
+  "format": "dialogue",
+  "title_de": "Checkpunkt: Erstes Gespräch",
+  "title_en": "Checkpoint: First Conversation",
+  "topic": "reviewing greetings, introductions, and communication repair",
+  "communicative_goal": "Greet someone, introduce yourself, ask a simple question, and request slower repetition.",
+  "grammar_focus": "review of verb-second questions, nominative forms, accusative direct objects, and polite ellipsis",
+  "supporting_structures": [
+    "Guten Tag",
+    "Wie geht’s?",
+    "Wie heißt die Freundin dort?",
+    "Wie bitte? Bitte langsamer und noch einmal."
+  ],
+  "grammar_notes": [
+    "Guten Tag contains the weak masculine accusative adjective form guten in a fixed greeting.",
+    "Wie geht’s? contracts geht es; the phrase is an everyday greeting.",
+    "Die Freundin is the feminine nominative subject in the question with heißt.",
+    "Die Frage is a feminine accusative direct object of verstehe; nicht negates the verb phrase."
+  ],
+  "new_targets": [
+    "Guten Tag",
+    "wie geht’s",
+    "die Frage",
+    "verstehen",
+    "nicht"
+  ],
+  "recycled_targets": [
+    "heißen",
+    "kommen",
+    "aus",
+    "Marokko",
+    "die Freundin",
+    "Wie bitte",
+    "noch einmal",
+    "langsam"
+  ],
+  "recycles_from": [
+    1,
+    2,
+    3,
+    5
+  ],
+  "audio_path": "assets/audio/a1_published/a1-course-006/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Guten Tag, ich heiße Sara und komme aus Marokko.",
+      "en": "Good afternoon, my name is Sara and I come from Morocco.",
+      "audio_path": "assets/audio/a1_published/a1-course-006/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "guten": [
+            "adjective",
+            "accusative"
+          ],
+          "tag": [
+            "accusative"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "sara": [
+            "nominative",
+            "subject"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "aus": [
+            "preposition",
+            "dative"
+          ],
+          "marokko": [
+            "dative",
+            "place"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "guten": "gut"
+        },
+        "word_meanings": {
+          "guten": "good",
+          "tag": "day",
+          "heiße": "am called",
+          "komme": "come",
+          "aus": "from"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Guten Tag",
+            "english": "Good afternoon",
+            "literal_meaning": "Good day",
+            "tags": [
+              "fixed phrase",
+              "accusative"
+            ]
+          },
+          {
+            "german": "ich heiße Sara",
+            "english": "my name is Sara",
+            "literal_meaning": "I am called Sara",
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "komme aus Marokko",
+            "english": "come from Morocco",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "aus Marokko",
+            "english": "from Morocco",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Hallo Sara, ich bin Leo; wie geht’s?",
+      "en": "Hello Sara, I’m Leo; how are you?",
+      "audio_path": "assets/audio/a1_published/a1-course-006/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "hallo": [
+            "interjection"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "leo": [
+            "nominative",
+            "predicate"
+          ],
+          "wie": [
+            "adverb"
+          ],
+          "geht’s": [
+            "verb",
+            "present",
+            "colloquial"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "hallo": "hello",
+          "bin": "am",
+          "wie": "how",
+          "geht’s": "goes"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Hallo Sara"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Hallo Sara",
+            "english": "Hello, Sara",
+            "literal_meaning": null,
+            "tags": [
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "ich bin Leo",
+            "english": "I’m Leo",
+            "literal_meaning": "I am Leo",
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "Wie geht’s",
+            "english": "How are you?",
+            "literal_meaning": "How goes it?",
+            "tags": [
+              "fixed phrase",
+              "colloquial"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Gut, danke, aber wie heißt die Freundin dort?",
+      "en": "Fine, thank you, but what is the friend over there called?",
+      "audio_path": "assets/audio/a1_published/a1-course-006/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "gut": [
+            "interjection"
+          ],
+          "danke": [
+            "interjection"
+          ],
+          "aber": [
+            "conjunction",
+            "coordinating"
+          ],
+          "wie": [
+            "adverb"
+          ],
+          "die": [
+            "nominative"
+          ],
+          "freundin": [
+            "nominative",
+            "subject"
+          ],
+          "dort": [
+            "adverb",
+            "place"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "gut": "fine",
+          "danke": "thank you",
+          "aber": "but",
+          "wie": "what",
+          "heißt": "is called",
+          "dort": "over there"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "aber wie heißt die Freundin dort"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Gut, danke",
+            "english": "Fine, thank you",
+            "literal_meaning": null,
+            "tags": [
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "die Freundin",
+            "english": "the friend",
+            "literal_meaning": null,
+            "tags": [
+              "nominative",
+              "subject"
+            ]
+          },
+          {
+            "german": "wie heißt die Freundin dort",
+            "english": "what is the friend over there called?",
+            "literal_meaning": "how is the friend there called?",
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "aber wie heißt die Freundin dort",
+            "english": "but what is the friend over there called?",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Wie bitte? Bitte langsamer und noch einmal; ich verstehe die Frage nicht.",
+      "en": "Pardon? More slowly and once again, please; I do not understand the question.",
+      "audio_path": "assets/audio/a1_published/a1-course-006/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "wie": [
+            "adverb"
+          ],
+          "bitte": [
+            "particle"
+          ],
+          "langsamer": [
+            "adverb",
+            "comparative",
+            "manner"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "noch": [
+            "adverb",
+            "frequency"
+          ],
+          "einmal": [
+            "adverb",
+            "frequency"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "die": [
+            "accusative"
+          ],
+          "frage": [
+            "accusative"
+          ],
+          "nicht": [
+            "negation"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "langsamer": "langsam"
+        },
+        "word_meanings": {
+          "wie": "how",
+          "bitte": "please / pardon",
+          "langsamer": "more slowly",
+          "noch": "again",
+          "einmal": "once",
+          "verstehe": "understand",
+          "frage": "question",
+          "nicht": "not"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Wie bitte",
+            "english": "Pardon?",
+            "literal_meaning": "How, please?",
+            "tags": [
+              "fixed phrase",
+              "ellipsis"
+            ]
+          },
+          {
+            "german": "Bitte langsamer und noch einmal",
+            "english": "More slowly and once again, please",
+            "literal_meaning": null,
+            "tags": [
+              "fixed phrase",
+              "ellipsis"
+            ]
+          },
+          {
+            "german": "die Frage",
+            "english": "the question",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "ich verstehe die Frage nicht",
+            "english": "I do not understand the question",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "negation"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Why does Sara ask Leo to repeat?",
+    "answer_en": "She needs him to speak more slowly."
+  },
+  "source_basis": [
+    "a1-blueprint",
+    "a1-draft-006",
+    "grammar-breakdown-rulebook"
+  ],
+  "speech_alternatives": []
+}

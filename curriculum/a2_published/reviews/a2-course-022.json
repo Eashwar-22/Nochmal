@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a2-course-022",
+  "source_sha256": "f99a28db1255cd07ef188a506025213de6992b09fecc189ec099656067c73c08",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "Read both mandatory documents in full and the exact Lesson 22 blueprint entry; inspected source, compiled artifact, and complete preview independently of review.json.",
+        "All 82 source tokens, including speaker names, have exactly one word-card owner. Inspected all 72 word cards and 23 phrase cards.",
+        "Source hash, deterministic compilation, Pydantic validation, and generated preview consistency pass.",
+        "Rendered card order and phrase placement pass for all five sentences, including article-and-noun grouping around intervening adjectives.",
+        "Repeated forms resolve correctly: sentence 2's two die articles retain feminine-singular and plural references respectively.",
+        "All 16 verbs have complete bilingual present references and appropriate sentence-form references; helfen includes the complete perfect table.",
+        "All 14 inflection references have correct grammatical slots, complete four-case tables, and matching selected cells.",
+        "Candidate remains outside the A2 publication manifest; authored German and English match the candidate.",
+        "All 26 selected repository tests passed."
+      ],
+      "findings": [
+        {
+          "severity": "warning",
+          "location": "compiled-lesson.json: lesson.audio_status, lesson.audio_path, and sentences[1–5].audio_path",
+          "rule": "Pre-audio audit boundary; rulebook §§11–12",
+          "message": "Audio is pending and paths are null, as expected. After generation, verify paragraph and sentence recordings against the exact German before release."
+        },
+        {
+          "severity": "warning",
+          "location": "Lesson-wide release verification",
+          "rule": "Rulebook §§11–13; lesson-format accessibility and required tests",
+          "message": "Live desktop/mobile interaction, package integrity, and the complete release test suite remain later gates. This audit checked repository rendering logic and selected tests; complete the remaining release checks before publication."
+        }
+      ]
+    },
+    {
+      "kind": "language",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "Sentence 1: checked every token; dass clause ends in ist, fronted gestern precedes finite haben, Kollegen is nominative plural, helfen governs mir, and bei governs feminine dative der ersten Aufgabe with weak adjective endings.",
+        "Sentence 2: checked every token; Zusammenarbeit is feminine singular, both die occurrences are nominative with distinct number contexts, klappt agrees with Zusammenarbeit, and weil ends in sind. zuverlässig is predicative and correctly has no declension reference.",
+        "Sentence 3: checked every token; Chef and Beginn are masculine nominative, findet has the contextual opinion sense, zuverlässig modifies arbeitet, frühe has weak nominative masculine inflection, and für governs accusative ihn.",
+        "Sentence 4: checked every token; nicht sicher introduces a grammatical dass complement, Arbeitszeit is singular nominative, für das Team is accusative, and mit der Chefin is feminine dative.",
+        "Sentence 5: checked every token; hoffen takes the dass complement, später is adverbial, anfangen is the lexical infinitive, and finite können closes the subordinate modal construction. ab morgen has no invented inflection reference.",
+        "Checked all noun genders, dictionary forms, pronoun bases, verb conjugations, clause boundaries, and case triggers. No unresolved candidate-content ambiguity or unsupported grammatical inference found."
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "All five sentence translations and all word/phrase meanings preserve the contextual German meaning; comprehension question and answer agree with the dialogue.",
+        "Checked contextual contrasts including finden → thinks, klappen → works, zuverlässig → reliable/reliably, mir → me, and ihn → him.",
+        "Phrase results expose dass/weil verb-final order, the perfect construction and inversion, case-bearing phrases, and the final modal-plus-infinitive construction.",
+        "Blueprint fit passes: five colleague turns and 77 spoken words excluding speaker labels, within the requested 5–6 turns and approximately 76–84 words.",
+        "All seven target vocabulary items occur; opinion, belief, hope, agreement, and gentle disagreement remain connected to the same workplace team and schedule.",
+        "The typed writing activity supplies three actionable dass-clause completion prompts for opinion, belief, and hope."
+      ],
+      "findings": []
+    }
+  ]
+}

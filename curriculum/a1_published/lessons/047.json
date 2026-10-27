@@ -1,0 +1,720 @@
+{
+  "id": "a1-course-047",
+  "source_draft_id": "a1-draft-047",
+  "sequence": 47,
+  "band": "A1.2",
+  "format": "narrative",
+  "title_de": "Probe: Samstag in der Stadt",
+  "title_en": "Rehearsal: Saturday in Town",
+  "topic": "a connected account combining transport, shopping, and a changed plan",
+  "communicative_goal": "Follow the main points of a connected everyday account and recover one missed detail.",
+  "grammar_focus": "consolidation of reference words, temporal connectors, modal verbs, and Perfekt",
+  "supporting_structures": [
+    "auf dem Weg",
+    "Bitte noch einmal",
+    "einen Moment später",
+    "am Ende"
+  ],
+  "grammar_notes": [
+    "This rehearsal consolidates familiar grammar; it does not introduce a substantial new structure."
+  ],
+  "new_targets": [
+    "auf dem Weg",
+    "wieder",
+    "am Ende",
+    "alles gut",
+    "einen Moment",
+    "weiter"
+  ],
+  "recycled_targets": [
+    "der Bus",
+    "der Zug",
+    "der Markt",
+    "die Apotheke",
+    "das Gleis",
+    "das Café"
+  ],
+  "recycles_from": [
+    3,
+    13,
+    25,
+    26,
+    33,
+    38,
+    43
+  ],
+  "audio_path": "assets/audio/a1_published/a1-course-047/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Am Samstag ist Mina zuerst mit dem Bus in die Stadt gefahren.",
+      "en": "On Saturday, Mina first took the bus into the city.",
+      "audio_path": "assets/audio/a1_published/a1-course-047/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Samstag": [
+            "dative",
+            "time"
+          ],
+          "ist": [
+            "auxiliary",
+            "present"
+          ],
+          "Mina": [
+            "nominative"
+          ],
+          "zuerst": [
+            "adverb",
+            "time"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "dem": [
+            "article",
+            "dative"
+          ],
+          "Bus": [
+            "dative"
+          ],
+          "in": [
+            "preposition",
+            "accusative",
+            "direction"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "Stadt": [
+            "accusative"
+          ],
+          "gefahren": [
+            "verb",
+            "past participle",
+            "perfect"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "ist": "sein",
+          "gefahren": "fahren"
+        },
+        "word_meanings": {
+          "ist": "perfect auxiliary",
+          "gefahren": "travelled / went by bus"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am Samstag",
+            "english": "on Saturday",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "mit dem Bus",
+            "english": "by bus",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "in die Stadt",
+            "english": "into the city",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction"
+            ]
+          },
+          {
+            "german": "Am Samstag ist Mina zuerst mit dem Bus in die Stadt gefahren",
+            "english": "On Saturday Mina first took the bus into the city",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "perfect",
+              "direction"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Auf dem Weg hat sie Leo angerufen, denn der Bus hatte Verspätung.",
+      "en": "On the way, she called Leo because the bus was delayed.",
+      "audio_path": "assets/audio/a1_published/a1-course-047/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Auf": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "dem": [
+            "article",
+            "dative"
+          ],
+          "Weg": [
+            "dative"
+          ],
+          "hat": [
+            "auxiliary",
+            "present"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "Leo": [
+            "accusative"
+          ],
+          "angerufen": [
+            "verb",
+            "past participle",
+            "perfect",
+            "separable"
+          ],
+          "denn": [
+            "conjunction",
+            "coordinating",
+            "reason"
+          ],
+          "der": [
+            "article",
+            "nominative"
+          ],
+          "Bus": [
+            "nominative"
+          ],
+          "hatte": [
+            "verb",
+            "simple past"
+          ],
+          "Verspätung": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "hat": "haben",
+          "angerufen": "anrufen",
+          "hatte": "haben"
+        },
+        "word_meanings": {
+          "hat": "perfect auxiliary",
+          "hatte": "was delayed"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Auf dem Weg",
+            "english": "on the way",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "hat sie Leo angerufen",
+            "english": "she called Leo",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "perfect",
+              "separable"
+            ]
+          },
+          {
+            "german": "denn der Bus hatte Verspätung",
+            "english": "because the bus was delayed",
+            "literal_meaning": "because the bus had a delay",
+            "tags": [
+              "connector",
+              "coordinating",
+              "main clause",
+              "reason"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Danach hat Mina am Markt Gemüse gekauft und in der Apotheke ein Medikament geholt.",
+      "en": "Afterwards Mina bought vegetables at the market and picked up medicine at the pharmacy.",
+      "audio_path": "assets/audio/a1_published/a1-course-047/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Danach": [
+            "adverb",
+            "time",
+            "connector"
+          ],
+          "hat": [
+            "auxiliary",
+            "present"
+          ],
+          "Mina": [
+            "nominative"
+          ],
+          "am": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Markt": [
+            "dative"
+          ],
+          "Gemüse": [
+            "accusative"
+          ],
+          "gekauft": [
+            "verb",
+            "past participle",
+            "perfect"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "in": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "der": [
+            "article",
+            "dative"
+          ],
+          "Apotheke": [
+            "dative"
+          ],
+          "ein": [
+            "determiner",
+            "accusative"
+          ],
+          "Medikament": [
+            "accusative"
+          ],
+          "geholt": [
+            "verb",
+            "past participle",
+            "perfect"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "hat": "haben",
+          "gekauft": "kaufen",
+          "geholt": "holen"
+        },
+        "word_meanings": {
+          "hat": "perfect auxiliary",
+          "geholt": "picked up"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "am Markt",
+            "english": "at the market",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          },
+          {
+            "german": "in der Apotheke",
+            "english": "at the pharmacy",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "ein Medikament geholt",
+            "english": "picked up medicine",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "perfect"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Am Bahnhof hat sie die Durchsage zum Gleis nicht verstanden und gesagt: „Bitte noch einmal.“",
+      "en": "At the station, she did not understand the platform announcement and said, “Once again, please.”",
+      "audio_path": "assets/audio/a1_published/a1-course-047/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Am": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Bahnhof": [
+            "dative"
+          ],
+          "hat": [
+            "auxiliary",
+            "present"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "Durchsage": [
+            "accusative"
+          ],
+          "zum": [
+            "preposition",
+            "dative"
+          ],
+          "Gleis": [
+            "dative"
+          ],
+          "nicht": [
+            "negation"
+          ],
+          "verstanden": [
+            "verb",
+            "past participle",
+            "perfect"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "gesagt": [
+            "verb",
+            "past participle",
+            "perfect"
+          ],
+          "Bitte": [
+            "interjection"
+          ],
+          "noch": [
+            "adverb"
+          ],
+          "einmal": [
+            "adverb",
+            "frequency"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "hat": "haben",
+          "verstanden": "verstehen",
+          "gesagt": "sagen"
+        },
+        "word_meanings": {
+          "hat": "perfect auxiliary",
+          "zum": "about the"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am Bahnhof",
+            "english": "at the station",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          },
+          {
+            "german": "die Durchsage zum Gleis nicht verstanden",
+            "english": "did not understand the platform announcement",
+            "literal_meaning": null,
+            "tags": [
+              "perfect",
+              "negation"
+            ]
+          },
+          {
+            "german": "zum Gleis",
+            "english": "about the platform",
+            "literal_meaning": "to the platform",
+            "tags": [
+              "dative",
+              "contraction"
+            ]
+          },
+          {
+            "german": "Bitte noch einmal",
+            "english": "Once again, please",
+            "literal_meaning": null,
+            "tags": [
+              "fixed phrase",
+              "imperative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Einen Moment später hat sie das richtige Gleis gefunden und ist weitergefahren.",
+      "en": "A moment later, she found the correct platform and continued her journey.",
+      "audio_path": "assets/audio/a1_published/a1-course-047/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Einen": [
+            "determiner",
+            "accusative",
+            "time"
+          ],
+          "Moment": [
+            "accusative",
+            "time"
+          ],
+          "später": [
+            "adverb",
+            "time"
+          ],
+          "hat": [
+            "auxiliary",
+            "present"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "das": [
+            "article",
+            "accusative"
+          ],
+          "richtige": [
+            "adjective",
+            "accusative"
+          ],
+          "Gleis": [
+            "accusative"
+          ],
+          "gefunden": [
+            "verb",
+            "past participle",
+            "perfect"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "ist": [
+            "auxiliary",
+            "present"
+          ],
+          "weitergefahren": [
+            "verb",
+            "past participle",
+            "perfect"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "Moment": "der Moment",
+          "hat": "haben",
+          "richtige": "richtig",
+          "gefunden": "finden",
+          "ist": "sein",
+          "weitergefahren": "weiterfahren"
+        },
+        "word_meanings": {
+          "hat": "perfect auxiliary",
+          "ist": "perfect auxiliary",
+          "weitergefahren": "continued travelling"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Einen Moment später",
+            "english": "a moment later",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "time",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "das richtige Gleis gefunden",
+            "english": "found the correct platform",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "perfect"
+            ]
+          },
+          {
+            "german": "ist weitergefahren",
+            "english": "continued her journey",
+            "literal_meaning": null,
+            "tags": [
+              "perfect"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Am Ende hat sie Leo im Café getroffen, und alles war wieder gut.",
+      "en": "In the end, she met Leo at the café, and everything was fine again.",
+      "audio_path": "assets/audio/a1_published/a1-course-047/sentence-06.wav",
+      "annotations": {
+        "word_tags": {
+          "Am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Ende": [
+            "dative",
+            "time"
+          ],
+          "hat": [
+            "auxiliary",
+            "present"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "Leo": [
+            "accusative"
+          ],
+          "im": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Café": [
+            "dative"
+          ],
+          "getroffen": [
+            "verb",
+            "past participle",
+            "perfect"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "alles": [
+            "indefinite pronoun",
+            "nominative"
+          ],
+          "war": [
+            "verb",
+            "simple past"
+          ],
+          "wieder": [
+            "adverb",
+            "time"
+          ],
+          "gut": [
+            "adjective",
+            "predicate"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "Ende": "das Ende",
+          "hat": "haben",
+          "getroffen": "treffen",
+          "war": "sein"
+        },
+        "word_meanings": {
+          "hat": "perfect auxiliary"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am Ende",
+            "english": "in the end",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "fixed phrase",
+              "contraction"
+            ]
+          },
+          {
+            "german": "im Café",
+            "english": "at the café",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          },
+          {
+            "german": "hat sie Leo im Café getroffen",
+            "english": "she met Leo at the café",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "perfect"
+            ]
+          },
+          {
+            "german": "alles war wieder gut",
+            "english": "everything was fine again",
+            "literal_meaning": null,
+            "tags": [
+              "main clause"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Which detail does Mina initially miss at the station?",
+    "answer_en": "The correct platform information."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_08.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

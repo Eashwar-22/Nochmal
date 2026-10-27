@@ -1,0 +1,555 @@
+{
+  "id": "a2-course-002",
+  "source_draft_id": "a2-draft-002",
+  "sequence": 50,
+  "band": "A2.1",
+  "format": "narrative",
+  "title_de": "Damals in Bonn",
+  "title_en": "Back Then in Bonn",
+  "topic": "a recollection of the first weeks in a new city",
+  "communicative_goal": "Understand and state simple past background facts and contrast them with the present.",
+  "grammar_focus": "spoken Präteritum of sein and haben",
+  "supporting_structures": [],
+  "grammar_notes": [],
+  "new_targets": [
+    "damals",
+    "fremd",
+    "nervös",
+    "allein",
+    "die Erfahrung",
+    "am Anfang"
+  ],
+  "recycled_targets": [
+    "die Stadt",
+    "die Wohnung",
+    "der Kurs",
+    "die Nachbarin",
+    "heute"
+  ],
+  "recycles_from": [
+    1,
+    2,
+    7,
+    19
+  ],
+  "audio_path": "assets/audio/a2_candidates/a2-course-002/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Damals war Mina neu in Bonn und hatte nur ein kleines Zimmer.",
+      "en": "Back then Mina was new in Bonn and only had a small room.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-002/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Damals": [
+            "adverb",
+            "time"
+          ],
+          "Mina": [
+            "proper noun",
+            "nominative",
+            "subject"
+          ],
+          "neu": [
+            "adjective"
+          ],
+          "in": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Bonn": [
+            "proper noun",
+            "dative"
+          ],
+          "war": [
+            "verb",
+            "simple past"
+          ],
+          "hatte": [
+            "verb",
+            "simple past"
+          ],
+          "nur": [
+            "adverb"
+          ],
+          "ein": [
+            "article",
+            "accusative"
+          ],
+          "kleines": [
+            "adjective",
+            "accusative"
+          ],
+          "Zimmer": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "war": "sein",
+          "hatte": "haben",
+          "kleines": "klein"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Damals war Mina neu in Bonn",
+            "english": "Back then Mina was new in Bonn",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "simple past"
+            ]
+          },
+          {
+            "german": "ein kleines Zimmer",
+            "english": "a small room",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "hatte nur ein kleines Zimmer",
+            "english": "and only had a small room",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "simple past"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Am Anfang war die Stadt fremd, und Mina war oft nervös.",
+      "en": "At first the city was unfamiliar, and Mina was often nervous.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-002/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Anfang": [
+            "dative"
+          ],
+          "war": [
+            "verb",
+            "simple past"
+          ],
+          "die": [
+            "article",
+            "nominative"
+          ],
+          "Stadt": [
+            "nominative",
+            "subject"
+          ],
+          "fremd": [
+            "adjective",
+            "predicate"
+          ],
+          "Mina": [
+            "proper noun",
+            "nominative",
+            "subject"
+          ],
+          "oft": [
+            "adverb",
+            "frequency"
+          ],
+          "nervös": [
+            "adjective",
+            "predicate"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "war": "sein"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am Anfang",
+            "english": "at first",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "war die Stadt fremd",
+            "english": "the city was unfamiliar",
+            "literal_meaning": null,
+            "tags": [
+              "main clause"
+            ]
+          },
+          {
+            "german": "Mina war oft nervös",
+            "english": "Mina was often nervous",
+            "literal_meaning": null,
+            "tags": [
+              "main clause"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Sie hatte noch keine Freunde und war am Wochenende meistens allein.",
+      "en": "She did not have any friends yet and was usually alone at the weekend.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-002/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Sie": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "hatte": [
+            "verb",
+            "simple past"
+          ],
+          "noch": [
+            "adverb",
+            "time"
+          ],
+          "keine": [
+            "determiner",
+            "accusative",
+            "negation"
+          ],
+          "Freunde": [
+            "accusative",
+            "plural"
+          ],
+          "war": [
+            "verb",
+            "simple past"
+          ],
+          "am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Wochenende": [
+            "dative"
+          ],
+          "meistens": [
+            "adverb",
+            "frequency"
+          ],
+          "allein": [
+            "adjective",
+            "predicate"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "hatte": "haben",
+          "war": "sein"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "noch keine Freunde",
+            "english": "no friends yet",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "negation"
+            ]
+          },
+          {
+            "german": "am Wochenende",
+            "english": "at the weekend",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "war am Wochenende meistens allein",
+            "english": "was usually alone at the weekend",
+            "literal_meaning": null,
+            "tags": [
+              "main clause"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Dann hat sie im Deutschkurs Sara kennengelernt und mit ihrer Nachbarin gesprochen.",
+      "en": "Then she met Sara in the German course and spoke with her neighbor.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-002/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Dann": [
+            "adverb",
+            "time"
+          ],
+          "hat": [
+            "auxiliary",
+            "present"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "im": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Deutschkurs": [
+            "dative"
+          ],
+          "Sara": [
+            "proper noun",
+            "accusative"
+          ],
+          "kennengelernt": [
+            "verb",
+            "past participle",
+            "perfect",
+            "separable"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "ihrer": [
+            "possessive",
+            "determiner",
+            "dative"
+          ],
+          "Nachbarin": [
+            "dative"
+          ],
+          "gesprochen": [
+            "verb",
+            "past participle",
+            "perfect"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "hat": "haben",
+          "kennengelernt": "kennenlernen",
+          "gesprochen": "sprechen"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "im Deutschkurs",
+            "english": "in the German course",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          },
+          {
+            "german": "hat sie ... kennengelernt",
+            "english": "she met",
+            "literal_meaning": null,
+            "tags": [
+              "perfect"
+            ]
+          },
+          {
+            "german": "mit ihrer Nachbarin",
+            "english": "with her neighbor",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "hat ... gesprochen",
+            "english": "spoke",
+            "literal_meaning": null,
+            "tags": [
+              "perfect"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Heute hat Mina viele Freunde, hat gute Erfahrungen gemacht und fühlt sich in Bonn zu Hause.",
+      "en": "Today Mina has many friends, has had good experiences, and feels at home in Bonn.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-002/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Heute": [
+            "adverb",
+            "time"
+          ],
+          "hat": [
+            "verb",
+            "present"
+          ],
+          "Mina": [
+            "proper noun",
+            "nominative",
+            "subject"
+          ],
+          "viele": [
+            "adjective",
+            "accusative"
+          ],
+          "Freunde": [
+            "noun",
+            "accusative",
+            "plural"
+          ],
+          "gute": [
+            "adjective",
+            "accusative"
+          ],
+          "Erfahrungen": [
+            "accusative",
+            "plural"
+          ],
+          "fühlt": [
+            "verb",
+            "present",
+            "reflexive"
+          ],
+          "sich": [
+            "reflexive pronoun",
+            "accusative"
+          ],
+          "in": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Bonn": [
+            "proper noun",
+            "dative"
+          ],
+          "zu": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Hause": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "hat": "haben",
+          "viele": "viel",
+          "gute": "gut",
+          "gemacht": "machen",
+          "fühlt": "sich fühlen"
+        },
+        "word_meanings": {
+          "hat": "has"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [
+          {
+            "surface": "hat",
+            "occurrence": 2,
+            "tags": [
+              "auxiliary"
+            ],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": null,
+            "spoken_form": null
+          }
+        ],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Heute hat Mina viele Freunde",
+            "english": "Today Mina has many friends",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "viele Freunde",
+            "english": "many friends",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "plural"
+            ]
+          },
+          {
+            "german": "gute Erfahrungen",
+            "english": "good experiences",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "plural"
+            ]
+          },
+          {
+            "german": "hat gute Erfahrungen gemacht",
+            "english": "has had good experiences",
+            "literal_meaning": null,
+            "tags": [
+              "perfect"
+            ]
+          },
+          {
+            "german": "fühlt sich in Bonn zu Hause",
+            "english": "feels at home in Bonn",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "reflexive",
+              "place"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "How did Mina feel at the beginning?",
+    "answer_en": "The city felt unfamiliar, and she was often nervous and alone."
+  },
+  "source_basis": [
+    "curriculum/a2_blueprint.md",
+    "A2 blueprint lesson 2"
+  ],
+  "speech_alternatives": []
+}

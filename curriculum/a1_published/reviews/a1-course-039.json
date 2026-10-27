@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-039",
+  "source_sha256": "31b9923af74e71ea84a1143c6512c66a427baccff6db0502e514b4d1a288e526",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token coverage",
+        "frequency expressions",
+        "fernsehen separable analysis",
+        "non-reflexive treffen analysis"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "hobby conversation",
+        "frequency wording",
+        "internet search phrase",
+        "free-time question"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "hobby translations",
+        "preference contrast",
+        "frequency progression",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

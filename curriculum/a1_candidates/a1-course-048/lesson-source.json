@@ -1,0 +1,703 @@
+{
+  "id": "a1-course-048",
+  "source_draft_id": "a1-draft-048",
+  "sequence": 48,
+  "band": "A1.2",
+  "format": "dialogue",
+  "title_de": "A1-Abschluss: Ein praktischer Tag",
+  "title_en": "Final A1 Checkpoint: A Practical Day",
+  "topic": "a supported sequence of introductions, a message, a purchase, and travel",
+  "communicative_goal": "Manage a short predictable everyday interaction with simple questions, requests, and repair.",
+  "grammar_focus": "cumulative A1 retrieval with no new substantial structure",
+  "supporting_structures": [
+    "Treffen wir uns",
+    "Was kosten die Brötchen",
+    "Bitte langsamer",
+    "Fährt unser Zug pünktlich"
+  ],
+  "grammar_notes": [
+    "This final checkpoint only retrieves structures that have already been introduced and practised."
+  ],
+  "new_targets": [
+    "Noch eine Frage",
+    "Das weiß ich nicht",
+    "Bitte langsamer",
+    "Ich bin fertig",
+    "Kein Problem"
+  ],
+  "recycled_targets": [
+    "sich vorstellen",
+    "der Deutschkurs",
+    "der Bahnhof",
+    "das Brötchen",
+    "mit Karte zahlen",
+    "das Gleis",
+    "pünktlich"
+  ],
+  "recycles_from": [
+    1,
+    3,
+    7,
+    13,
+    25,
+    26,
+    38,
+    47
+  ],
+  "audio_path": "assets/audio/a1_candidates/a1-course-048/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Sara stellt sich im Deutschkurs vor: „Ich heiße Sara und wohne jetzt in Bonn.“",
+      "en": "Sara introduces herself in the German course: “My name is Sara and I now live in Bonn.”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-048/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Sara": [
+            "proper noun",
+            "nominative"
+          ],
+          "stellt": [
+            "verb",
+            "present",
+            "reflexive",
+            "separable"
+          ],
+          "sich": [
+            "reflexive pronoun",
+            "accusative"
+          ],
+          "im": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Deutschkurs": [
+            "dative"
+          ],
+          "vor": [
+            "particle"
+          ],
+          "Ich": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "heiße": [
+            "verb",
+            "present"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "wohne": [
+            "verb",
+            "present"
+          ],
+          "jetzt": [
+            "adverb",
+            "time"
+          ],
+          "in": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Bonn": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "stellt": "sich vorstellen",
+          "heiße": "heißen",
+          "wohne": "wohnen"
+        },
+        "word_meanings": {
+          "vor": "separable prefix of sich vorstellen"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "im Deutschkurs",
+            "english": "in the German course",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          },
+          {
+            "german": "stellt sich im Deutschkurs vor",
+            "english": "introduces herself in the German course",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "reflexive",
+              "separable"
+            ]
+          },
+          {
+            "german": "Ich heiße Sara",
+            "english": "My name is Sara",
+            "literal_meaning": null,
+            "tags": [
+              "main clause"
+            ]
+          },
+          {
+            "german": "in Bonn",
+            "english": "in Bonn",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "wohne jetzt in Bonn",
+            "english": "now live in Bonn",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "place"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Sie hört Minas Nachricht: „Treffen wir uns um fünf Uhr am Bahnhof?“",
+      "en": "She hears Mina’s message: “Shall we meet at the station at five o’clock?”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-048/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "hört": [
+            "verb",
+            "present"
+          ],
+          "Minas": [
+            "proper noun",
+            "genitive"
+          ],
+          "Nachricht": [
+            "accusative"
+          ],
+          "Treffen": [
+            "verb",
+            "present",
+            "reflexive"
+          ],
+          "wir": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "uns": [
+            "reflexive pronoun",
+            "accusative"
+          ],
+          "um": [
+            "preposition",
+            "accusative",
+            "time"
+          ],
+          "fünf": [
+            "numeral",
+            "time"
+          ],
+          "Uhr": [
+            "time"
+          ],
+          "am": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Bahnhof": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "hört": "hören",
+          "Treffen": "sich treffen"
+        },
+        "word_meanings": {
+          "Treffen": "shall meet"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Minas Nachricht",
+            "english": "Mina’s message",
+            "literal_meaning": null,
+            "tags": [
+              "genitive"
+            ]
+          },
+          {
+            "german": "um fünf Uhr",
+            "english": "at five o’clock",
+            "literal_meaning": null,
+            "tags": [
+              "time",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "Treffen wir uns um fünf Uhr am Bahnhof",
+            "english": "Shall we meet at the station at five o’clock?",
+            "literal_meaning": null,
+            "tags": [
+              "inversion",
+              "reflexive"
+            ]
+          },
+          {
+            "german": "am Bahnhof",
+            "english": "at the station",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Sara fährt mit dem Bus in die Stadt und kauft unterwegs zwei Brötchen.",
+      "en": "Sara takes the bus into the city and buys two bread rolls on the way.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-048/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Sara": [
+            "nominative"
+          ],
+          "fährt": [
+            "verb",
+            "present"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "dem": [
+            "article",
+            "dative"
+          ],
+          "Bus": [
+            "dative"
+          ],
+          "in": [
+            "preposition",
+            "accusative",
+            "direction"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "Stadt": [
+            "accusative"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "kauft": [
+            "verb",
+            "present"
+          ],
+          "unterwegs": [
+            "adverb",
+            "place"
+          ],
+          "zwei": [
+            "numeral",
+            "accusative"
+          ],
+          "Brötchen": [
+            "accusative",
+            "plural"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "fährt": "fahren",
+          "kauft": "kaufen"
+        },
+        "word_meanings": {
+          "fährt": "takes / travels by"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "mit dem Bus",
+            "english": "by bus",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "in die Stadt",
+            "english": "into the city",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction"
+            ]
+          },
+          {
+            "german": "kauft unterwegs zwei Brötchen",
+            "english": "buys two bread rolls on the way",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "In der Bäckerei fragt sie: „Was kosten die Brötchen, und kann ich mit Karte zahlen?“",
+      "en": "At the bakery, she asks, “How much are the bread rolls, and can I pay by card?”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-048/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "In": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "der": [
+            "article",
+            "dative"
+          ],
+          "Bäckerei": [
+            "dative"
+          ],
+          "fragt": [
+            "verb",
+            "present"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "Was": [
+            "interrogative pronoun"
+          ],
+          "kosten": [
+            "verb",
+            "present"
+          ],
+          "die": [
+            "article",
+            "nominative"
+          ],
+          "Brötchen": [
+            "nominative",
+            "plural"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "kann": [
+            "modal verb",
+            "present"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "Karte": [
+            "dative"
+          ],
+          "zahlen": [
+            "verb",
+            "infinitive"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "fragt": "fragen",
+          "kosten": "kosten",
+          "kann": "können",
+          "zahlen": "zahlen"
+        },
+        "word_meanings": {
+          "Was": "how much"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "In der Bäckerei",
+            "english": "at the bakery",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "Was kosten die Brötchen",
+            "english": "How much are the bread rolls?",
+            "literal_meaning": null,
+            "tags": [
+              "inversion"
+            ]
+          },
+          {
+            "german": "kann ich mit Karte zahlen",
+            "english": "can I pay by card?",
+            "literal_meaning": null,
+            "tags": [
+              "inversion",
+              "modal verb"
+            ]
+          },
+          {
+            "german": "mit Karte",
+            "english": "by card",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "fixed phrase"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Später versteht sie eine Durchsage nicht und sagt: „Wie bitte? Bitte langsamer.“",
+      "en": "Later she does not understand an announcement and says, “Pardon? More slowly, please.”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-048/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Später": [
+            "adverb",
+            "time"
+          ],
+          "versteht": [
+            "verb",
+            "present"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "eine": [
+            "determiner",
+            "accusative"
+          ],
+          "Durchsage": [
+            "accusative"
+          ],
+          "nicht": [
+            "negation"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "sagt": [
+            "verb",
+            "present"
+          ],
+          "Wie": [
+            "interrogative pronoun"
+          ],
+          "bitte": [
+            "interjection"
+          ],
+          "Bitte": [
+            "interjection"
+          ],
+          "langsamer": [
+            "adverb",
+            "comparative",
+            "manner"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "versteht": "verstehen",
+          "sagt": "sagen"
+        },
+        "word_meanings": {
+          "Wie": "pardon",
+          "langsamer": "more slowly"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "versteht sie eine Durchsage nicht",
+            "english": "she does not understand an announcement",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "negation",
+              "accusative"
+            ]
+          },
+          {
+            "german": "Wie bitte",
+            "english": "Pardon?",
+            "literal_meaning": null,
+            "tags": [
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "Bitte langsamer",
+            "english": "More slowly, please",
+            "literal_meaning": null,
+            "tags": [
+              "imperative",
+              "fixed phrase"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Am richtigen Gleis findet sie Mina und fragt: „Fährt unser Zug heute pünktlich?“",
+      "en": "At the correct platform, she finds Mina and asks, “Is our train running on time today?”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-048/sentence-06.wav",
+      "annotations": {
+        "word_tags": {
+          "Am": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "richtigen": [
+            "adjective",
+            "dative"
+          ],
+          "Gleis": [
+            "dative"
+          ],
+          "findet": [
+            "verb",
+            "present"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "Mina": [
+            "accusative"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "fragt": [
+            "verb",
+            "present"
+          ],
+          "Fährt": [
+            "verb",
+            "present"
+          ],
+          "unser": [
+            "possessive",
+            "determiner",
+            "nominative"
+          ],
+          "Zug": [
+            "nominative"
+          ],
+          "heute": [
+            "adverb",
+            "time"
+          ],
+          "pünktlich": [
+            "adverb",
+            "manner"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "richtigen": "richtig",
+          "findet": "finden",
+          "fragt": "fragen",
+          "Fährt": "fahren"
+        },
+        "word_meanings": {
+          "Fährt": "is running / travelling"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am richtigen Gleis",
+            "english": "at the correct platform",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          },
+          {
+            "german": "Fährt unser Zug heute pünktlich",
+            "english": "Is our train running on time today?",
+            "literal_meaning": null,
+            "tags": [
+              "inversion"
+            ]
+          },
+          {
+            "german": "unser Zug",
+            "english": "our train",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Where and when do Sara and Mina plan to meet?",
+    "answer_en": "At the station at five o’clock."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_08.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

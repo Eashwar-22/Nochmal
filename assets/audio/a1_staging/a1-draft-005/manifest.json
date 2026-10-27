@@ -1,0 +1,31 @@
+{
+  "draft_id": "a1-draft-005",
+  "status": "draft_unpublished",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav"
+  ],
+  "sentence_texts": [
+    "Mina sagt: \u201eLeo, das ist Sara, eine Freundin aus dem Kurs.\u201c",
+    "Leo fragt: \u201eWer ist der Mann dort?\u201c",
+    "Sara antwortet: \u201eEr hei\u00dft Amir und wohnt auch in Bonn.\u201c",
+    "Dann sagen alle Hallo und sprechen kurz zusammen."
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "5d459c8e06431519cfb16ee384f0dd4c4f6217abdcb08a33cbdfd70886d4d5e8",
+    "sentence-02.wav": "8b2c04a775a90482fb591f47aa00d683ae35498932b01a21a4582aac7e3cf433",
+    "sentence-03.wav": "d1bcd4661bb50382de8d17bbe9e2bc3fd31caafdf15b67596fe9368af0afe959",
+    "sentence-04.wav": "4c6014154236d165c5c75c36a78681c8263ee82f2a0c480999cfa157e361b23e"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "9d19ebfe0681d60dd2cc44567117de67dc07d029f8b38e5d57b6177965ff4b1b",
+  "paragraph_assembled_from_sentence_files": true
+}

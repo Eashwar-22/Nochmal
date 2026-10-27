@@ -1,0 +1,31 @@
+{
+  "draft_id": "a1-draft-007",
+  "status": "draft_unpublished",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav"
+  ],
+  "sentence_texts": [
+    "Mina zeigt Leo ein Foto; darauf ist ihre Familie.",
+    "Sie sagt: \u201eDas ist meine Mutter, und das ist mein Vater.\u201c",
+    "Leo fragt: \u201eIst das dein Bruder mit dem Kind?\u201c",
+    "Mina antwortet: \u201eNein, der Mann ist mein Vater, und das Kind ist meine Schwester.\u201c"
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "f95bcdcfbe70b78401415f9aeb33e87bd9533436eaa28ee32b8111b46a7a6278",
+    "sentence-02.wav": "4e3292a3cc848104e73a45d4aa14872d3c2dbd3c23c344a90e430292da08f06d",
+    "sentence-03.wav": "ddb0b8833ff4c072c7aa2307c4cdbe29b68b615eeb1019d4c2ef91e8f06eaf78",
+    "sentence-04.wav": "09ff2196a7565fe4c43b55e2fd6478f438ee519d8536dc00bf261e7039025458"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "016b64d7f2def14fde6298253e9247ac253205c71ab0011e1cb24a41daf2d8c8",
+  "paragraph_assembled_from_sentence_files": true
+}

@@ -1,0 +1,31 @@
+{
+  "draft_id": "a1-draft-008",
+  "status": "draft_unpublished",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav"
+  ],
+  "sentence_texts": [
+    "Im Kurs f\u00fcllt Mina ein Formular aus.",
+    "Ihre Adresse ist Gartenstra\u00dfe 14, und ihre Postleitzahl ist 53111.",
+    "Die Lehrerin fragt: \u201eWie alt sind Sie, und wann haben Sie Geburtstag?\u201c",
+    "Mina antwortet: \u201eIch bin 28 Jahre alt und am 6. Mai geboren.\u201c"
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "2d9807f1484791f577dd71883f856b33b2f241d6f2f12fea2d3882ebed1c7275",
+    "sentence-02.wav": "f172a2db4628a672442ab57dc0a73cdc07a6b015051be7414f0a43d300a3a6c1",
+    "sentence-03.wav": "2b8c3a53d3812674fe1f872a43b0f151547faca7f06e6e4772ed138a387aad6e",
+    "sentence-04.wav": "d07018d7e525086425c5a8ee48e3fcfc32ff6731b17d9c5f554b78f11c06afc3"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "b223226af6b66854268c337dae07c5272bf09630a627d78046065ab12991e346",
+  "paragraph_assembled_from_sentence_files": true
+}

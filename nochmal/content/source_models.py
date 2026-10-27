@@ -11,7 +11,12 @@ from typing import Literal
 
 from pydantic import Field, model_validator
 
-from .models import SentenceAnnotations, SpeechAlternative, StrictModel
+from .models import (
+    PerformanceActivity,
+    SentenceAnnotations,
+    SpeechAlternative,
+    StrictModel,
+)
 
 
 TOKEN_PATTERN = re.compile(r"\w+(?:[-’']\w+)*", flags=re.UNICODE)
@@ -57,8 +62,13 @@ class CourseSentenceSource(StrictModel):
         source_tokens = set(normalized_tokens(self.de))
         keyed_annotations = {
             "word_tags": self.annotations.word_tags,
+            "excluded_word_tags": self.annotations.excluded_word_tags,
             "base_forms": self.annotations.base_forms,
             "word_meanings": self.annotations.word_meanings,
+            "verb_meanings": self.annotations.verb_meanings,
+            "verb_forms": self.annotations.verb_forms,
+            "verb_components": self.annotations.verb_components,
+            "spoken_forms": self.annotations.spoken_forms,
         }
         for field_name, values in keyed_annotations.items():
             missing = sorted(key for key in values if key.casefold() not in source_tokens)
@@ -66,6 +76,32 @@ class CourseSentenceSource(StrictModel):
                 raise ValueError(
                     f"{field_name} keys are absent from the German sentence: {missing}"
                 )
+
+        missing_components = sorted(
+            component
+            for components in self.annotations.verb_components.values()
+            for component in components
+            if component.casefold() not in source_tokens
+        )
+        if missing_components:
+            raise ValueError(
+                "verb_components values are absent from the German sentence: "
+                + ", ".join(missing_components)
+            )
+
+        occurrence_counts: dict[str, int] = {}
+        for token in normalized_tokens(self.de):
+            occurrence_counts[token] = occurrence_counts.get(token, 0) + 1
+        invalid_occurrences = [
+            f"{item.surface}#{item.occurrence}"
+            for item in self.annotations.word_occurrences
+            if occurrence_counts.get(item.surface.casefold(), 0) < item.occurrence
+        ]
+        if invalid_occurrences:
+            raise ValueError(
+                "word_occurrences entries are absent or out of range: "
+                + ", ".join(invalid_occurrences)
+            )
 
         phrase_fields = {
             "phrases": [item.german for item in self.annotations.phrases],
@@ -96,7 +132,7 @@ class CourseLessonSource(StrictModel):
     id: str
     source_draft_id: str
     sequence: int
-    band: Literal["A1.1", "A1.2"]
+    band: str = Field(pattern=r"^[A-C][1-2](?:\.[1-2])?(?:-[A-C][1-2])?$")
     format: Literal[
         "narrative",
         "description",
@@ -120,6 +156,9 @@ class CourseLessonSource(StrictModel):
     comprehension: ComprehensionSource
     source_basis: list[str]
     speech_alternatives: list[SpeechAlternative] = Field(default_factory=list)
+    performance_activity: PerformanceActivity | None = Field(
+        default=None, exclude_if=lambda value: value is None
+    )
 
     @model_validator(mode="after")
     def require_complete_lesson(self) -> "CourseLessonSource":

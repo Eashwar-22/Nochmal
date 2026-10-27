@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-044",
+  "source_sha256": "aa8d6f277a4533f6403eba9ffae32efe5948b34893a9fe8f6ffd674af8707120",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token coverage",
+        "perfect forms",
+        "message conventions",
+        "question inversion"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "informal message register",
+        "natural sequencing",
+        "correct closing"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "past-tense agreement",
+        "natural message translation",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

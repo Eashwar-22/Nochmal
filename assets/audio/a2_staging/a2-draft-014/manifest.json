@@ -1,0 +1,37 @@
+{
+  "draft_id": "a2-draft-014",
+  "status": "reviewed",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav",
+    "sentence-05.wav",
+    "sentence-06.wav"
+  ],
+  "sentence_texts": [
+    "Es tut mir leid; ich m\u00f6chte mich f\u00fcr den L\u00e4rm entschuldigen.",
+    "Ich habe mich dar\u00fcber ge\u00e4rgert, dass du nicht fr\u00fcher an die Nachbarn gedacht hast.",
+    "Ich habe gestern mit Freundinnen gefeiert, weil wir den Geburtstag meiner Schwester nachgeholt haben.",
+    "Das verstehe ich, und die Situation war mir selbst unangenehm.",
+    "Ich verspreche, dass es heute Abend ruhig bleibt und die Musik um zehn Uhr leiser ist.",
+    "Danke, dann kann ich mich wieder beruhigen; kein Problem, wenn es heute Abend leise bleibt."
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "c07c50cc975c70eb32bb6ba4fa56ce2cbdc70debd8148fdf8cd7ee7a54718b26",
+    "sentence-02.wav": "3dbf434feb91b74e9364e2a6f3ae1cfaa956fe68e5e1bf194039c5992d58610d",
+    "sentence-03.wav": "fb95ed71e84c82bcfd56cb8f17d7eea4354c3ca159474b092d42f09073d756d2",
+    "sentence-04.wav": "00382fc502f04a38e838e0fa710633f23e2efecb2c3f5b6d171da3dd22423735",
+    "sentence-05.wav": "b5bcb0f1bf8678d8ccee0fce5dac37b1b36457b679c6fc93580b3474cd793396",
+    "sentence-06.wav": "8e7dd408b7f5432768aa03a02e575445a4490be305394dfe9a8388a2885afb29"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "ba178e13360788d700d620441f93c4a3dc45c8f6102200793254a2579cd093c4",
+  "paragraph_assembled_from_sentence_files": true
+}

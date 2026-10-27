@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-045",
+  "source_sha256": "f2bb23168874587b5712c47ac425718da4d3b5628b988ae3f420d5b134407b74",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token coverage",
+        "opening-hours ranges",
+        "dative place phrases",
+        "imperative negation"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "notice wording",
+        "opening-hours language",
+        "entrance directions"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "clock-time translation",
+        "notice register",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

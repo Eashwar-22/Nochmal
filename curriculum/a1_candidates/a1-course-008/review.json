@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-008",
+  "source_sha256": "aadf8b4ca9a94d6b87d62389c1af0362e602d1592edd5aecc7e5a18530f07aac",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "exact token coverage",
+        "typed case references",
+        "exact separable and date phrases"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "Geburtstag is accusative",
+        "formal Sie is contextualized",
+        "geboren is a past participle"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "date pronunciation is visible",
+        "postal code pronunciation is visible",
+        "translations match the German"
+      ],
+      "findings": []
+    }
+  ]
+}

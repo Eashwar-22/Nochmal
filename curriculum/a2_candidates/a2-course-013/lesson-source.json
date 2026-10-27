@@ -1,0 +1,643 @@
+{
+  "id": "a2-course-013",
+  "source_draft_id": "a2-draft-013",
+  "sequence": 61,
+  "band": "A2.1",
+  "format": "dialogue",
+  "title_de": "Könnten Sie leiser sein?",
+  "title_en": "Could You Be Quieter?",
+  "topic": "a polite request about noise",
+  "communicative_goal": "Make and answer a polite request in a mildly difficult situation.",
+  "grammar_focus": "polite Konjunktiv II requests with könnten plus infinitive",
+  "supporting_structures": [
+    "Könnten Sie ...?",
+    "seit einer Stunde",
+    "Rücksicht nehmen"
+  ],
+  "grammar_notes": [],
+  "new_targets": [
+    "könnten",
+    "stören",
+    "laut",
+    "leise",
+    "die Ruhe",
+    "die Musik",
+    "Rücksicht nehmen"
+  ],
+  "recycled_targets": [
+    "das Kind",
+    "schlafen",
+    "deshalb"
+  ],
+  "recycles_from": [
+    21,
+    13,
+    3,
+    4
+  ],
+  "audio_path": "assets/audio/a2_candidates/a2-course-013/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Guten Abend, Frau Klein; darf ich Sie kurz stören?",
+      "en": "Good evening, Ms Klein; may I bother you briefly?",
+      "audio_path": "assets/audio/a2_candidates/a2-course-013/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Guten": [
+            "adjective",
+            "accusative"
+          ],
+          "Klein": [
+            "proper noun"
+          ],
+          "Sie": [
+            "personal pronoun",
+            "accusative",
+            "formal",
+            "singular"
+          ],
+          "kurz": [
+            "adverb"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "Guten": "gut"
+        },
+        "word_meanings": {
+          "Klein": "Klein (surname)",
+          "Sie": "you"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {
+          "Guten Abend": [
+            "main clause"
+          ],
+          "Frau Klein": [
+            "main clause"
+          ]
+        },
+        "phrases": [
+          {
+            "german": "Guten Abend",
+            "english": "good evening",
+            "literal_meaning": null,
+            "tags": [
+              "fixed phrase",
+              "accusative"
+            ]
+          },
+          {
+            "german": "darf ich Sie kurz stören",
+            "english": "may I bother you briefly",
+            "literal_meaning": null,
+            "tags": [
+              "formal",
+              "modal verb",
+              "infinitive"
+            ]
+          },
+          {
+            "german": "Sie kurz stören",
+            "english": "bother you briefly",
+            "literal_meaning": null,
+            "tags": [
+              "formal",
+              "accusative",
+              "infinitive"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Natürlich, was ist denn los?",
+      "en": "Of course, what is the matter?",
+      "audio_path": "assets/audio/a2_candidates/a2-course-013/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Natürlich": [
+            "interjection"
+          ],
+          "was": [
+            "interrogative pronoun"
+          ],
+          "denn": [
+            "particle"
+          ],
+          "los": [
+            "adjective"
+          ]
+        },
+        "excluded_word_tags": {
+          "denn": [
+            "conjunction",
+            "coordinating"
+          ]
+        },
+        "base_forms": {},
+        "word_meanings": {
+          "Natürlich": "of course",
+          "ist": "is",
+          "denn": "then / adds conversational emphasis",
+          "los": "the matter / going on"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "was ist denn los",
+            "english": "what is the matter",
+            "literal_meaning": null,
+            "tags": [
+              "fixed phrase"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Die Musik aus Ihrer Wohnung ist seit einer Stunde sehr laut, und mein Kind kann deshalb nicht schlafen.",
+      "en": "The music from your apartment has been very loud for an hour, and my child therefore cannot sleep.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-013/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Die": [
+            "article",
+            "nominative"
+          ],
+          "aus": [
+            "preposition",
+            "dative"
+          ],
+          "Ihrer": [
+            "possessive",
+            "determiner",
+            "dative",
+            "formal"
+          ],
+          "seit": [
+            "preposition",
+            "dative"
+          ],
+          "einer": [
+            "article",
+            "dative"
+          ],
+          "sehr": [
+            "adverb"
+          ],
+          "laut": [
+            "adjective"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "mein": [
+            "possessive",
+            "determiner",
+            "nominative"
+          ],
+          "deshalb": [
+            "connector"
+          ],
+          "nicht": [
+            "particle",
+            "negation"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "Ihrer": "Ihr"
+        },
+        "word_meanings": {
+          "Ihrer": "your",
+          "ist": "is"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Die Musik",
+            "english": "the music",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "aus Ihrer Wohnung",
+            "english": "from your apartment",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "formal"
+            ]
+          },
+          {
+            "german": "seit einer Stunde",
+            "english": "for an hour",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "mein Kind",
+            "english": "my child",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "kann deshalb nicht schlafen",
+            "english": "therefore cannot sleep",
+            "literal_meaning": null,
+            "tags": [
+              "modal verb",
+              "negation",
+              "infinitive"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Oh, das tut mir leid; ich habe die Zeit ganz vergessen.",
+      "en": "Oh, I am sorry; I completely lost track of the time.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-013/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Oh": [
+            "interjection"
+          ],
+          "das": [
+            "demonstrative pronoun",
+            "nominative",
+            "subject"
+          ],
+          "mir": [
+            "personal pronoun",
+            "dative",
+            "singular"
+          ],
+          "leid": [
+            "particle"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "ganz": [
+            "adverb"
+          ]
+        },
+        "excluded_word_tags": {
+          "Oh": [
+            "proper noun"
+          ]
+        },
+        "base_forms": {
+          "Oh": "oh",
+          "tut": "leidtun",
+          "habe": "haben"
+        },
+        "word_meanings": {
+          "das": "that / it",
+          "tut": "causes regret",
+          "leid": "regret (part of leidtun)",
+          "ganz": "completely"
+        },
+        "verb_components": {
+          "tut": [
+            "leid"
+          ]
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "tut mir leid",
+            "english": "am sorry",
+            "literal_meaning": "causes regret to me",
+            "tags": [
+              "dative",
+              "fixed phrase",
+              "separable"
+            ]
+          },
+          {
+            "german": "die Zeit",
+            "english": "the time",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "habe die Zeit ganz vergessen",
+            "english": "completely lost track of the time",
+            "literal_meaning": "completely forgot the time",
+            "tags": [
+              "perfect"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Könnten Sie die Musik bitte leiser machen und heute Abend auf die Ruhe im Haus Rücksicht nehmen?",
+      "en": "Could you please make the music quieter and be considerate of the peace in the building this evening?",
+      "audio_path": "assets/audio/a2_candidates/a2-course-013/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Könnten": [
+            "modal verb",
+            "subjunctive",
+            "formal"
+          ],
+          "bitte": [
+            "particle"
+          ],
+          "leiser": [
+            "adjective",
+            "comparative"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "heute": [
+            "adverb",
+            "time"
+          ],
+          "auf": [
+            "preposition",
+            "accusative"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "im": [
+            "preposition",
+            "contraction",
+            "dative"
+          ],
+          "nehmen": [
+            "verb",
+            "infinitive"
+          ]
+        },
+        "excluded_word_tags": {
+          "nehmen": [
+            "present"
+          ]
+        },
+        "base_forms": {
+          "Könnten": "können",
+          "leiser": "leise",
+          "nehmen": "nehmen"
+        },
+        "word_meanings": {
+          "auf": "of / toward (with Rücksicht nehmen)",
+          "bitte": "please",
+          "machen": "make",
+          "Sie": "you",
+          "im": "in"
+        },
+        "verb_meanings": {
+          "machen": "to make"
+        },
+        "verb_forms": {
+          "nehmen": "infinitive"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [
+          {
+            "surface": "Sie",
+            "occurrence": 1,
+            "tags": [
+              "personal pronoun",
+              "nominative",
+              "subject",
+              "formal",
+              "singular"
+            ],
+            "excluded_tags": [
+              "accusative"
+            ],
+            "base_form": null,
+            "meaning": "you",
+            "spoken_form": null
+          }
+        ],
+        "excluded_phrases": [
+          "und heute Abend auf die Ruhe im Haus Rücksicht nehmen"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Könnten Sie ... machen",
+            "english": "could you make",
+            "literal_meaning": null,
+            "tags": [
+              "subjunctive",
+              "formal",
+              "infinitive"
+            ]
+          },
+          {
+            "german": "Könnten Sie",
+            "english": "could you",
+            "literal_meaning": null,
+            "tags": [
+              "subjunctive",
+              "formal",
+              "nominative"
+            ]
+          },
+          {
+            "german": "die Musik bitte leiser machen",
+            "english": "please make the music quieter",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "infinitive"
+            ]
+          },
+          {
+            "german": "heute Abend",
+            "english": "this evening",
+            "literal_meaning": null,
+            "tags": [
+              "time"
+            ]
+          },
+          {
+            "german": "auf die Ruhe",
+            "english": "of the peace and quiet",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "im Haus",
+            "english": "in the building",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "Rücksicht nehmen",
+            "english": "be considerate",
+            "literal_meaning": "take consideration",
+            "tags": [
+              "fixed phrase"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Natürlich mache ich sie sofort leiser und nehme ab jetzt wirklich mehr Rücksicht.",
+      "en": "Of course, I will make it quieter immediately and really be more considerate from now on.",
+      "audio_path": "assets/audio/a2_candidates/a2-course-013/sentence-06.wav",
+      "annotations": {
+        "word_tags": {
+          "Natürlich": [
+            "adverb"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "sie": [
+            "personal pronoun",
+            "accusative",
+            "singular"
+          ],
+          "sofort": [
+            "adverb",
+            "time"
+          ],
+          "leiser": [
+            "adjective",
+            "comparative"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "ab": [
+            "preposition"
+          ],
+          "jetzt": [
+            "adverb",
+            "time"
+          ],
+          "wirklich": [
+            "adverb"
+          ],
+          "mehr": [
+            "determiner",
+            "comparative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "leiser": "leise",
+          "nehme": "nehmen",
+          "mehr": "viel"
+        },
+        "word_meanings": {
+          "Natürlich": "of course",
+          "mache": "make / will make",
+          "sie": "it",
+          "wirklich": "really",
+          "ab": "from"
+        },
+        "verb_meanings": {
+          "mache": "to make"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Natürlich mache ich sie sofort leiser",
+            "english": "of course I will make it quieter immediately",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "inversion"
+            ]
+          },
+          {
+            "german": "sie",
+            "english": "it",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "ab jetzt",
+            "english": "from now on",
+            "literal_meaning": null,
+            "tags": [
+              "time"
+            ]
+          },
+          {
+            "german": "nehme ab jetzt wirklich mehr Rücksicht",
+            "english": "will really be more considerate from now on",
+            "literal_meaning": "really take more consideration from now on",
+            "tags": [
+              "fixed phrase"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "What does the neighbor agree to do?",
+    "answer_en": "Make the music quieter and be more considerate."
+  },
+  "source_basis": [
+    "curriculum/a2_blueprint.md",
+    "A2 Lesson 13"
+  ],
+  "speech_alternatives": [],
+  "performance_activity": {
+    "kind": "speaking",
+    "instruction": "Make a polite request for each neighbour problem, then respond constructively to both requests.",
+    "prompts": [
+      "The music next door is too loud and your child cannot sleep.",
+      "A neighbour is drilling during the building's quiet hours."
+    ]
+  }
+}

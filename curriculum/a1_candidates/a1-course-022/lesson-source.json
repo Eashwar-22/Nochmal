@@ -1,0 +1,408 @@
+{
+  "id": "a1-course-022",
+  "source_draft_id": "a1-draft-022",
+  "sequence": 22,
+  "band": "A1.1",
+  "format": "description",
+  "title_de": "Das Wetter draußen",
+  "title_en": "Weather Outside",
+  "topic": "checking the weather before caring for a dog and plant",
+  "communicative_goal": "Understand and give a very simple weather report.",
+  "grammar_focus": "impersonal es in common weather expressions",
+  "supporting_structures": [
+    "Heute ist es kalt",
+    "es gibt viel Wind und Regen",
+    "mit dem Hund nach draußen",
+    "vom Balkon an das Fenster"
+  ],
+  "grammar_notes": [
+    "In weather expressions, es is impersonal. The phrase mit dem Hund is dative, while an das Fenster is accusative because the flower is moved to a destination.",
+    "Deshalb begins the third sentence and causes ordinary verb-second inversion."
+  ],
+  "new_targets": [
+    "das Wetter",
+    "die Sonne",
+    "der Regen",
+    "der Wind",
+    "kalt",
+    "die Blume",
+    "der Hund",
+    "deshalb",
+    "scheinen",
+    "stellen"
+  ],
+  "recycled_targets": [
+    "heute",
+    "morgen",
+    "möchten",
+    "gehen",
+    "aber",
+    "die Wohnung",
+    "das Fenster",
+    "der Balkon",
+    "später",
+    "kurz"
+  ],
+  "recycles_from": [
+    11,
+    12,
+    19,
+    20
+  ],
+  "audio_path": "assets/audio/a1_candidates/a1-course-022/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Heute ist es kalt, und draußen gibt es viel Wind und Regen.",
+      "en": "Today it is cold, and outside there is a lot of wind and rain.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-022/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "heute": [
+            "adverb",
+            "time"
+          ],
+          "kalt": [
+            "adjective"
+          ],
+          "draußen": [
+            "adverb",
+            "place"
+          ],
+          "viel": [
+            "determiner",
+            "accusative"
+          ],
+          "wind": [
+            "accusative"
+          ],
+          "regen": [
+            "accusative"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [
+          {
+            "surface": "es",
+            "occurrence": 1,
+            "tags": [
+              "personal pronoun",
+              "nominative"
+            ],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": null,
+            "spoken_form": null
+          },
+          {
+            "surface": "es",
+            "occurrence": 2,
+            "tags": [
+              "personal pronoun",
+              "nominative"
+            ],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": null,
+            "spoken_form": null
+          }
+        ],
+        "excluded_phrases": [
+          "viel Wind",
+          "draußen gibt es viel Wind und Regen"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Heute ist es kalt",
+            "english": "Today it is cold",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "inversion"
+            ]
+          },
+          {
+            "german": "und draußen gibt es viel Wind und Regen",
+            "english": "and outside there is a lot of wind and rain",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "main clause",
+              "verb-second",
+              "inversion"
+            ]
+          },
+          {
+            "german": "viel Wind und Regen",
+            "english": "a lot of wind and rain",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina möchte mit dem Hund nach draußen gehen, aber die Sonne scheint nicht.",
+      "en": "Mina wants to go outside with the dog, but the sun is not shining.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-022/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "dem": [
+            "dative"
+          ],
+          "hund": [
+            "dative"
+          ],
+          "nach": [
+            "preposition"
+          ],
+          "draußen": [
+            "adverb",
+            "direction"
+          ],
+          "die": [
+            "nominative"
+          ],
+          "sonne": [
+            "nominative"
+          ],
+          "nicht": [
+            "negation"
+          ],
+          "aber": [
+            "conjunction",
+            "coordinating"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "mit dem Hund",
+            "english": "with the dog",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "nach draußen gehen",
+            "english": "go outside",
+            "literal_meaning": null,
+            "tags": [
+              "direction",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "Mina möchte mit dem Hund nach draußen gehen",
+            "english": "Mina wants to go outside with the dog",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "modal verb"
+            ]
+          },
+          {
+            "german": "aber die Sonne scheint nicht",
+            "english": "but the sun is not shining",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "main clause",
+              "verb-second",
+              "negation"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Deshalb wartet sie heute noch kurz in der Wohnung.",
+      "en": "That is why she waits inside a little longer today.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-022/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "deshalb": [
+            "adverb",
+            "reason"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "heute": [
+            "adverb",
+            "time"
+          ],
+          "noch": [
+            "adverb"
+          ],
+          "kurz": [
+            "adverb"
+          ],
+          "in": [
+            "preposition",
+            "dative"
+          ],
+          "der": [
+            "dative"
+          ],
+          "wohnung": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "sie": "she",
+          "noch": "a little longer"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "in der Wohnung",
+            "english": "inside the apartment",
+            "literal_meaning": "in the apartment",
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "Deshalb wartet sie heute noch kurz in der Wohnung",
+            "english": "That is why she waits inside a little longer today",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Später stellt sie die Blume vom Balkon an das Fenster.",
+      "en": "Later she moves the flower from the balcony to the window.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-022/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "später": [
+            "adverb",
+            "time"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "die": [
+            "determiner",
+            "accusative"
+          ],
+          "blume": [
+            "accusative"
+          ],
+          "vom": [
+            "preposition",
+            "dative"
+          ],
+          "balkon": [
+            "dative"
+          ],
+          "an": [
+            "preposition",
+            "accusative"
+          ],
+          "das": [
+            "determiner",
+            "accusative"
+          ],
+          "fenster": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "sie": "she",
+          "stellt": "moves"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "die Blume",
+            "english": "the flower",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "vom Balkon",
+            "english": "from the balcony",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "an das Fenster",
+            "english": "to the window",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction"
+            ]
+          },
+          {
+            "german": "Später stellt sie die Blume vom Balkon an das Fenster",
+            "english": "Later she moves the flower from the balcony to the window",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Why does Mina wait inside?",
+    "answer_en": "It is cold, windy, and rainy."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_04.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

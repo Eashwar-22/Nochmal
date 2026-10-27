@@ -1,0 +1,31 @@
+{
+  "draft_id": "a1-draft-004",
+  "status": "release_ready",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav"
+  ],
+  "sentence_texts": [
+    "Im Kurs nennt Mina ihre Telefonnummer und ihre E-Mail-Adresse.",
+    "Der Mann fragt: \u201eIst die Nummer 0176 4208 richtig?\u201c",
+    "Mina antwortet: \u201eNein, die letzte Zahl ist falsch.\u201c",
+    "Dann buchstabiert sie langsam ihren Namen."
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "93c4e15eef2ef52ab0ab95668ee8ecd2da75fd66201da075563fe29d3c103c74",
+    "sentence-02.wav": "0010d1a417f2370d3b8d0047366d4eda1eb1146898b385552e233f760a8ad585",
+    "sentence-03.wav": "a9b3e054652b558b2a9d1d2b987203ec2ff47aa04c1e457201450640639b4ca4",
+    "sentence-04.wav": "d3fc699eaffe08b259f7858bc76128d36d228331398850ac10f8051f4f531189"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "c31f5d572579e17eb78e7905840e94610859b9165eddc457feca3aa7f0713038",
+  "paragraph_assembled_from_sentence_files": true
+}

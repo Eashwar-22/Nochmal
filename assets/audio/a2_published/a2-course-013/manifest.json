@@ -1,0 +1,37 @@
+{
+  "draft_id": "a2-draft-013",
+  "status": "release_ready",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav",
+    "sentence-05.wav",
+    "sentence-06.wav"
+  ],
+  "sentence_texts": [
+    "Guten Abend, Frau Klein; darf ich Sie kurz st\u00f6ren?",
+    "Nat\u00fcrlich, was ist denn los?",
+    "Die Musik aus Ihrer Wohnung ist seit einer Stunde sehr laut, und mein Kind kann deshalb nicht schlafen.",
+    "Oh, das tut mir leid; ich habe die Zeit ganz vergessen.",
+    "K\u00f6nnten Sie die Musik bitte leiser machen und heute Abend auf die Ruhe im Haus R\u00fccksicht nehmen?",
+    "Nat\u00fcrlich mache ich sie sofort leiser und nehme ab jetzt wirklich mehr R\u00fccksicht."
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "57f85d481c2d781fd43bda0b68c32a1eb7511aef45b2d2902d2d098d803e63ea",
+    "sentence-02.wav": "a3fc70da35e98e76aae33522dbaf62a678c6c4cd3de761f7d57bed651cc7fede",
+    "sentence-03.wav": "702e4e7d848e4eb3e14574d0bce61118a1fdd6488ab6ac35ffd1f165402ae3fb",
+    "sentence-04.wav": "b422a4fca79362e93e2ccde798b08e374f7db86fcd380347ba6e071266319bc6",
+    "sentence-05.wav": "321d3093fa28c322779cc3d2c64d2a4726f292bb426934ec07a4358303311b3a",
+    "sentence-06.wav": "c93358e26fc6827205d7eff8f50a94cc0be41cb0e921bdff47132265599ad7d0"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "cea5fb31e65bf63286a927790a58a55fe0d09f1d2344665b9cdfef770fba7ffb",
+  "paragraph_assembled_from_sentence_files": true
+}

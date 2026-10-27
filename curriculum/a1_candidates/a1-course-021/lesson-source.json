@@ -1,0 +1,384 @@
+{
+  "id": "a1-course-021",
+  "source_draft_id": "a1-draft-021",
+  "sequence": 21,
+  "band": "A1.1",
+  "format": "dialogue",
+  "title_de": "Das Licht ist kaputt",
+  "title_en": "The Light Is Broken",
+  "topic": "asking a flatmate for help with a home problem",
+  "communicative_goal": "State a simple home problem and make a polite request for help.",
+  "grammar_focus": "können with a final infinitive in a polite request",
+  "supporting_structures": [
+    "Am Abend",
+    "Ich habe ein Problem",
+    "Kannst du mir bitte ...?",
+    "das Licht reparieren"
+  ],
+  "grammar_notes": [
+    "Kannst is first in the yes/no question, while reparieren stays as an infinitive at the end.",
+    "Mir is dative because Mina benefits from the repair."
+  ],
+  "new_targets": [
+    "kaputt",
+    "das Problem",
+    "das Licht",
+    "reparieren",
+    "sofort",
+    "vorbeikommen"
+  ],
+  "recycled_targets": [
+    "der Abend",
+    "die Küche",
+    "anrufen",
+    "sagen",
+    "haben",
+    "können",
+    "helfen",
+    "bitte"
+  ],
+  "recycles_from": [
+    6,
+    11,
+    13,
+    19,
+    20
+  ],
+  "audio_path": "assets/audio/a1_candidates/a1-course-021/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Am Abend ist das Licht in Minas Küche kaputt.",
+      "en": "In the evening, the light in Mina’s kitchen is broken.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-021/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "am": [
+            "preposition",
+            "dative"
+          ],
+          "abend": [
+            "dative"
+          ],
+          "das": [
+            "nominative"
+          ],
+          "licht": [
+            "nominative"
+          ],
+          "in": [
+            "preposition",
+            "dative"
+          ],
+          "minas": [
+            "genitive"
+          ],
+          "küche": [
+            "dative"
+          ],
+          "kaputt": [
+            "adjective"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "minas": "Mina's"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "in Minas"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am Abend",
+            "english": "in the evening",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "in Minas Küche",
+            "english": "in Mina's kitchen",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "Am Abend ist das Licht in Minas Küche kaputt",
+            "english": "In the evening, the light in Mina's kitchen is broken",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Sie ruft Leo an und sagt: „Ich habe ein Problem.“",
+      "en": "She calls Leo and says, “I have a problem.”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-021/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "an": [
+            "particle"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "ein": [
+            "determiner",
+            "accusative"
+          ],
+          "problem": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "sie": "she",
+          "an": "separable prefix of anrufen"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "und sagt: „Ich habe ein Problem"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Sie ruft Leo an",
+            "english": "She calls Leo",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "separable"
+            ]
+          },
+          {
+            "german": "Sie ruft Leo an und sagt",
+            "english": "She calls Leo and says",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "Ich habe ein Problem",
+            "english": "I have a problem",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "ein Problem",
+            "english": "a problem",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Dann fragt sie: „Kannst du mir bitte sofort das Licht reparieren?“",
+      "en": "Then she asks, “Can you please repair the light for me right away?”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-021/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "dann": [
+            "adverb"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "du": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "mir": [
+            "personal pronoun",
+            "dative"
+          ],
+          "bitte": [
+            "particle"
+          ],
+          "sofort": [
+            "adverb"
+          ],
+          "das": [
+            "determiner",
+            "accusative"
+          ],
+          "licht": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "sie": "she"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Kannst du mir bitte sofort das Licht reparieren",
+            "english": "Can you please repair the light for me right away?",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "modal verb"
+            ]
+          },
+          {
+            "german": "mir ... reparieren",
+            "english": "repair for me",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "das Licht",
+            "english": "the light",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Leo kommt sofort vorbei, repariert das Licht und hilft Mina in der Küche.",
+      "en": "Leo comes right over, repairs the light, and helps Mina in the kitchen.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-021/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "sofort": [
+            "adverb"
+          ],
+          "vorbei": [
+            "particle"
+          ],
+          "das": [
+            "determiner",
+            "accusative"
+          ],
+          "licht": [
+            "accusative"
+          ],
+          "mina": [
+            "dative"
+          ],
+          "in": [
+            "preposition",
+            "dative"
+          ],
+          "der": [
+            "dative"
+          ],
+          "küche": [
+            "dative"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "vorbei": "separable prefix of vorbeikommen"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Leo kommt sofort vorbei, repariert das Licht",
+          "und hilft Mina in der Küche"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Leo kommt sofort vorbei",
+            "english": "Leo comes right over",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "separable"
+            ]
+          },
+          {
+            "german": "repariert das Licht",
+            "english": "repairs the light",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "ellipsis"
+            ]
+          },
+          {
+            "german": "hilft Mina",
+            "english": "helps Mina",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "ellipsis"
+            ]
+          },
+          {
+            "german": "in der Küche",
+            "english": "in the kitchen",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "das Licht",
+            "english": "the light",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "What is broken?",
+    "answer_en": "The kitchen light."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_04.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

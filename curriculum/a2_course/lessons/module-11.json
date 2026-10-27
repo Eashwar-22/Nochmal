@@ -1,0 +1,1528 @@
+[
+  {
+    "id": "a2-course-061",
+    "source_draft_id": "a2-draft-061",
+    "sequence": 109,
+    "band": "A2.2",
+    "format": "instructions",
+    "title_de": "Das Anmeldeformular",
+    "title_en": "Fill In the Registration Form",
+    "topic": "completing a registration form",
+    "communicative_goal": "Understand and complete the key fields on a routine form.",
+    "grammar_focus": "formal instructions and adjective endings in administrative language",
+    "supporting_structures": [
+      "Tragen Sie ... ein",
+      "mit einem Stern",
+      "bis zum Monatsende"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "das Pflichtfeld",
+      "die Unterlage",
+      "vollständig",
+      "die Teilnahmegebühr"
+    ],
+    "recycled_targets": [
+      "der Geburtsort",
+      "der Familienname",
+      "sich eintragen",
+      "die Anmeldung",
+      "unterschreiben",
+      "das Datum"
+    ],
+    "recycles_from": [
+      37,
+      47,
+      55
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Tragen Sie zuerst Ihren Familiennamen und Ihren Geburtsort ein.",
+        "en": "First enter your surname and place of birth.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "Ihren": [
+              "possessive",
+              "determiner",
+              "accusative"
+            ],
+            "ein": [
+              "particle"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "Tragen": "sich eintragen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Tragen Sie ... ein",
+              "english": "enter",
+              "literal_meaning": null,
+              "tags": [
+                "imperative",
+                "formal",
+                "separable"
+              ]
+            },
+            {
+              "german": "Ihren Familiennamen und Ihren Geburtsort",
+              "english": "your surname and place of birth",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "formal"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Alle Felder mit einem Stern sind Pflichtfelder.",
+        "en": "All fields with an asterisk are required fields.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "einem": [
+              "article",
+              "dative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "Felder": "fields",
+            "Stern": "asterisk",
+            "Pflichtfelder": "required fields"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "mit einem Stern",
+              "english": "with an asterisk",
+              "literal_meaning": null,
+              "tags": [
+                "dative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Schreiben Sie das aktuelle Datum und unterschreiben Sie unten.",
+        "en": "Write the current date and sign at the bottom.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "aktuelle": [
+              "adjective",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "aktuelle": "aktuell"
+          },
+          "word_meanings": {
+            "unten": "at the bottom"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Schreiben Sie das aktuelle Datum",
+              "english": "write the current date",
+              "literal_meaning": null,
+              "tags": [
+                "imperative",
+                "formal",
+                "accusative"
+              ]
+            },
+            {
+              "german": "unterschreiben Sie unten",
+              "english": "sign at the bottom",
+              "literal_meaning": null,
+              "tags": [
+                "imperative",
+                "formal"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Legen Sie alle verlangten Unterlagen vollständig bei.",
+        "en": "Include all the required documents.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "alle": [
+              "determiner",
+              "accusative"
+            ],
+            "verlangten": [
+              "adjective",
+              "accusative"
+            ],
+            "bei": [
+              "particle"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "Legen": "beilegen"
+          },
+          "word_meanings": {
+            "verlangten": "required"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Legen Sie alle verlangten Unterlagen ... bei",
+              "english": "include all the required documents",
+              "literal_meaning": null,
+              "tags": [
+                "imperative",
+                "formal",
+                "accusative",
+                "separable"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Die Teilnahmegebühr überweisen Sie bitte bis zum Monatsende.",
+        "en": "Please transfer the participation fee by the end of the month.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "überweisen": "überweisen"
+          },
+          "word_meanings": {
+            "Monatsende": "end of the month"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Die Teilnahmegebühr überweisen Sie",
+              "english": "transfer the participation fee",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "accusative",
+                "formal"
+              ]
+            },
+            {
+              "german": "bis zum Monatsende",
+              "english": "by the end of the month",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "Which fields are mandatory?",
+      "answer_en": "The fields marked with an asterisk."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 61"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-062",
+    "source_draft_id": "a2-draft-062",
+    "sequence": 110,
+    "band": "A2.2",
+    "format": "narrative",
+    "title_de": "Ich konnte nicht bremsen",
+    "title_en": "I Could Not Brake",
+    "topic": "reporting a minor accident",
+    "communicative_goal": "Give a simple factual account of an accident.",
+    "grammar_focus": "Präteritum of modal verbs in a past report",
+    "supporting_structures": [
+      "hatte einen Unfall",
+      "konnte nicht bremsen",
+      "musste nach rechts fahren"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "bremsen",
+      "beschädigen"
+    ],
+    "recycled_targets": [
+      "der Unfall",
+      "die Werkstatt",
+      "die Reparatur",
+      "der Bericht",
+      "zum Glück"
+    ],
+    "recycles_from": [
+      1,
+      2,
+      38
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Gestern hatte ich auf dem Weg zur Arbeit einen kleinen Unfall.",
+        "en": "Yesterday I had a minor accident on the way to work.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "kleinen": [
+              "adjective",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "hatte": "haben",
+            "kleinen": "klein"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "auf dem Weg zur Arbeit",
+              "english": "on the way to work",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "direction"
+              ]
+            },
+            {
+              "german": "einen kleinen Unfall",
+              "english": "a minor accident",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ein Auto hielt plötzlich vor mir, und ich konnte nicht rechtzeitig bremsen.",
+        "en": "A car stopped suddenly in front of me, and I could not brake in time.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "mir": [
+              "personal pronoun",
+              "dative"
+            ],
+            "nicht": [
+              "particle",
+              "negation"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "hielt": "halten",
+            "konnte": "können"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "vor mir",
+              "english": "in front of me",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place"
+              ]
+            },
+            {
+              "german": "konnte nicht rechtzeitig bremsen",
+              "english": "could not brake in time",
+              "literal_meaning": null,
+              "tags": [
+                "modal verb",
+                "simple past",
+                "negation",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ich musste nach rechts fahren und habe ein Schild beschädigt.",
+        "en": "I had to drive to the right and damaged a sign.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {
+            "musste": "müssen",
+            "beschädigt": "beschädigen"
+          },
+          "word_meanings": {
+            "Schild": "sign"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "musste nach rechts fahren",
+              "english": "had to drive to the right",
+              "literal_meaning": null,
+              "tags": [
+                "modal verb",
+                "simple past",
+                "direction",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "habe ein Schild beschädigt",
+              "english": "damaged a sign",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "perfect"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Zum Glück wurde niemand verletzt, aber mein Fahrrad brauchte eine Reparatur.",
+        "en": "Fortunately nobody was injured, but my bicycle needed a repair.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "mein": [
+              "possessive",
+              "determiner",
+              "nominative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "wurde": "werden",
+            "verletzt": "verletzen",
+            "brauchte": "brauchen"
+          },
+          "word_meanings": {
+            "niemand": "nobody",
+            "verletzt": "injured"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Zum Glück wurde niemand verletzt",
+              "english": "fortunately nobody was injured",
+              "literal_meaning": null,
+              "tags": [
+                "simple past"
+              ]
+            },
+            {
+              "german": "eine Reparatur",
+              "english": "a repair",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Die Werkstatt schrieb für die Versicherung einen kurzen Bericht.",
+        "en": "The repair shop wrote a short report for the insurer.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "kurzen": [
+              "adjective",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "schrieb": "schreiben",
+            "kurzen": "kurz"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "für die Versicherung",
+              "english": "for the insurer",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "einen kurzen Bericht",
+              "english": "a short report",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "Was anyone injured?",
+      "answer_en": "No, nobody was injured."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 62"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-063",
+    "source_draft_id": "a2-draft-063",
+    "sequence": 111,
+    "band": "A2.2",
+    "format": "dialogue",
+    "title_de": "Unterlagen für die Versicherung",
+    "title_en": "Which Documents Do I Need?",
+    "topic": "reporting an insurance claim",
+    "communicative_goal": "Ask which documents are needed and how to submit them.",
+    "grammar_focus": "formal indirect questions and document vocabulary",
+    "supporting_structures": [
+      "einen Schaden melden",
+      "wie ... einreichen soll",
+      "eine Schadennummer"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "der Schaden",
+      "der Nachweis",
+      "einreichen",
+      "die Schadennummer"
+    ],
+    "recycled_targets": [
+      "die Versicherung",
+      "melden",
+      "die Kosten",
+      "die Reparatur",
+      "die Unterlage"
+    ],
+    "recycles_from": [
+      61,
+      62,
+      40
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Ich möchte einen Schaden melden; welche Unterlagen brauchen Sie?",
+        "en": "I would like to report a claim; which documents do you need?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "einen Schaden melden",
+              "english": "report a claim",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "welche Unterlagen brauchen Sie",
+              "english": "which documents do you need",
+              "literal_meaning": null,
+              "tags": [
+                "formal",
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Wir brauchen den Bericht der Werkstatt und einen Nachweis über die Kosten.",
+        "en": "We need the repair shop's report and proof of the costs.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "der": [
+              "article",
+              "genitive"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "den Bericht der Werkstatt",
+              "english": "the repair shop's report",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "genitive"
+              ]
+            },
+            {
+              "german": "einen Nachweis über die Kosten",
+              "english": "proof of the costs",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Können Sie mir sagen, wie ich die Unterlagen einreichen soll?",
+        "en": "Can you tell me how I should submit the documents?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "mir": [
+              "personal pronoun",
+              "dative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "einreichen": "einreichen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Können Sie mir sagen",
+              "english": "can you tell me",
+              "literal_meaning": null,
+              "tags": [
+                "formal",
+                "dative",
+                "modal verb"
+              ]
+            },
+            {
+              "german": "wie ich die Unterlagen einreichen soll",
+              "english": "how I should submit the documents",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "modal verb",
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Sie können alles online schicken oder persönlich abgeben.",
+        "en": "You can send everything online or hand it in personally.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "online": "online"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "können alles online schicken",
+              "english": "can send everything online",
+              "literal_meaning": null,
+              "tags": [
+                "modal verb",
+                "accusative",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "persönlich abgeben",
+              "english": "hand it in personally",
+              "literal_meaning": null,
+              "tags": [
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Danach erhalten Sie eine Schadennummer für weitere Fragen.",
+        "en": "Afterwards you will receive a claim number for further questions.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "weitere": [
+              "adjective",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "erhalten": "erhalten"
+          },
+          "word_meanings": {
+            "erhalten": "receive",
+            "Fragen": "questions"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "eine Schadennummer für weitere Fragen",
+              "english": "a claim number for further questions",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "How may the documents be submitted?",
+      "answer_en": "Online or in person."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 63"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-064",
+    "source_draft_id": "a2-draft-064",
+    "sequence": 112,
+    "band": "A2.2",
+    "format": "dialogue",
+    "title_de": "Ein Termin bei der Bank",
+    "title_en": "An Appointment at the Bank",
+    "topic": "arranging banking help",
+    "communicative_goal": "Arrange an appointment and explain the service needed.",
+    "grammar_focus": "verbs with fixed prepositions",
+    "supporting_structures": [
+      "einen Termin vereinbaren",
+      "sich über ... informieren",
+      "auf Frau Berg warten"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "die Überweisung",
+      "die Gebühr",
+      "die Beratung",
+      "Geld abheben",
+      "warten auf",
+      "sich informieren über"
+    ],
+    "recycled_targets": [
+      "der Termin",
+      "vereinbaren",
+      "das Geld",
+      "die Bankkarte"
+    ],
+    "recycles_from": [
+      23,
+      28,
+      63
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Ich möchte einen Termin bei der Bank vereinbaren.",
+        "en": "I would like to arrange an appointment at the bank.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "einen Termin bei der Bank vereinbaren",
+              "english": "arrange an appointment at the bank",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "dative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ich muss mich über eine internationale Überweisung informieren.",
+        "en": "I need to find out about an international bank transfer.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "mich": [
+              "reflexive pronoun",
+              "accusative"
+            ],
+            "internationale": [
+              "adjective",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "informieren": "sich informieren über"
+          },
+          "word_meanings": {
+            "internationale": "international"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "mich über eine internationale Überweisung informieren",
+              "english": "find out about an international transfer",
+              "literal_meaning": null,
+              "tags": [
+                "reflexive",
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Außerdem habe ich eine Frage zur Gebühr beim Geldabheben.",
+        "en": "I also have a question about the fee for withdrawing money.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "Geldabheben": "withdrawing money"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "eine Frage zur Gebühr",
+              "english": "a question about the fee",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "dative"
+              ]
+            },
+            {
+              "german": "beim Geldabheben",
+              "english": "when withdrawing money",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "contraction"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Am Donnerstag ist eine Beratung um zehn Uhr frei.",
+        "en": "A consultation is available on Thursday at ten o'clock.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "zehn": [
+              "numeral"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Am Donnerstag",
+              "english": "on Thursday",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time"
+              ]
+            },
+            {
+              "german": "um zehn Uhr",
+              "english": "at ten o'clock",
+              "literal_meaning": null,
+              "tags": [
+                "time"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Gut, ich nehme den Termin und warte am Schalter auf Frau Berg.",
+        "en": "Good, I will take the appointment and wait at the counter for Ms Berg.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {
+            "warte": "warten auf"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "am Schalter",
+              "english": "at the counter",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place"
+              ]
+            },
+            {
+              "german": "warte ... auf Frau Berg",
+              "english": "wait for Ms Berg",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What does the customer want information about?",
+      "answer_en": "An international bank transfer."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 64"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-065",
+    "source_draft_id": "a2-draft-065",
+    "sequence": 113,
+    "band": "A2.2",
+    "format": "message",
+    "title_de": "Ich habe versucht anzurufen",
+    "title_en": "I Tried to Call",
+    "topic": "requesting an extension after failed contact",
+    "communicative_goal": "Explain an attempt and request more time.",
+    "grammar_focus": "versuchen plus zu-infinitive",
+    "supporting_structures": [
+      "versucht anzurufen",
+      "Unterlagen einzureichen",
+      "die Frist verlängern"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "die Frist",
+      "verlängern",
+      "der Kontaktversuch",
+      "die Ausnahme"
+    ],
+    "recycled_targets": [
+      "dringend",
+      "einreichen",
+      "anrufen",
+      "die Unterlage",
+      "rechtzeitig"
+    ],
+    "recycles_from": [
+      41,
+      61,
+      63
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Ich habe heute dreimal versucht, Ihre Nummer anzurufen.",
+        "en": "I tried three times today to call your number.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "dreimal": [
+              "adverb",
+              "frequency"
+            ],
+            "Ihre": [
+              "possessive",
+              "determiner",
+              "accusative",
+              "formal"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "versucht": "versuchen",
+            "anzurufen": "anrufen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "habe heute dreimal versucht",
+              "english": "tried three times today",
+              "literal_meaning": null,
+              "tags": [
+                "perfect",
+                "frequency"
+              ]
+            },
+            {
+              "german": "Ihre Nummer anzurufen",
+              "english": "to call your number",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "formal",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Leider konnte ich niemanden erreichen.",
+        "en": "Unfortunately, I could not reach anyone.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {
+            "konnte": "können"
+          },
+          "word_meanings": {
+            "niemanden": "anyone"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "konnte ich niemanden erreichen",
+              "english": "I could not reach anyone",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "modal verb",
+                "simple past",
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ich versuche, die fehlenden Unterlagen morgen einzureichen.",
+        "en": "I am trying to submit the missing documents tomorrow.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "fehlenden": [
+              "adjective",
+              "accusative"
+            ],
+            "Unterlagen": [
+              "noun",
+              "plural",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "fehlenden": "fehlend",
+            "einzureichen": "einreichen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "die fehlenden Unterlagen",
+              "english": "the missing documents",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Könnten Sie die Frist ausnahmsweise bis Freitag verlängern?",
+        "en": "Could you make an exception and extend the deadline until Friday?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Könnten": [
+              "modal verb",
+              "subjunctive"
+            ],
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "Könnten": "können"
+          },
+          "word_meanings": {
+            "ausnahmsweise": "as an exception"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Könnten Sie die Frist ... verlängern",
+              "english": "could you extend the deadline",
+              "literal_meaning": null,
+              "tags": [
+                "subjunctive",
+                "formal",
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Dann kann ich alles vollständig und rechtzeitig schicken.",
+        "en": "Then I can send everything completely and on time.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Dann": [
+              "adverb",
+              "time"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "kann ich alles ... schicken",
+              "english": "I can send everything",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "modal verb",
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "Until when does the speaker want the deadline extended?",
+      "answer_en": "Until Friday."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 65"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-066",
+    "source_draft_id": "a2-draft-066",
+    "sequence": 114,
+    "band": "A2.2",
+    "format": "dialogue",
+    "title_de": "Ein formelles Problem klären",
+    "title_en": "Handle a Formal Problem",
+    "topic": "resolving an insurance-document problem",
+    "communicative_goal": "Report a formal problem, identify missing documents, and agree on a deadline.",
+    "grammar_focus": "consolidation of forms, past modals, fixed prepositions, and zu-infinitives",
+    "supporting_structures": [
+      "einen Schaden melden",
+      "versucht einzureichen",
+      "die Frist verlängern"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "Ich möchte einen Schaden melden",
+      "Welche Unterlagen fehlen",
+      "Ich habe versucht",
+      "Bis wann ist das möglich",
+      "Ich bestätige den Eingang"
+    ],
+    "recycled_targets": [
+      "der Schaden",
+      "die Unterlage",
+      "einreichen",
+      "die Frist",
+      "bestätigen"
+    ],
+    "recycles_from": [
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Ich möchte einen Schaden melden; welche Unterlagen fehlen noch?",
+        "en": "I would like to report a claim; which documents are still missing?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "einen Schaden melden",
+              "english": "report a claim",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "welche Unterlagen fehlen noch",
+              "english": "which documents are still missing",
+              "literal_meaning": null,
+              "tags": [
+                "nominative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Der Bericht der Werkstatt fehlt, und wir warten auf den Nachweis.",
+        "en": "The repair shop's report is missing, and we are waiting for the proof.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "der": [
+              "article",
+              "genitive"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Der Bericht der Werkstatt",
+              "english": "the repair shop's report",
+              "literal_meaning": null,
+              "tags": [
+                "nominative",
+                "genitive"
+              ]
+            },
+            {
+              "german": "warten auf den Nachweis",
+              "english": "are waiting for the proof",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ich habe versucht, ihn gestern online einzureichen.",
+        "en": "I tried to submit it online yesterday.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "ihn": [
+              "personal pronoun",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "versucht": "versuchen",
+            "einzureichen": "einreichen"
+          },
+          "word_meanings": {
+            "online": "online"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "habe versucht",
+              "english": "tried",
+              "literal_meaning": null,
+              "tags": [
+                "perfect"
+              ]
+            },
+            {
+              "german": "ihn gestern online einzureichen",
+              "english": "to submit it online yesterday",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Bis wann ist das möglich? Wir verlängern die Frist bis Montag.",
+        "en": "Until when is that possible? We will extend the deadline until Monday.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Bis wann ist das möglich",
+              "english": "until when is that possible",
+              "literal_meaning": null,
+              "tags": [
+                "time"
+              ]
+            },
+            {
+              "german": "verlängern die Frist bis Montag",
+              "english": "extend the deadline until Monday",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "time"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Danke; sobald die Datei da ist, bestätige ich Ihnen den Eingang.",
+        "en": "Thank you; as soon as the file arrives, I will confirm receipt to you.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Ihnen": [
+              "personal pronoun",
+              "dative",
+              "formal"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "sobald": "as soon as",
+            "Eingang": "receipt"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "sobald die Datei da ist",
+              "english": "as soon as the file arrives",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            },
+            {
+              "german": "bestätige ich Ihnen den Eingang",
+              "english": "I will confirm receipt to you",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "dative",
+                "accusative",
+                "formal"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "Which document is missing?",
+      "answer_en": "The repair shop's report."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 66"
+    ],
+    "speech_alternatives": []
+  }
+]

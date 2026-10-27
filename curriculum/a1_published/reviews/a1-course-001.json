@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-001",
+  "source_sha256": "9b258a524516d67d322411e3a2df082dd1bcd9cfc0fc57b19ee08a857f6274a6",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "every source token has one ordered word card",
+        "every phrase maps to source words in order",
+        "verbs include complete bilingual help",
+        "visible form changes include inflection help",
+        "controlled grammar tags and exclusions are coherent"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "German sentences are grammatical and natural",
+        "base forms, cases, gender, and verb metadata are correct",
+        "phrase boundaries are meaningful for an A1 learner",
+        "the dialogue is appropriate for A1.1"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "sentence translations preserve contextual meaning",
+        "word meanings are useful in this sentence",
+        "idiomatic phrases distinguish natural and literal meanings",
+        "no important word or phrase meaning is omitted"
+      ],
+      "findings": []
+    }
+  ]
+}

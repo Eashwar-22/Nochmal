@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-040",
+  "source_sha256": "1f21fbfdeecf6bb01dd54cb3c79dc265e84b6e660182ee06408a2ec7302b57b8",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token coverage",
+        "wollen modal bracket",
+        "reflexive meeting structure",
+        "case and adjective references"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "proposal and alternative",
+        "Lust auf phrase",
+        "time-place confirmation",
+        "planning continuity"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "suggestion translation",
+        "constraint wording",
+        "meeting-time clarity",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

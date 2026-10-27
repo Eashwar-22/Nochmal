@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a2-course-016",
+  "source_sha256": "37f68fc9ece8b84a21a7388c0a913c1bff31e37fe6931bc5a580433c6084ce22",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "Read both mandatory documents in full, the exact Lesson 16 blueprint entry, source, compiled artifact, and complete preview; ignored review.json.",
+        "Validated strict source and compiled models, source hash, deterministic compilation, exact preview agreement, and preservation of the authored curriculum record.",
+        "Audited all 79 source tokens left to right: 69 word cards provide exact single ownership; all 40 phrase cards preserve source wording and follow their component cards in rendered order.",
+        "Checked all 14 verb references and 19 inflection references: complete bilingual verb tables, four-case paradigms, correct selected cells, controlled tags, and contraction expansion.",
+        "Verified both occurrences of mir in sentence 3 retain separate word cards and correctly located phrase references.",
+        "All 23 focused rulebook, lesson-contract, A2-course, and contextual-verb tests passed.",
+        "Candidate remains absent from both the publication manifest and frontend catalog."
+      ],
+      "findings": [
+        {
+          "severity": "warning",
+          "location": "compiled-lesson.json: lesson.audio_status, lesson.audio_path, and sentences[0\u20135].audio_path",
+          "rule": "Rulebook \u00a7\u00a711\u201312: audio agreement",
+          "message": "Audio is pending and paths are null, as expected for this pre-audio audit. Verify paragraph and sentence recordings against the exact reviewed German before release."
+        },
+        {
+          "severity": "warning",
+          "location": "All six sentence cards and their reference controls",
+          "rule": "Rulebook \u00a7\u00a711\u201312: live rendering and release verification",
+          "message": "Live desktop/mobile inspection remains a later release gate. Verify keyboard access, repeated-form controls, table readability, clipping, and playback before publication."
+        }
+      ]
+    },
+    {
+      "kind": "language",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "Sentence 1: aufbauen owns baut/auf; ein Regal is accusative; eine Leiter is the nominative subject of fehlen; ihm is its dative experiencer.",
+        "Sentence 2: kann plus infinitive leihen is correct; ihm identifies Herr Braun; meine Leiter and einen Eimer are accusative objects.",
+        "Sentence 3: Das Werkzeug is nominative; geh\u00f6ren and helfen govern the two dative mir occurrences; k\u00f6nntest has correct Konjunktiv II forms and helfen is infinitive.",
+        "Sentence 4: dir is the recipient of bringen; die Sachen is accusative plural; helfen governs euch; beim correctly expands to bei + dem with dative neuter Regal.",
+        "Sentence 5: das is a nominative demonstrative pronoun; helfen governs uns; k\u00f6nnt is present indicative; ihr is nominative plural; Mara is the recipient and den Eimer the accusative object.",
+        "Sentence 6: ihr is feminine singular dative referring to Mara; Ihnen is formal dative addressing Frau Keller; zur\u00fcckgeben owns geben/zur\u00fcck; both objects are accusative.",
+        "Checked every remaining name, noun gender, plural, conjunction, particle, adverb, clause boundary, and verb-reference row; found no unsupported grammatical analysis."
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "All six sentence translations and every word/phrase gloss preserve contextual meaning, recipients, politeness, number, and temporal reference.",
+        "Sentence 1's ihm fehlt card provides a literal bridge explaining the German-to-English subject shift.",
+        "Sentences 2\u20136 distinguish lending, ownership, bringing, helping, and returning; sentence 5 nominative ihr and sentence 6 dative ihr receive different contextual analyses.",
+        "Blueprint fit: six connected turns practise offers, requests, acceptance, and reporting; all seven required dative pronouns and specified vocabulary/chunks occur.",
+        "The passage has 79 written tokens including speaker labels, or 70 without them; the blueprint explicitly treats length ranges as planning ceilings rather than quotas.",
+        "The typed listening activity supplies a recipient bank and five concrete matching prompts answerable from the exchange; the comprehension answer is supported."
+      ],
+      "findings": []
+    }
+  ]
+}

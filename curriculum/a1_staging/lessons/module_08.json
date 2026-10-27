@@ -11,7 +11,7 @@
       {"de": "Dort hat sie im Supermarkt für das Wochenende eingekauft und ihre Schwester besucht.", "en": "There she shopped at the supermarket for the weekend and visited her sister."},
       {"de": "Am Nachmittag hat sie zu Hause Deutsch gelernt und das Abendessen gemacht.", "en": "In the afternoon, she studied German at home and made dinner."},
       {"de": "Danach hat sie lange mit Leo über den Kurs telefoniert.", "en": "Afterwards she spoke with Leo about the course on the phone for a long time."},
-      {"de": "Am Abend ist Mina müde zu Hause geblieben und hat einen Film gesehen.", "en": "In the evening, Mina stayed at home tired and watched a film."}
+      {"de": "Am Abend ist Mina müde zu Hause geblieben und hat einen Film gesehen.", "en": "In the evening, Mina was tired, so she stayed at home and watched a film."}
     ],
     "first_listen_check": {"prompt": "What did Mina do in the afternoon?", "answer": "She studied German at home and made dinner."}
   },
@@ -43,7 +43,7 @@
       {"de": "Am Samstag schließt es schon um vierzehn Uhr, und am Sonntag bleibt es geschlossen.", "en": "On Saturday it closes at two o’clock, and on Sunday it remains closed."},
       {"de": "Der Eingang liegt neben der Bank, aber der Ausgang ist auf der anderen Seite.", "en": "The entrance is next to the bank, but the exit is on the other side."},
       {"de": "Am Feiertag gilt: Bitte den Eingang an der Bank nicht benutzen.", "en": "On the public holiday, the rule is: please do not use the entrance by the bank."},
-      {"de": "Mina liest die Information und schreibt Leo die richtige Zeit.", "en": "Mina reads the information and writes the correct time to Leo."}
+      {"de": "Mina liest die Information und schreibt Leo die richtige Zeit.", "en": "Mina reads the information and messages Leo the correct time."}
     ],
     "first_listen_check": {"prompt": "What time does the shop close on Saturday?", "answer": "At two o’clock."}
   },
@@ -59,7 +59,7 @@
       {"de": "Die Feier beginnt um sieben Uhr in meiner Wohnung, und meine Familie kommt auch.", "en": "The celebration starts at seven o’clock in my apartment, and my family is coming too."},
       {"de": "Bitte bring kein Geschenk mit, aber kannst du etwas Musik mitbringen?", "en": "Please do not bring a present, but can you bring some music?"},
       {"de": "Leo antwortet: „Danke für die Einladung; ich komme gern.“", "en": "Leo replies, “Thank you for the invitation; I’d be happy to come.”"},
-      {"de": "Er gratuliert Mina schon jetzt herzlich und fragt noch kurz nach ihrer Adresse.", "en": "He warmly congratulates Mina already and briefly asks for her address as well."}
+      {"de": "Er gratuliert Mina schon jetzt herzlich und fragt noch kurz nach ihrer Adresse.", "en": "He congratulates Mina warmly in advance and briefly asks for her address as well."}
     ],
     "first_listen_check": {"prompt": "What should Leo bring?", "answer": "Some music, but no present."}
   },
@@ -72,9 +72,9 @@
     "status": "draft_unpublished",
     "sentences": [
       {"de": "Am Samstag ist Mina zuerst mit dem Bus in die Stadt gefahren.", "en": "On Saturday, Mina first took the bus into the city."},
-      {"de": "Auf dem Weg hat sie Leo angerufen, denn ihr Zug ist später angekommen.", "en": "On the way, she called Leo because her train arrived later."},
+      {"de": "Auf dem Weg hat sie Leo angerufen, denn der Bus hatte Verspätung.", "en": "On the way, she called Leo because the bus was delayed."},
       {"de": "Danach hat Mina am Markt Gemüse gekauft und in der Apotheke ein Medikament geholt.", "en": "Afterwards Mina bought vegetables at the market and picked up medicine at the pharmacy."},
-      {"de": "Am Bahnhof hat sie eine Durchsage nicht verstanden und gesagt: „Bitte noch einmal.“", "en": "At the station, she did not understand an announcement and said, “Once again, please.”"},
+      {"de": "Am Bahnhof hat sie die Durchsage zum Gleis nicht verstanden und gesagt: „Bitte noch einmal.“", "en": "At the station, she did not understand the platform announcement and said, “Once again, please.”"},
       {"de": "Einen Moment später hat sie das richtige Gleis gefunden und ist weitergefahren.", "en": "A moment later, she found the correct platform and continued her journey."},
       {"de": "Am Ende hat sie Leo im Café getroffen, und alles war wieder gut.", "en": "In the end, she met Leo at the café, and everything was fine again."}
     ],

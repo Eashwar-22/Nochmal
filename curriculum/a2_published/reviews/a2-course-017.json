@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a2-course-017",
+  "source_sha256": "1ff91f01cc85c1e7691cfc49de236c640a84874825e27715e1f2307f5058b190",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "Read both governing documents in full, the exact Lesson 17 blueprint entry, candidate source, compiled artifact, and complete preview; ignored review.json.",
+        "Inspected all 84 source tokens left to right, all 71 word cards, and all 39 phrase cards. Token ownership is exact, including the discontinuous Geben ... weiter construction.",
+        "Verified source order, phrase boundaries, repeated dictionary forms, contextual meanings, controlled tags, and authored ambiguity resolution.",
+        "All 17 verb cards have correct lexical infinitives, six-row bilingual present references, and complete additional forms where applicable.",
+        "All 20 inflection references have correct case, gender/person, number, paradigm, complete four-case tables, and matching selected cells. Required visible determiner and pronoun forms are covered.",
+        "Pydantic validation, source hash, deterministic compilation, source/compiled text agreement, preview reproduction, and candidate validation pass.",
+        "All 23 tests passed across test_a2_course, test_grammar_rulebook, test_lesson_contract, and test_contextual_verb_references.",
+        "a2-course-017 remains outside the published-lesson manifest."
+      ],
+      "findings": [
+        {
+          "severity": "warning",
+          "location": "lesson-source.json and compiled-lesson.json: lesson audio_path and sentences 1–6 audio_path",
+          "rule": "Rulebook §§11–12: audio agreement",
+          "message": "Audio is pending and paths are null, as expected for this candidate. Generate and review audio against the exact German before release; this does not block the pre-audio content audit."
+        },
+        {
+          "severity": "warning",
+          "location": "Candidate-wide: desktop/mobile rendering and interaction",
+          "rule": "Rulebook §§11–13: live release inspection",
+          "message": "Live desktop/mobile inspection remains a later release gate. Verify reference accessibility, repeated-form targeting, table readability, highlighted cells, and clipping before publication; this does not block this content audit."
+        }
+      ]
+    },
+    {
+      "kind": "language",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "Sentence 1: Zusteller is masculine nominative; mir is the recipient dative; Paket and Nachricht are accusative objects; für governs accusative; hat ... gebracht is correct Perfekt.",
+        "Sentence 2: shared habe correctly supports unterschrieben and angenommen; the second clause uses hat ... abgegeben. Articles, noun genders, bei + dative mir, participles, and verb references are correct.",
+        "Sentence 3: formal imperative Geben Sie ... weiter correctly represents weitergeben; ihr is feminine singular recipient dative; both transferred objects are accusative; heute Abend is idiomatic.",
+        "Sentence 4: erreichen governs accusative sie; nach governs dative der Arbeit. Singular reference and feminine pronoun slot are correct.",
+        "Sentence 5: Falls and damit clauses correctly place finite verbs last; the following main clause correctly inverts gebe ich. Ihrem Mann is masculine singular dative; Paket, Nachricht, and beides are accusative; ihr is recipient dative; geben kann is correct.",
+        "Sentence 6: Dann correctly triggers gibt er; ihr and mir are datives with distinct recipients; sie is the feminine subject; Lieferung is feminine nominative; angekommen ist correctly uses sein in subordinate-clause Perfekt.",
+        "Checked every noun, function word, pronoun, finite/nonfinite verb, inflection reference, and German conjugation row; found no unsupported grammatical assignment."
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "gpt-6.1-sol high, independent Codex audit",
+      "verdict": "pass",
+      "checks": [
+        "All six sentence translations preserve participants, transferred objects, conditions, timing, and confirmation. Contextual translations of unterschreiben, abgeben, da, damit, and noch heute are appropriate.",
+        "Inspected every word and phrase translation, bilingual verb-reference row, and comprehension question/answer. Recipient identity and the parcel/message chain remain consistent.",
+        "Blueprint fit passes: six connected delivery-exchange segments, 84 words, recipient-before-accusative-noun patterns, request, transfer, message relay, and confirmation.",
+        "All seven blueprint vocabulary targets occur in their appropriate lexical or inflected forms. Dative pronouns, parcel language, messages, and formal requests are recycled.",
+        "The speaking activity supplies sender, temporary receiver, final recipient, parcel/note cues, and an explicit delivery-message prompt."
+      ],
+      "findings": []
+    }
+  ]
+}

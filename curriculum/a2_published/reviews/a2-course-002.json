@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a2-course-002",
+  "source_sha256": "955400375bee6e97fbea703c3dc4e99952ae2a50372183cdf14af8b88c7363b9",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token coverage",
+        "verb and inflection reference coverage",
+        "exact phrase-source linkage",
+        "controlled tag and glossary contract"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "past-state opening with damals",
+        "past and present contrast",
+        "natural settlement storyline"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "natural temporal contrast",
+        "A2.1 past-tense scope",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-009",
+  "source_sha256": "9443ebf1c203c3cdd760c8ed56bc2732aada526fe9775a42761fc94edef1fa4f",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "exact token coverage",
+        "jeder-word reference table",
+        "separable brackets"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "Morgen is a masculine noun",
+        "jeden Morgen is accusative",
+        "steht ... auf resolves to aufstehen"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "contextual pronoun meanings",
+        "time phrases",
+        "routine chronology"
+      ],
+      "findings": []
+    }
+  ]
+}

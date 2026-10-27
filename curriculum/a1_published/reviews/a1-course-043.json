@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-043",
+  "source_sha256": "497394256a423f1db4c7f9066e55b29508050ec347c11430fe6f766beaf72c81",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "complete token coverage",
+        "perfect brackets",
+        "sein and haben auxiliaries",
+        "case phrases"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "chronological account",
+        "idiomatic perfect forms",
+        "consistent participants"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "sentence agreement",
+        "natural English",
+        "listening answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

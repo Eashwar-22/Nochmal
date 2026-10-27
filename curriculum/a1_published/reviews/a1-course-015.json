@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-015",
+  "source_sha256": "eb0d74d9cb46142672fbd3bdfb0c6765d4ab78ed555da5472f6db5bb49a7aadf",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "dative time and location phrases",
+        "possessive determiner cards",
+        "preference-clause boundaries"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "gern and lieber meanings",
+        "mit plus dative",
+        "coordinated breakfast preferences"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "activity preference translation",
+        "rather versus gladly distinction",
+        "food noun meanings"
+      ],
+      "findings": []
+    }
+  ]
+}

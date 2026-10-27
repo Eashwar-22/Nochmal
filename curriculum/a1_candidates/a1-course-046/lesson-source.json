@@ -1,0 +1,530 @@
+{
+  "id": "a1-course-046",
+  "source_draft_id": "a1-draft-046",
+  "sequence": 46,
+  "band": "A1.2",
+  "format": "dialogue",
+  "title_de": "Geburtstagseinladung",
+  "title_en": "Birthday Invitation",
+  "topic": "understanding and answering a simple birthday invitation",
+  "communicative_goal": "Identify when and where an event is and write a short acceptance or refusal.",
+  "grammar_focus": "accusative personal pronouns in invitation chunks",
+  "supporting_structures": [
+    "dich herzlich einladen",
+    "kein Geschenk mitbringen",
+    "Danke für die Einladung"
+  ],
+  "grammar_notes": [
+    "The invitation uses dich as the accusative object of einladen."
+  ],
+  "new_targets": [
+    "die Einladung",
+    "einladen",
+    "feiern",
+    "das Geschenk",
+    "mitbringen",
+    "gratulieren",
+    "Herzlichen Glückwunsch"
+  ],
+  "recycled_targets": [
+    "Samstag",
+    "die Wohnung",
+    "die Familie",
+    "kommen",
+    "die Adresse"
+  ],
+  "recycles_from": [
+    8,
+    12,
+    19,
+    40,
+    42
+  ],
+  "audio_path": "assets/audio/a1_candidates/a1-course-046/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Hallo Leo, am Samstag feiere ich meinen Geburtstag und möchte dich herzlich einladen.",
+      "en": "Hello Leo, I am celebrating my birthday on Saturday and would like to invite you.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-046/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Hallo": [
+            "interjection"
+          ],
+          "Leo": [
+            "proper noun"
+          ],
+          "am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Samstag": [
+            "dative",
+            "time"
+          ],
+          "feiere": [
+            "verb",
+            "present"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "meinen": [
+            "possessive",
+            "determiner",
+            "accusative"
+          ],
+          "Geburtstag": [
+            "accusative"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "möchte": [
+            "modal verb",
+            "present",
+            "subjunctive"
+          ],
+          "dich": [
+            "personal pronoun",
+            "accusative"
+          ],
+          "herzlich": [
+            "adverb",
+            "manner"
+          ],
+          "einladen": [
+            "verb",
+            "infinitive",
+            "separable"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "feiere": "feiern",
+          "möchte": "möchten",
+          "einladen": "einladen"
+        },
+        "word_meanings": {
+          "möchte": "would like"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "am Samstag",
+            "english": "on Saturday",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "meinen Geburtstag",
+            "english": "my birthday",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "möchte dich herzlich einladen",
+            "english": "would like to invite you warmly",
+            "literal_meaning": null,
+            "tags": [
+              "modal verb",
+              "accusative",
+              "separable"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Die Feier beginnt um sieben Uhr in meiner Wohnung, und meine Familie kommt auch.",
+      "en": "The celebration starts at seven o’clock in my apartment, and my family is coming too.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-046/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Die": [
+            "article",
+            "nominative"
+          ],
+          "Feier": [
+            "nominative"
+          ],
+          "beginnt": [
+            "verb",
+            "present"
+          ],
+          "um": [
+            "preposition",
+            "accusative",
+            "time"
+          ],
+          "sieben": [
+            "numeral",
+            "time"
+          ],
+          "Uhr": [
+            "time"
+          ],
+          "in": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "meiner": [
+            "possessive",
+            "determiner",
+            "dative"
+          ],
+          "Wohnung": [
+            "dative"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "meine": [
+            "possessive",
+            "determiner",
+            "nominative"
+          ],
+          "Familie": [
+            "nominative"
+          ],
+          "kommt": [
+            "verb",
+            "present"
+          ],
+          "auch": [
+            "adverb"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "beginnt": "beginnen",
+          "kommt": "kommen"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "um sieben Uhr",
+            "english": "at seven o’clock",
+            "literal_meaning": null,
+            "tags": [
+              "time",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "in meiner Wohnung",
+            "english": "in my apartment",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "meine Familie",
+            "english": "my family",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Bitte bring kein Geschenk mit, aber kannst du etwas Musik mitbringen?",
+      "en": "Please do not bring a present, but can you bring some music?",
+      "audio_path": "assets/audio/a1_candidates/a1-course-046/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Bitte": [
+            "interjection"
+          ],
+          "bring": [
+            "verb",
+            "imperative",
+            "informal"
+          ],
+          "kein": [
+            "determiner",
+            "accusative",
+            "negation"
+          ],
+          "Geschenk": [
+            "accusative"
+          ],
+          "mit": [
+            "particle"
+          ],
+          "aber": [
+            "conjunction",
+            "coordinating"
+          ],
+          "kannst": [
+            "modal verb",
+            "present"
+          ],
+          "du": [
+            "personal pronoun",
+            "nominative",
+            "informal"
+          ],
+          "etwas": [
+            "indefinite pronoun",
+            "accusative"
+          ],
+          "Musik": [
+            "accusative"
+          ],
+          "mitbringen": [
+            "verb",
+            "infinitive",
+            "separable"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "bring": "mitbringen",
+          "kannst": "können",
+          "mitbringen": "mitbringen"
+        },
+        "word_meanings": {
+          "mit": "separable prefix of mitbringen"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Bitte bring kein Geschenk mit",
+            "english": "Please do not bring a present",
+            "literal_meaning": null,
+            "tags": [
+              "imperative",
+              "negation",
+              "separable",
+              "informal"
+            ]
+          },
+          {
+            "german": "kein Geschenk",
+            "english": "no present",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "negation"
+            ]
+          },
+          {
+            "german": "kannst du etwas Musik mitbringen",
+            "english": "can you bring some music?",
+            "literal_meaning": null,
+            "tags": [
+              "inversion",
+              "modal verb",
+              "separable",
+              "informal"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Leo antwortet: „Danke für die Einladung; ich komme gern.“",
+      "en": "Leo replies, “Thank you for the invitation; I’d be happy to come.”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-046/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Leo": [
+            "nominative"
+          ],
+          "antwortet": [
+            "verb",
+            "present"
+          ],
+          "Danke": [
+            "interjection"
+          ],
+          "für": [
+            "preposition",
+            "accusative"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "Einladung": [
+            "accusative"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "komme": [
+            "verb",
+            "present"
+          ],
+          "gern": [
+            "adverb",
+            "manner"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "antwortet": "antworten",
+          "komme": "kommen"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Danke für die Einladung",
+            "english": "Thank you for the invitation",
+            "literal_meaning": null,
+            "tags": [
+              "fixed phrase",
+              "accusative"
+            ]
+          },
+          {
+            "german": "ich komme gern",
+            "english": "I’d be happy to come",
+            "literal_meaning": null,
+            "tags": [
+              "main clause"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Er gratuliert Mina schon jetzt herzlich und fragt noch kurz nach ihrer Adresse.",
+      "en": "He congratulates Mina warmly in advance and briefly asks for her address as well.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-046/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Er": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "gratuliert": [
+            "verb",
+            "present"
+          ],
+          "Mina": [
+            "dative"
+          ],
+          "schon": [
+            "adverb",
+            "time"
+          ],
+          "jetzt": [
+            "adverb",
+            "time"
+          ],
+          "herzlich": [
+            "adverb",
+            "manner"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "fragt": [
+            "verb",
+            "present"
+          ],
+          "noch": [
+            "adverb"
+          ],
+          "kurz": [
+            "adverb",
+            "manner"
+          ],
+          "nach": [
+            "preposition",
+            "dative"
+          ],
+          "ihrer": [
+            "possessive",
+            "determiner",
+            "dative"
+          ],
+          "Adresse": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "gratuliert": "gratulieren",
+          "fragt": "fragen"
+        },
+        "word_meanings": {
+          "schon": "in advance",
+          "jetzt": "now / already"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "gratuliert Mina",
+            "english": "congratulates Mina",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "nach ihrer Adresse",
+            "english": "for her address",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "fragt noch kurz nach ihrer Adresse",
+            "english": "also briefly asks for her address",
+            "literal_meaning": null,
+            "tags": [
+              "main clause"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "What should Leo bring?",
+    "answer_en": "Some music, but no present."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_08.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

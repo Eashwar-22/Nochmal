@@ -1,0 +1,40 @@
+{
+  "draft_id": "a2-draft-024",
+  "status": "reviewed",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav",
+    "sentence-05.wav",
+    "sentence-06.wav",
+    "sentence-07.wav"
+  ],
+  "sentence_texts": [
+    "Anzeige: Das Hotel sucht ab Montag Hilfe an der Rezeption; Erfahrung mit G\u00e4sten ist wichtig.",
+    "Mina: Das klingt interessant; ich w\u00fcrde mich gern um die Stelle bewerben.",
+    "Frau Koch: Welche Erfahrung haben Sie, und wann k\u00f6nnten Sie bei uns anfangen?",
+    "Mina: Vor einem Jahr habe ich meine Ausbildung beendet; danach habe ich in einem Hotel gearbeitet.",
+    "Mina: Ich glaube, dass ich gut zu Ihrem Team passe; ab Montag h\u00e4tte ich Zeit.",
+    "Nachricht von Frau Koch: Willkommen im Team. Ich melde mich morgen mit dem Vertrag.",
+    "Am Montag hat Mina an der Rezeption gearbeitet und ihre Kollegen kennengelernt."
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "5244aa682ba021c5375d58e2e996d803027bbf1175b8ba03051d4b63f397c91c",
+    "sentence-02.wav": "b69a0c67f48b669ec2982da099c8175ef22a9a36c02d5fdb2de498a7b4dae4e8",
+    "sentence-03.wav": "de3a261f935b01cde0c74ac8aa596df5b2308e755eb32e453e1715661b65ef61",
+    "sentence-04.wav": "17dd2009a26b0407e05f0ab9700568d04e694b225b4ba52497fdb49baed129ca",
+    "sentence-05.wav": "169f0e65066ebce8c0936efdd4fdff8807276c13d5f4265b9ab0224ce580b4e4",
+    "sentence-06.wav": "a24e86b2cb666872a79401014b417db64977435d02c18d669f7976b0446d64ce",
+    "sentence-07.wav": "5d07746827dd0f76f0daac0e93e078ef2fde6fbdc5ed8eb3dd962a8d8d9fb943"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "e10e7fc19935f94dfbbb1a06fb17962bbc72335487e9e1ff76e70d7f7c233e2f",
+  "paragraph_assembled_from_sentence_files": true
+}

@@ -46,23 +46,38 @@ def _word_spans(
 ) -> dict[int, tuple[int, int]]:
     source = _tokenize(sentence_text)
     spans: dict[int, tuple[int, int]] = {}
-    cursor = 0
+    claimed: set[int] = set()
+
+    def find_unclaimed(candidate: list[str]) -> tuple[int, int] | None:
+        for index in range(len(source) - len(candidate) + 1):
+            end = index + len(candidate) - 1
+            if source[index : end + 1] == candidate and not (
+                set(range(index, end + 1)) & claimed
+            ):
+                return index, end
+        return None
+
     for item in words:
         matches = [
             match
             for candidate in _word_candidates(item)
-            if (match := _find_sequence(source, candidate, start=cursor))
+            if (match := find_unclaimed(candidate))
         ]
-        if not matches:
-            matches = [
-                match
-                for candidate in _word_candidates(item)
-                if (match := _find_sequence(source, candidate))
-            ]
         if matches:
             match = min(matches, key=lambda span: (span[0], -span[1]))
             spans[id(item)] = match
-            cursor = match[1] + 1
+            claimed.update(range(match[0], match[1] + 1))
+            # A dictionary noun card can represent an article and a declined
+            # noun that are separated by an adjective. Reserve all of its
+            # concrete source forms, while using the first source position for
+            # visual order. This keeps both token ownership and the rendered
+            # German order intact.
+            for source_form in item.source_forms:
+                tokens = _tokenize(source_form)
+                if _find_sequence(source[match[0] : match[1] + 1], tokens):
+                    continue
+                if additional_match := find_unclaimed(tokens):
+                    claimed.update(range(additional_match[0], additional_match[1] + 1))
     return spans
 
 
@@ -149,6 +164,16 @@ def ordered_breakdown_items(
             )
         else:
             start, end = span
-            sort_key = (end, item.kind == "phrase", end - start, start, original_index)
+            # Word cards start where their source form begins. Phrase-result
+            # cards remain after their final component, which allows a noun
+            # card that includes an article to precede an intervening adjective.
+            placement = end if item.kind == "phrase" else start
+            sort_key = (
+                placement,
+                item.kind == "phrase",
+                end - start,
+                start,
+                original_index,
+            )
         decorated.append((sort_key, item))
     return [item for _, item in sorted(decorated, key=lambda entry: entry[0])]

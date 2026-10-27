@@ -1,0 +1,337 @@
+{
+  "id": "a1-course-009",
+  "source_draft_id": "a1-draft-009",
+  "sequence": 9,
+  "band": "A1.1",
+  "format": "narrative",
+  "title_de": "Mein Morgen",
+  "title_en": "My Morning",
+  "topic": "a weekday morning routine",
+  "communicative_goal": "Say when routine morning actions happen.",
+  "grammar_focus": "separable verbs in present-tense main clauses",
+  "supporting_structures": [
+    "um sieben Uhr aufstehen",
+    "mit ihrer Schwester",
+    "zur Arbeit gehen",
+    "fängt ... an"
+  ],
+  "grammar_notes": [
+    "Aufstehen and anfangen are separable: their prefixes occur at the end of their present-tense main clauses.",
+    "Mit governs dative; ihrer Schwester is feminine dative."
+  ],
+  "new_targets": [
+    "aufstehen",
+    "frühstücken",
+    "anfangen",
+    "die Arbeit",
+    "die Schule",
+    "die Küche",
+    "der Unterricht",
+    "der Morgen",
+    "früh"
+  ],
+  "recycled_targets": [
+    "die Schwester",
+    "gehen",
+    "die Uhr",
+    "dann"
+  ],
+  "recycles_from": [
+    7,
+    8
+  ],
+  "audio_path": "assets/audio/a1_candidates/a1-course-009/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Mina steht jeden Morgen um sieben Uhr auf.",
+      "en": "Mina gets up at seven every morning.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-009/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "jeden": [
+            "determiner",
+            "accusative"
+          ],
+          "morgen": [
+            "accusative"
+          ],
+          "um": [
+            "preposition",
+            "accusative"
+          ],
+          "uhr": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "um": "at",
+          "auf": "up"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "jeden Morgen",
+            "english": "every morning",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "time",
+              "frequency"
+            ]
+          },
+          {
+            "german": "um sieben Uhr",
+            "english": "at seven o’clock",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "time"
+            ]
+          },
+          {
+            "german": "Mina steht jeden Morgen um sieben Uhr auf",
+            "english": "Mina gets up at seven every morning",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "separable"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Dann frühstückt sie kurz mit ihrer Schwester in der Küche.",
+      "en": "Then she has a quick breakfast with her sister in the kitchen.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-009/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "ihrer": [
+            "dative"
+          ],
+          "schwester": [
+            "dative"
+          ],
+          "in": [
+            "preposition",
+            "dative"
+          ],
+          "der": [
+            "dative"
+          ],
+          "küche": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "sie": "she",
+          "ihrer": "her"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "mit ihrer Schwester",
+            "english": "with her sister",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "in der Küche",
+            "english": "in the kitchen",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Um acht Uhr geht Mina zur Arbeit.",
+      "en": "At eight o’clock, Mina goes to work.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-009/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "um": [
+            "preposition",
+            "accusative"
+          ],
+          "uhr": [
+            "accusative"
+          ],
+          "zur": [
+            "preposition",
+            "dative"
+          ],
+          "arbeit": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "um": "at"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Um acht Uhr",
+            "english": "at eight o’clock",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "time"
+            ]
+          },
+          {
+            "german": "zur Arbeit",
+            "english": "to work",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "direction"
+            ]
+          },
+          {
+            "german": "Um acht Uhr geht Mina zur Arbeit",
+            "english": "At eight o’clock, Mina goes to work",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Ihre Schwester geht zur Schule, und der Unterricht fängt um neun Uhr an.",
+      "en": "Her sister goes to school, and lessons start at nine o’clock.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-009/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "ihre": [
+            "possessive",
+            "determiner",
+            "nominative"
+          ],
+          "schwester": [
+            "nominative"
+          ],
+          "zur": [
+            "preposition",
+            "dative"
+          ],
+          "schule": [
+            "dative"
+          ],
+          "der": [
+            "nominative"
+          ],
+          "unterricht": [
+            "nominative"
+          ],
+          "um": [
+            "preposition",
+            "accusative"
+          ],
+          "uhr": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "ihre": "her",
+          "um": "at",
+          "an": "start (separable prefix)"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Ihre Schwester",
+            "english": "her sister",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "zur Schule",
+            "english": "to school",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "direction"
+            ]
+          },
+          {
+            "german": "der Unterricht",
+            "english": "the class",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "um neun Uhr",
+            "english": "at nine o’clock",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "time"
+            ]
+          },
+          {
+            "german": "der Unterricht fängt um neun Uhr an",
+            "english": "the class starts at nine o’clock",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second",
+              "separable"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Who goes to school?",
+    "answer_en": "Mina’s sister."
+  },
+  "source_basis": [
+    "a1-blueprint",
+    "a1-draft-009",
+    "grammar-breakdown-rulebook"
+  ],
+  "speech_alternatives": []
+}

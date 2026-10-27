@@ -1,0 +1,592 @@
+{
+  "id": "a2-course-001",
+  "source_draft_id": "a2-draft-001",
+  "sequence": 49,
+  "band": "A2.1",
+  "format": "narrative",
+  "title_de": "Der Tag lief anders",
+  "title_en": "The Day Did Not Go to Plan",
+  "topic": "a connected account of an unexpectedly difficult day",
+  "communicative_goal": "Understand and give a short chronological account of completed everyday actions.",
+  "grammar_focus": "expanded spoken Perfekt with common regular, irregular, and separable verbs",
+  "supporting_structures": [],
+  "grammar_notes": [],
+  "new_targets": [
+    "vergessen",
+    "verpassen",
+    "zurückfahren",
+    "zum Glück"
+  ],
+  "recycled_targets": [
+    "gestern",
+    "aufstehen",
+    "der Bus",
+    "die Stadt",
+    "der Termin"
+  ],
+  "recycles_from": [
+    43,
+    47
+  ],
+  "audio_path": "assets/audio/a2_published/a2-course-001/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Gestern ist Mina früh aufgestanden und mit dem Bus in die Stadt gefahren.",
+      "en": "Yesterday Mina got up early and took the bus into the city.",
+      "audio_path": "assets/audio/a2_published/a2-course-001/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Gestern": [
+            "adverb",
+            "time"
+          ],
+          "ist": [
+            "auxiliary",
+            "present"
+          ],
+          "Mina": [
+            "proper noun",
+            "nominative",
+            "subject"
+          ],
+          "früh": [
+            "adverb",
+            "time"
+          ],
+          "aufgestanden": [
+            "verb",
+            "past participle",
+            "perfect",
+            "separable"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "dem": [
+            "article",
+            "dative"
+          ],
+          "Bus": [
+            "dative"
+          ],
+          "in": [
+            "preposition",
+            "accusative",
+            "direction"
+          ],
+          "die": [
+            "article",
+            "accusative"
+          ],
+          "Stadt": [
+            "accusative"
+          ],
+          "gefahren": [
+            "verb",
+            "past participle",
+            "perfect"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "ist": "sein",
+          "aufgestanden": "aufstehen",
+          "gefahren": "fahren"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "ist Mina früh aufgestanden",
+            "english": "Mina got up early",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "perfect"
+            ]
+          },
+          {
+            "german": "mit dem Bus",
+            "english": "by bus",
+            "literal_meaning": null,
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "in die Stadt",
+            "english": "into the city",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction"
+            ]
+          },
+          {
+            "german": "ist ... gefahren",
+            "english": "travelled",
+            "literal_meaning": null,
+            "tags": [
+              "perfect"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Zuerst hat sie im Café gefrühstückt, aber dann hat sie ihre Geldbörse vergessen.",
+      "en": "First she had breakfast in the café, but then she forgot her wallet.",
+      "audio_path": "assets/audio/a2_published/a2-course-001/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Zuerst": [
+            "adverb",
+            "time"
+          ],
+          "hat": [
+            "auxiliary",
+            "present"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "im": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Café": [
+            "dative"
+          ],
+          "gefrühstückt": [
+            "verb",
+            "past participle",
+            "perfect"
+          ],
+          "aber": [
+            "conjunction",
+            "coordinating"
+          ],
+          "dann": [
+            "adverb",
+            "time"
+          ],
+          "ihre": [
+            "possessive",
+            "determiner",
+            "accusative"
+          ],
+          "Geldbörse": [
+            "accusative"
+          ],
+          "vergessen": [
+            "verb",
+            "past participle",
+            "perfect"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "hat": "haben",
+          "gefrühstückt": "frühstücken",
+          "vergessen": "vergessen"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "im Café",
+            "english": "in the café",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          },
+          {
+            "german": "hat sie im Café gefrühstückt",
+            "english": "she had breakfast in the café",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "perfect"
+            ]
+          },
+          {
+            "german": "ihre Geldbörse",
+            "english": "her wallet",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "hat sie ihre Geldbörse vergessen",
+            "english": "she forgot her wallet",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "perfect"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Deshalb ist sie nach Hause zurückgefahren und hat den wichtigen Termin verpasst.",
+      "en": "Therefore she went back home and missed the important appointment.",
+      "audio_path": "assets/audio/a2_published/a2-course-001/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Deshalb": [
+            "adverb",
+            "connector",
+            "reason"
+          ],
+          "ist": [
+            "auxiliary",
+            "present"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "nach": [
+            "preposition",
+            "dative",
+            "direction"
+          ],
+          "zurückgefahren": [
+            "verb",
+            "past participle",
+            "perfect",
+            "separable"
+          ],
+          "hat": [
+            "auxiliary",
+            "present"
+          ],
+          "den": [
+            "article",
+            "accusative"
+          ],
+          "wichtigen": [
+            "adjective",
+            "accusative"
+          ],
+          "Termin": [
+            "accusative"
+          ],
+          "verpasst": [
+            "verb",
+            "past participle",
+            "perfect"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "ist": "sein",
+          "zurückgefahren": "zurückfahren",
+          "hat": "haben",
+          "wichtigen": "wichtig",
+          "verpasst": "verpassen"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Deshalb ist sie nach Hause zurückgefahren",
+            "english": "Therefore she went back home",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "perfect"
+            ]
+          },
+          {
+            "german": "nach Hause",
+            "english": "home",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "direction"
+            ]
+          },
+          {
+            "german": "den wichtigen Termin",
+            "english": "the important appointment",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "hat ... verpasst",
+            "english": "missed",
+            "literal_meaning": null,
+            "tags": [
+              "perfect"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Am Nachmittag hat Mina im Büro angerufen und sich freundlich entschuldigt.",
+      "en": "In the afternoon Mina called the office and apologized politely.",
+      "audio_path": "assets/audio/a2_published/a2-course-001/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Nachmittag": [
+            "dative"
+          ],
+          "hat": [
+            "auxiliary",
+            "present"
+          ],
+          "Mina": [
+            "proper noun",
+            "nominative",
+            "subject"
+          ],
+          "im": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Büro": [
+            "dative"
+          ],
+          "angerufen": [
+            "verb",
+            "past participle",
+            "perfect",
+            "separable"
+          ],
+          "sich": [
+            "reflexive pronoun",
+            "accusative"
+          ],
+          "freundlich": [
+            "adverb",
+            "manner"
+          ],
+          "entschuldigt": [
+            "verb",
+            "past participle",
+            "perfect",
+            "reflexive"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "hat": "haben",
+          "angerufen": "anrufen",
+          "entschuldigt": "sich entschuldigen"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am Nachmittag",
+            "english": "in the afternoon",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "im Büro",
+            "english": "at the office",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          },
+          {
+            "german": "hat Mina im Büro angerufen",
+            "english": "Mina called the office",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "perfect"
+            ]
+          },
+          {
+            "german": "sich freundlich entschuldigt",
+            "english": "apologized politely",
+            "literal_meaning": null,
+            "tags": [
+              "reflexive",
+              "perfect"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Am Ende hat sie einen neuen Termin bekommen, und zum Glück ist alles gut gegangen.",
+      "en": "In the end she got a new appointment, and fortunately everything turned out well.",
+      "audio_path": "assets/audio/a2_published/a2-course-001/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "Ende": [
+            "dative"
+          ],
+          "hat": [
+            "auxiliary",
+            "present"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative",
+            "subject"
+          ],
+          "einen": [
+            "article",
+            "accusative"
+          ],
+          "neuen": [
+            "adjective",
+            "accusative"
+          ],
+          "Termin": [
+            "accusative"
+          ],
+          "bekommen": [
+            "verb",
+            "past participle",
+            "perfect"
+          ],
+          "zum": [
+            "preposition",
+            "dative"
+          ],
+          "Glück": [
+            "dative"
+          ],
+          "ist": [
+            "auxiliary",
+            "present"
+          ],
+          "alles": [
+            "indefinite pronoun",
+            "nominative",
+            "subject"
+          ],
+          "gut": [
+            "adverb",
+            "manner"
+          ],
+          "gegangen": [
+            "verb",
+            "past participle",
+            "perfect"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "hat": "haben",
+          "bekommen": "bekommen",
+          "neuen": "neu",
+          "ist": "sein",
+          "gegangen": "gehen"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am Ende",
+            "english": "in the end",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "einen neuen Termin",
+            "english": "a new appointment",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "hat sie einen neuen Termin bekommen",
+            "english": "she got a new appointment",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "perfect"
+            ]
+          },
+          {
+            "german": "zum Glück",
+            "english": "fortunately",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "fixed phrase",
+              "contraction"
+            ]
+          },
+          {
+            "german": "ist alles gut gegangen",
+            "english": "everything turned out well",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "perfect"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "What positive result did Mina get at the end?",
+    "answer_en": "She got a new appointment."
+  },
+  "source_basis": [
+    "curriculum/a2_blueprint.md",
+    "A2 blueprint lesson 1"
+  ],
+  "speech_alternatives": []
+}

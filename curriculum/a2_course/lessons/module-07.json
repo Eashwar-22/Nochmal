@@ -1,0 +1,1520 @@
+[
+  {
+    "id": "a2-course-037",
+    "source_draft_id": "a2-draft-037",
+    "sequence": 85,
+    "band": "A2.2",
+    "format": "dialogue",
+    "title_de": "Das rote oder das blaue?",
+    "title_en": "The Red One or the Blue One?",
+    "topic": "comparing two products in a store",
+    "communicative_goal": "Compare products by material, weight, and quality.",
+    "grammar_focus": "adjective endings after dative determiners",
+    "supporting_structures": [
+      "zwischen dem roten und dem blauen Gerät",
+      "Mit dem blauen Gerät",
+      "bei beiden"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "die Auswahl",
+      "das Material",
+      "das Gewicht",
+      "handlich",
+      "die Qualität",
+      "haltbar"
+    ],
+    "recycled_targets": [
+      "rot",
+      "blau",
+      "praktisch",
+      "teuer",
+      "kaufen"
+    ],
+    "recycles_from": [
+      17,
+      18,
+      7,
+      8
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Ich schwanke zwischen dem roten und dem blauen Gerät.",
+        "en": "I am deciding between the red and the blue device.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "roten": [
+              "adjective",
+              "dative"
+            ],
+            "blauen": [
+              "adjective",
+              "dative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "roten": "rot",
+            "blauen": "blau"
+          },
+          "word_meanings": {
+            "schwanke": "am undecided"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "zwischen dem roten und dem blauen Gerät",
+              "english": "between the red and the blue device",
+              "literal_meaning": null,
+              "tags": [
+                "dative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Bei dem roten Gerät ist das Material leichter.",
+        "en": "The material of the red device is lighter.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "roten": [
+              "adjective",
+              "dative"
+            ],
+            "leichter": [
+              "comparative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "roten": "rot"
+          },
+          "word_meanings": {
+            "leichter": "lighter"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Bei dem roten Gerät",
+              "english": "with the red device",
+              "literal_meaning": null,
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "das Material leichter",
+              "english": "the material is lighter",
+              "literal_meaning": null,
+              "tags": [
+                "comparative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Mit dem blauen Gerät arbeitet man aber schneller.",
+        "en": "But people can work faster with the blue device.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "blauen": [
+              "adjective",
+              "dative"
+            ],
+            "man": [
+              "indefinite pronoun",
+              "nominative",
+              "subject"
+            ],
+            "schneller": [
+              "comparative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "blauen": "blau"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Mit dem blauen Gerät",
+              "english": "with the blue device",
+              "literal_meaning": null,
+              "tags": [
+                "dative"
+              ]
+            },
+            {
+              "german": "arbeitet man aber schneller",
+              "english": "people can work faster",
+              "literal_meaning": null,
+              "tags": [
+                "inversion",
+                "comparative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Sein geringes Gewicht macht das rote Modell besonders handlich.",
+        "en": "Its low weight makes the red model especially easy to handle.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sein": [
+              "possessive",
+              "determiner",
+              "nominative"
+            ],
+            "geringes": [
+              "adjective",
+              "nominative"
+            ],
+            "rote": [
+              "adjective",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "rote": "rot"
+          },
+          "word_meanings": {
+            "geringes": "low",
+            "Modell": "model"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Sein geringes Gewicht",
+              "english": "its low weight",
+              "literal_meaning": null,
+              "tags": [
+                "nominative"
+              ]
+            },
+            {
+              "german": "das rote Modell",
+              "english": "the red model",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Die Qualität ist bei beiden gut, und beide sind lange haltbar.",
+        "en": "Both are good quality and durable.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "beiden": [
+              "indefinite pronoun",
+              "dative"
+            ],
+            "beide": [
+              "indefinite pronoun",
+              "nominative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "bei beiden",
+              "english": "in both",
+              "literal_meaning": null,
+              "tags": [
+                "dative"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "Which device is easier to handle?",
+      "answer_en": "The red device."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 37"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-038",
+    "source_draft_id": "a2-draft-038",
+    "sequence": 86,
+    "band": "A2.2",
+    "format": "message",
+    "title_de": "Eine beschädigte Lieferung",
+    "title_en": "A Damaged Delivery",
+    "topic": "reporting damage to a delivered product",
+    "communicative_goal": "Describe what arrived and what was wrong with it.",
+    "grammar_focus": "Perfekt for reporting a delivery problem",
+    "supporting_structures": [
+      "ist angekommen",
+      "hat abgegeben",
+      "dass das Gerät beschädigt ist"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "die Bestellnummer",
+      "die Verpackung"
+    ],
+    "recycled_targets": [
+      "die Ware",
+      "liefern",
+      "beschädigt",
+      "fehlen",
+      "die Lieferung",
+      "die Unterschrift"
+    ],
+    "recycles_from": [
+      37,
+      29,
+      1
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Gestern ist meine Bestellung angekommen, aber die Verpackung war offen.",
+        "en": "My order arrived yesterday, but the packaging was open.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "meine": [
+              "possessive",
+              "determiner",
+              "nominative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "angekommen": "ankommen"
+          },
+          "word_meanings": {
+            "Bestellung": "order"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "ist meine Bestellung angekommen",
+              "english": "my order arrived",
+              "literal_meaning": null,
+              "tags": [
+                "perfect"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Der Zusteller hat das Paket vor der Tür abgegeben.",
+        "en": "The delivery person left the parcel in front of the door.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {
+            "abgegeben": "abgeben"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "hat das Paket ... abgegeben",
+              "english": "left the parcel",
+              "literal_meaning": null,
+              "tags": [
+                "perfect",
+                "accusative"
+              ]
+            },
+            {
+              "german": "vor der Tür",
+              "english": "in front of the door",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Beim Öffnen habe ich gesehen, dass das Gerät beschädigt ist.",
+        "en": "When opening it, I saw that the device is damaged.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "dass": [
+              "conjunction",
+              "subordinating"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "gesehen": "sehen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Beim Öffnen",
+              "english": "when opening it",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time",
+                "contraction"
+              ]
+            },
+            {
+              "german": "dass das Gerät beschädigt ist",
+              "english": "that the device is damaged",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Außerdem hat ein Teil gefehlt, und die Anleitung war nicht dabei.",
+        "en": "In addition, one part was missing, and the instructions were not included.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "nicht": [
+              "particle",
+              "negation"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "gefehlt": "fehlen"
+          },
+          "word_meanings": {
+            "Anleitung": "instructions"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "hat ein Teil gefehlt",
+              "english": "one part was missing",
+              "literal_meaning": null,
+              "tags": [
+                "perfect"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Meine Bestellnummer und meine Unterschrift stehen auf der Rechnung.",
+        "en": "My order number and signature are on the invoice.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Meine": [
+              "possessive",
+              "determiner",
+              "nominative"
+            ],
+            "meine": [
+              "possessive",
+              "determiner",
+              "nominative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "Rechnung": "invoice"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "auf der Rechnung",
+              "english": "on the invoice",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What two problems did the customer find?",
+      "answer_en": "The device was damaged and one part was missing."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 38"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-039",
+    "source_draft_id": "a2-draft-039",
+    "sequence": 87,
+    "band": "A2.2",
+    "format": "dialogue",
+    "title_de": "Kann ich es umtauschen?",
+    "title_en": "Can I Exchange It?",
+    "topic": "returning a product in a store",
+    "communicative_goal": "Refer clearly to a product while discussing a return.",
+    "grammar_focus": "accusative personal pronouns in return exchanges",
+    "supporting_structures": [
+      "es umtauschen",
+      "es zurückgeben",
+      "mein Geld erstattet bekommen"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "umtauschen",
+      "erstatten",
+      "der Kassenzettel",
+      "die Garantie",
+      "die Rückgabe",
+      "ungeöffnet"
+    ],
+    "recycled_targets": [
+      "zurückgeben",
+      "das Gerät",
+      "kaputt",
+      "kaufen",
+      "das Geld"
+    ],
+    "recycles_from": [
+      37,
+      38,
+      17
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Ich habe dieses Gerät gestern gekauft, aber es ist das falsche Modell.",
+        "en": "I bought this device yesterday, but it is the wrong model.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "dieses": [
+              "determiner",
+              "accusative"
+            ],
+            "es": [
+              "personal pronoun",
+              "nominative"
+            ],
+            "falsche": [
+              "adjective",
+              "nominative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "gekauft": "kaufen",
+            "falsche": "falsch"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "habe dieses Gerät gestern gekauft",
+              "english": "bought this device yesterday",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "perfect"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Möchten Sie es umtauschen oder zurückgeben?",
+        "en": "Would you like to exchange it or return it?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "es": [
+              "personal pronoun",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "es umtauschen oder zurückgeben",
+              "english": "exchange it or return it",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ich möchte es zurückgeben und mein Geld erstattet bekommen.",
+        "en": "I would like to return it and receive a refund.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "es": [
+              "personal pronoun",
+              "accusative"
+            ],
+            "mein": [
+              "possessive",
+              "determiner",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "erstattet": "erstatten"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "es zurückgeben",
+              "english": "return it",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "infinitive"
+              ]
+            },
+            {
+              "german": "mein Geld erstattet bekommen",
+              "english": "receive a refund",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Haben Sie den Kassenzettel und ist die Ware noch ungeöffnet?",
+        "en": "Do you have the receipt, and is the product still unopened?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "den Kassenzettel",
+              "english": "the receipt",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "die Ware noch ungeöffnet",
+              "english": "the product still unopened",
+              "literal_meaning": null,
+              "tags": [
+                "nominative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ja, und auf das Gerät habe ich noch Garantie.",
+        "en": "Yes, and the device is still under warranty.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "auf das Gerät",
+              "english": "on the device",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "habe ich noch Garantie",
+              "english": "I still have warranty coverage",
+              "literal_meaning": null,
+              "tags": [
+                "inversion"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What does the customer want?",
+      "answer_en": "To return the device and receive a refund."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 39"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-040",
+    "source_draft_id": "a2-draft-040",
+    "sequence": 88,
+    "band": "A2.2",
+    "format": "message",
+    "title_de": "Eine formelle Beschwerde",
+    "title_en": "A Formal Complaint",
+    "topic": "writing a formal complaint",
+    "communicative_goal": "Write a concise formal complaint and request a solution.",
+    "grammar_focus": "formal request patterns with bitten um and subordinate clauses",
+    "supporting_structures": [
+      "wegen meiner Bestellung",
+      "ich bitte um",
+      "bestätigen Sie mir schriftlich"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "die Beschwerde",
+      "die Rückzahlung"
+    ],
+    "recycled_targets": [
+      "der Service",
+      "unfreundlich",
+      "schriftlich",
+      "die Antwort",
+      "die Rechnung"
+    ],
+    "recycles_from": [
+      38,
+      39,
+      23
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Sehr geehrte Damen und Herren, ich schreibe Ihnen wegen meiner Bestellung.",
+        "en": "Dear Sir or Madam, I am writing to you about my order.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Ihnen": [
+              "personal pronoun",
+              "dative",
+              "formal"
+            ],
+            "meiner": [
+              "possessive",
+              "determiner",
+              "genitive"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "Bestellung": "order"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "wegen meiner Bestellung",
+              "english": "about my order",
+              "literal_meaning": null,
+              "tags": [
+                "genitive",
+                "reason",
+                "formal"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Die Ware ist beschädigt angekommen, und ein Teil fehlt.",
+        "en": "The product arrived damaged, and one part is missing.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {
+            "angekommen": "ankommen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "ist beschädigt angekommen",
+              "english": "arrived damaged",
+              "literal_meaning": null,
+              "tags": [
+                "perfect"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Am Telefon war der Service leider unfreundlich.",
+        "en": "Unfortunately, the service on the phone was unfriendly.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Am Telefon",
+              "english": "on the phone",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "place"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ich bitte um eine vollständige Rückzahlung innerhalb von sieben Tagen.",
+        "en": "I request a full refund within seven days.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "vollständige": [
+              "adjective",
+              "accusative"
+            ],
+            "sieben": [
+              "numeral"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "innerhalb": "within"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "bitte um eine vollständige Rückzahlung",
+              "english": "request a full refund",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            },
+            {
+              "german": "innerhalb von sieben Tagen",
+              "english": "within seven days",
+              "literal_meaning": null,
+              "tags": [
+                "dative",
+                "time"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Bitte bestätigen Sie mir schriftlich, dass Sie meine Beschwerde erhalten haben.",
+        "en": "Please confirm to me in writing that you have received my complaint.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "mir": [
+              "personal pronoun",
+              "dative"
+            ],
+            "dass": [
+              "conjunction",
+              "subordinating"
+            ],
+            "meine": [
+              "possessive",
+              "determiner",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "erhalten": "erhalten"
+          },
+          "word_meanings": {
+            "erhalten": "received"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "bestätigen Sie mir schriftlich",
+              "english": "confirm to me in writing",
+              "literal_meaning": null,
+              "tags": [
+                "imperative",
+                "formal",
+                "dative"
+              ]
+            },
+            {
+              "german": "dass Sie meine Beschwerde erhalten haben",
+              "english": "that you have received my complaint",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "perfect",
+                "formal"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What does the customer request?",
+      "answer_en": "A full refund within seven days."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 40"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-041",
+    "source_draft_id": "a2-draft-041",
+    "sequence": 89,
+    "band": "A2.2",
+    "format": "instructions",
+    "title_de": "Der Drucker funktioniert nicht",
+    "title_en": "The Printer Is Not Working",
+    "topic": "solving a simple printer problem",
+    "communicative_goal": "Follow and give a short sequence of technical troubleshooting steps.",
+    "grammar_focus": "zu-infinitive constructions after versuchen",
+    "supporting_structures": [
+      "versuchen, neu zu starten",
+      "prüfen, ob",
+      "nicht vergessen, zu speichern"
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "neu starten",
+      "versuchen"
+    ],
+    "recycled_targets": [
+      "das Gerät",
+      "die Datei",
+      "speichern",
+      "der Drucker",
+      "prüfen",
+      "funktionieren"
+    ],
+    "recycles_from": [
+      32,
+      33,
+      40
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Der Drucker funktioniert nicht, obwohl das Gerät eingeschaltet ist.",
+        "en": "The printer does not work although the device is switched on.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "nicht": [
+              "particle",
+              "negation"
+            ],
+            "obwohl": [
+              "conjunction",
+              "subordinating"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {
+            "eingeschaltet": "switched on"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "obwohl das Gerät eingeschaltet ist",
+              "english": "although the device is switched on",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Versuchen Sie zuerst, den Drucker neu zu starten.",
+        "en": "First try restarting the printer.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Versuchen": [
+              "verb",
+              "imperative",
+              "formal"
+            ],
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "Versuchen": "versuchen",
+            "starten": "neu starten"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Versuchen Sie zuerst",
+              "english": "first try",
+              "literal_meaning": null,
+              "tags": [
+                "imperative",
+                "formal"
+              ]
+            },
+            {
+              "german": "den Drucker neu zu starten",
+              "english": "to restart the printer",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Danach prüfen Sie, ob genug Papier im Gerät liegt.",
+        "en": "Afterwards, check whether there is enough paper in the device.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "ob": [
+              "conjunction",
+              "subordinating"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "ob genug Papier im Gerät liegt",
+              "english": "whether enough paper is in the device",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Vergessen Sie nicht, die Datei noch einmal zu speichern.",
+        "en": "Do not forget to save the file again.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "nicht": [
+              "particle",
+              "negation"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Vergessen Sie nicht",
+              "english": "do not forget",
+              "literal_meaning": null,
+              "tags": [
+                "imperative",
+                "formal",
+                "negation"
+              ]
+            },
+            {
+              "german": "die Datei noch einmal zu speichern",
+              "english": "to save the file again",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Wenn er dann nicht druckt, rufen Sie den technischen Service an.",
+        "en": "If it still does not print, call technical support.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Wenn": [
+              "conjunction",
+              "subordinating"
+            ],
+            "nicht": [
+              "particle",
+              "negation"
+            ],
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "an": [
+              "particle"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "druckt": "drucken",
+            "rufen": "anrufen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Wenn er dann nicht druckt",
+              "english": "if it still does not print",
+              "literal_meaning": null,
+              "tags": [
+                "subordinate clause",
+                "verb-final",
+                "negation"
+              ]
+            },
+            {
+              "german": "rufen Sie den technischen Service an",
+              "english": "call technical support",
+              "literal_meaning": null,
+              "tags": [
+                "imperative",
+                "formal",
+                "accusative",
+                "separable"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What should be saved again?",
+      "answer_en": "The file."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 41"
+    ],
+    "speech_alternatives": []
+  },
+  {
+    "id": "a2-course-042",
+    "source_draft_id": "a2-draft-042",
+    "sequence": 90,
+    "band": "A2.2",
+    "format": "dialogue",
+    "title_de": "Ein Kundenproblem lösen",
+    "title_en": "Resolve a Customer Problem",
+    "topic": "resolving a customer service problem",
+    "communicative_goal": "Describe a product problem and agree on a solution.",
+    "grammar_focus": "consolidation of product comparison, problem Perfekt, pronouns, complaints, and zu-infinitives",
+    "supporting_structures": [
+      "Was genau ist das Problem?",
+      "es neu zu starten",
+      "Wir tauschen es um."
+    ],
+    "grammar_notes": [],
+    "new_targets": [
+      "Was genau ist das Problem",
+      "Ich habe es schon versucht",
+      "Haben Sie den Kassenzettel",
+      "Wir tauschen es um",
+      "Sie bekommen eine Bestätigung"
+    ],
+    "recycled_targets": [
+      "beschädigt",
+      "der Kassenzettel",
+      "umtauschen",
+      "die Rückzahlung",
+      "versuchen"
+    ],
+    "recycles_from": [
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "audio_path": null,
+    "sentences": [
+      {
+        "de": "Was genau ist das Problem mit dem Gerät?",
+        "en": "What exactly is the problem with the device?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {},
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "mit dem Gerät",
+              "english": "with the device",
+              "literal_meaning": null,
+              "tags": [
+                "dative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Es startet nicht; ich habe schon versucht, es neu zu starten.",
+        "en": "It does not start; I have already tried to restart it.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Es": [
+              "personal pronoun",
+              "nominative"
+            ],
+            "nicht": [
+              "particle",
+              "negation"
+            ],
+            "es": [
+              "personal pronoun",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "versucht": "versuchen",
+            "starten": "neu starten"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "habe schon versucht",
+              "english": "have already tried",
+              "literal_meaning": null,
+              "tags": [
+                "perfect"
+              ]
+            },
+            {
+              "german": "es neu zu starten",
+              "english": "to restart it",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "infinitive"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Haben Sie den Kassenzettel und die Bestellnummer dabei?",
+        "en": "Do you have the receipt and order number with you?",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {},
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "den Kassenzettel und die Bestellnummer",
+              "english": "the receipt and order number",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Ja, hier sind beide; bitte tauschen Sie das Gerät um.",
+        "en": "Yes, here are both; please exchange the device.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "um": [
+              "particle"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "tauschen": "umtauschen"
+          },
+          "word_meanings": {},
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "tauschen Sie das Gerät um",
+              "english": "exchange the device",
+              "literal_meaning": null,
+              "tags": [
+                "imperative",
+                "formal",
+                "accusative",
+                "separable"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "de": "Wir tauschen es um, und Sie bekommen eine schriftliche Bestätigung.",
+        "en": "We will exchange it, and you will receive written confirmation.",
+        "audio_path": null,
+        "annotations": {
+          "word_tags": {
+            "es": [
+              "personal pronoun",
+              "accusative"
+            ],
+            "Sie": [
+              "personal pronoun",
+              "nominative",
+              "formal"
+            ],
+            "schriftliche": [
+              "adjective",
+              "accusative"
+            ]
+          },
+          "excluded_word_tags": {},
+          "base_forms": {
+            "tauschen": "umtauschen",
+            "schriftliche": "schriftlich"
+          },
+          "word_meanings": {
+            "Bestätigung": "confirmation"
+          },
+          "spoken_forms": {},
+          "word_occurrences": [],
+          "excluded_phrases": [],
+          "excluded_phrase_tags": {},
+          "phrases": [
+            {
+              "german": "Wir tauschen es um",
+              "english": "we will exchange it",
+              "literal_meaning": null,
+              "tags": [
+                "accusative",
+                "separable"
+              ]
+            },
+            {
+              "german": "eine schriftliche Bestätigung",
+              "english": "written confirmation",
+              "literal_meaning": null,
+              "tags": [
+                "accusative"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "comprehension": {
+      "question_en": "What proof does the customer have?",
+      "answer_en": "The receipt and order number."
+    },
+    "source_basis": [
+      "curriculum/a2_blueprint.md",
+      "A2 Lesson 42"
+    ],
+    "speech_alternatives": []
+  }
+]

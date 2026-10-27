@@ -1,0 +1,365 @@
+{
+  "id": "a2-course-011",
+  "source_draft_id": "a2-draft-011",
+  "sequence": 59,
+  "band": "A2.1",
+  "format": "instructions",
+  "title_de": "Der Umzugstag",
+  "title_en": "Moving Day",
+  "topic": "placing furniture and unpacking on moving day",
+  "communicative_goal": "Give placement instructions and report final locations.",
+  "grammar_focus": "placement and state verbs stellen/stehen, legen/liegen, and hängen",
+  "supporting_structures": [
+    "die Kartons auspacken",
+    "auf den Tisch stellen",
+    "über dem Schrank hängen"
+  ],
+  "grammar_notes": [],
+  "new_targets": [
+    "der Umzug",
+    "der Karton",
+    "auspacken",
+    "aufbauen",
+    "das Regal",
+    "fertig sein"
+  ],
+  "recycled_targets": [
+    "das Wohnzimmer",
+    "die Lampe",
+    "der Tisch",
+    "das Sofa",
+    "das Buch",
+    "die Wand",
+    "der Schrank",
+    "das Bett"
+  ],
+  "recycles_from": [
+    10,
+    21,
+    23
+  ],
+  "audio_path": "assets/audio/a2_published/a2-course-011/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Zuerst packen wir die Kartons im Wohnzimmer aus.",
+      "en": "First we unpack the boxes in the living room.",
+      "audio_path": "assets/audio/a2_published/a2-course-011/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Zuerst": [
+            "adverb",
+            "time"
+          ],
+          "im": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "aus": [
+            "particle"
+          ],
+          "Kartons": [
+            "plural"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "packen": "auspacken"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "packen wir die Kartons ... aus",
+            "english": "we unpack the boxes",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "separable"
+            ]
+          },
+          {
+            "german": "im Wohnzimmer",
+            "english": "in the living room",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Stell die Lampe auf den Tisch; danach steht sie neben dem Sofa.",
+      "en": "Put the lamp on the table; afterwards it stands next to the sofa.",
+      "audio_path": "assets/audio/a2_published/a2-course-011/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Stell": [
+            "verb",
+            "imperative"
+          ],
+          "danach": [
+            "adverb",
+            "time"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "auf": [
+            "preposition",
+            "accusative",
+            "direction"
+          ],
+          "neben": [
+            "preposition",
+            "dative",
+            "place"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "Stell": "stellen",
+          "steht": "stehen"
+        },
+        "word_meanings": {
+          "sie": "it"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "auf den Tisch",
+            "english": "onto the table",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction"
+            ]
+          },
+          {
+            "german": "neben dem Sofa",
+            "english": "next to the sofa",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Leg die Bücher ins Regal; dort liegen sie trocken und sicher.",
+      "en": "Put the books on the shelf; there they lie dry and safe.",
+      "audio_path": "assets/audio/a2_published/a2-course-011/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Leg": [
+            "verb",
+            "imperative"
+          ],
+          "dort": [
+            "adverb",
+            "place"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "Bücher": [
+            "plural"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "Leg": "legen",
+          "liegen": "liegen"
+        },
+        "word_meanings": {
+          "trocken": "dry",
+          "sicher": "safe",
+          "sie": "they",
+          "Leg": "put"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "ins Regal",
+            "english": "onto the shelf",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction",
+              "contraction"
+            ]
+          },
+          {
+            "german": "dort liegen sie",
+            "english": "there they lie",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Häng das Bild an die Wand; am Ende hängt es über dem Schrank.",
+      "en": "Hang the picture on the wall; in the end it hangs above the wardrobe.",
+      "audio_path": "assets/audio/a2_published/a2-course-011/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Häng": [
+            "verb",
+            "imperative"
+          ],
+          "am": [
+            "preposition",
+            "dative",
+            "time"
+          ],
+          "es": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "an": [
+            "preposition",
+            "accusative",
+            "direction"
+          ],
+          "über": [
+            "preposition",
+            "dative",
+            "place"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "Häng": "hängen",
+          "hängt": "hängen"
+        },
+        "word_meanings": {
+          "Bild": "picture",
+          "es": "it"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "an die Wand",
+            "english": "onto the wall",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction"
+            ]
+          },
+          {
+            "german": "über dem Schrank",
+            "english": "above the wardrobe",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place"
+            ]
+          },
+          {
+            "german": "am Ende",
+            "english": "in the end",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Wenn alles seinen Platz hat, bauen wir noch das Bett auf.",
+      "en": "When everything has its place, we still assemble the bed.",
+      "audio_path": "assets/audio/a2_published/a2-course-011/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Wenn": [
+            "conjunction",
+            "subordinating"
+          ],
+          "seinen": [
+            "possessive",
+            "determiner",
+            "accusative"
+          ],
+          "auf": [
+            "particle"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "bauen": "aufbauen"
+        },
+        "word_meanings": {
+          "seinen": "its"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Wenn alles seinen Platz hat",
+            "english": "when everything has its place",
+            "literal_meaning": null,
+            "tags": [
+              "subordinate clause",
+              "verb-final"
+            ]
+          },
+          {
+            "german": "bauen wir noch das Bett auf",
+            "english": "we still assemble the bed",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "separable"
+            ]
+          },
+          {
+            "german": "seinen Platz",
+            "english": "its place",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "What do they assemble last?",
+    "answer_en": "The bed."
+  },
+  "source_basis": [
+    "curriculum/a2_blueprint.md",
+    "A2 Lesson 11"
+  ],
+  "speech_alternatives": []
+}

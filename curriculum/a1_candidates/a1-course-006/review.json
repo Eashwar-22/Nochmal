@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-006",
+  "source_sha256": "cdbde9caddf91dff12e7fa09abed49455e245e16cfb1617c052c60bdebb9854d",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "every source token has one ordered word card, including both occurrences of bitte",
+        "every finite verb has complete bilingual present-tense help",
+        "Guten carries its own weak masculine accusative reference in Guten Tag",
+        "die Freundin and die Frage have their required nominative and accusative determiner references",
+        "all phrase cards use exact source wording and controlled tags"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "the staged checkpoint dialogue is grammatical and natural",
+        "geht\u2019s is retained as the colloquial contraction of geht es and analysed as gehen",
+        "wie hei\u00dft die Freundin dort has correct question order with a nominative subject",
+        "die Frage is feminine accusative after verstehe and nicht correctly negates the clause",
+        "Bitte langsamer und noch einmal is a coherent elliptical repair request"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "sentence translations preserve the greeting, introduction, question, and repair sequence",
+        "the natural phrase How are you? and literal phrase How goes it? make the greeting usable without hiding its structure",
+        "word meanings are concise and suitable for an A1 learner",
+        "the checkpoint meaningfully recycles core material from Lessons 1\u20135"
+      ],
+      "findings": []
+    }
+  ]
+}

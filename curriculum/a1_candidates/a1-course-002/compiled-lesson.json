@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "source_sha256": "e3060d0f811370fe00f85a8dc143a2bd33dce845ed35ffde197d1206784875cb",
+  "source_sha256": "978ac1d64fe8f762aa91a06d471c813ead8eb7f75a3810eb46a50d094071b002",
   "lesson": {
     "id": "a1-course-002",
     "title": "Woher kommst du?",
@@ -32,7 +32,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "Woher"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "kommst",
@@ -126,7 +127,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "kommst"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "du",
@@ -151,7 +153,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "du"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "Mina",
@@ -168,7 +171,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "Mina"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "und",
@@ -189,7 +193,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "und"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "wo",
@@ -210,7 +215,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "wo"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "wohnst",
@@ -304,7 +310,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "wohnst"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "du",
@@ -329,7 +336,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "du"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "jetzt",
@@ -350,7 +358,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "jetzt"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "wo wohnst du jetzt",
@@ -369,7 +378,8 @@
                 "kind": "phrase",
                 "verb_help": null,
                 "inflection_help": [],
-                "source_forms": []
+                "source_forms": [],
+                "spoken_form": null
               },
               {
                 "german": "Woher kommst du",
@@ -388,12 +398,13 @@
                 "kind": "phrase",
                 "verb_help": null,
                 "inflection_help": [],
-                "source_forms": []
+                "source_forms": [],
+                "spoken_form": null
               }
             ]
           }
         ],
-        "audio_path": null
+        "audio_path": "assets/audio/a1_candidates/a1-course-002/sentence-01.wav"
       },
       {
         "text": "Ich komme aus Spanien und wohne jetzt in Bonn.",
@@ -424,7 +435,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "Ich"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "komme",
@@ -518,7 +530,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "komme"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "aus",
@@ -543,7 +556,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "aus"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "Spanien",
@@ -560,7 +574,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "Spanien"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "und",
@@ -581,7 +596,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "und"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "wohne",
@@ -675,7 +691,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "wohne"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "jetzt",
@@ -696,7 +713,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "jetzt"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "in",
@@ -721,7 +739,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "in"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "Bonn",
@@ -738,7 +757,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "Bonn"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "aus Spanien",
@@ -757,7 +777,8 @@
                 "kind": "phrase",
                 "verb_help": null,
                 "inflection_help": [],
-                "source_forms": []
+                "source_forms": [],
+                "spoken_form": null
               },
               {
                 "german": "in Bonn",
@@ -776,7 +797,8 @@
                 "kind": "phrase",
                 "verb_help": null,
                 "inflection_help": [],
-                "source_forms": []
+                "source_forms": [],
+                "spoken_form": null
               },
               {
                 "german": "Ich komme aus Spanien",
@@ -795,7 +817,8 @@
                 "kind": "phrase",
                 "verb_help": null,
                 "inflection_help": [],
-                "source_forms": []
+                "source_forms": [],
+                "spoken_form": null
               },
               {
                 "german": "Ich komme aus Spanien und wohne jetzt in Bonn",
@@ -814,12 +837,13 @@
                 "kind": "phrase",
                 "verb_help": null,
                 "inflection_help": [],
-                "source_forms": []
+                "source_forms": [],
+                "spoken_form": null
               }
             ]
           }
         ],
-        "audio_path": null
+        "audio_path": "assets/audio/a1_candidates/a1-course-002/sentence-02.wav"
       },
       {
         "text": "Und du, Leo, woher kommst du?",
@@ -846,7 +870,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "Und"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "du",
@@ -871,7 +896,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "du"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "Leo",
@@ -888,7 +914,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "Leo"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "woher",
@@ -909,7 +936,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "woher"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "kommst",
@@ -1003,7 +1031,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "kommst"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "du",
@@ -1028,7 +1057,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "du"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "woher kommst du",
@@ -1047,7 +1077,8 @@
                 "kind": "phrase",
                 "verb_help": null,
                 "inflection_help": [],
-                "source_forms": []
+                "source_forms": [],
+                "spoken_form": null
               },
               {
                 "german": "Und du",
@@ -1066,38 +1097,22 @@
                 "kind": "phrase",
                 "verb_help": null,
                 "inflection_help": [],
-                "source_forms": []
+                "source_forms": [],
+                "spoken_form": null
               }
             ]
           }
         ],
-        "audio_path": null
+        "audio_path": "assets/audio/a1_candidates/a1-course-002/sentence-03.wav"
       },
       {
-        "text": "Ja, ich wohne hier in der Stadt.",
-        "natural_meaning": "Yes, I live here in the city.",
+        "text": "Ich komme aus Italien und wohne hier in der Stadt.",
+        "natural_meaning": "I come from Italy and live here in the city.",
         "breakdown_groups": [
           {
             "items": [
               {
-                "german": "Ja",
-                "english": "yes",
-                "literal_meaning": null,
-                "tags": [
-                  {
-                    "label": "interjection",
-                    "category": "word-class"
-                  }
-                ],
-                "kind": "word",
-                "verb_help": null,
-                "inflection_help": [],
-                "source_forms": [
-                  "Ja"
-                ]
-              },
-              {
-                "german": "ich",
+                "german": "Ich",
                 "english": "I",
                 "literal_meaning": null,
                 "tags": [
@@ -1118,8 +1133,178 @@
                 "verb_help": null,
                 "inflection_help": [],
                 "source_forms": [
-                  "ich"
-                ]
+                  "Ich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "komme",
+                "english": "come",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "kommen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "komme"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kommst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kommt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "kommen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "kommt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "kommen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to come",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "komme"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kommst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kommt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "kommen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "kommt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "kommen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I come",
+                    "you come",
+                    "he/she/it comes",
+                    "we come",
+                    "you come",
+                    "they/you come"
+                  ],
+                  "current_english_forms": [
+                    "I come",
+                    "you come",
+                    "he/she/it comes",
+                    "we come",
+                    "you come",
+                    "they/you come"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "komme"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "aus",
+                "english": "from",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "aus"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Italien",
+                "english": "Italy",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Italien"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
               },
               {
                 "german": "wohne",
@@ -1213,7 +1398,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "wohne"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "hier",
@@ -1234,7 +1420,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "hier"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "in",
@@ -1259,7 +1446,8 @@
                 "inflection_help": [],
                 "source_forms": [
                   "in"
-                ]
+                ],
+                "spoken_form": null
               },
               {
                 "german": "die Stadt",
@@ -1285,7 +1473,28 @@
                 "source_forms": [
                   "der",
                   "Stadt"
-                ]
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "aus Italien",
+                "english": "from Italy",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "place",
+                    "category": "time"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
               },
               {
                 "german": "in der Stadt",
@@ -1317,11 +1526,44 @@
                     "contraction": null
                   }
                 ],
-                "source_forms": []
+                "source_forms": [],
+                "spoken_form": null
               },
               {
-                "german": "ich wohne hier in der Stadt",
-                "english": "I live here in the city",
+                "german": "Ich komme aus Italien",
+                "english": "I come from Italy",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "und wohne hier in der Stadt",
+                "english": "and live here in the city",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Ich komme aus Italien und wohne hier in der Stadt",
+                "english": "I come from Italy and live here in the city",
                 "literal_meaning": null,
                 "tags": [
                   {
@@ -1336,18 +1578,19 @@
                 "kind": "phrase",
                 "verb_help": null,
                 "inflection_help": [],
-                "source_forms": []
+                "source_forms": [],
+                "spoken_form": null
               }
             ]
           }
         ],
-        "audio_path": null
+        "audio_path": "assets/audio/a1_candidates/a1-course-002/sentence-04.wav"
       }
     ],
-    "audio_path": null,
+    "audio_path": "assets/audio/a1_candidates/a1-course-002/paragraph.wav",
     "initial_question": "Where does Mina live now?",
     "initial_answer": "In Bonn.",
-    "audio_status": "pending",
+    "audio_status": "ready",
     "sequence": 2,
     "lesson_format": "dialogue",
     "topic": "origin and place of residence",

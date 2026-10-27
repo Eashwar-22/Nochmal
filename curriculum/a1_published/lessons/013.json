@@ -1,0 +1,333 @@
+{
+  "id": "a1-course-013",
+  "source_draft_id": "a1-draft-013",
+  "sequence": 13,
+  "band": "A1.1",
+  "format": "dialogue",
+  "title_de": "In der Bäckerei",
+  "title_en": "At the Bakery",
+  "topic": "buying breakfast at a bakery counter",
+  "communicative_goal": "Politely ask for simple food items at a bakery.",
+  "grammar_focus": "möchten with accusative noun phrases in a polite request",
+  "supporting_structures": [
+    "am Morgen",
+    "in die Bäckerei",
+    "ich möchte",
+    "auch Käse oder Butter"
+  ],
+  "grammar_notes": [
+    "In die Bäckerei uses accusative because the movement has a destination.",
+    "Möchten is the formal Sie form of möchten; in the question it comes before the subject."
+  ],
+  "new_targets": [
+    "die Bäckerei",
+    "begrüßen",
+    "das Brötchen",
+    "das Brot",
+    "der Käse",
+    "die Butter",
+    "möchten",
+    "nehmen",
+    "bezahlen"
+  ],
+  "recycled_targets": [
+    "der Morgen",
+    "gehen",
+    "sagen",
+    "fragen",
+    "Danke",
+    "zwei",
+    "ein"
+  ],
+  "recycles_from": [
+    1,
+    3,
+    8,
+    12
+  ],
+  "audio_path": "assets/audio/a1_published/a1-course-013/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Mina geht am Morgen in die Bäckerei und begrüßt die Verkäuferin.",
+      "en": "Mina goes to the bakery in the morning and greets the saleswoman.",
+      "audio_path": "assets/audio/a1_published/a1-course-013/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "am": [
+            "preposition",
+            "dative"
+          ],
+          "morgen": [
+            "dative"
+          ],
+          "in": [
+            "preposition",
+            "accusative"
+          ],
+          "die": [
+            "accusative"
+          ],
+          "bäckerei": [
+            "accusative"
+          ],
+          "verkäuferin": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "am": "in the morning"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "am Morgen",
+            "english": "in the morning",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time"
+            ]
+          },
+          {
+            "german": "in die Bäckerei",
+            "english": "to the bakery",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction"
+            ]
+          },
+          {
+            "german": "die Verkäuferin",
+            "english": "the sales assistant",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "Mina geht am Morgen in die Bäckerei",
+            "english": "Mina goes to the bakery in the morning",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "und begrüßt die Verkäuferin",
+            "english": "and greets the sales assistant",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "main clause",
+              "ellipsis"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Sie sagt: „Ich möchte zwei Brötchen und ein Brot, bitte.“",
+      "en": "She says, “I would like two rolls and a loaf of bread, please.”",
+      "audio_path": "assets/audio/a1_published/a1-course-013/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "brötchen": [
+            "accusative",
+            "plural"
+          ],
+          "ein": [
+            "determiner",
+            "accusative"
+          ],
+          "brot": [
+            "accusative"
+          ],
+          "bitte": [
+            "particle"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "sie": "she"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "zwei Brötchen",
+            "english": "two bread rolls",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "ein Brot",
+            "english": "a loaf of bread",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "Ich möchte zwei Brötchen und ein Brot, bitte",
+            "english": "I would like two bread rolls and a loaf of bread, please",
+            "literal_meaning": "I would like two bread rolls and a bread, please",
+            "tags": [
+              "main clause",
+              "modal verb"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Die Verkäuferin fragt: „Möchten Sie auch Käse oder Butter?“",
+      "en": "The saleswoman asks, “Would you also like cheese or butter?”",
+      "audio_path": "assets/audio/a1_published/a1-course-013/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "die": [
+            "nominative"
+          ],
+          "verkäuferin": [
+            "nominative"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative",
+            "formal"
+          ],
+          "auch": [
+            "particle"
+          ],
+          "käse": [
+            "accusative"
+          ],
+          "butter": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "sie": "you (formal)"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Die Verkäuferin",
+            "english": "the sales assistant",
+            "literal_meaning": null,
+            "tags": [
+              "nominative"
+            ]
+          },
+          {
+            "german": "Möchten Sie auch Käse oder Butter",
+            "english": "Would you also like cheese or butter?",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "modal verb"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina nimmt nur den Käse, bezahlt und sagt freundlich Danke.",
+      "en": "Mina takes only the cheese, pays, and says thank you politely.",
+      "audio_path": "assets/audio/a1_published/a1-course-013/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "nur": [
+            "adverb"
+          ],
+          "den": [
+            "accusative"
+          ],
+          "käse": [
+            "accusative"
+          ],
+          "freundlich": [
+            "adverb"
+          ],
+          "danke": [
+            "interjection"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Mina nimmt nur den Käse, bezahlt",
+          "und sagt freundlich Danke"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "nur den Käse",
+            "english": "only the cheese",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "Mina nimmt nur den Käse",
+            "english": "Mina takes only the cheese",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "bezahlt und sagt freundlich Danke",
+            "english": "pays and politely says thank you",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "main clause",
+              "ellipsis"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "What does Mina buy with the bread and rolls?",
+    "answer_en": "Cheese."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_03.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

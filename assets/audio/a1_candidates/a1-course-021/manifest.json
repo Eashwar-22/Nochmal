@@ -1,0 +1,31 @@
+{
+  "draft_id": "a1-draft-021",
+  "status": "draft_unpublished",
+  "model_id": "eleven_v4",
+  "voice_id": "rKiu7lQ4c5P3az3745s3",
+  "sample_rate": 44100,
+  "api_output_format": "mp3_44100_128",
+  "stored_output_format": "PCM 16-bit WAV",
+  "pause_seconds": 0.35,
+  "sentence_files": [
+    "sentence-01.wav",
+    "sentence-02.wav",
+    "sentence-03.wav",
+    "sentence-04.wav"
+  ],
+  "sentence_texts": [
+    "Am Abend ist das Licht in Minas K\u00fcche kaputt.",
+    "Sie ruft Leo an und sagt: \u201eIch habe ein Problem.\u201c",
+    "Dann fragt sie: \u201eKannst du mir bitte sofort das Licht reparieren?\u201c",
+    "Leo kommt sofort vorbei, repariert das Licht und hilft Mina in der K\u00fcche."
+  ],
+  "sentence_sha256": {
+    "sentence-01.wav": "147396382459fde0bf25ddcff2b83734778e6ac890c93dfc4b1774b71811f5fd",
+    "sentence-02.wav": "5133f47276ebc62f1007d1e0824de3f1e40c72962d6f7187d804d69f5d49c14b",
+    "sentence-03.wav": "7b6a3f13cb5678a1063134c28a96489771a8bf44477225a6da24fd147e56fd8b",
+    "sentence-04.wav": "488f1190790e73990a7a895c9e4860a1c268225afbfd38f451602af104b616ee"
+  },
+  "paragraph_file": "paragraph.wav",
+  "paragraph_sha256": "8117ccc48cb39c6139a5c1b711403eda1e9ea44744bd34955e0f48efea878022",
+  "paragraph_assembled_from_sentence_files": true
+}

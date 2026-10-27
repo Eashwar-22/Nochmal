@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "lesson_id": "a1-course-028",
+  "source_sha256": "d3a8a527ffc3f6ba507e29f9046b35de0c28e4709600072ca5ef5b3c97f224cf",
+  "overall_verdict": "pass",
+  "audits": [
+    {
+      "kind": "rulebook",
+      "reviewer": "codex-rulebook-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "token-by-token word coverage",
+        "modal-final-infinitive brackets",
+        "reflexive uns ... treffen chunk",
+        "informal imperative and separable anrufen cards"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "language",
+      "reviewer": "codex-german-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "voicemail and reply sequence",
+        "new meeting-time wording",
+        "informal callback request",
+        "Geht das fixed expression"
+      ],
+      "findings": []
+    },
+    {
+      "kind": "translation-pedagogy",
+      "reviewer": "codex-translation-reviewer",
+      "verdict": "pass",
+      "checks": [
+        "natural message translation",
+        "literal modal and reflexive support",
+        "fixed-expression support",
+        "comprehension answer agreement"
+      ],
+      "findings": []
+    }
+  ]
+}

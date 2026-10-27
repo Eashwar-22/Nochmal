@@ -1,0 +1,3499 @@
+{
+  "schema_version": 1,
+  "source_sha256": "37f68fc9ece8b84a21a7388c0a913c1bff31e37fe6931bc5a580433c6084ce22",
+  "lesson": {
+    "id": "a2-course-016",
+    "title": "Ich helfe ihm",
+    "english_title": "I Can Help Him",
+    "level": "A2.1",
+    "sentences": [
+      {
+        "text": "Mara: Herr Braun baut ein Regal auf, aber ihm fehlt eine Leiter.",
+        "natural_meaning": "Mara: Mr Braun is assembling a shelf, but he is missing a ladder.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Mara",
+                "english": "Mara",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Mara"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Herr",
+                "english": "Mr",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Herr"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Braun",
+                "english": "Braun",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Braun"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "baut",
+                "english": "assemble",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "aufbauen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "baue auf"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "baust auf"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "baut auf"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "bauen auf"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "baut auf"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "bauen auf"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to assemble / set up",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "baue auf"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "baust auf"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "baut auf"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "bauen auf"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "baut auf"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "bauen auf"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I assemble",
+                    "you assemble",
+                    "he/she/it assembles",
+                    "we assemble",
+                    "you assemble",
+                    "they/you assemble"
+                  ],
+                  "current_english_forms": [
+                    "I assemble",
+                    "you assemble",
+                    "he/she/it assembles",
+                    "we assemble",
+                    "you assemble",
+                    "they/you assemble"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "baut",
+                  "auf"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Regal",
+                "english": "shelf / shelving unit",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ein",
+                  "Regal"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "aber",
+                "english": "but",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "aber"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "er",
+                "english": "him",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ihm"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "fehlt",
+                "english": "is missing",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "fehlen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "fehle"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "fehlst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "fehlt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "fehlen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "fehlt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "fehlen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to be missing / absent",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "fehle"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "fehlst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "fehlt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "fehlen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "fehlt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "fehlen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I am missing",
+                    "you are missing",
+                    "he/she/it is missing",
+                    "we are missing",
+                    "you are missing",
+                    "they/you are missing"
+                  ],
+                  "current_english_forms": [
+                    "I am missing",
+                    "you are missing",
+                    "he/she/it is missing",
+                    "we are missing",
+                    "you are missing",
+                    "they/you are missing"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "fehlt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Leiter",
+                "english": "ladder",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "eine",
+                  "Leiter"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Mara: Herr Braun baut ein Regal auf",
+                "english": "Mara: Mr Braun is assembling a shelf",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "aber ihm fehlt eine Leiter",
+                "english": "but he is missing a ladder",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Herr Braun baut ein Regal auf",
+                "english": "Mr Braun is assembling a shelf",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Herr Braun",
+                "english": "Mr Braun",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "baut ein Regal auf",
+                "english": "is assembling a shelf",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "separable",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "ein Regal",
+                "english": "a shelf",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "ein",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "accusative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "ihm fehlt",
+                "english": "he is missing",
+                "literal_meaning": "something is missing to him",
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "ihm",
+                    "base": "er",
+                    "kind": "personal-pronoun",
+                    "paradigm": "personal-pronoun",
+                    "case": "dative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": "third-masculine",
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "eine Leiter",
+                "english": "a ladder",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "eine",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "nominative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-016/sentence-01.wav"
+      },
+      {
+        "text": "Frau Keller: Ich kann ihm meine Leiter und einen Eimer leihen.",
+        "natural_meaning": "Ms Keller: I can lend him my ladder and a bucket.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Frau",
+                "english": "Ms",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Frau"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Keller",
+                "english": "Keller",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Keller"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Ich",
+                "english": "I",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Ich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "kann",
+                "english": "can",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "können",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kannst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "können"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "könnt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "können"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "can / to be able to",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kannst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "können"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "könnt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "können"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I can",
+                    "you can",
+                    "he/she/it can",
+                    "we can",
+                    "you can",
+                    "they/you can"
+                  ],
+                  "current_english_forms": [
+                    "I can",
+                    "you can",
+                    "he/she/it can",
+                    "we can",
+                    "you can",
+                    "they/you can"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "kann"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "er",
+                "english": "him",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ihm"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "meine",
+                "english": "my",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "possessive",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "determiner",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "meine"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Leiter",
+                "english": "ladder",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Leiter"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Eimer",
+                "english": "bucket",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "einen",
+                  "Eimer"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "leihen",
+                "english": "lend",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "infinitive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "leihen",
+                  "tense": "Infinitiv (infinitive in this construction)",
+                  "forms": [
+                    {
+                      "pronoun": "—",
+                      "verb": "leihen"
+                    }
+                  ],
+                  "usage": "This non-finite form follows a modal verb or zu, so it does not change for person in this sentence.",
+                  "english": "to lend / borrow",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "leihe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "leihst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "leiht"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "leihen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "leiht"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "leihen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I lend",
+                    "you lend",
+                    "he/she/it lends",
+                    "we lend",
+                    "you lend",
+                    "they/you lend"
+                  ],
+                  "current_english_forms": [
+                    "to lend"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "leihen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "meine Leiter",
+                "english": "my ladder",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "meine",
+                    "base": "mein",
+                    "kind": "possessive-determiner",
+                    "paradigm": "possessive",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Frau Keller",
+                "english": "Ms Keller",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Ich kann ihm meine Leiter und einen Eimer leihen",
+                "english": "I can lend him my ladder and a bucket",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "modal verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "infinitive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "ihm ... leihen",
+                "english": "lend to him",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "infinitive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "ihm",
+                    "base": "er",
+                    "kind": "personal-pronoun",
+                    "paradigm": "personal-pronoun",
+                    "case": "dative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": "third-masculine",
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "einen Eimer",
+                "english": "a bucket",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "einen",
+                    "base": "ein",
+                    "kind": "indefinite-article",
+                    "paradigm": "indefinite",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-016/sentence-02.wav"
+      },
+      {
+        "text": "Herr Braun: Das Werkzeug gehört mir; könntest du mir bitte helfen, Mara?",
+        "natural_meaning": "Mr Braun: The tool belongs to me; could you please help me, Mara?",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Herr",
+                "english": "Mr",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Herr"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Braun",
+                "english": "Braun",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Braun"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Werkzeug",
+                "english": "tool / tools",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Das",
+                  "Werkzeug"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "gehört",
+                "english": "belong",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "gehören",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "gehöre"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "gehörst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "gehört"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "gehören"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "gehört"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "gehören"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to belong",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "gehöre"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "gehörst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "gehört"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "gehören"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "gehört"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "gehören"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I belong",
+                    "you belong",
+                    "he/she/it belongs",
+                    "we belong",
+                    "you belong",
+                    "they/you belong"
+                  ],
+                  "current_english_forms": [
+                    "I belong",
+                    "you belong",
+                    "he/she/it belongs",
+                    "we belong",
+                    "you belong",
+                    "they/you belong"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "gehört"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ich",
+                "english": "me",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "mir"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "könntest",
+                "english": "could",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "subjunctive",
+                    "category": "form"
+                  },
+                  {
+                    "label": "modal verb",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "können",
+                  "tense": "Konjunktiv II (polite/conditional)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "könnte"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "könntest"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "könnte"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "könnten"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "könntet"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "könnten"
+                    }
+                  ],
+                  "usage": "This form makes a request or possibility polite or hypothetical.",
+                  "english": "can / to be able to",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kannst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "können"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "könnt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "können"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I can",
+                    "you can",
+                    "he/she/it can",
+                    "we can",
+                    "you can",
+                    "they/you can"
+                  ],
+                  "current_english_forms": [
+                    "I could",
+                    "you could",
+                    "he/she/it could",
+                    "we could",
+                    "you could",
+                    "they/you could"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "könntest"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "du",
+                "english": "you",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "du"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ich",
+                "english": "me",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "mir"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "bitte",
+                "english": "please",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "particle",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "bitte"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "helfen",
+                "english": "help",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "infinitive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "helfen",
+                  "tense": "Infinitiv (infinitive in this construction)",
+                  "forms": [
+                    {
+                      "pronoun": "—",
+                      "verb": "helfen"
+                    }
+                  ],
+                  "usage": "This non-finite form follows a modal verb or zu, so it does not change for person in this sentence.",
+                  "english": "to help",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "helfe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hilfst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hilft"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "helfen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "helft"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "helfen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I help",
+                    "you help",
+                    "he/she/it helps",
+                    "we help",
+                    "you help",
+                    "they/you help"
+                  ],
+                  "current_english_forms": [
+                    "to help"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "helfen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Mara",
+                "english": "Mara",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Mara"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Herr Braun",
+                "english": "Mr Braun",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Das Werkzeug gehört mir",
+                "english": "The tool belongs to me",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "könntest du mir bitte helfen",
+                "english": "could you please help me",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "subjunctive",
+                    "category": "form"
+                  },
+                  {
+                    "label": "modal verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "infinitive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Das Werkzeug",
+                "english": "the tool",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Das",
+                    "base": "das",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "nominative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "gehört mir",
+                "english": "belongs to me",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "mir",
+                    "base": "ich",
+                    "kind": "personal-pronoun",
+                    "paradigm": "personal-pronoun",
+                    "case": "dative",
+                    "gender": null,
+                    "number": "singular",
+                    "pronoun_slot": "first-singular",
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "mir bitte helfen",
+                "english": "help me, please",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "mir",
+                    "base": "ich",
+                    "kind": "personal-pronoun",
+                    "paradigm": "personal-pronoun",
+                    "case": "dative",
+                    "gender": null,
+                    "number": "singular",
+                    "pronoun_slot": "first-singular",
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-016/sentence-03.wav"
+      },
+      {
+        "text": "Mara: Ich bringe dir die Sachen, Herr Braun, und helfe euch, Kinder, morgen beim Regal.",
+        "natural_meaning": "Mara: I will bring you the things, Mr Braun, and help you children with the shelf tomorrow.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Mara",
+                "english": "Mara",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Mara"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Ich",
+                "english": "I",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Ich"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "bringe",
+                "english": "bring",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "bringen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bringe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bringst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "bringt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "bringen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "bringt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "bringen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to bring",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bringe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bringst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "bringt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "bringen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "bringt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "bringen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I bring",
+                    "you bring",
+                    "he/she/it brings",
+                    "we bring",
+                    "you bring",
+                    "they/you bring"
+                  ],
+                  "current_english_forms": [
+                    "I bring",
+                    "you bring",
+                    "he/she/it brings",
+                    "we bring",
+                    "you bring",
+                    "they/you bring"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "bringe"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "du",
+                "english": "you",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "dir"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Sache",
+                "english": "things",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "plural",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "die",
+                  "Sachen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Herr",
+                "english": "Mr",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Herr"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Braun",
+                "english": "Braun",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Braun"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "helfe",
+                "english": "help",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "helfen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "helfe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hilfst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hilft"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "helfen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "helft"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "helfen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to help",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "helfe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hilfst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hilft"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "helfen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "helft"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "helfen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I help",
+                    "you help",
+                    "he/she/it helps",
+                    "we help",
+                    "you help",
+                    "they/you help"
+                  ],
+                  "current_english_forms": [
+                    "I help",
+                    "you help",
+                    "he/she/it helps",
+                    "we help",
+                    "you help",
+                    "they/you help"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "helfe"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ihr",
+                "english": "you all",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "plural",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "euch"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Kind",
+                "english": "children",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "plural",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Kinder"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "morgen",
+                "english": "tomorrow",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "morgen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "bei dem",
+                "english": "with the",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "preposition",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "contraction",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "beim"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Regal",
+                "english": "shelf / shelving unit",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Regal"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "beim Regal",
+                "english": "with the shelf",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "contraction",
+                    "category": "form"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "beim",
+                    "base": "das",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "dative",
+                    "gender": "neuter",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": "dem",
+                    "contraction": "bei + dem"
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Mara: Ich bringe dir die Sachen, Herr Braun",
+                "english": "Mara: I will bring you the things, Mr Braun",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "und helfe euch, Kinder, morgen beim Regal",
+                "english": "and help you children with the shelf tomorrow",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "bringe dir",
+                "english": "bring to you",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "dir",
+                    "base": "du",
+                    "kind": "personal-pronoun",
+                    "paradigm": "personal-pronoun",
+                    "case": "dative",
+                    "gender": null,
+                    "number": "singular",
+                    "pronoun_slot": "second-singular",
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "die Sachen",
+                "english": "the things",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "die",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "plural",
+                    "number": "plural",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Herr Braun",
+                "english": "Mr Braun",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "helfe euch",
+                "english": "help you all",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "euch",
+                    "base": "ihr",
+                    "kind": "personal-pronoun",
+                    "paradigm": "personal-pronoun",
+                    "case": "dative",
+                    "gender": null,
+                    "number": "plural",
+                    "pronoun_slot": "second-plural",
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-016/sentence-04.wav"
+      },
+      {
+        "text": "Frau Keller: Danke, das hilft uns; Kinder, könnt ihr Mara den Eimer bringen?",
+        "natural_meaning": "Ms Keller: Thanks, that helps us; children, can you bring Mara the bucket?",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "Frau",
+                "english": "Ms",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Frau"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Keller",
+                "english": "Keller",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Keller"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Danke",
+                "english": "thank you",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "interjection",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Danke"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das",
+                "english": "that",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "demonstrative pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "das"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "hilft",
+                "english": "help",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "helfen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "helfe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hilfst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hilft"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "helfen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "helft"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "helfen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to help",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "helfe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "hilfst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "hilft"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "helfen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "helft"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "helfen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I help",
+                    "you help",
+                    "he/she/it helps",
+                    "we help",
+                    "you help",
+                    "they/you help"
+                  ],
+                  "current_english_forms": [
+                    "I help",
+                    "you help",
+                    "he/she/it helps",
+                    "we help",
+                    "you help",
+                    "they/you help"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "hilft"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "wir",
+                "english": "us",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "uns"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "das Kind",
+                "english": "children",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "plural",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Kinder"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "könnt",
+                "english": "can",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  },
+                  {
+                    "label": "modal verb",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "können",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kannst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "können"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "könnt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "können"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "can / to be able to",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "kannst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "kann"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "können"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "könnt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "können"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I can",
+                    "you can",
+                    "he/she/it can",
+                    "we can",
+                    "you can",
+                    "they/you can"
+                  ],
+                  "current_english_forms": [
+                    "I can",
+                    "you can",
+                    "he/she/it can",
+                    "we can",
+                    "you can",
+                    "they/you can"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "könnt"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "ihr",
+                "english": "you all",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  },
+                  {
+                    "label": "plural",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ihr"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Mara",
+                "english": "Mara",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Mara"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Eimer",
+                "english": "bucket",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "den",
+                  "Eimer"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "bringen",
+                "english": "bring",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "infinitive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "bringen",
+                  "tense": "Infinitiv (infinitive in this construction)",
+                  "forms": [
+                    {
+                      "pronoun": "—",
+                      "verb": "bringen"
+                    }
+                  ],
+                  "usage": "This non-finite form follows a modal verb or zu, so it does not change for person in this sentence.",
+                  "english": "to bring",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bringe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bringst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "bringt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "bringen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "bringt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "bringen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I bring",
+                    "you bring",
+                    "he/she/it brings",
+                    "we bring",
+                    "you bring",
+                    "they/you bring"
+                  ],
+                  "current_english_forms": [
+                    "to bring"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "bringen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Frau Keller",
+                "english": "Ms Keller",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "das hilft uns",
+                "english": "that helps us",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "könnt ihr Mara den Eimer bringen",
+                "english": "can you bring Mara the bucket",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  },
+                  {
+                    "label": "modal verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "infinitive",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "hilft uns",
+                "english": "helps us",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "uns",
+                    "base": "wir",
+                    "kind": "personal-pronoun",
+                    "paradigm": "personal-pronoun",
+                    "case": "dative",
+                    "gender": null,
+                    "number": "plural",
+                    "pronoun_slot": "first-plural",
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "den Eimer",
+                "english": "the bucket",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "den",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-016/sentence-05.wav"
+      },
+      {
+        "text": "Kinder: Ja, wir bringen ihr den Eimer und geben Ihnen später die Leiter zurück, Frau Keller.",
+        "natural_meaning": "Children: Yes, we will bring her the bucket and return the ladder to you later, Ms Keller.",
+        "breakdown_groups": [
+          {
+            "items": [
+              {
+                "german": "das Kind",
+                "english": "children",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "neuter",
+                    "category": "noun"
+                  },
+                  {
+                    "label": "plural",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Kinder"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Ja",
+                "english": "yes",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "interjection",
+                    "category": "word-class"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Ja"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "wir",
+                "english": "we",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "nominative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "subject",
+                    "category": "role"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "wir"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "bringen",
+                "english": "bring",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "bringen",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bringe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bringst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "bringt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "bringen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "bringt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "bringen"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to bring",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "bringe"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "bringst"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "bringt"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "bringen"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "bringt"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "bringen"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I bring",
+                    "you bring",
+                    "he/she/it brings",
+                    "we bring",
+                    "you bring",
+                    "they/you bring"
+                  ],
+                  "current_english_forms": [
+                    "I bring",
+                    "you bring",
+                    "he/she/it brings",
+                    "we bring",
+                    "you bring",
+                    "they/you bring"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "bringen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "sie",
+                "english": "her",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "ihr"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "der Eimer",
+                "english": "bucket",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "masc.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "den",
+                  "Eimer"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "und",
+                "english": "and",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "conjunction",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "coordinating",
+                    "category": "connector"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "und"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "geben",
+                "english": "return",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "verb",
+                    "category": "verb"
+                  },
+                  {
+                    "label": "present",
+                    "category": "tense"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": {
+                  "infinitive": "zurückgeben",
+                  "tense": "Präsens (present)",
+                  "forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "gebe zurück"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "gibst zurück"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "gibt zurück"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "geben zurück"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "gebt zurück"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "geben zurück"
+                    }
+                  ],
+                  "usage": "The sentence uses the present tense for a current action, routine, plan, or general fact.",
+                  "english": "to return / give back",
+                  "present_forms": [
+                    {
+                      "pronoun": "ich",
+                      "verb": "gebe zurück"
+                    },
+                    {
+                      "pronoun": "du",
+                      "verb": "gibst zurück"
+                    },
+                    {
+                      "pronoun": "er/sie/es",
+                      "verb": "gibt zurück"
+                    },
+                    {
+                      "pronoun": "wir",
+                      "verb": "geben zurück"
+                    },
+                    {
+                      "pronoun": "ihr",
+                      "verb": "gebt zurück"
+                    },
+                    {
+                      "pronoun": "sie/Sie",
+                      "verb": "geben zurück"
+                    }
+                  ],
+                  "present_english_forms": [
+                    "I return",
+                    "you return",
+                    "he/she/it returns",
+                    "we return",
+                    "you return",
+                    "they/you return"
+                  ],
+                  "current_english_forms": [
+                    "I return",
+                    "you return",
+                    "he/she/it returns",
+                    "we return",
+                    "you return",
+                    "they/you return"
+                  ]
+                },
+                "inflection_help": [],
+                "source_forms": [
+                  "geben",
+                  "zurück"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Sie",
+                "english": "you (formal)",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "personal pronoun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Ihnen"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "später",
+                "english": "later",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "adverb",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "time",
+                    "category": "time"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "später"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "die Leiter",
+                "english": "ladder",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "noun",
+                    "category": "word-class"
+                  },
+                  {
+                    "label": "fem.",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "die",
+                  "Leiter"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Frau",
+                "english": "Ms",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Frau"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Keller",
+                "english": "Keller",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "proper noun",
+                    "category": "noun"
+                  }
+                ],
+                "kind": "word",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [
+                  "Keller"
+                ],
+                "spoken_form": null
+              },
+              {
+                "german": "Kinder: Ja, wir bringen ihr den Eimer",
+                "english": "Children: Yes, we will bring her the bucket",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "und geben Ihnen später die Leiter zurück, Frau Keller",
+                "english": "and return the ladder to you later, Ms Keller",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "wir bringen ihr den Eimer und geben Ihnen später die Leiter zurück",
+                "english": "we will bring her the bucket and return the ladder to you later",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "main clause",
+                    "category": "structure"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "Frau Keller",
+                "english": "Ms Keller",
+                "literal_meaning": null,
+                "tags": [],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "bringen ihr",
+                "english": "bring to her",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "ihr",
+                    "base": "sie",
+                    "kind": "personal-pronoun",
+                    "paradigm": "personal-pronoun",
+                    "case": "dative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": "third-feminine",
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "den Eimer",
+                "english": "the bucket",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "den",
+                    "base": "der",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "masculine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "geben Ihnen",
+                "english": "give back to you",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "dative",
+                    "category": "case"
+                  },
+                  {
+                    "label": "formal",
+                    "category": "form"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "Ihnen",
+                    "base": "Sie",
+                    "kind": "personal-pronoun",
+                    "paradigm": "personal-pronoun",
+                    "case": "dative",
+                    "gender": null,
+                    "number": "plural",
+                    "pronoun_slot": "third-plural-formal",
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "die Leiter",
+                "english": "the ladder",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "accusative",
+                    "category": "case"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [
+                  {
+                    "surface": "die",
+                    "base": "die",
+                    "kind": "definite-article",
+                    "paradigm": "definite",
+                    "case": "accusative",
+                    "gender": "feminine",
+                    "number": "singular",
+                    "pronoun_slot": null,
+                    "resolved_form": null,
+                    "contraction": null
+                  }
+                ],
+                "source_forms": [],
+                "spoken_form": null
+              },
+              {
+                "german": "geben Ihnen später die Leiter zurück",
+                "english": "return the ladder to you later",
+                "literal_meaning": null,
+                "tags": [
+                  {
+                    "label": "separable",
+                    "category": "verb"
+                  }
+                ],
+                "kind": "phrase",
+                "verb_help": null,
+                "inflection_help": [],
+                "source_forms": [],
+                "spoken_form": null
+              }
+            ]
+          }
+        ],
+        "audio_path": "assets/audio/a2_candidates/a2-course-016/sentence-06.wav"
+      }
+    ],
+    "audio_path": "assets/audio/a2_candidates/a2-course-016/paragraph.wav",
+    "initial_question": "Who lends the ladder and bucket to help Herr Braun?",
+    "initial_answer": "Frau Keller.",
+    "audio_status": "ready",
+    "sequence": 64,
+    "lesson_format": "dialogue",
+    "topic": "borrowing tools and helping a neighbor",
+    "new_targets": [
+      "leihen",
+      "das Werkzeug",
+      "die Leiter",
+      "der Eimer"
+    ],
+    "recycled_targets": [
+      "helfen",
+      "gehören",
+      "bringen",
+      "der Nachbar",
+      "morgen"
+    ],
+    "speech_alternatives": [],
+    "performance_activity": {
+      "kind": "listening",
+      "instruction": "Listen and choose a recipient for each object or action from the recipient bank.",
+      "prompts": [
+        "Recipient bank: Herr Braun, Mara, Frau Keller, the children",
+        "Who receives the ladder and bucket?",
+        "Who receives the things?",
+        "Who receives help with the shelf?",
+        "Who receives the bucket from the children?",
+        "Who receives the returned ladder?"
+      ]
+    }
+  }
+}

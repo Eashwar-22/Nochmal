@@ -1,0 +1,451 @@
+{
+  "id": "a1-course-033",
+  "source_draft_id": "a1-draft-033",
+  "sequence": 33,
+  "band": "A1.2",
+  "format": "dialogue",
+  "title_de": "Welche Jacke?",
+  "title_en": "Which Jacket?",
+  "topic": "choosing clothing by colour, size, and price",
+  "communicative_goal": "Ask for a clothing item and say whether it fits or costs too much.",
+  "grammar_focus": "accusative definite articles in guided selection phrases",
+  "supporting_structures": [
+    "die Jacke anprobieren",
+    "die rote Jacke nehmen",
+    "Die Schuhe trägt sie nicht"
+  ],
+  "grammar_notes": [
+    "The feminine accusative article die has the same visible form as nominative; die Schuhe is plural accusative."
+  ],
+  "new_targets": [
+    "die Jacke",
+    "der Schuh",
+    "die Größe",
+    "die Farbe",
+    "rot",
+    "passen",
+    "anprobieren",
+    "tragen",
+    "zu teuer"
+  ],
+  "recycled_targets": [
+    "möchten",
+    "nehmen",
+    "der Preis",
+    "billig",
+    "teuer",
+    "gern",
+    "lieber"
+  ],
+  "recycles_from": [
+    13,
+    14,
+    15,
+    17
+  ],
+  "audio_path": "assets/audio/a1_published/a1-course-033/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Mina sucht im Geschäft eine Jacke für das kalte Wetter.",
+      "en": "Mina is looking for a jacket in the shop for the cold weather.",
+      "audio_path": "assets/audio/a1_published/a1-course-033/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "Mina": [
+            "nominative"
+          ],
+          "im": [
+            "preposition",
+            "dative",
+            "place"
+          ],
+          "Geschäft": [
+            "dative"
+          ],
+          "eine": [
+            "determiner",
+            "accusative"
+          ],
+          "Jacke": [
+            "accusative"
+          ],
+          "für": [
+            "preposition",
+            "accusative"
+          ],
+          "das": [
+            "accusative"
+          ],
+          "kalte": [
+            "adjective",
+            "accusative"
+          ],
+          "Wetter": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "kalte": "kalt"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "im Geschäft",
+            "english": "in the shop",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "contraction"
+            ]
+          },
+          {
+            "german": "eine Jacke",
+            "english": "a jacket",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "für das kalte Wetter",
+            "english": "for the cold weather",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Die Verkäuferin zeigt ihr eine blaue Jacke in Größe 38.",
+      "en": "The saleswoman shows her a blue jacket in size 38.",
+      "audio_path": "assets/audio/a1_published/a1-course-033/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "Die": [
+            "nominative"
+          ],
+          "Verkäuferin": [
+            "nominative"
+          ],
+          "ihr": [
+            "personal pronoun",
+            "dative"
+          ],
+          "eine": [
+            "determiner",
+            "accusative"
+          ],
+          "blaue": [
+            "adjective",
+            "accusative"
+          ],
+          "Jacke": [
+            "accusative"
+          ],
+          "in": [
+            "preposition"
+          ],
+          "Größe": [
+            "noun"
+          ],
+          "38": [
+            "numeral"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "blaue": "blau"
+        },
+        "word_meanings": {
+          "ihr": "to her",
+          "38": "thirty-eight"
+        },
+        "spoken_forms": {
+          "38": "achtunddreißig"
+        },
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "zeigt ihr",
+            "english": "shows her",
+            "literal_meaning": "shows to her",
+            "tags": [
+              "dative"
+            ]
+          },
+          {
+            "german": "eine blaue Jacke",
+            "english": "a blue jacket",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "in Größe 38",
+            "english": "in size 38",
+            "literal_meaning": null,
+            "tags": [
+              "fixed phrase"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina probiert die Jacke an, aber sie ist zu groß.",
+      "en": "Mina tries the jacket on, but it is too large.",
+      "audio_path": "assets/audio/a1_published/a1-course-033/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "Mina": [
+            "nominative"
+          ],
+          "die": [
+            "accusative"
+          ],
+          "Jacke": [
+            "accusative"
+          ],
+          "an": [
+            "particle"
+          ],
+          "aber": [
+            "conjunction",
+            "coordinating"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "groß": [
+            "adjective",
+            "predicate"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "probiert": "anprobieren"
+        },
+        "word_meanings": {
+          "probiert": "tries on",
+          "an": "separable prefix of anprobieren",
+          "sie": "it"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "probiert die Jacke an",
+            "english": "tries the jacket on",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "separable"
+            ]
+          },
+          {
+            "german": "aber sie ist zu groß",
+            "english": "but it is too large",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "main clause",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Dann nimmt sie die rote Jacke; die passt gut.",
+      "en": "Then she takes the red jacket; it fits well.",
+      "audio_path": "assets/audio/a1_published/a1-course-033/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "Dann": [
+            "adverb",
+            "time"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "rote": [
+            "adjective",
+            "accusative"
+          ],
+          "Jacke": [
+            "accusative"
+          ],
+          "gut": [
+            "adverb",
+            "manner"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "rote": "rot"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [
+          {
+            "surface": "die",
+            "occurrence": 1,
+            "tags": [
+              "article",
+              "accusative"
+            ],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": "the",
+            "spoken_form": null
+          },
+          {
+            "surface": "die",
+            "occurrence": 2,
+            "tags": [
+              "demonstrative pronoun",
+              "nominative"
+            ],
+            "excluded_tags": [],
+            "base_form": null,
+            "meaning": "it",
+            "spoken_form": null
+          }
+        ],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Dann nimmt sie die rote Jacke",
+            "english": "Then she takes the red jacket",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          },
+          {
+            "german": "die rote Jacke",
+            "english": "the red jacket",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "die passt gut",
+            "english": "it fits well",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Den Schuh nimmt sie nicht; er ist schön, aber zu teuer.",
+      "en": "She does not take the shoe; it is nice but too expensive.",
+      "audio_path": "assets/audio/a1_published/a1-course-033/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "Den": [
+            "article",
+            "accusative"
+          ],
+          "Schuh": [
+            "accusative"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "nicht": [
+            "negation"
+          ],
+          "er": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "schön": [
+            "adjective",
+            "predicate"
+          ],
+          "aber": [
+            "conjunction",
+            "coordinating"
+          ],
+          "teuer": [
+            "adjective",
+            "predicate"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "er": "it"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Den Schuh nimmt sie nicht",
+            "english": "She does not take the shoe",
+            "literal_meaning": "The shoe takes she not",
+            "tags": [
+              "main clause",
+              "inversion",
+              "negation",
+              "accusative"
+            ]
+          },
+          {
+            "german": "er ist schön",
+            "english": "it is nice",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          },
+          {
+            "german": "aber zu teuer",
+            "english": "but too expensive",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "ellipsis"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "Which jacket does Mina choose?",
+    "answer_en": "The red jacket."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_06.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}

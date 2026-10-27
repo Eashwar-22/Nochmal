@@ -1,0 +1,518 @@
+{
+  "id": "a1-course-029",
+  "source_draft_id": "a1-draft-029",
+  "sequence": 29,
+  "band": "A1.1",
+  "format": "message",
+  "title_de": "Ein Tagesausflug",
+  "title_en": "A Day Trip",
+  "topic": "reading and accepting a simple day-trip plan",
+  "communicative_goal": "Understand a simple trip plan and say whether I will join.",
+  "grammar_focus": "destination chunks with nach, zu, and in as authored fixed phrases",
+  "supporting_structures": [
+    "nach Köln",
+    "in die Stadt",
+    "zu Hause",
+    "zurück nach Bonn"
+  ],
+  "grammar_notes": [
+    "Nach is used with city destinations, in die Stadt marks destination, and zu Hause is a fixed location phrase.",
+    "Möchten governs final infinitives such as besuchen and trinken."
+  ],
+  "new_targets": [
+    "die Reise",
+    "das Museum",
+    "besuchen",
+    "zusammen",
+    "zurück",
+    "der Urlaub",
+    "reisen"
+  ],
+  "recycled_targets": [
+    "schreiben",
+    "der Plan",
+    "kurz",
+    "der Zug",
+    "fahren",
+    "der Samstag",
+    "die Stadt",
+    "der Abend",
+    "schlafen",
+    "gern",
+    "Köln",
+    "Bonn",
+    "Kaffee"
+  ],
+  "recycles_from": [
+    10,
+    15,
+    25,
+    26,
+    28
+  ],
+  "audio_path": "assets/audio/a1_candidates/a1-course-029/paragraph.wav",
+  "sentences": [
+    {
+      "de": "Leo schreibt Mina einen Plan für eine kurze Reise nach Köln.",
+      "en": "Leo writes Mina a plan for a short trip to Cologne.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-029/sentence-01.wav",
+      "annotations": {
+        "word_tags": {
+          "leo": [
+            "nominative"
+          ],
+          "mina": [
+            "dative"
+          ],
+          "einen": [
+            "accusative"
+          ],
+          "plan": [
+            "accusative"
+          ],
+          "für": [
+            "preposition",
+            "accusative"
+          ],
+          "eine": [
+            "determiner",
+            "accusative"
+          ],
+          "kurze": [
+            "adjective",
+            "accusative"
+          ],
+          "reise": [
+            "accusative"
+          ],
+          "nach": [
+            "preposition",
+            "direction"
+          ],
+          "köln": [
+            "direction"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {
+          "kurze": "kurz"
+        },
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "für eine kurze Reise"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "einen Plan",
+            "english": "a plan",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "nach Köln",
+            "english": "to Cologne",
+            "literal_meaning": null,
+            "tags": [
+              "direction"
+            ]
+          },
+          {
+            "german": "für eine kurze Reise nach Köln",
+            "english": "for a short trip to Cologne",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction"
+            ]
+          },
+          {
+            "german": "Leo schreibt Mina einen Plan",
+            "english": "Leo writes Mina a plan",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Sie fahren am Samstag zusammen mit dem Zug in die Stadt.",
+      "en": "They travel into the city together by train on Saturday.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-029/sentence-02.wav",
+      "annotations": {
+        "word_tags": {
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "am": [
+            "preposition",
+            "dative"
+          ],
+          "samstag": [
+            "dative"
+          ],
+          "zusammen": [
+            "adverb",
+            "manner"
+          ],
+          "mit": [
+            "preposition",
+            "dative"
+          ],
+          "dem": [
+            "dative"
+          ],
+          "zug": [
+            "dative"
+          ],
+          "in": [
+            "preposition",
+            "accusative",
+            "direction"
+          ],
+          "die": [
+            "accusative"
+          ],
+          "stadt": [
+            "accusative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "am Samstag",
+            "english": "on Saturday",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "mit dem Zug",
+            "english": "by train",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "in die Stadt",
+            "english": "into the city",
+            "literal_meaning": null,
+            "tags": [
+              "accusative",
+              "direction"
+            ]
+          },
+          {
+            "german": "Sie fahren am Samstag zusammen mit dem Zug in die Stadt",
+            "english": "They travel into the city together by train on Saturday",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "verb-second"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Dort möchten sie zuerst ein Museum besuchen und später Kaffee trinken.",
+      "en": "There they would first like to visit a museum and later drink coffee.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-029/sentence-03.wav",
+      "annotations": {
+        "word_tags": {
+          "dort": [
+            "adverb",
+            "place"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "zuerst": [
+            "adverb",
+            "time"
+          ],
+          "ein": [
+            "determiner",
+            "accusative"
+          ],
+          "museum": [
+            "accusative"
+          ],
+          "besuchen": [
+            "verb",
+            "infinitive"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "später": [
+            "adverb",
+            "time"
+          ],
+          "kaffee": [
+            "accusative"
+          ],
+          "trinken": [
+            "verb",
+            "infinitive"
+          ]
+        },
+        "excluded_word_tags": {
+          "trinken": [
+            "present"
+          ]
+        },
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [
+          "Dort möchten sie … besuchen"
+        ],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Dort möchten sie ... besuchen und ... trinken",
+            "english": "There they would first like to visit a museum and later drink coffee",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "modal verb"
+            ]
+          },
+          {
+            "german": "Dort möchten sie zuerst ein Museum besuchen",
+            "english": "There they would first like to visit a museum",
+            "literal_meaning": "There would like they first a museum to visit",
+            "tags": [
+              "main clause",
+              "inversion",
+              "modal verb"
+            ]
+          },
+          {
+            "german": "ein Museum besuchen",
+            "english": "visit a museum",
+            "literal_meaning": null,
+            "tags": [
+              "accusative"
+            ]
+          },
+          {
+            "german": "und später Kaffee trinken",
+            "english": "and later drink coffee",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "ellipsis"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Am Abend fahren sie zurück nach Bonn und schlafen zu Hause.",
+      "en": "In the evening, they travel back to Bonn and sleep at home.",
+      "audio_path": "assets/audio/a1_candidates/a1-course-029/sentence-04.wav",
+      "annotations": {
+        "word_tags": {
+          "am": [
+            "preposition",
+            "dative"
+          ],
+          "abend": [
+            "dative"
+          ],
+          "sie": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "zurück": [
+            "adverb",
+            "direction"
+          ],
+          "nach": [
+            "preposition",
+            "direction"
+          ],
+          "bonn": [
+            "direction"
+          ],
+          "und": [
+            "conjunction",
+            "coordinating"
+          ],
+          "zu": [
+            "preposition",
+            "dative"
+          ],
+          "hause": [
+            "dative"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {
+          "hause": "home"
+        },
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "Am Abend fahren sie zurück nach Bonn",
+            "english": "In the evening, they travel back to Bonn",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion",
+              "direction"
+            ]
+          },
+          {
+            "german": "am Abend",
+            "english": "in the evening",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "zurück nach Bonn",
+            "english": "back to Bonn",
+            "literal_meaning": null,
+            "tags": [
+              "direction",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "nach Bonn",
+            "english": "to Bonn",
+            "literal_meaning": null,
+            "tags": [
+              "direction"
+            ]
+          },
+          {
+            "german": "zu Hause",
+            "english": "at home",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "place",
+              "fixed phrase"
+            ]
+          },
+          {
+            "german": "und schlafen zu Hause",
+            "english": "and sleep at home",
+            "literal_meaning": null,
+            "tags": [
+              "connector",
+              "main clause"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "de": "Mina antwortet: „Ja, im Urlaub reise ich auch sehr gern.“",
+      "en": "Mina replies, “Yes, I also really enjoy travelling on holiday.”",
+      "audio_path": "assets/audio/a1_candidates/a1-course-029/sentence-05.wav",
+      "annotations": {
+        "word_tags": {
+          "mina": [
+            "nominative"
+          ],
+          "ja": [
+            "particle"
+          ],
+          "gern": [
+            "adverb",
+            "manner"
+          ],
+          "im": [
+            "preposition",
+            "dative"
+          ],
+          "urlaub": [
+            "dative"
+          ],
+          "ich": [
+            "personal pronoun",
+            "nominative"
+          ],
+          "auch": [
+            "adverb"
+          ],
+          "sehr": [
+            "adverb"
+          ]
+        },
+        "excluded_word_tags": {},
+        "base_forms": {},
+        "word_meanings": {},
+        "spoken_forms": {},
+        "word_occurrences": [],
+        "excluded_phrases": [],
+        "excluded_phrase_tags": {},
+        "phrases": [
+          {
+            "german": "im Urlaub",
+            "english": "on holiday",
+            "literal_meaning": null,
+            "tags": [
+              "dative",
+              "time",
+              "contraction"
+            ]
+          },
+          {
+            "german": "im Urlaub reise ich auch sehr gern",
+            "english": "I also really enjoy travelling on holiday",
+            "literal_meaning": null,
+            "tags": [
+              "main clause",
+              "inversion"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "comprehension": {
+    "question_en": "What do Mina and Leo want to visit first?",
+    "answer_en": "A museum."
+  },
+  "source_basis": [
+    "curriculum/a1_staging/lessons/module_05.json",
+    "curriculum/a1_blueprint.md"
+  ],
+  "speech_alternatives": []
+}
